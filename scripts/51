@@ -1,0 +1,2759 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Quintuplets 2000/Script,Quintuplets 2000,South Park Studios,Official Scripts,Quintuplets,South Park: The Complete Fourth Season,Con te partirò,Der Hölle Rache,La donna è mobile,Mrs. Vladchik,Quintuplets 2000/Images" />
+<meta name="description" content="General Trivia Images Script Watch Episode The official script for &amp;quot;Quintuplets 2000&amp;quot; was..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Quintuplets_2000/Script" />
+<meta name="twitter:title" content="Quintuplets 2000/Script" />
+<meta name="twitter:description" content="General Trivia Images Script Watch Episode The official script for &quot;Quintuplets 2000&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Eric Cartman Kenny McCormi" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Quintuplets_2000/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Quintuplets 2000/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":13792,"pageIsArticle":true,"pageName":"Quintuplets_2000/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=13792,
+wgCategories=["Scripts","Scripts from Season Four"],
+wgPageName="Quintuplets_2000/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s15","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=13792&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=13792&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Quintuplets 2000/Script" />
+	<meta property="og:description" content="General Trivia Images Script Watch Episode The official script for &quot;Quintuplets 2000&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Eric Cartman Kenny McCormick Randy Marsh Sharon Marsh Grandpa Marvin Marsh Sheila Broflovski Gerald Broflovski Clown in yellow Romanian officials Oarsman in vest The Vladchick Quintuplets Glacas Nadia Natalia Baltania Grandmama Vladchick &quot;Singing like Bocelli for Dummies&quot; Narrator Anchor Tom and Field Reporters Janet..." />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Quintuplets_2000/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Quintuplets_2000_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FQuintuplets_2000%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Quintuplets_2000/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Quintuplets_2000/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Quintuplets 2000/Script</h1>
+											<h2>&lt; <a href="/wiki/Quintuplets_2000" title="Quintuplets 2000">Quintuplets 2000</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Quintuplets_2000/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Quintuplets_2000/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Quintuplets_2000" title="Quintuplets 2000">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Quintuplets_2000/Trivia" title="Quintuplets 2000/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Quintuplets_2000/Images" title="Quintuplets 2000/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s04e03-quintuplets">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Quintuplets_2000" title="Quintuplets 2000">Quintuplets 2000</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Four" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan Marsh
+</li><li> Kyle Broflovski
+</li><li> Eric Cartman
+</li><li> Kenny McCormick
+</li><li> Randy Marsh
+</li><li> Sharon Marsh 
+</li><li> Grandpa Marvin Marsh
+</li><li> Sheila Broflovski
+</li><li> Gerald Broflovski
+</li><li> Clown in yellow
+</li><li> Romanian officials
+</li><li> Oarsman in vest
+</li><li> The Vladchick Quintuplets
+<ul><li> Glacas
+</li><li> Nadia
+</li><li> Natalia
+</li><li> Baltania
+</li></ul>
+</li><li> Grandmama Vladchick
+</li><li> "Singing like Bocelli for Dummies" Narrator
+</li><li> Anchor Tom and Field Reporters
+</li><li> Janet Reno
+</li><li> Mr. Vladchick, the Quints' father
+</li><li> Lead Agent Collins and other agents
+</li><li> Riot Police
+</li><li> Stuart and Mrs. McCormick
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-13792-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13792-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13792-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13792-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13792-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fss_fft mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="small"data-font-face="times" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td style="background:#709C22;"><i>[The Marsh house, night. Some of the families are gathered there]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Okay, is everyone ready to go?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh, I'm so excited. I've always wanted to see Cirque du Cheville.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Me too. We were lucky to get tickets. <i>[calls out]</i> Come on, boys! We're gonna be late. <i>[the boys, dressed in their Sunday best, walk in with heads down in resentment]</i>
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Oh, don't they look precious?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Why do we have to dress up? Isn't this just a circus, with elephants and lions and stupid clowns
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>No, Stanley. Cirque du Cheville is French-Canadian. They get acrobats and singers from all over the world and then do very <i>artistic</i> things..
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Awwww!
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td><i>[rolls up]</i> Why the hell do you wanna take these boys to see that fufu French theater crap? You're gonna turn them into poofders!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Dad, Stanley needs to see the arts!
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>Well, he doesn't need to see a bunch of frogs prance around in tights and make-up wrappin' their peckers around each others' faces!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Come on, everybody, let's go. <i>[the others turn and head out the front door.]</i>
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td><i>[follows]</i> Close your eyes and cover your ears, Billy! Remember, you're a man.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cirque du Cheville, night. Folks are streaming in to get seats. Next, under the Big Top]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh, this is so exciting
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Oh, look at the funny clown, Stanley.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Where? <i>[a clown appears next to him, and he looks up]</i> Oh, no. <i>[the clown pulls out an umbrella and a bicycle horn, squeezes the horn and gets showered by the umbrella. The adults laugh, and the clown offers him the umbrella]</i> Ha ha, very funny, thank you, goodbye. <i>[the clown insists Stan take part, and the parents laugh at the sound of the horn]</i> No, thank you. <i>[the clown tries again]</i> Go away, please.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>He doesn't want your dumbass umbrella, clown! Beat it! <i>[Liane smacks him on the back of the head]</i> Ow. <i>[the clown tries once more with Stan. Stan rolls his eyes, takes the umbrella, and is showered by it when the clown presses the horn. The crowd roars with laughter as the clown revels in his cleverness]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>You didn't know <i>that</i> was gonna happen, did you, Stanley? <i>[Stan looks up angrily]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[comments]</i> Oh, God, that was soo funny! Oh, man, somebody stop my guts frm bursting out of my sides! <i>[the clown gets mad as Cartman talks, then takes the umbrella from Stan and walks away in a huff]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td><i>[affecting a French accent]</i> Ladies and gentlemen, please, no smoking and no flash-photography during Sarque du Son Bleu
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[echoes the announcer]</i> Sarque du Son Bleu. <i>[sticks his tongue out. A performer comes out and starts singing]</i> Oho, we've reached fag factor 5, captain.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Eric, sshhhh. <i>[the performer is joined by men rolling by in wheels behind him and others prancing by in front. The parents smile in awe]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>How long does this thing last?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Two hours.
+</td></tr>
+<tr>
+<th>Cartman, Kyle, Kenny:
+</th><td>Awwwgh.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cirque du Cheville, later. A troupe of twelve dancers leap high and drop down again. The parents are still in thrall, and their eyes follow the dancers' leaps. Cartman is now asleep. Some time elapses, and a singer sings her song. The other three boys are getting sleepy. The smiles are gone from the parents' faces. The singer is shown with a two-person high-wire act overhead. Little "birds" pop out from her dress and dance around. A new act appears, and Stan is looking away feeling bored. Kyle and Kenny seem more awake. An invisible man in a visible suit walks on, and a green man with big ears jumps out of the floor in front of him. The green man and the man shake hands, and the green man rips the man's right arm off. A new act comes on, and Stan, Kyle, and Kenny are really drowsy. The curtains open to reveal five girls, and they come forward to dance]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Ooo, these are the contorting quintuplets from Romania. <i>[Stan, Kyle, and Kenny are curious. Each of the quints lays on her stomach and puts her feet over her back and on her head.]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Woohoo!) <i>[Stan and Kyle stir, and Kyle nudges Cartman]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Wha-what? Another gay guy in feathers? <i>[the quints pile on to make an X, then roll off and reposition themselves into a circle]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Whoa. <i>[a few twirls, and the middle one is thrust into the air. The two girls on the outside leap up and land on the other two's heads and catch the middle girl, to form a pentagon. Then they form a large cat, then a yacht,...]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Damn, dude. <i>[...then the Eiffel Tower, and finally, a Tyrannosaurus Rex. The crowd cheers]</i>
+</td></tr>
+<tr>
+<th>Stan, Kyle, Cartman:
+</th><td>Yayy!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Oh yeah! Woohoo!)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cirque du Cheville, dismissal. The crowd exits the tent]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh, that was wonderful!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Yes. Too bad it was their last show, or I'd go see it again.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Those contorting Romanian chicks rule.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, especially that second one from the left. She was fine!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman, what the hell are you talking about?! They're identical!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Not that second one from the left; she had it goin' <i>on</i>! <i>[they pass "LE SOUVENIRS," a booth manned by a clown dressed in yellow.]</i>
+</td></tr>
+<tr>
+<th>Clown:
+</th><td><i>[the boys turn to see him]</i> Don't forget to buy your souvenirs, folks. <i>[the adults gather and clamor for the items on display. As they do, the boys talk]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Damn, dude, do you see how much money this place is raking in?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah. I could prance around in little tights and sing opera too, for <i>that</i> kind of cash.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, we should start our <i>own</i> Cirque du Cheville.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah.)
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah. This one's moving out of town, so we could take over. <i>[the boys turn to leave]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Let's go practice. <i>[they exit]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Dressing Room #1. "Vladchick Contorting Quintuplets" is written over a star.]</i>
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Hurry up, girls. We must bundle up against the cold.
+</td></tr>
+<tr>
+<th>A Quint:
+</th><td>Did we do good final show, Grandmama?
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Very good, my girls. I only wish it weren't your last show. I love this country so very much. <i>[a knock on the dressing room door, and two stern men walk in]</i>
+</td></tr>
+<tr>
+<th>Romanian official:
+</th><td>Mrs. Vladchick, it is time. It is time to return to Romania.
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Yes, yes, of course. Just give me vone second to finish getting them ready. <i>[the men leave, and she looks to the dressing room window. She walks over, opens the window, turns, and]</i> This way, girls. Quickly. <i>[the girls head for the window. Grandmama lifts them out one by one.]</i>
+</td></tr>
+<tr>
+<th>Quint #2:
+</th><td>Vhy are we going out the window, Grandmama?
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Your mother did not want you to grow up in Romania. This is our only chance. <i>[drops the girl off outside]</i>
+</td></tr>
+<tr>
+<th>Romanian official:
+</th><td>Nid kelmin da bushka.
+</td></tr>
+<tr>
+<th>Attendant:
+</th><td>Nid kelmin da lushka velt
+</td></tr>
+<tr>
+<th>Romanian official:
+</th><td>Nid kelmin da bushka ayn zolt! <i>[the men laugh, the attendant looks at his watch]</i>
+</td></tr>
+<tr>
+<th>Attendant:
+</th><td>M-Mrs. Vladchick? <i>[the men enter and find the open window and no one at all]</i>
+</td></tr>
+<tr>
+<th>Romanian official:
+</th><td>Dash fam da bushka!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cirque du Cheville, outside the main tent. The two Romanian men rush out]</i>
+</td></tr>
+<tr>
+<th>Attendant:
+</th><td>They're trying to defect! <i>[they rush up to the end of a dock just as Mrs. Vladchick and her granddaughters take off in a dinghy]</i>
+</td></tr>
+<tr>
+<th>Romanian official:
+</th><td><i>[pumping a fist]</i> Cauch! We need a boat. <i>[sees two native men in a canoe, about to leave. He and the attendant walk over to them and gives one of the paddlers some money]</i>
+</td></tr>
+<tr>
+<th>Native paddler in vest:
+</th><td>Where to, Mack?
+</td></tr>
+<tr>
+<th>Romanian official:
+</th><td><i>[gets on the canoe]</i> Follow that boat. <i>[the attendant gets on, and the four men paddle away]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, living room. The boys have bought a CD of the show, and Kenny sings to the instrumental of one of the songs. Kenny is wearing the costume the first singer wore. The other three are practicing... um... Stan tries to leap into Kyle's arms, but they end up tumbling on the floor. Cartman runs forth and does some cartwheels, but lands on a coffee table, breaking it to pieces.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, this isn't working.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's Kenny's singing!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Hunh?)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, Kenny, you have to sing better!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(I'm singing as good as I can!)
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Well, it's not good enough, Kenny! You have to get better! Try it again! <i>[Grandpa rolls by and notices the boys in dance poses]</i>
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>Aha, I knew it. They turned you into poofders.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stark's Pond. Grandmama and the girls zoom away.]</i>
+</td></tr>
+<tr>
+<th>Romanian Official:
+</th><td>There's nowhere to go, Mrs. Vladchick. Pull over! <i>[the canoe has caught up to the dinghy. Mrs. Vladchick looks back, then looks forward. They are closing in on a dock full of explosives, and she looks on in horror]</i>
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Okay girls, the Cam Ay Alta. <i>[the girls pile on Grandmama and form a tower, each female grabbing the head of the one below her. The top girl grabs a branch with a free hand, and all swing up in the air as one. The dinghy goes on with the canoe in pursuit]</i>
+</td></tr>
+<tr>
+<th>Romanian Official:
+</th><td><i>[In a high pitched voice]</i> Be careful, Gabul! Be careful, Gabul! Yaaah! <i>[the canoe runs into the dock and they both blow up. Pieces of the four men fall from the air.]</i>
+</td></tr>
+<tr>
+<th>Top Girl:
+</th><td>Did we do good, Grandmama?
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Very good, Glacas.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The 'camera' pulls back to reveal the entire high speed chase took place on Stark's Pond which is about 7 canoe lengths long.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house. Snow falls outside. The other boys have gone home]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I'm tired, Grandpa.
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>No, Billy! You're gonna stay here and watch more McGyver. We've gotta get all the Frenchy-poo fag-nasties out of ya. <i>[the doorbell rings]</i> Who the hell would be ringin' the doorbell at this time of night?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I don't know. <i>[walks over and opens the door]</i> Whoa. <i>[before him are the contorting Romanian quintuplets and their Grandmama, all shivering. Randy and Sharon show up in their pajamas]</i>
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>We are very sorry to disturb you. My granddaughters are cold and tired. Is there any possibility we could pay you for a place to sleep?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>You're from Cirque du Cheville. <i>[Grandpa shows up]</i>
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Yes. We- missed our train. If we could shelter here; it would only be for one night.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well...
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Well, of course you can. Come in out of the snow. <i>[the girls grin and enter]</i>
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Oh, thank you so much. <i>[walks in]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>There's some spare bedrooms upstairs, Mrs....?
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Vladchick. <i>[Sharon escorts her and the girls upstairs]</i>
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>That Grandma is not a bad piece of ass.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Ew, Dad! Not in front of Stanley!
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>Well, it's good for 'im.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The McCormick house. Kenny is in his room with three books on his bed.]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[reads "Learning to Sing Better"]</i> (Let's see... No, not there) <i>[tosses the book away and picks up "The Essence of Voicing"]</i> (Let's see. Nothing there) <i>[tosses it away and picks up "Singing like Bocelli for Dummies"]</i> (Let's see... here!) <i>[pulls out a tape and pops it into his tape player]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Hello, and welcome to: "Singing like Bocelli for Dummies." Lesson 1: <i>Yaaayayeha!</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yaaayaya.)
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Lesson 2: <i>Hehyayaya hehyayaya!</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Hehyayaya hehyayaya!)
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Good: And now we'll do the entire piece, "Con Te Partirт" <i>[music begins to play]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[leafs through the book]</i> (Con Te Partirт?) <i>[leafs some more and find it. A rat crawls onto the bed as Kenny looks at the tape player, looks around and leaves. Kenny immediately improves and begins singing like a Prima Divo, yet still characteristically Kenny-muffled...]</i>(...Su navi per mariche, io lo so,no, no, non esistono piщ.con te io li rivivrт. '<b>Con te...)</b>[...and it becomes background music as the camera pans over to...]
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>['Camera' pans from the McCormick house across the railroad tracks to the Marsh house. Kenny's voice is so powerful it can be heard clearly in the Marsh upper bedroom. Grandmama Vladchick is in her nightgown combing her hair. Grandpa Marsh rolls by]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>(...partirт.)</i>
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td><i>[startles Grandmama]</i> Got everything you need there, do ya?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>(Su navi per mari)</i>
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Yes. You're avefully soo kind to my little granddaughters.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>(che, io lo so,)</i>
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>They're quite agile little things, aren't they?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>(no, no, non esistono piщ.)</i>
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Yes, as I was back in my day. I was a contortionist, too.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>(con te io li rivivrт.)</i>
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>Y'don't say. <i>[strokes his chin]</i>
+</td></tr>
+<tr>
+<th>Grandmama:
+</th><td>Yes.
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>You...
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>(Con te...)</i>
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>...remember any of that stuff, do ya? <i>[she looks flattered and intrigued.]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>(...partirт.</i>Su navi per mariche, io lo so,no, no, non esistono piщ.)<i>[as Kenny sings, Grandpa returns to Mrs. Vladchick's room naked... and without the wheelchair. She lifts up her left leg over her head, then lets it go. Kenny's getting into the song. The tape speeds up a bit...]'<b>(Io con te...!)</b></i>
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>Ah. <i>[A leg wraps around his chest]</i> Oh. <i>[a second leg wraps around his head]</i> Ah! <i>[an arm appears, then Mrs. Vladchick's head, then a third leg...]</i> Oh. <i>[Kenny is seen on bended knee on his bed during the last note, as Grandmama Vladchick and Grandpa reach climax.]</i> Oh-oooh-oooh!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The McCormick house, Kenny's room. The music stops with a thump and Kenny collapses on his bed exhausted]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>And now lesson 4: the complete works of Mozart. Let's begin.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[looks at the radio]</i> (Damn!)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, morning. Randy and Sharon are in the kitchen enjoying some coffee]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>What should we do, Randy? I like these Romanians fine, but I hope that old woman isn't planning on staying here much longer.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Heh, it's 11 o'clock and she's still sleeping.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Poor dear must be tired.
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td><i>[rolls in]</i> You're damn right she's tired.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Huh?
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>Oh, nothin'. She's just gonna have a little trouble walkin' today is all. <i>[rolls out]</i>.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, outside. Stan leads the other three boys in the side gate and to the backyard]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hurry up, you guys!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What's going on?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, you're not gonna believe this.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?! <i>[they all turn, and the quints stand before them]</i>
+</td></tr>
+<tr>
+<th>Quint 1:
+</th><td>Hello.
+</td></tr>
+<tr>
+<th>Quint 2:
+</th><td>Hello.
+</td></tr>
+<tr>
+<th>Quint 3:
+</th><td>Hi.
+</td></tr>
+<tr>
+<th>Quint 4:
+</th><td>Hello.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No way! The bitches from Cirque du Chebleu!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah. They're quintuplets from Romania.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What's a "quin-tuplet"?
+</td></tr>
+<tr>
+<th>Quint 2:
+</th><td>Ve are twins, except there are five of us instead of two.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But there's only four of you.
+</td></tr>
+<tr>
+<th>Quint 2:
+</th><td>No no, Natalia is just playing mirror buddies with Nadia.
+</td></tr>
+<tr>
+<th>Nadia:
+</th><td><i>[steps out from behind Natalia]</i> Hello.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>So if you're identical, does that mean you all <i>think</i> alike?
+</td></tr>
+<tr>
+<th>All five quints in unison:
+</th><td>No, don't be ridiculous.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Will you guys be in <i>our</i> Cirque du Celville?
+</td></tr>
+<tr>
+<th>A Quint:
+</th><td>You have your own?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Well, not yet. Kenny has to get better at singing first.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Hey!)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>But as soon as he starts singing better, we're all gonna make <i>bank</i>!
+</td></tr>
+<tr>
+<th>Quint 1:
+</th><td>Okay.
+</td></tr>
+<tr>
+<th>Quint 3:
+</th><td>Sounds good.
+</td></tr>
+<tr>
+<th>Quint 2:
+</th><td>Count me in.
+</td></tr>
+<tr>
+<th>Quint 5:
+</th><td>Okay. <i>[quint 4 says nothing, and the others look at her]</i>
+</td></tr>
+<tr>
+<th>Quint 4:
+</th><td>...Oh, and me.
+</td></tr>
+<tr>
+<th>The boys:
+</th><td>All right!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, kitchen]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Alright, we've gotta figure out what to do. I'm gonna go wake her up. <i>[leaves, reaches Grandmama's room, and knocks]</i> Hello? Mrs.... Mrs., Old Romanian Woman? <i>[knocks twice more]</i> Ma'am? <i>[opens the door, looks in, and flies are heard buzzing around. Mrs. Vladchick is stiff, mouth open, arms up as if holding someone. Randy shuts the door in horror, then opens it and looks in again to be sure, then shuts it again, horrified]</i>
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td><i>[rolls up]</i> Well, all tuckered, is she? Ha ha ha ha.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[serious]</i> No, Dad.
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>A little cottony in the crotch? Hr hr hr hr.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>No, Dad, she's dead!
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>What?! <i>[Randy opens the door and looks away, Grandpa rolls in to see for himself]</i> Oh, dear Jesus!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>It looks like she had a heart attack.
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>No wonder she didn't say good-night.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[stares at him, then leans away]</i> ...Ew!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, the backyard]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Okay, hold it, hold it. <i>[climbs over Cartman and Kyle to form a tower. The quintuplets have executed their X formation. Stan is trying to stand when all three boys tumble to the ground. The quints break their formation and drop down]</i>
+</td></tr>
+<tr>
+<th>The boys:
+</th><td>Ow! <i>[Randy and Sharon walk out and approach the kids]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>I don't know how to tell. <i>You</i> tell them. <i>[they stop]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Uh, girls, we... have some bad news.
+</td></tr>
+<tr>
+<th>Quint 5:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Um... <i>[Sharon holds his hand]</i> Everyone who has a grandma, step forward. <i>[Stan and Cartman step forward, then the girls]</i> Uh, not so fast, girls. <i>[Sharon gasps and glares at him. The girls step back, then realize what has just happened. They begin to sob]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Randy! <i>[amid the sobs, some of the quints have questions]</i>
+</td></tr>
+<tr>
+<th>Quint 2:
+</th><td>Grandmama is dead?
+</td></tr>
+<tr>
+<th>Quint 1:
+</th><td>What are we going to do now? <i>[Randy and Sharon stand there helplessly]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[in a low voice]</i> You guys, come here. <i>[steps forward. The others join him]</i> This is totally awesome.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What?!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>How can you say that?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Because now we can convince them to stay here, and now our circus will kick ass!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh, <i>yeah!</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[rushes up]</i> Mom! Dad! Can the quints stay with us? Please? Can they?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, Stan, it's not really our-
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>They have nowhere else to go. <i>[presses hands together]</i> Please?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Well, for the time being I, I mean, of course they can stay.
+</td></tr>
+<tr>
+<th>Stan, Kyle:
+</th><td>Hooray!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hooray!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, the backyard, some days later. Neighborhood men and women walk up to a fenced-in area of the yard in which the quints play with various toys and balls]</i>
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>Tom, I'm standing at the home in South Park where five precious little girls have been rescued from Romania. Their mother passes away some months ago, and then their grandmother died trying to bring them here. But all is well now, and people are coming from all over the country to view the little tykes. <i>[someone takes a picture]</i> If you'd like to come down and visit the quintuplets, admission is only $5, and for a few dollars more <i>["FEED THE QUINTS! One Dollar" A man buys some fishsticks]</i>, you can feed them fishsticks.
+</td></tr>
+<tr>
+<th>A Quint:
+</th><td><i>[hops up and down, then opens her mouth for a fishstick the man drops down to her]</i> Mmm.
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>Tom, it looks like these cute little girls have made it out of that armpit of a country they call Romania.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Romania, daytime with grey sky.  Pan across grey, dismal, identical blocky buildings. Government officials watch the report in a run-down office]</i>
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>Yes, luckily for them, these quintuplets no longer have to live in Romania, the asshole of the world. <i>[a last shot of the quints is seen]</i> Back to you, Tom.
+</td></tr>
+<tr>
+<th>President:
+</th><td>This is not good. It makes our country look poor and stupid.
+</td></tr>
+<tr>
+<th>Romanian Official:
+</th><td>This could kill our tourism.
+</td></tr>
+<tr>
+<th>President:
+</th><td>You know what to do. <i>[they salute him and leave.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park School of Music]</i>
+</td></tr>
+<tr>
+<th>Instructor:
+</th><td><i>[at the piano]</i> Alright, Kenny, let's start with some warm-up exercises. <i>[plays the sequence C E G C G E C]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[sings along]</i> (Ha ha ha ha ha ha ha) <i>[his mom looks on. The instructor and Kenny move on to the D and E scales.]</i>
+</td></tr>
+<tr>
+<th>Mrs.McCormick:
+</th><td>Well, what do you think? Can you help him become a better singer?
+</td></tr>
+<tr>
+<th>Instructor:
+</th><td>Well, he's got potential. Depends on how good he wants to be.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(I wanna be <i>really</i> good)
+</td></tr>
+<tr>
+<th>Instructor:
+</th><td>Well, if you wanna be a <i>real</i> singer, you need to go to a conservatory in Europe. There's no other alternative.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Europe?)
+</td></tr>
+<tr>
+<th>Mrs.McCormick:
+</th><td>We can't afford that.
+</td></tr>
+<tr>
+<th>Instructor:
+</th><td>Well, then, I'm afraid your son will always be a hack.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Awww.)
+</td></tr>
+<tr>
+<th>Mrs.McCormick:
+</th><td>Well, Kenny, if it means that much to you, maybe we can bus it to Europe and... you can sing on the way to make money.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah.)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, breaking news music is heard. Sharon rushes into the kitchen]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Randy, Randy, you'd better have look at this. <i>[exits to the living room]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[follows her out]</i> What? <i>[The boys and the quints watch the news. Sharon and Randy join them]</i>
+</td></tr>
+<tr>
+<th>Anchor Tom:
+</th><td>...until the U.S. government receives this video, which was sent from Romania just hours ago.
+</td></tr>
+<tr>
+<th>Man:
+</th><td><i>[reading a statement at gunpoint]</i> Hello. This is Romanian father. I am desperate to have my girls returned to me in Romania.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Uh-oh.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That's your dad?
+</td></tr>
+<tr>
+<th>Quint 2:
+</th><td>Maybe.
+</td></tr>
+<tr>
+<th>Quint 1:
+</th><td>But we haven't seen papa for more than five years.
+</td></tr>
+<tr>
+<th>Man:
+</th><td>How I've missed them all. Little Nahlal.
+</td></tr>
+<tr>
+<th>Voice:
+</th><td><i>[hits the man on the head with the gun, k'chunk]</i> Nadia!
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Nadia, my sweet Barshta
+</td></tr>
+<tr>
+<th>Voice:
+</th><td><i>[k'chunk]</i> Baltania!
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Baltania, eh anyway, my heart is aching for their return. I, I know the American government will do what's right. <i>[the TV is turned off]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hoh no, dude. If they get sent back to Romania, we'll <i>never</i> get our Cirque dei Ceville going.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[gets up and runs to his parents]</i> Mom, Dad, you're not gonna send them back, are you??
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Well, I... think we... have to,... don't we? <i>[looks at Randy]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>I don't know.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[the girls look at him]</i> You don't wanna go back to stinky Romania, do you? It sucks there.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah. America is sooo much cooler. In Romania they just oppress you and try to bring you down.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>We'll have to call the police and see what <i>they</i> want us to do. <i>[she and Randy walk away]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Damn, we might be screwed.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No! We've just gotta convince these chicks that America kicks the ass out of every other country. Come on! <i>[walks off]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Train Station. Kenny and his mom await the train. Kenny launches into "La Donna E Mobile." Mrs. McCormick holds a "Trying To Get To Europe" sign. The other boys take the quints to South Park Funland]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[in a log ride with the other seven, passes a lumberjack scene]</i> You see, in America we have... log rides! <i>[Kenny and his mom are at a bus terminal in Denver. A couple passes by and drops some money into the hat. Next, Cartman and friends are at Burger Cook, a fast-food restaurant]</i> Bacon double-cheeseburgers! <i>[Kenny and his mom are now at Coyote Bus Lines (play on Greyhound Bus Lines) in St. Louis at night. A man peeks through a door, another man drops some money into the hat. Next day]</i> Sheep-shearing contests!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[22nd Annual Sheep Shearing Contest]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A man shears a sheep with a shearer as the eight kids and four adults watch]</i>
+</td></tr>
+<tr>
+<th>A fan:
+</th><td>Yeah. Woo hoohoohoo. Yeah. <i>[the girls look on expressionless then #2 and #3 look at each other skeptically. Kenny and his mom are now at JFK International Airport in New York. Kenny gets some more money]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[showing the others around a three-story shopping mall]</i> And shopping malls! Hooray! <i>[the girls are grinning. Kenny finally lands in Europe and goes out through gate 96]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Welcome To Europe! Coziest LittlePlace On Earth! Elevation 4200 ft.]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Woo hoo!)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[the U.S. Capitol. The Romanian father and two Romanian officials sit in Janet Reno's office]</i>
+</td></tr>
+<tr>
+<th>Romanian Official:
+</th><td><i>[no beard]</i> Mrs. Janet Reno, you must understand, the father has right to his children.
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td><i>[flanked by two agents in riot gear]</i> Yes, but the girls seem to wanna stay here. Why don't you <i>all</i> stay here in America, and this whole thing can go away.
+</td></tr>
+<tr>
+<th>Mr. Vladchick:
+</th><td>Okay. <i>[the official smacks him with the back of the hand]</i> Heh!
+</td></tr>
+<tr>
+<th>Romanian Official:
+</th><td>Our home is Romania. We love it there.
+</td></tr>
+<tr>
+<th>Mr. Vladchick:
+</th><td>Ah, yes, uwuh we love it there.
+</td></tr>
+<tr>
+<th>Romanian Official:
+</th><td>If daughters will not return on their own, you must <i>force</i> them to return
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td>Gentlemen, this has to be handled very delicately. You don't understand Americans' power to protest.
+</td></tr>
+<tr>
+<th>Romanian Official:
+</th><td>Protest?
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td>Look, people have it so good in America that they get bored very easily. And when people get bored they start protesting things.
+</td></tr>
+<tr>
+<th>All three men:
+</th><td>Oh.
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td>But I want to assure you, and the Romanian people, that we are going to do everything in our power to make this as confusing as possible. <i>[the Romanians already look confused]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, the Marsh house, day. A crowd of protesters lobby in front of the house with signs like "No Go!", "We (heart) The Quints" and "Romania (with red cross-out circle stamp)". ]</i>
+</td></tr>
+<tr>
+<th>Protesters:
+</th><td>Let the quints stay! Romania is gay! Let the quints stay! Romania is gay!
+</td></tr>
+<tr>
+<th>Stephen Stotch:
+</th><td>Fur is murder! Fur is murder! <i>[notices the stares]</i> Oh, what are we protesting here?
+</td></tr>
+<tr>
+<th>A Protester:
+</th><td><i>[with a "No Romania" sign]</i> Romania sucks!
+</td></tr>
+<tr>
+<th>Stephen Stotch:
+</th><td>Oh, let's see <i>[His professional protest sign has multiple pages and he flips through from "FUR IS MURDER" to "FREE KEVORKIAN," "SLEEPING BAGS KILL," then "ROMANIA SUCKS"]</i> Here we go. Romania sucks!
+</td></tr>
+<tr>
+<th>Protesters:
+</th><td>Romania sucks! Romania sucks!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[looks out through the window. "Romania sucks! Romania sucks! Romania sucks!"]</i> Oh my God! I didn't know this was going to become such a big deal.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>["Romania sucks!"]</i> That'll teach us for taking an old lady and her granddaughters out of the cold.
+</td></tr>
+<tr>
+<th>Lead Agent Collins:
+</th><td><i>[backed by 11 other agents and a humvee]</i> Attention, people inside the house! <i>[Randy and Sharon look]</i> You must return the quintuplets to their father! You have until... <i>[lowers the bullhorn. An agent comes up and whispers]</i> Oh yeah, that's good. <i>[back on the bullhorn]</i> You have until Easter Sunday to comply.
+</td></tr>
+<tr>
+<th>Protester:
+</th><td>Nooo!
+</td></tr>
+<tr>
+<th>Protesters:
+</th><td>Boooo!
+</td></tr>
+<tr>
+<th>Collins:
+</th><td>What?! <i>[the protesters gang up on the agents, beating them with their signs]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, Stan's room. Stan and friends are oblivious to the action outside]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Okay, let's try it again. Hup!
+</td></tr>
+<tr>
+<th>A Quint:
+</th><td>Hup! <i>[she leaps into position to complete the arch. Kyle and Cartman dive through and get up]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Alright!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[enters]</i> Stan, we- <i>[the sight of the undressed boys stops him]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Stanley, we have some bad news. The courts have decided the girls must go back to Romania.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, they can't! We've convinced them that they want to stay in America.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, we've shown them amusement parks and malls. How can you expect them to go back now??
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>I'm sorry, boys, but Janet Reno is having them taken away on Easter Sunday. We... don't have a choice. Sorry, girls. <i>[he and Sharon walk away]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Now</i> what do we do?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, outside, day. Several days have passed, and now the protest crowd is larger, and news cameras are present]</i>
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>Tom, it is now Easter morning, and as the U.S. government promised, they are here to take the girls back to their father in Romania. Rumor has it that Janet Reno herself will be extraditing the quintuplets. <i>[just then, a helicopter flies in and hovers over the house. Janet Reno, dressed in a bunny suit, waits in the open door to be lowered]</i>
+</td></tr>
+<tr>
+<th>Soldier:
+</th><td>Alright, Ms. Reno, let's go over the plan.
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td>Right.
+</td></tr>
+<tr>
+<th>Soldier:
+</th><td>We'll drop you on the northwest corner of the backyard. You hop into the back of the house and find the quintuplets. When you see them, you say...
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td>"Hello, girls. I'm the Easter bunny."
+</td></tr>
+<tr>
+<th>Soldier:
+</th><td>Good. And then hand them the Easter eggs filled with tear gas. Are you ready?
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td>Ready.
+</td></tr>
+<tr>
+<th>Soldier:
+</th><td>Code blue!
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td>Code blue! <i>[drops down onto the yard]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Romanian School of Music, day. Kenny is heard singing. He is onstage as his song ends, and his mom joins him with three other people]</i>
+</td></tr>
+<tr>
+<th>Music Instructor:
+</th><td>Lad, we would like very much to have you here at the Romanian Music School.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Woohoo!)
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>How much is all this gonna cost?
+</td></tr>
+<tr>
+<th>Music Instructor:
+</th><td>Don't worry, Ms. McCormick, Romania is very poor country. Apartment is cheap. Food is cheap, <i>Everything</i> is cheap because we are so God-damned poor.
+</td></tr>
+<tr>
+<th>Assistant:
+</th><td>Yes, your two hundred American dollars will last <i>months</i> here.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>Wow, what a great country. Everybody's poor, like us.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah.)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, day. Protesters and police mill around the front yard]</i>
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td><i>[enters the kitchen through the back door]</i> Hello, girls. I'm the Easter bunny. <i>[sees nothing but furniture before her. She pulls out a an assault rifle with scope and silencer then moves forth]</i> Happy Easter, kids. Come see what I brought for ya. <i>[Stan, his parents, and the quints watch TV in the living room, and Janet Reno peeks at them. Terrance and Phillip are heard on the TV. Janet Reno pulls back and flattens herself against the kitchen wall]</i>
+</td></tr>
+<tr>
+<th>Phillip:
+</th><td>Hey, Terrance, I think I have to fart. <i>[Reno pulls out an Easter egg and throws it at the girls. It ends up right in front of them]</i>
+</td></tr>
+<tr>
+<th>Terrance:
+</th><td>Wait. Before you do, pull my thumb.
+</td></tr>
+<tr>
+<th>Quint 2:
+</th><td>Oh, look. An Easter egg.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oh, shi- <i>[the Easter egg unleashes its tear gas, and all cough and choke]</i>
+</td></tr>
+<tr>
+<th>Lead Soldier:
+</th><td>That's it. Let's move, move move move, move! <i>[breaks through the front door and leads the other police officers in.]</i> Give us the kids, now! Now!
+</td></tr>
+<tr>
+<th>Officer 1:
+</th><td>Down on the floor. Get down on the God-damned floor! <i>[more officers stream in as Sharon drops down to the floor and assumes the fetal position]</i>
+</td></tr>
+<tr>
+<th>Officer 2:
+</th><td>Find them!
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td><i>[bursts through the master bedroom door]</i> This is a bust! Hand over the quints! <i>[police officers are already there looking for them under the bed and in dresser drawers. Reno joins them and heads for the closet. She opens a sliding door and finds Randy holding Stan in his arms and points her weapon at them thus comically recreating the famous image of the US Border Patrol agent pointing his MP5 submachine gun at six year old Elian Gonzalez held by his rescuer Donato Dalrymple]</i> Hand over the children! Happy Easter. Hand over the children!!
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td><i>[rolls in]</i> What the hell's goin' on?! <i>[all guns point to him]</i>
+</td></tr>
+<tr>
+<th>Officer 3:
+</th><td>Freeze, asshole!
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>Aw, go ahead and shoot me! I dare ya!
+</td></tr>
+<tr>
+<th>Officer 3:
+</th><td>Don't push me, man!
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>Pull the trigger, you little pussy!
+</td></tr>
+<tr>
+<th>Officer 3:
+</th><td>Gaahhh! <i>[aims away from Grandpa and lets loose with gunfire]</i>
+</td></tr>
+<tr>
+<th>Officer 4:
+</th><td>Gun! Gun! <i>[fires into the room. Reno drops down to avoid getting hit. Bullets riddle the wall]</i>
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td>Down! Down! <i>[outside, the protesters back away from the house]</i>
+</td></tr>
+<tr>
+<th>Protester:
+</th><td>Riot! Riot! <i>[protesters now move forward against a wall of police]</i>
+</td></tr>
+<tr>
+<th>Officer 5:
+</th><td>Pepper spray! Pepper spray! <i>[the police harden their line, pull out their cans and spray the protesters, who drop down immediately coughing. The house blows up. When the smoke clears, Reno and two officers are seen carrying the quints away. They reach a black van and toss the girls inside.]</i>
+</td></tr>
+<tr>
+<th>Officer 6:
+</th><td>Go ahead! In the van! <i>[Reno goes in, followed by the other officers. One of them barks an order to the driver, and the van leaves the scene.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[standing in front of the still burning ruins of his house]</i> Dammit, now I'm <i>never</i> gonna have my own circus!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Romanian School of Music, day. Kenny performs in front of a full house. He finishes his song and the audience erupts in applause. Roses rain down upon him as he takes his bow.]</i>
+</td></tr>
+<tr>
+<th>Music Instructor:
+</th><td>Oh, your son is so talented, Ms. McCormick. The people of Romania love him.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>Good job, Kenny.
+</td></tr>
+<tr>
+<th>Music Instructor:
+</th><td>Mrs. McCormick, we would love for you and your son to stay here in Romania, with us. Will you consider it?
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td><i>[She kneels down and places her hand on Kenny's head]</i> Well, what do you think, Kenny? You'd have to leave your friends and your family behind.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Sure!)
+</td></tr>
+<tr>
+<th>Music Instructor:
+</th><td>Alright!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, day. The protesters leave one by one. The Marshes stand in the bombed-out ruins]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Oh, Randy, it's gone! It's all gone!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[arrives with Kyle]</i> Dude, what the hell happened?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>The government came and got the quintuplets. No more Cirque du Cheville for us.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Damnit! How come every time we get a sweet idea, the government has to screw it up?!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah! Well, not this time!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Huh?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We've just gotta get that angry mob back on our side! <i>[addresses the mob]</i> Alright, everybody, listen up! Those bastards broke in here and took those poor quintuplets to the mayor's office downtown! But they haven't won yet! I say we all go over to the mayor's office, and demand to see the quintuplets right now!
+</td></tr>
+<tr>
+<th>Protester 1:
+</th><td>Hmm.
+</td></tr>
+<tr>
+<th>Protester 2:
+</th><td>Yeaahh.
+</td></tr>
+<tr>
+<th>Protester 3:
+</th><td>I don't know. I usually like to stop protesting by 5:30.
+</td></tr>
+<tr>
+<th>Protester 4:
+</th><td>Yeah, ah, do we get overtime for this?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uh, sure, you can all get overtime.
+</td></tr>
+<tr>
+<th>Protester 5:
+</th><td>Alright! <i>[Fist pumps]</i>
+</td></tr>
+<tr>
+<th>Protester 6:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Protester 7:
+</th><td>Down with Japan! <i>[the mob moves away]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[An office. Janet Reno and the two officers meet the Mayor and her aides for a photo-op. The photographer takes his shot.]</i>
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td>Alright. We just need to get a few more pictures of the girls reunited with their father so everyone knows they're happy. <i>[The girls are shown with their grinning father. Two of them sit on his laps, the other three stand in front]</i>
+</td></tr>
+<tr>
+<th>Photographer:
+</th><td>Come on, girls. Smile. <i>[the girls look downcast]</i> We want you to look happy. Smile. <i>[works a sock puppet on his left hand]</i> Look at the silly frog. Who's got the silly frog? Look at him. I've got- Look at him. It's so silly. "I'm so silly." <i>[the girls still have their eyes cast down]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Romania, day. A news report on TV]</i>
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Ah, hello? This is Kenny's dad, back in America. I miss my son very much. I would like to see him returned to me so that the U.S. government will buy me a new car and- <i>[the butt of a rifle strikes the side of his head]</i> Ow! I mean, bec- because I miss my son very much. <i>[looks to his right]</i> Man.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A United States Air Force checkpoint, later. Cartman, Kyle, and Stan approach, and a soldier intervenes]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey! We wanna see the quintuplets!
+</td></tr>
+<tr>
+<th>Soldier:
+</th><td><i>[Holds out hand to stop their progress]</i> You can't see them, boys. They're happily reunited with their father.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[whistles a signal]</i> Come on, angry mob! <i>[the mob appears behind him. All of them move forward and overrun the checkpoint. A lagging protester runs over a fallen soldier]</i>
+</td></tr>
+<tr>
+<th>Soldier:
+</th><td>Aaa-a-a-aaa-ah.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The USAF office. Reno has taken her mask off and stands next to the girls. Behind her are six officers, and next to them are the two Romanian officials and Mr. Vladchick.]</i>
+</td></tr>
+<tr>
+<th>Romanian Official:
+</th><td><i>[the bearded one]</i> Alright, it is time for us to return to Romania.
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td><i>[hears something]</i> What is that?
+</td></tr>
+<tr>
+<th>Officer 7:
+</th><td><i>[at a window]</i> It's the protesters. They're back.
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td>God-damnit! <i>[Puts back on her Easter Bunny 'helmet']</i> We'll take care of them. Come on!  <i>[leaves the office]</i>
+</td></tr>
+<tr>
+<th>Officer 8:
+</th><td>Let's move. Move!
+</td></tr>
+<tr>
+<th>Officer 7:
+</th><td>Come on, come on, come on.
+</td></tr>
+<tr>
+<th>Officer 9:
+</th><td>Come oonn, come oonn. <i>[they follow Reno out, leaving the quints alone in front of a poster that reads "Join the Army...  It's KILLER!!!". The officers engage the protesters on a runway]</i>
+</td></tr>
+<tr>
+<th>Officer 10:
+</th><td>This is government property!
+</td></tr>
+<tr>
+<th>Protester:
+</th><td>Let the quints stay! <i>[Reno and Sharon head for each other]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>You ruined my house! <i>[lays out Reno using a baseball bat to the Bunny helmet. The quints look out the window, then turn around. Quint 2 hops off the bench and walks to the office phone]</i>
+</td></tr>
+<tr>
+<th>Quint 1:
+</th><td>What are you doing, Nadia?
+</td></tr>
+<tr>
+<th>Nadia:
+</th><td>I'm calling the only person in the vorld who can help us. <i>[picks up the receiver and starts dialing. The other girls look at each other.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A USAF airfield, later. Protesters and officers are still brawling. Stan and Kyle each kick an officer on the shin.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Take that! <i>[kicks an officer on the shin]</i>
+</td></tr>
+<tr>
+<th>Quint 3:
+</th><td><i>[heads towards the battlefield and addresses everyone]</i> Stop it! Stop it! Stop it! <i>[the other four quints are with her. Weapons and signs are lowered]</i>
+</td></tr>
+<tr>
+<th>Quint 1:
+</th><td>All of you are acting like idiots!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Quint 1:
+</th><td>None of you care about us. You only care about yourselves!
+</td></tr>
+<tr>
+<th>Quint 2:
+</th><td>Look at you, Father. You walked out on us five years ago <i>[he removes his hat and holds it tight]</i>, and now you act like you miss us sooo much! You are a liar and a fake!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, you suck, dude!
+</td></tr>
+<tr>
+<th>Quint 3:
+</th><td>And <i>you</i> Romanian leaders <i>[both of them are there]</i>, you don't care about us! All you care about is making America look stupid!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah! God, you guys are dicks!
+</td></tr>
+<tr>
+<th>Quint 3:
+</th><td>And <i>you</i> protesters! Don't you have anything better to do?! Get a life!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Quint 3:
+</th><td>And you boys are the worst of all!
+</td></tr>
+<tr>
+<th>Stan, Kyle, Cartman:
+</th><td>Huh?
+</td></tr>
+<tr>
+<th>Quint 3:
+</th><td>You know <i>nothing</i> about Romania, and yet you assume America is <i>so much</i> better! Maybe Romania isn't as nice as America, but it is <i>our home!</i> We are Romanian! All you care about is your <i>own stupid circus! [at this point, a limousine pulls up behind them. It's from the Oprah show. The driver opens the back door and the girls head for the back seat]</i>
+</td></tr>
+<tr>
+<th>Janet Reno:
+</th><td><i>[has a protester in a headlock]</i> Where are you going, girls?
+</td></tr>
+<tr>
+<th>Quint 1:
+</th><td>The only place we can go. We're going on <i>Oprah</i> and then a book tour. <i>[turns and climbs in, followed by three others]</i>
+</td></tr>
+<tr>
+<th>Quint 5:
+</th><td>Yes. You can all kiss our little white Romanian asses! <i>[wiggles her ass at the crowd and climbs in. The limo leaves and everyone is left in a state of shock.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh, well. Doing our own circus was a dumb idea anyways.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, screw them!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kenny was never gonna get his singing right anyway.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Whatever happened to Kenny?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Romania, still grey and dismal daytime. Romanian protesters with signs bearing a picture of Kenny's head lobby in front of the house Kenny's in.]</i>
+</td></tr>
+<tr>
+<th>Romanian Protesters:
+</th><td>Let Kenny stay! Let Kenny stay! Let Kenny stay! <i>[a van pulls up and police officers all the way from the U.S. pour out]</i>
+</td></tr>
+<tr>
+<th>Officer 1:
+</th><td><i>[sternly]</i> Alright, people, the father wants his son returned to him! Hand him over to us!
+</td></tr>
+<tr>
+<th>Romanian Protesters:
+</th><td>Boooo!
+</td></tr>
+<tr>
+<th>Officer 2:
+</th><td>Shut up, Romanians! All right, let's go. Move move move move! <i>[bursts through the front door. Officers pour in and look all over the place for Kenny. They enter the master bedroom, and look under the bed and in dresser drawers. One of them head for the closet and opens the sliding door and again the Elian Gonzalez scene is recreated with Kenny and his mother facing the police]</i>
+</td></tr>
+<tr>
+<th>Officer 3:
+</th><td><i>[seeing Mrs. McCormick holding Kenny]</i> Hand over the boy, now!
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>Okay, okay!
+</td></tr>
+<tr>
+<th>Officer 3:
+</th><td>I mean it, lady, you've got about-! <i>[his assault rifle goes off, riddling Kenny with bullets. His mom is distraught and drops Kenny]</i> Whoops.
+</td></tr>
+<tr>
+<td>
+</td><td bgcolor="#709C22"><i>[End of <b>Quintuplets 2000</b>.]</i>
+</td></tr></table>
+<p><br />
+<br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">403: "<a href="/wiki/Quintuplets_2000" title="Quintuplets 2000"><span style="color:white">Quintuplets 2000</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:403&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Quintuplets" title="Quintuplets">Quintuplets</a> • 
+<a href="/wiki/Romania" title="Romania">Romania</a> • 
+<a href="/wiki/Mrs._Vladchik" title="Mrs. Vladchik">Mrs. Vladchik</a> • 
+<a href="/wiki/Romanian_Father" title="Romanian Father">Romanian Father</a> • 
+<a href="/wiki/Romanian_Guards" title="Romanian Guards">Romanian Guards</a> • 
+"<a href="/wiki/Der_H%C3%B6lle_Rache" title="Der Hölle Rache">Der Hölle Rache</a>" •
+"<a href="/wiki/Con_te_partir%C3%B2" title="Con te partirò">Con te partirò</a>" •
+"<a href="/wiki/La_donna_%C3%A8_mobile" title="La donna è mobile">La donna è mobile</a>"
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Quintuplets_2000/Images" title="Quintuplets 2000/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s04e03-quintuplets">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Fourth_Season" title="South Park: The Complete Fourth Season">South Park: The Complete Fourth Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 117/300000
+Post‐expand include size: 5229/2097152 bytes
+Template argument size: 76/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:13792-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Quintuplets_2000/Script?oldid=243394">http://southpark.wikia.com/wiki/Quintuplets_2000/Script?oldid=243394</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Four" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Four" title="Category:Scripts from Season Four">Scripts from Season Four</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":13792,"kv_wpage":"Quintuplets_2000\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Quintuplets_2000/Script","wgTitle":"Quintuplets 2000/Script","wgCurRevisionId":243394,"wgArticleId":13792,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Four"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Quintuplets_2000/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":243394,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Quintuplets_2000/Script","fbReturnToTitle":"Quintuplets_2000/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Quintuplets_2000/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Quintuplets_2000/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Quintuplets 2000/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

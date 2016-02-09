@@ -1,0 +1,2879 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Chinpokomon/Script,Chinpokomon,Chinpokomon/Trivia,Chinpokomon/Images,South Park Studios,Official Scripts,Japan,List of video game references,Emperor Hirohito,Wild Wacky Action Bike,South Park: The Complete Third Season" />
+<meta name="description" content="General Trivia Images Script Watch Episode The official script for &amp;quot;Chinpokomon&amp;quot; was released by..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Chinpokomon/Script" />
+<meta name="twitter:title" content="Chinpokomon/Script" />
+<meta name="twitter:description" content="General Trivia Images Script Watch Episode The official script for &quot;Chinpokomon&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Kenny McCormick Eric Cartman Ra" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Chinpokomon/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Chinpokomon/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images4.wikia.nocookie.net/__am/1454927565/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":19064,"pageIsArticle":true,"pageName":"Chinpokomon/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1454927565",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=19064,
+wgCategories=["Scripts","Scripts from Season Three"],
+wgPageName="Chinpokomon/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1454927565",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s15","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1454927565&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=19064&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1454927565&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=19064&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images1.wikia.nocookie.net/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1454927565/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Chinpokomon/Script" />
+	<meta property="og:description" content="General Trivia Images Script Watch Episode The official script for &quot;Chinpokomon&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Kenny McCormick Eric Cartman Randy Marsh Sharon Marsh Gerald Broflovski Sheila Broflovski Ike Broflovski Liane Cartman Mayor McDaniels Priest Maxi Mr. Garrison Mr. Hat President Hirohito Mr. Ose Wendy Testaburger Red Harris Announcer and Singer for Commercials &quot;Ash&quot; &quot;Eight&quot; President Bill Clinton Japanese Woman Mr. Kitty..." />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Chinpokomon/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Chinpokomon_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic"itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FChinpokomon%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation global-navigation-2016" id="globalNavigation">
+		<div class="global-navigation-container">
+			<div class="wikia-logo-container table-cell">
+				<a href="http://www.wikia.com/fandom"
+					class="wikia-logo final-url"
+					rel="nofollow"
+					data-id="wikia-logo">
+					<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+						height="24"
+						width="91"
+						alt="Wikia"
+						title="Wikia">
+											<span class="wikia-logo__subtitle">The Home of Fandom</span>
+									</a >
+			</div >
+							<div class="table-cell hubs-links" data-visibility="desktop">
+											<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+						   data-tracking-label="hub-games">
+							Games						</a>
+											<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+						   data-tracking-label="hub-movies">
+							Movies						</a>
+											<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+						   data-tracking-label="hub-tv">
+							TV						</a>
+									</div>
+						<div class="table-cell">
+				<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+					<a class="cell-link top-level final-url"
+						href="http://www.wikia.com/explore"
+						data-tracking-label="explore-wikia">
+						Explore Wikia						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+					</a>
+					<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																					<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://gameshub.wikia.com/wiki/Games_Hub"
+									   data-tracking-label="hub-games">
+										Games									</a>
+								</li>
+															<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+									   data-tracking-label="hub-movies">
+										Movies									</a>
+								</li>
+															<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://tvhub.wikia.com/wiki/TV_Hub"
+									   data-tracking-label="hub-tv">
+										TV									</a>
+								</li>
+																										<li>
+								<a class="cell-link"
+								   href="http://www.wikia.com/WAM"
+								   data-tracking-label="top-communities">
+									Trending Wikias								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   href="http://community.wikia.com"
+								   data-tracking-label="community-central">
+									Community Central								</a>
+							</li>
+												<li>
+							<a href="http://www.wikia.com/Special:CreateNewWiki"
+								class="start-wikia"
+								title="Start a wikia"
+								data-id="start-wikia">
+								<span>Start a wikia</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="search-container table-cell">
+				<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+			</div>
+			<div class="account-navigation-container table-cell">
+				<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Chinpokomon/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Chinpokomon/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+			</div>
+								</div>
+	</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Chinpokomon/Script</h1>
+											<h2>&lt; <a href="/wiki/Chinpokomon" title="Chinpokomon">Chinpokomon</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Chinpokomon/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Chinpokomon/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Chinpokomon" title="Chinpokomon">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Chinpokomon/Trivia" title="Chinpokomon/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Chinpokomon/Images" title="Chinpokomon/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s03e10-Chinpokomon">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Chinpokomon" title="Chinpokomon">Chinpokomon</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Three" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan Marsh
+</li><li> Kyle Broflovski
+</li><li> Kenny McCormick
+</li><li> Eric Cartman
+</li><li> Randy Marsh
+</li><li> Sharon Marsh
+</li><li> Gerald Broflovski
+</li><li> Sheila Broflovski
+</li><li> Ike Broflovski
+</li><li> Liane Cartman
+</li><li> Mayor McDaniels
+</li><li> Priest Maxi
+</li><li> Mr. Garrison
+</li><li> Mr. Hat
+</li><li> President Hirohito
+</li><li> Mr. Ose
+</li><li> Wendy Testaburger
+</li><li> Red Harris
+</li><li> Announcer and Singer for Commercials
+</li><li> "Ash"
+</li><li> "Eight"
+</li><li> President Bill Clinton
+</li><li> Japanese Woman
+</li><li> Mr. Kitty
+</li></ul>
+<h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td style="background:#709C22;"><i>[Cartman residence, day. Cartman is watching TV and snacking on something. Kitty walks up]</i>
+</td></tr>
+<tr>
+<th>Kitty:
+</th><td>Reowr.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, Kitty, these are my spicy-hot Louisiana-baked Chicken Tenders!
+</td></tr>
+<tr>
+<th>Kitty:
+</th><td>Reowr.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, Kitty! <i>[the TV screen shows a blond Ash-like figure surrounded by three little monsters]</i>
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td>Someday, I will collect all the Chinpokomon, then I will fight the Evil Power that will reveal itself once all the Chinpokomon are collectable, <i>[tilts his head to one side]</i> oh?
+</td></tr>
+<tr>
+<th>Kitty:
+</th><td>Roar?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[affecting an anime look]</i> No, Kitty, you can't have these chicken tenders, because they are mine, and I keep mine to myself, oh?
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Be sure to tune in tomorrow for another inexplicable episode of... <i>Chinpokomon</i>.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[exults]</i> Hooray! <i>[hops off the sofa and begins to walk away...]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Hey kids! <i>[Cartman turns to look at the TV]</i> Do you love Chinpokomon?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yes.
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Well, now you can buy your very own! <i>[the little monsters begin to flash across the screen]</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>I got to buy Chinpokomon<br />I got to buy it, I got to buy it! [six Chinpokomon appear]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td><i>[more Chinpokomon appear...]</i> Now you can collect them all. Furrycat, Donkeytron, Pengin, Shoe, Lambtor. Collect them all, and you can become Royal Crown Chinpoko Master.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Royal Crown Chinpoko Master? Holy shit!
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>All the Chinpokomon are in stores now.
+</td></tr>
+<tr>
+<th>Japanese Woman:
+</th><td><i>[dressed in business attire]</i> Chinpokomon is soo-peh-rior rubbeh toy, Nuhmbah 1!
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>I got to buy it! Chinpo-ko-mon!</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[turns off TV and rushes to the kitchen, tossing the chicken tenders away]</i> Mom! Mom!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kitchen. Liane is at the sink. Cartman rushes in and runs circles around her legs]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[pants]</i> Mom! Seriously! Let's go to the toy store, Mom. Now! Must go! Toy store!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Eric, calm down. <i>[genuflects and restrains him]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Uh seriously! Mom! Must go! Must buy!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>What is it, Eric?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[breathless]</i> Muh-Mom, I've only just heard. They're making Chinpokomon dolls, mom. You can collect them all. You can collect them all, Mother; quick, come on. Let's go to the toy store.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td><i>[stands up and turns to the counter]</i> I'm making you some lunch right now, Eric.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[stops]</i> ...But Mo-o-om, I have to get Chinpokomon dolls before everybody else does, 'cause then I'll be coo-oo-ool.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Can't it wait till tomorrow, hon?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[shriek]</i> ...But Mo-o-om, I have to get the first one, or else people won't think I'm coo-oo-ool!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Alright! let's go. <i>[heads towards the front door. Cartman follows]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Sweet.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Toy store, "TOYS." Cartman and Liane approach it]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Everybody's gonna be sooo jealous when they see my Chinpokomon. <i>[Liane opens the door, and both are shocked to find the store full of kids looking around and walking with Chinpokomon dolls. The class is there...]</i>
+</td></tr>
+<tr>
+<th>Girl:
+</th><td><i>[amid the din]</i> Give it to me!
+</td></tr>
+<tr>
+<th>Boy:
+</th><td>Give it here!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, god damnit! <i>[walks in and runs into Stan]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, fat ass.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey, dick-whore. I guess you saw the commercial, too.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yep. I got Roostor, Lambtron, and Shoe.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, that's nice, but I'm gonna get a Pengin. He's the coolest. <i>[walks to the Pengin canister and finds it empty]</i> God damnit, there's no more Pengins! <i>[Kenny walks over with one]</i> Kenny, Pengin is my favorite. That's the last one. Let me have it. <i>[starts pulling]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Nuh uh.) <i>[pulls back. Tug-of-war]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>C'mon.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Nuh uh!)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>C'mon, Kenny. Let me ha--
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(No!)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>C'mon.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(No!)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>C'mon. Give me Pengin!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(No! This is mine!)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>C'mon!
+</td></tr>
+<tr>
+<th>
+</th><td><i>[Checkout counter. Sharon is ready to pay for some Chinpokomon. Liane has one, too. Sharon turns to Liane]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Honestly, I don't see what they find so amusing about those things.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>They're so strange. Where are they from?
+</td></tr>
+<tr>
+<th>Cashier:
+</th><td>Well, it's some new big thing from Japan. I tell you, those Japanese really know how to market to kids.
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td><i>[on a TV screen]</i> I've got to collect all Chinpokomon. I've got to collect them all so I can become Royal Crown Chinpoko Master, oooh? <i>[static]</i>
+</td></tr>
+<tr>
+<th>Japanese woman:
+</th><td>Own-ah Chinpokomon, and-ah you vill-ah have-ah happy feelings-eh. <i>[static]</i>
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td>I have to become Royal Crown Chinpoko Master.
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>[recite as they disperse]</i> Must collect Chinpokomon.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, next day. The boys stand around with their Chinpokomon. Kyle is missing]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Okay, Kenny. I'll trade you my Chuchunezumi for your Pengin.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Fuck you!)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>God damnit, you're supposed to trade those, you little asshole! Give me Pengin!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[arrives]</i> Hey dudes. <i>[notices]</i> What are those?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What are these? They're Chinpokomon!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Huh?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[haltingly]</i> You don't appear to have any Chinpokomon.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, but look: I just got this sweet Cyborg Bill doll.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, please. Cyborg Bill is so yesterday.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, like ancient history.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cyborg Bill isn't cool anymore?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, dude!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Cyborg Bill hasn't been cool for a long time, Kyle.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Why the hell don't people tell me these things?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>It's all Chinpokomon now.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, if you collect Chinpokomon you can complete the Primary Main Objective.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What's the Primary Main Objective?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You don't even know what the Primary Main Objective is?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>The Primary Main Objective is to destroy the Evil Power.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, what's the Evil Power?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[exasperated]</i> Ogh..!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[exasperated]</i> Oh, my God..! The identity of the Evil Power won't be revealed until all Chinpokomon are collected by a Royal Crown Chinpoko Master!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Duhhh!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, get with the times, dude. <i>[turns and walks away with Cartman and Kenny]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Duhhh!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[throws down Cyborg Bill]</i> Shit!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Broflovski residence. Sheila and Gerald are talking on the sofa. Ike sits to Gerald's left]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Yeah, I guess so.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[enters]</i> Mom, Dad, can I have money to buy Chinpokomon?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>What's a Chinpokomon?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'm not sure.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Well, why do you need one?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I don't know.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>...Well then, the answer is no, Kyle. You just got money to buy your Cyborg Bill doll.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, but Cyborg Bill is totally gay now. Please Mom? Everybody else has Chinpokomon.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Well, Kyle, that's not a reason to buy something.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Neah Kyle doh.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>You see, son, fads come and go. And this "Chin-po-ko-mon" is obviously nothing more than a fad. You don't have to be a part of it. In fact, you can make an even stronger statement by saying to your peers, "I'm not going to be a part of this fad, because I'm an individual." Do you understand?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yes. Yes, I do, Dad. Now let me tell you how it works in the real world. In the real world, I can either get a Chinpokomon, or I can be the only kid without one, which singles me out, and causes the other kids to make fun of me and kick my ass.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Hm... Good point; here's $10. <i>[hands it to him]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Thanks.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Wait, here's 20. Get one for your brother, too. <i>[Kyle receives the other $10 and walks out]</i>
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Hey, Chih-paw-ko.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Toy store. Kyle has just purchased a Lambtor]</i>
+</td></tr>
+<tr>
+<th>Cashier:
+</th><td><i>[hands him the doll]</i> There you go, son. I honestly don't know what you see in these things.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Neither do I. <i>[turns and walks out.]</i>
+</td></tr>
+<tr>
+<th>Cashier:
+</th><td><i>[closes the door and turns off the lights]</i> I guess I'll call it a night. <i>[heads towards the back]</i>
+</td></tr>
+<tr>
+<th>A voice:
+</th><td>Chinpoko! <i>[the cashier turns]</i> Buy me! Buy me! <i>[the cashier heads for the Chinpokomon display]</i> When will you become Royal Chinpoko Master? <i>[the cashier gets a Lambtor and squeezes it, making a little squeak.]</i> Hurry up and buy me. <i>[squeeze]</i> Down with America!
+</td></tr>
+<tr>
+<th>Cashier:
+</th><td>What? <i>[squeeze]</i>
+</td></tr>
+<tr>
+<th>Lambtron:
+</th><td>I love you. Let's be best friends, and destroy the capitalistic American government.
+</td></tr>
+<tr>
+<th>Cashier:
+</th><td>What the hell is goin' on here?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman residence, next day. The boys are engaged in a video game. Again, Kyle is absent]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[enters]</i> Hey you guys! Check out my sweet Chinpokomon doll!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, please, Chinpokomon dolls are so last week.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, dude. Don't you know? It's all about the Chinpokomon video game now. Did you bring your special Chinpokomon game controller?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[a little lost]</i> Huh? No.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[haltingly]</i> Oh, you didn't get a special Chinpokomon game controller. T-heh heh heh heh. Jehesus C-hrist! <i>[Cartman presses "START" on game controller]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Chinpokomon, what is Primary Objective?
+</td></tr>
+<tr>
+<th>Stan/Kenny/ Cartman:
+</th><td>To destroy the Evil Power!
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td>I've got to buy all the Chinpokomon so I can destroy the Evil Power, oooh?
+</td></tr>
+<tr>
+<th>Stan/Kenny/ Cartman:
+</th><td>Oooh?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Damnit! <i>[walks out]</i>
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td>I've got to buy them all, so first I'd better go to Hawaii and visit Pearl Harbor.
+</td></tr>
+<tr>
+<th>Japanese woman:
+</th><td><i>[pops up]</i> Gottai to bomb thah hahbah! Deddy? <i>[vanishes]</i>
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td>Go! <i>["GO" pops up, and the boys are furiously maneuvering their controllers]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Hey, you guys...) <i>[the boys bomb the harbor, grunting all the while]</i>
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td>I must buy them all! I must buy them all!
+</td></tr>
+<tr>
+<th>Stan/Kenny/ Cartman:
+</th><td>We must buy them all! <i>[they finish the first round of bombing and fly away]</i>
+</td></tr>
+<tr>
+<th>Japanese woman:
+</th><td><i>[pops up]</i> Gottai to bomb thah hahbah! <i>[drops down. The second round begins and the bombing is more intense. Kenny begins to convulse and finally drops off the sofa. Play stops as Cartman and Stan look on with shock]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, the video game gave Kenny a seizure!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Cool! This game rules!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Japan; Chinpokomon Company, outside. An inside shot looks to the main doors as they open, and one man walks in]</i>
+</td></tr>
+<tr>
+<th>Cashier:
+</th><td>Hello-o? Ey, hello? <i>[a monitor drops down from above]</i>
+</td></tr>
+<tr>
+<th>Japanese woman:
+</th><td><i>[on screen]</i> Werucome to Chinpokomon Toy Corporashon. Purease state a-name.
+</td></tr>
+<tr>
+<th>Cashier:
+</th><td>Rr-Red Harris? I own a toy store in America?
+</td></tr>
+<tr>
+<th>Japanese woman:
+</th><td>Purease state the puhpose-uh.
+</td></tr>
+<tr>
+<th>Red:
+</th><td>Uh, I wanna know what the hell you people are doing with these dolls, talkin' about bringin' down American government and all? <i>[the monitor is pulled up in a hurry, and an elevator rises from the floor. The doors open and two men walk towards him.]</i>
+</td></tr>
+<tr>
+<th>Taller man:
+</th><td>I am President Hirohito. And-ah, this is Mr. Ose.
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>[nods forward]</i> Peased to meet you.
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>We unduhstand you have big concern about our fine pro-duct.
+</td></tr>
+<tr>
+<th>Red:
+</th><td>Oh, eh-yes. Do you mind tellin' me what the hell this is about? <i>[squeezes Lambtor]</i>
+</td></tr>
+<tr>
+<th>Lambtor:
+</th><td>The American government lies to you! Join the fight for Japanese supremacy of the world! More to come. <i>[the two men remain silent]</i>
+</td></tr>
+<tr>
+<th>Red:
+</th><td>Well?
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>Uuuh.
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>That is so sturange. <i>[takes Lambtor from Red]</i> I do not a-know how this could happen. But urest assured, I will make sure <i>[glares sideways at Mr. Ose]</i> it does not happong again!
+</td></tr>
+<tr>
+<th>Red:
+</th><td>Well, now, come on, I don't think that that quite satisfies my--
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>You are American?
+</td></tr>
+<tr>
+<th>Red:
+</th><td>Yes.
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td><i>[begins to gesture]</i> Ogh! You must have very big pee-anis!
+</td></tr>
+<tr>
+<th>Red:
+</th><td>Excuse me? I was just asking you what you're up to with these toys!
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>Nothing. We are very simple people. With very small penis. Mr. Ose penis is ...especially small.
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>[fakes a sob]</i> Uh, smuh, so small.
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>We cannot achieve much with so small penis. But you! Americans. Wow! Penis so big! <b>Soo</b> big penis!
+</td></tr>
+<tr>
+<th>Red:
+</th><td><i>[flattered]</i> Well uh, he-I guess it is a pretty good size.
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Minata, kite kite! ["Everone, come come!" A group of Japanese women move in, chattering]</i> This-a man has veh-ry big penis! <i>[the women applaud, Red grins big]</i>
+</td></tr>
+<tr>
+<th>Woman 1:
+</th><td><i>Take takeru o da ne? ["It's rather large, isn't it?"]</i>
+</td></tr>
+<tr>
+<th>Woman 2:
+</th><td><i>Hai. ["Yes."]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>Uh, hoh, what an-whoa immense penis-uh!
+</td></tr>
+<tr>
+<th>Red:
+</th><td>Well, it certainly was nice meeting you folk, I just wanted to bring that little malfunction to your attention. Bye-bye now.
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>Good-bye. Thank you for stopping by, with your gargantuan penis. <i>[Red walks out humming happily. After a moment Hirohito looks angrily at Mr. Ose] Dame, dame da. ["Bad, this is bad." The women move away quickly. He slaps Mr. Ose]</i> Naze kono chippu wa soto ni detandaba? <i>["How could you let this chip go out?"]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Wa, wakarimasen, sachoo san. Mondai desu nee. ["I, I don't know, boss. That's the problem."]</i>
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td><i>Sekinin shoo yobe! ["You're no longer in charge!"]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Hai. Hai, sachoo san. ["Yes. Yes, boss." He bows out]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Cartman house, night. Kitty roars outside. Cartman is asleep, but tossing...]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I've got to buy Chinpokomon... I've got to... buy them... Must buy Chinpokomon...
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[His Chinpokomon sends up an antenna, which sends out a signal, which goes out the window and joins other signals at a point in space. Then the merged signals go to a satellite, which bounces them to Japan. The signals reach the Chinpokomon Toy Corporation's rooftop satellite dish and split up to show each Chinpokomon in its own screen on the company's video wall. President Hirohito is talking to his board of directors under heavy guard]</i>
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td><i>Amerika ni, kodomo zenbu Chinpokomon motte iru. Kore kara, "phase two" hajimete. IKIMASHOO! ["All the children in America own Chinpokomon. We'll begin "phase two" there. LET'S GO!" The soldiers set their rifles]</i> The time has come! We will take Pearl Harbor!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="red"><b><i>[End of act one. Time: 8:41]</i></b>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Marsh residence, next day. A TV is on: "I've got to buy it! I've got to buy it! Chinpokomon!" Sharon sits on the sofa looking at the cartoon]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[walks up]</i> What are you doing?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>I'm watching one of Stanley's <i>Chinpokomon</i> video tapes.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Why?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Our son loves this show, Randy, so I think it's important that we watch it to see if it's teaching him good moral values. <i>[Randy sits]</i>
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td><i>[addressing a robot rooster]</i> Hey, you must be Roostor! I haven't bought one of you yet, but I'll bet you can transform into Roostallion if you found Diamond Skill 7! <i>[picks it up and squeezes]</i>
+</td></tr>
+<tr>
+<th>Roostor:
+</th><td>Roo-oo-oostor! <i>[a teen boy in black body suit emblazoned with an 8 appear]</i>
+</td></tr>
+<tr>
+<th>"Eight":
+</th><td><i>[does the following as he speaks]</i> Hey, I'm gonna take your Roostor and put it in this bag, where it will flourish or expire, depending on fate!
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td>Hey! Is that a good idea?
+</td></tr>
+<tr>
+<th>"Eight":
+</th><td>Roostors aren't like Chuchunezumis. They haven't the heart for such endeavors.
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td>Oooh? <i>[Randy and Sharon look lost]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>...Are those good moral values?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>I don't know what the hell they're talking about.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hours later. Randy and Sharon watch a battle scene in disbelief]</i>
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td>Lambtron! You are losing the battle of your life! <i>[Lambtron battles Furrycat]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td><i>But Lambtron's powers also give him a good chance for a new fight. Will he succeed?</i>
+</td></tr>
+<tr>
+<th>"Ash":
+</th><td>I am sad now, because Lambtron must be very lonely because there are so few Lambtrons in the world. Will he ever find a companion?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>This doesn't make sense. Are those stupid things supposed to be animals or robots or what?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>I don't know, but I suddenly kinda wanna own them all.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Randy, we can't allow our son to watch this stuff!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, it's not like it's vulgar or violent.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>No, but it's incredibly stupid, and that could be worse on a child's mind than any vulgarity or violence. Remember what <i>Battle of the Network Stars</i> did to an entire generation.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[solemnly]</i> My God, you're right.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, by Tom's Rhinoplasty, day. Cartman is strumming a guitar. A sign on the case reads: "Please HELP...Boys Sent to camp]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>Come on, brothers and sisters<br />We've all got to join together<br />Join together and give me money<br />So I can buy more Chinpokomon!<br />We've got to stop this fight and...</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[arrives with Kenny]</i> How's it goin', fat ass?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I haven't made any money yet.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What?! You've been out here all weekend! How are we gonna raise money to get into the Chinpokomon camp?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ey! I'm the one who's been standing out here with this gay guitar like a God-damned hippie all weekend! What have you two assholes done?!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We can't do anything. Kenny still hasn't come out of his seizure. <i>[moves Kenny so the glazed eyes can be seen]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[rushes up with a new item]</i> I got it! I got my Chinpokomon game controller! <i>[Tthe others look at him and then laugh]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Jesus tap dancing Christ! Get with the program, Kyle!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah. Nobody plays the Chinpokomon video games anymore. Now it's all about the big weekend Chinpokomon camp.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Camp?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[sighs]</i> The makers of Chinpokomon are going town to town and putting on a special camp to show all the Chinpoko Masters how to destroy the Evil Power.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You didn't know that?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[quickly saving face]</i> No, uh-I knew it! I knew it. I was just testing you guys. You just wait till I get to that Chinpokomon camp! I'm gonna be the toughest master of them all! So we'll see you there, a-ight? <i>[turns and walks away]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, did you just say "a-ight"?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[turns back]</i> Yeah. You know, like Lauren Hill. A-ight?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, my God, that's so yesterday!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, dude. Nobody says "a-ight" anymore.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?? "A-ight"'s not cool, either? When did that happen?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Like, eight days ago.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>God damnit! <i>[turns and hurries away]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Marsh residence, night. Living room. The Marshes Broflovskis, Liane, the McCormicks, and the Tweeks watch an Chinpokomon advertisement.]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Hey, kids! <i>[Furrycat appears]</i> Only one more day till the Chinpokomon camp! <i>["Ash" and "Eight" appear]</i> Come early and enjoy all the Chinpoko fun! <i>["Chinpokomon CAMP" is placed over Furrycat, then a violet gorilla appears]</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>Chinpokomon Camp!<br />I've got to buy a ticket!<br />I've got to buy one! A ticket!<br />I've got to buy buy buy!</i>
+</td></tr>
+<tr>
+<th>Japanese woman:
+</th><td><i>[pops in from the side]</i> It'sa Satuhday anda Sunday. You can'ta wait to go! <i>[moves out]</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>Chinpokomon! [the TV clicks off]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>We just thought we'd bring it to everyone's attention because, honestly, we don't know how to feel.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Well, I'm letting Eric go to the camp. I mean, it seems to me this Chinpokomon thing is just another harmless fad.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Yeah. We told Kyle he could go if he did all his chores, and he did.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[concerned]</i> Now, I'm not sure this blatant commercialism is good for our boys.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Well, you know how it is, Randy. The more we forbid them to play with Chinpokomons, the more they're gonna love them.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>You're right, Sheila. I guess the best thing we can do is just let them go until they get sick of it.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Sure. Apparently, they've been doing these camps in every city around the country; how bad can they be?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Chinpokomon camp. A huge temple looms over the crowd of kids. Three huge screens display the Chinpokomon program. Soldiers guard the screens and the central stairway. Stan and friends move through the crowd. Several classmates are already there]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Get outta the way! Move it!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Can you see anything? <i>[the gorilla Chinpokomon appears onscreen]</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td>Yay!!! <i>[applause]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>It's starting, it's starting!
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>I've got to buy it! I've got to buy it! Chinpokomon! [the kids continue to cheer and clap. Mr. Ose takes center stage]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>Attention! Attention! <i>[the kids quiet down]</i> This isa Chinpokomon Camp!
+</td></tr>
+<tr>
+<th>Kids:
+</th><td>Chinpokomon is what we strive to be great at in our hearts!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...our hearts. <i>[looks left]</i> Kenny? <i>[Kenny stands motionless]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>What is the Primary Main Objective?
+</td></tr>
+<tr>
+<th>Kids:
+</th><td>To destroy the Evil Power!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...Power.
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>Yesuh. Anda what is the Evil Power? <i>[no one answers]</i> The Evil Power is the United States gorvernment! <i>[the three screens display the U.S. flag. The kids stay silent]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ohhh.
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>United Statesuh government is the Evil Power! It hasa taken Japanese Americans! It hasa broken Japanese spirit! And what do Chinpoko Masters do to Evil Power?!
+</td></tr>
+<tr>
+<th>Kids:
+</th><td>Destroy it!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Destroy it?
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>That isa correct! Now, it isa great honor to present... your Chinpoko Leaduh! Emperor Hirohito! <i>[a gong is heard, and Mr. Ose claps a few times]</i>
+</td></tr>
+<tr>
+<th>Emperor Hirohito:
+</th><td><i>[President Hirohito in shogun attire takes center stage]</i> Welcome to campu. Whoever passes it knows and honors that the greatness of Japan is in its history, and it is based on that history that we shall again rise to the dominant world powuh!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Is this cool or not? I can't tell.
+</td></tr>
+<tr>
+<th>Emperor Hirohito:
+</th><td>It is again time for the Rising Sun to sit tall in the sight! One Japan! One society! <i>[walks off. Mr. Ose claps and takes the mike]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>We will begin witha language anda exercise skills. <i>Hajimete!! ["Begin!" Two instructors walk up]</i>
+</td></tr>
+<tr>
+<th>Instructors:
+</th><td><i>[doing squats] Ichi, ni, san, shi! ["1, 2, 3, 4!"]</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Ichi, ni, san, shi! Ichi, ni, san, shi!</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, Mr. Garrison's class. The kids are chatting away happily in Japanese. All have anime expressions]</i>
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Okay, children, I want it quiet! <i>[the class shuts up]</i> Now, we're gonna try this again until we get it right! What is six times three?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Juuhachi desu ka? ["Isn't it eighteen?"]</i>
+</td></tr>
+<tr>
+<th>Class:
+</th><td><i>Juuhachi da nee! ["Eighteen it is!"]</i>
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td><b><i>No, goddammit, it's eighteen!!</i></b>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Juuhachi</i> is eighteen, Garrison-san.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>For the last time, my name is not Garrison-san, all right?! And this is not Hat-san! And you all better start talking in a manner that I can understand!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>Wuu, Garrison-san sabuchii dana. ["Ooo, Mr. Garrison is such an asshole!"]</i>
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td><b><i>What did he say?!</i></b>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He said, "<i>Garrison-san sabuchii da naa.</i>"
+</td></tr>
+<tr>
+<th>Class:
+</th><td><i>Soo desu nee! ["That's right!"]</i>
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td><b><i>Damnit, this is not Japan!!</i></b>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>Minata! Kite kite, churi... [farts. The class laughs]</i>
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td><i>Dare ga pu shita no. ["Who farted?"]</i>
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td><i><b>Aggghhh!</b></i> <i>[rushes out of the room amid the kids' laughter]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[City Hall, the Mayor's Office. The parents are gathered in it]</i>
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>People, please! We can only speak one at a time. Now, Mr. Garrison, you were saying...
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>I can't take it, Mayor. You have to put an end to this Chinpoko Camp.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[Randy holds her]</i> My son hasn't made any sense in days.
+</td></tr>
+<tr>
+<th>Priest Maxi:
+</th><td>I tell you, Mayor, these Japanese are trying to change our American children somehow!
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Alright, people, Mr. Hirohito and Mr. Ose were nice enough to stop by to talk to you. Gentlemen? <i>[Mr. Hirohito and Mr. Ose step up]</i>
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>We at the Japan Toy Company are vetty cohncerned about-a your cohncerns. That is why we make Chinpokomon camp.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, how is it good?! We don't understand what the point of your product is!
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>There is nothing to worry about. We at Japan Toy Company are in awe of your large penis.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>What?
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>You see, Japanese penis so small. <i>[holds his hands about an inch apart]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>[set his index finger an inch from his thumb]</i> So-eh small.
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>You Americans have such humungous burbous penis.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Well, uh-I guess that's true.
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>Oh, suh-n nice-a big penis American.
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>What can we possubruh do with such small penis? We cannot take over your city, filled witha men awith such mastodonic penis.
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td>Huwell, uh he's got a point there.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, I guess that settles that.
+</td></tr>
+<tr>
+<th>Priest Maxi:
+</th><td>We're sorry we took your time, gentlemen.
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td><i>[bowing with Mr. Ose]</i> Oh, no. Thank you. Another chance to be in same room with big American penis. <i>[exits]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>Uh-uh, my penis so small. <i>[exits]</i>
+</td></tr>
+<tr>
+<th>Priest Maxi:
+</th><td>Nice guys. <i>[the door closes]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[City Hall, outside the Mayor's Office]</i>
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td><i>Jikan ganai. Suberi maratsuba. Sukash. Simenu bi faamo werosii kowai samaneba. ["Time is short. Those people will discover our plan soon. We must finish quickly."]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[City Hall, the Mayor's Office. The men and women have split into two groups by gender. Sharon speaks]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>So, what are we going to do about our children? <i>[the men smile down at their crotches]</i> Ahhh, hello-o?
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>O-kay, people. I know this Chinpuku Man fad is causing a lot of problems. But I think we've already found a solution.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>You have?
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Children are fickle. <i>[thump]</i> All we have to do is come up with a new fad. We find the next toy and turn them all onto it as soon as possible.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Of course! That's a great idea!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>But what toy?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Market Research Laboratories, a nondescrpt building. A big-screen TV is shown, flanked by two lab techs. Then a sofa is shown, with Kyle, Stan, Cartman, Kenny, and Butters]</i>
+</td></tr>
+<tr>
+<th>Lab Tech 1:
+</th><td>Alright, boys, we're going to show you a couple of commercials, and you tell us which toy interests you the most. Now, watch carefully. <i>[the first one comes on]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Hey, kids. Do you like Chinpokomon?
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Well then, you're gonna go wild for <i>[echo comes on as a weird bike is shown]</i> Wild Wacky Action Bike! <i>[a bike with two single-arm handles, one attached to each wheel, and two lumpy side wheels]</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>Wild Wacky Action Bike!<br />The bike that's hard to ride!</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td><i>[a boy runs to the bike and hops on, trying to figure out how to steer it. He shrugs]</i> Wild Wacky Action Bike is almost impossible to steer. And it glows in the dark.
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>Goin' to try to ride all day long, but I'm goin' to fail<br />'Cause it's Wild Wacky Action Bike!</i>
+</td></tr>
+<tr>
+<th>Boy:
+</th><td><i>[manages to steer it, but runs into some cones]</i> Man... <i>[then steers it well enough down the street]</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>You can't ride it, you can't ride it<br />Wild Wacky Action Bike!</i>
+</td></tr>
+<tr>
+<th>Boy:
+</th><td>Aaagg-agh--! <i>[ends up under a truck. A cloud of steam rushes out on impact]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Wild Wacky Action Bike comes with everything you see here. <i>[the boys say nothing for a while, then...]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>...Gay.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, dude. That was totally gay.
+</td></tr>
+<tr>
+<th>Lab Tech 1:
+</th><td>Ohhh. <i>[writes "GAY" under "Wild Wacky Action Bike" on his "Test Results" pad and underlines it]</i> Wuh-okay, here's the next one.
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Hey, kids. Do you like Chinpokomon?
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Well then, you're gonna love... Alabama Man! <i>["ALABAMA MAN" over the Stars and Bars, then Alabama Man is shown with bowling ball and beer can]</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>Alabama Man<br />He's quick, he's strong, he's active.</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>You can take Alabama Man to the bowling alley, where he drinks heavily and chews tobacco. <i>[A little bowling alley is shown, with Alabama Man standing on a platform that connects to the alley by a ramp. Behind that sits a woman doll keeping score]</i>
+</td></tr>
+<tr>
+<th>Boy 1:
+</th><td><i>[watching Alabama Man swing a bowling ball]</i> Wow! He can bowl. <i>[presses a button, releasing the bowling ball. It goes down the bowling alley and knocks six pins down]</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>He can bowl, he can drink, he can drink and bowl<br />Alaba-ma Man!</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>When his wife asks him where he's been, just use the action button, <i>[Alabama Man is made to knock her down]</i> and Alabama Man busts her lip open.
+</td></tr>
+<tr>
+<th>Boy 1:
+</th><td><i>[with Alabama Man. Boy 2 has his wife]</i> Shut up, bitch! <i>[has Alabama Man knock his wife down]</i>
+</td></tr>
+<tr>
+<th>Boy 2:
+</th><td>Wow!
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>He beat the wife and sleeps it off<br />Alabama Man!</i>
+</td></tr>
+<tr>
+<th>Boys 1/2:
+</th><td>I wanna be just like Alabama Man.
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Alabama Man comes with everything you see here. Wife sold separately.
+</td></tr>
+<tr>
+<th>Boy 2:
+</th><td>I thought I told you to shut up! <i>[has Alabama Man knock his wife down with a backhand]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Not all people from Alabama are wife-beaters. <i>[Again, the boys stay silent]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Gay.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Totally gay.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Liberace gay.
+</td></tr>
+<tr>
+<th>Lab Tech 1:
+</th><td><i>[writes "GAY" under "Alabama Man" and underlines it twice]</i> Oooh, dear. Well, let's keep trying. How about this? <i>[cuts into an actual commercial...]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="red"><b><i>[End of act two. Time: 17:23]</i></b>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, next weekend. The adults are lined up on either side of Main Street as Mr. Ose leads the kids through the town. Japanese flags, a poster of President Hirohito, and red flags are being paraded]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Owatta! ["Down with"]</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Beikoku! ["the U.S.A.!"]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Owatta!</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Beikoku!</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Owatta!</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Beikoku! Nihon en ima hajimaru! ["It's fate is now to become Japan!"]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Owatta!</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Stan?
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Beikoku!</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Stan, it's Mommy! <i>[starts to move with the troops]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Owatta!</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Beikoku!</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>Owatta!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Stanley--
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Beikoku!</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td> --you need to come home right now.
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Owatta!</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Beikoku!</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Mommy misses you.
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Owatta!</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Beikoku!</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Stanley, I'm talking to you!
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Owatta!</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Beikoku! [Sharon steps in and takes Stan's hand. The troops gather round, forcing her back]</i> Huhhh?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[pleading]</i> Stan, please, come home!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Kore wa watashi no uchi desu. ["This is my home now."]</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>So desu née. ["That's right."]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>Ooh? <i>[resumes his position. Sharon looks betrayed]</i> Do not worry. Everything isa okay.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>No, it's not okay!
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>Oh, but-a you have-a such large penis-uh. <i>[behind him, Stan has a fierce expression on his face]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>Your penis, wooww-- <i>[President Hirohito walks up and slaps him]</i> O-oh..!
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>What he means is that all men in this town have very large penis. <i>[all the men smile at the compliment]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Can't you see what's happening?! They're just using that talk to distract you! He doesn't really have a small penis!
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td><i>Misenasai! ["Show them!" Mr. Ose takes down his pants. The people are shocked, and he pulls them up again.]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Oh! <i>[the march resumes]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Owatta!</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Beikoku!</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td><i>Owatta!</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Beikoku!</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Oh God, is there nothing we can do?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[turns to face the adults]</i> Wait a minute... Wait a minute, I think I know the answer! I know how to get our kids to stop liking Chinpokomon! <i>[the last of the troops leaves]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>How?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Come on! We don't have much time! <i>[leads the adults away]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Washington, D.C.; the White House.]</i>
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td><i>And now, for a special announcement from the President of the United States.</i>
+</td></tr>
+<tr>
+<th>President Clinton:
+</th><td><i>[from the Oval Office]</i> My fellow Americans, I wish to address the concerns many of us have over the growing number of Japanese military bases forming in the United States. The new Japanese emperor, Hirohito, has made our own children into fighter pilots who will soon fly to Hawaii and attack Pearl Harbor. I spoke with Mr. Hirohito this morning, and he assured me that I have a very large penis. He said it was mammoth, dinosauric, and absolutely dwarfed his penis, which, he assured me, was nearly microscopic in size. My penis, he said, was most likely one of the biggest on the planet. I applaud Mr. Hirohito in his honesty. Thank you.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A Japanese military base. Eighteen planes and 39 troops are seen. The kids stand at attention. Kyle is missing]</i>
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>Your plane will fly autopilot to Pearl Harbor! When you arrive you will drop many bombs!
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>Hai, sachoo-san. ["Yes, Mr. President." The kids part to the planes. Stan, Cartman, and Kenny run into the adults]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Nan da kore? ["What's this?"]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>Chinpoko ga dai-suki yoo! ["We're crazy about this Chinpoko stuff." All the adults carry Chinpokomon now]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Uh, we just came to support you. We love Chinpokomon, too. It's super toy, number 1!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You like it?
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>You bet. I think Chinpokoman is chinpokorrific. I got Shoe.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Come on, Eric. Let's try to battle your Roostor with my Donkeytron.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Uh... no, that's okay, Mom.
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td>Whar are they doing?!
+</td></tr>
+<tr>
+<th>Mr. Ose:
+</th><td>It's a trick!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Hey, Stan, look at my new bumper sticker. <i>["MY KID IS A CHINPOKOKID" with a smiling kid's face on the left end, and a Lambtron on the right. Randy walks to it and kneels to display it]</i> Isn't that cool?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[holding a Chuchunezumi]</i> No. <i>[the adults laugh, and he throws the Chuchunezumi away]</i> Screw this, dude. <i>[starts walking out]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Where are you going, Stan?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Huh, I don't know. Chinpokomon just doesn't seem that cool anymore. I'm gonna go kill some ants or something. <i>[walks away]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Wait for me, I wanna get out of these stupid clothes. <i>[follows]</i>
+</td></tr>
+<tr>
+<th>Other kids:
+</th><td>Yeah. Me too! Me too. <i>[each one tosses a Chinpokomon onto a pile and leaves the airfield. A Lambtron lands on its side and a kid steps on it. The adults cheer.]</i>
+</td></tr>
+<tr>
+<th>President Hirohito:
+</th><td><i>[grabbing his head in frustrated disbelief]</i> Nooo!!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, you were right, Sharon. The best way to make our kids not like something is to like it ourselves.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>That's right. Anything we like is instantly not cool. <i>[turns to Mr. Garrison]</i> We know how to take them out, Mr. Garrison. Spread the word! Get on the wire to every parent around the country and tell them how to bring those sons of bitches down! <i>[he walks over to a telegraph machine and starts spreading the word]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, Mom, I'm sorry I went a little nutty with that Chinpokomon stuff. Can I have $5 to buy a football?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>You bet, Stanley! <i>[a fighter plane has left its spot and appears before the crowd. Kyle is in the cockpit]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>Owatta Beikoku! [the adults are stunned]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Kyle, it's over!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But I'm gonna be Royal Crown Chinpokomon Master!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[flatly]</i> Dude, Chinpokomon isn't cool anymore.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, dude, that's way over. <i>[a rat is on Kenny, trying to nibble]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, you're just jealous because I'm Chinpoko Master!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, Kyle. You see, we learned something today. This whole Chinpokomon thing happened because we all followed the group. We only liked Chinpokomon because everyone else did. And look at the damage it caused.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>So now I should stop liking Chinpokoman because you all don't?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>...Ye-eah.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But if I stop now, I'll just be going with the group again. So, to be an individual, I have to bomb Pearl Harbor. See ya. <i>[moves forward]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh... Wait. <i>[walks with the plane]</i> Actually, I was wrong. You see, Kyle, I learned something, just now. It is good to go with the group. A group mentality is healthy, sometimes.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Aw, screw it; I'm too confused. <i>[turns the power off and hops out of the plane. Mr. Garrison walk away]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, I'm sure glad this is all over.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[sees rats on Kenny and swats them off]</i> Hey, get offa him! He's not dead yet!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="red"><b><i>[End of act three. Time: 21:18]</i></b>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Bus Stop, next day. The four boys are waiting. The rats return and crawl all over Kenny]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Nnno! Get off, you stupid rats! He's not dead yet!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Hey, you guys wanna go to the toy store after school and get some Spaceman Greg cards?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Naw, I think I'm through with fads for a while.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Me, too. <i>[Kenny starts to tremble]</i> I'm choosing my own toys from now on, 'cause-- <i>[Kenny falls and trembles harder. The others watch]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What the..? <i>[Kenny's body rips open and a bunch of rats crawl out of him.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ooooh-ho-ho-ho, gro-hoss! <i>[Stan and Kyle laugh as Cartman looks on, the credits play the instrumental theme that played in the Wild Wacky Action Bike &amp; Alabama Man commercials]</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td>(over the Braniff Airlines logo) Bye bye buh-buh-buh-buh-buh chicken!
+</td></tr>
+<tr>
+<td>
+</td><td bgcolor="#709C22"><i>[End of <b>Chinpokomon</b>.]</i>
+</td></tr></table>
+<p><br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">310: "<a href="/wiki/Chinpokomon" title="Chinpokomon"><span style="color:white">Chinpokomon</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:310&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Japan" title="Japan">Japan</a> • 
+<a href="/wiki/List_of_video_game_references#Chinpokomon" title="List of video game references">Chinpokomon video game</a> • 
+<a href="/wiki/Emperor_Hirohito" title="Emperor Hirohito">Emperor Hirohito</a> • 
+<a href="/wiki/Wild_Wacky_Action_Bike" title="Wild Wacky Action Bike">Wild Wacky Action Bike</a> •
+Chinpokomon Dolls
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Chinpokomon/Images" title="Chinpokomon/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s03e10-chinpokomon">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Third_Season" title="South Park: The Complete Third Season">South Park: The Complete Third Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 127/300000
+Post‐expand include size: 4986/2097152 bytes
+Template argument size: 62/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:19064-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Chinpokomon/Script?oldid=243383">http://southpark.wikia.com/wiki/Chinpokomon/Script?oldid=243383</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Three" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Three" title="Category:Scripts from Season Three">Scripts from Season Three</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+				
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-above_footer" class="monetization-module amazon-video hide-for-edit above-footer amazon-video-full" data-mon-type="amazon_video" data-mon-slot="above_footer"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-19064-B00NY4UD92-piv-fl-npr-af-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-19064-B00NY4UD92-piv-fl-npr-af-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-19064-B00NY4UD92-piv-fl-npr-af-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-19064-B00NY4UD92-piv-fl-npr-af-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-19064-B00NY4UD92-piv-fl-npr-af-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-above_footer" class="monetization-module adunit hide-for-edit above-footer" data-mon-type="adunit" data-mon-slot="above_footer"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_fss_ffv mon_hub_tv mon_sl_af" data-ad-type="text" data-font-size="small"data-font-face="veranda" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>				<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":19064,"kv_wpage":"Chinpokomon\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Chinpokomon/Script","wgTitle":"Chinpokomon/Script","wgCurRevisionId":243383,"wgArticleId":19064,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Three"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Chinpokomon/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1454927565/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":243383,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Chinpokomon/Script","fbReturnToTitle":"Chinpokomon/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Chinpokomon/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Chinpokomon/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:PasswordReset","caption":"Reset password","href":"http://southpark.wikia.com/wiki/Special:PasswordReset","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Chinpokomon/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1454927565/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1454927565/group/-/videos_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1454927565/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/visit_source_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1454927565.0.81516"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/monetization_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/global_navigation_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/global_navigation_2016_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/page_share_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

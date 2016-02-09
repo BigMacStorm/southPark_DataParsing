@@ -1,0 +1,2680 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Fat Camp/Script,Fat Camp,Fat Camp/Trivia,South Park Studios,Official Scripts,Krazy Kenny Show,Howard Stern,Kenny Impostor,South Park: The Complete Fourth Season,Fat Camp/Images,Johnny Knoxville" />
+<meta name="description" content="General Trivia Images Script Watch Episode The official script for &amp;quot;Fat Camp&amp;quot; was released by..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Fat_Camp/Script" />
+<meta name="twitter:title" content="Fat Camp/Script" />
+<meta name="twitter:description" content="General Trivia Images Script Watch Episode The official script for &quot;Fat Camp&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Kenny McCormick Eric Cartman Wendy" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Fat_Camp/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Fat Camp/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images4.wikia.nocookie.net/__am/1454927565/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":27119,"pageIsArticle":true,"pageName":"Fat_Camp/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1454927565",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=27119,
+wgCategories=["Scripts","Scripts from Season Four"],
+wgPageName="Fat_Camp/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="tv_episode",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1454927565",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s12","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1454927565&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=27119&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1454927565&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=27119&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images1.wikia.nocookie.net/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1454927565/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Fat Camp/Script" />
+	<meta property="og:description" content="General Trivia Images Script Watch Episode The official script for &quot;Fat Camp&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Kenny McCormick Eric Cartman Wendy Testaburger Bebe Stevens Butters Stotch Clyde Donovan Token Black Liane Cartman Ms. Choksondik Mr. Mackey Mr. Garrison Principal Victoria Fat kids, including Horace Sanders, Chad, and Tony Camp Counselors Rick and Susan James Taylor Howard Stern and Johnny Knoxville Ms. Crabtree Dr. Doctor..." />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Fat_Camp/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Fat_Camp_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic"itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FFat_Camp%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation global-navigation-2016" id="globalNavigation">
+		<div class="global-navigation-container">
+			<div class="wikia-logo-container table-cell">
+				<a href="http://www.wikia.com/fandom"
+					class="wikia-logo final-url"
+					rel="nofollow"
+					data-id="wikia-logo">
+					<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+						height="24"
+						width="91"
+						alt="Wikia"
+						title="Wikia">
+											<span class="wikia-logo__subtitle">The Home of Fandom</span>
+									</a >
+			</div >
+							<div class="table-cell hubs-links" data-visibility="desktop">
+											<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+						   data-tracking-label="hub-games">
+							Games						</a>
+											<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+						   data-tracking-label="hub-movies">
+							Movies						</a>
+											<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+						   data-tracking-label="hub-tv">
+							TV						</a>
+									</div>
+						<div class="table-cell">
+				<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+					<a class="cell-link top-level final-url"
+						href="http://www.wikia.com/explore"
+						data-tracking-label="explore-wikia">
+						Explore Wikia						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+					</a>
+					<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																					<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://gameshub.wikia.com/wiki/Games_Hub"
+									   data-tracking-label="hub-games">
+										Games									</a>
+								</li>
+															<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+									   data-tracking-label="hub-movies">
+										Movies									</a>
+								</li>
+															<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://tvhub.wikia.com/wiki/TV_Hub"
+									   data-tracking-label="hub-tv">
+										TV									</a>
+								</li>
+																										<li>
+								<a class="cell-link"
+								   href="http://www.wikia.com/WAM"
+								   data-tracking-label="top-communities">
+									Trending Wikias								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   href="http://community.wikia.com"
+								   data-tracking-label="community-central">
+									Community Central								</a>
+							</li>
+												<li>
+							<a href="http://www.wikia.com/Special:CreateNewWiki"
+								class="start-wikia"
+								title="Start a wikia"
+								data-id="start-wikia">
+								<span>Start a wikia</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="search-container table-cell">
+				<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+			</div>
+			<div class="account-navigation-container table-cell">
+				<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Fat_Camp/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Fat_Camp/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+			</div>
+								</div>
+	</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Fat Camp/Script</h1>
+											<h2>&lt; <a href="/wiki/Fat_Camp" title="Fat Camp">Fat Camp</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Fat_Camp/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Fat_Camp/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Fat_Camp" title="Fat Camp">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Fat_Camp/Trivia" title="Fat Camp/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Fat_Camp/Images" title="Fat Camp/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s04e15-fat-camp">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Fat_Camp" title="Fat Camp">Fat Camp</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Four" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li>Stan Marsh
+</li><li>Kyle Broflovski
+</li><li>Kenny McCormick
+</li><li>Eric Cartman
+</li><li>Wendy Testaburger
+</li><li>Bebe Stevens
+</li><li>Butters Stotch
+</li><li>Clyde Donovan
+</li><li>Token Black
+</li><li>Liane Cartman
+</li><li>Ms. Choksondik
+</li><li>Mr. Mackey
+</li><li>Mr. Garrison
+</li><li>Principal Victoria
+</li><li>Fat kids, including Horace Sanders, Chad, and Tony
+</li><li>Camp Counselors Rick and Susan
+</li><li>James Taylor
+</li><li>Howard Stern and Johnny Knoxville
+</li><li>Ms. Crabtree
+</li><li>Dr. Doctor
+</li><li>Druggie/Cartman Impostor/Kenny Impostor
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-27119-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-27119-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-27119-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-27119-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-27119-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsl_ffv mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="large"data-font-face="veranda" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, day, Ms. Choksondik's classroom. Ms. Choksondik enters and stands before the blackboard.]</i>
+</td></tr>
+<tr>
+<th>Ms. Choksondik:
+</th><td>Alright, children, as I'm sure you all remember, today we are going to continue our biology lesson... dissecting an organism.
+</td></tr>
+<tr>
+<th>Class:
+</th><td>Yeah! <i>[There are new seating arrangements to note: Wendy now sits to Stan's left. Timmy sits in the back of the class. Pip sits behind Kenny. Two students not seen before join the class]</i>
+</td></tr>
+<tr>
+<th>Bebe, New Kid:
+</th><td>Woohoo.
+</td></tr>
+<tr>
+<th>Ms. Choksondik:
+</th><td><i>[walks off]</i> Now, what we are going to dissect today is the West Indian manatee. <i>[return with a large dolly stacked with manatee corpses. Stan and Kyle glance at each other]</i> Manatees are mammals that live in the oceans and are often called the gentle clowns of the sea.
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>Uhh, Ms. Choksondik, aren't manatees endangered?
+</td></tr>
+<tr>
+<th>Ms. Choksondik:
+</th><td>They sure are, Wendy, and that's why we must learn what's inside them. <i>[pushes the dolly towards the class and hands the manatees out]</i> Now, we don't have quite enough <i>[one goes to Butters]</i> manatees to go around, so I think we're gonna have to split up into groups of four. <i>[Stan and Jordan get manatees]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Hey! Ours is still alive!
+</td></tr>
+<tr>
+<th>Ms. Choksondik:
+</th><td><i>[walks up and looks]</i> Oh, hold on. <i>[walks away. The manatee raises its head. Ms. Choksondik returns with a brick and brings it down hard on the manatee's head twice, killing it and exposing its brain. Butters is stunned. Ms. Choksondik returns to the front of the class]</i> Now, children, our first incision will be along the abdomen.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[holding his knife]</i> I can't do it, dude.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Aw, don't be such a baby! <i>[takes the knife, blinks, then offers it to Kenny]</i> You do it, Kenny.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Nuh uh!)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come, on, Kenny! I'll give you five bucks to do it!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(FIVE BUCKS???) <i>[grabs the knife and starts cutting away]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Too bad Cartman's missing this. He must be really sick.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Cartman house, living room. Cartman and his mom watch TV. Cartman laughs. Terrance and Phillip are on. They are dressed as detectives They look at a corpse with a dagger stabbed into the chest]</i>
+</td></tr>
+<tr>
+<th>Phillip:
+</th><td>Say Terrance, this body appears to have been moved since the murder. Look at the forensic evidence around the torso.
+</td></tr>
+<tr>
+<th>Terrance:
+</th><td>I don't see anything.
+</td></tr>
+<tr>
+<th>Phillip:
+</th><td>Look closer. <i>[Terrance looks closer]</i> Closer. <i>[Terrance bends down further. Phillip holds Terrance's head down]</i> Hunh-nh.
+</td></tr>
+<tr>
+<th>Terrance:
+</th><td>I still don't see anything, Phillip.
+</td></tr>
+<tr>
+<th>Phillip:
+</th><td>Waitwait. Hunh.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I know what's gonna happen, Mom. You wanna know what's gonna happen?
+</td></tr>
+<tr>
+<th>Phillip:
+</th><td><i>[grunts softly]</i> Keep looking, Terrance. The forensic evidence is right around here. <i>[grunts long, farts, and cackles. The camera pulls back to reveal Terrance standing on a stool. Phillip looks to see Terrance ready to fart on him. Terrance lets loose...]</i> Ah! <i>[...and Phillip is blown into a nearby wall, then falls on his side]</i> Af!
+</td></tr>
+<tr>
+<th>Terrance:
+</th><td>AAHahahahahahaaa!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Whoa! That totally surprised me! <i>[his mom looks at him]</i> I can't believe how the show manages to stay fresh.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Eh yes, sweetie.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[sweetly]</i> Mom.can you go make me a toaster pastry chocolate-mix butter ball? <i>[grins]</i>
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Oohh, honey, why don't you make it yourself? <i>[his grin vanishes]</i> Mommy's <i>[looks away]</i> expecting <i>[looks back]</i> some company.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>God, I have to everything around here!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Cartman house, kitchen. Cartman grabs a stool and walks over to the kitchen counter with it. He starts singing softly as he prepares his dish. He pulls out some Pop Toasties and puts them in a toaster, gets some powdered chocolate milk and a stick of butter, rolls the butter in the powdered milk, gets the Pop Toasties, and places the chocolate-covered butter between the two Pop Toasties. He squeezes down for good measure and makes his way out of the kitchen.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Cartman house, living room. Cartman enters singing to himself]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>I'mo drag home myself, babih. But the- [blinks and looks up. In the living room now with his mom are Stan's parents, Kyle's parents, Mr. Mackey, Mr. Garrison, and Dr. Doctor.]</i> What the hell's going on?
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Uh, sweetie, your friends wanted to have a "talk" with you.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Eric, your friends and your family are all... concerned about your weight. M'kay?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[incredulous]</i> What?!
+</td></tr>
+<tr>
+<th>Dr. Doctor:
+</th><td>We believe that you might have a problem.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You're God-damn right I have a problem! <i>Terrance and Phillip</i> is on and I don't have anywhere to sit! Now what the hell is this?!
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>It's called intervention, Eric.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Your friends and I have all chipped in and we're going to send you up to a weight-management retreat.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Fat camp?
+</td></tr>
+<tr>
+<th>Dr. Doctor:
+</th><td>Yes, fat camp.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Alright, I don't know who the hell put you all up to this, <i>[grabs his creation and drops the plate on the floor]</i> but I am <i>sure as hell not going to any gay-ass fat camp!</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Now, Eric, all these people came here and paid to send you to camp because they care about you.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Yeah, except for me. I just wanted to see the look on your face when they told you.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[pleading]</i> Mom, tell them! Tell them I'm not fat, I'm just big-boned! Tell them all those stories about how <i>everyone</i> in your family was big as a child but then grew into their bodies!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Oh, sweetie, those were all lies. You're just fat. <i>[Cartman is stunned. A piece of Pop Toasties falls on the floor]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, day, Ms. Choksondik's class. The manatees have been dissected in various places, and body parts are all over the desks and floor. A drawing of the manatee and its organs is now on the blackboard.]</i>
+</td></tr>
+<tr>
+<th>Ms. Choksondik:
+</th><td>And now we will be removing the spleen. Notice how the manatee's spleen is designed for a qu-
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td><i>[opens the door and peeks in]</i> Ah, Ms. Choksondik, can we have a quick word with you?
+</td></tr>
+<tr>
+<th>Ms. Choksondik:
+</th><td><i>[puts down the pointer and goes towards the door]</i> Alright, continue with the removal of the spleen, children. I'll be right back. <i>[opens the door and exits.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[working on his manatee]</i> Aw, dude, check this out. <i>[pulls out the spleen with some scissors]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[off-screen]</i> That's so gross.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, Kenny. How much for you to eat this?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(I'm not eatin' that!)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'll give you ten bucks to eat it.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I'll throw in five.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, day, hallway. Principal Victoria talks to Ms. Choksondik there.]</i>
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>And so apparently there's been a little mixup. The <i>manatees</i> were meant to go to the Denver Shelter Aquarium and the <i>frogs</i> were meant to come here.
+</td></tr>
+<tr>
+<th>Ms. Choksondik:
+</th><td>Oh dear.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, day, Ms. Choksondik's class. Some desks have been moved aside and the kids continue contributing to the kitty...]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>I'll throw in a dollar!
+</td></tr>
+<tr>
+<th>Bebe:
+</th><td>I've got three.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on, dude. All you gotta do is eat it very fast!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[off-screen, enticing]</i> forty-one bucks. <i>[Kenny jumps up and starts eating it. The others groan and moan]</i> Eww-ho-hoo! He did it!
+</td></tr>
+<tr>
+<th>Ms. Choksondik:
+</th><td><i>[returns to the front of the class]</i> Alright, children, now, let's get back in our seats. Uh, we are now going to put the manatees back together. <i>[the kids blink with surprise]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A wooded area, day. A camp is shown in some hills. It is called "Hopeful Hills Children's Weight Management Center." The Cartman station wagon drives into the camp]</i>
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>...And it has basketball courts and tennis courts, and you can call Mommy any time you want. <i>[Cartman has been looking away all this time. She looks at him]</i> Oh, sweetie-kins, don't be mad. I'm sure you're going to have a good time. And when you come back you'll be all healthy and thin. <i>[the station wagon pulls up to the Hopeful Hills REGISTRATION building]</i>
+</td></tr>
+<tr>
+<th>Male Counselor:
+</th><td>Howdy there. I'm one of the weight counselors here. This must be Eric Cartman.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Yes. I'm afraid he's a little moody.
+</td></tr>
+<tr>
+<th>Male Counselor:
+</th><td>Oh, we'll change that. <i>[bends down next to the passenger window]</i> Hello, camper. My name is Rick. How are you doing?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, I'm <i>pissed off!</i>, Rick! How are you?
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>I'm doing great! Why don't you come on out and we'll get yo oriented. <i>[stands up and Cartman exits the car]</i> I'll take care of him from here, ma'am.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Oh. <i>[bows and opens her arms to hug Cartman]</i> Well, goodbye, sweetie.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[darkly]</i> Don't touch me! <i>[moves away a bit]</i>
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Eric, this is the beginning of a whole new life for you!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hopeful Hills Children's Weight Management Center, later. A group of kids, all of them fat, stand in a circle and look at each other.]</i>
+</td></tr>
+<tr>
+<th>Brunette:
+</th><td><i>[to Cartman's right]</i> Have you got any candy?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No.
+</td></tr>
+<tr>
+<th>Taller Boy
+</th><td><i>[to Cartman's left]</i> My mom says I ain't to eat no candy here. I'm s'psoed to lose weight.
+</td></tr>
+<tr>
+<th>Rick:
+</th><td><i>[walks up to the group enthusiastically]</i> Alright! Everybody's here and that means we can get down to business! Over the next few weeks we're gonna learn that losing weight is <i>[jumps] fun</i>, right gang?
+</td></tr>
+<tr>
+<th>Taller Boy:
+</th><td>Right.
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Wait a second. <i>[holds his right hand to his ear]</i> Do you kids hear something? <i>[drops his hand]</i> I could've swore that-
+</td></tr>
+<tr>
+<th>Pink Monster:
+</th><td>Raaarrrr!!! <i>[a woman in costume]</i>
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Oh no, kids! It's glutinous fat!
+</td></tr>
+<tr>
+<th>Pink Monster:
+</th><td>I'm gonna take over your body and make you slow! <i>[starts hopping around]</i>
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Oh! What are we going to do? Wait! I know! I could knock it out! With... Exercise! <i>[holds up an EXERCISE paddle, strikes the monster on the head with it, and tosses it away]</i> And... Proper Diet. <i>[does the same with a PROPER DIET paddle]</i>
+</td></tr>
+<tr>
+<th>Pink Monster:
+</th><td>Oh no! Exercise and proper diet have killed me. <i>[falls over on her side]</i>
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>I guess we took care of that bad old fat, didn't we kids?
+</td></tr>
+<tr>
+<th>Taller Boy:
+</th><td>Yeah! <i>[Cartman glares at him]</i>
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Well, hold on a second. Because that glutinous fat was really our good friend, Susan, <i>[she pops out of the costume]</i> who's another weight counselor! <i>[she jumps out in front of the costume and exults]</i>
+</td></tr>
+<tr>
+<th>Taller Boy:
+</th><td>Heh! It was a lady in a costume!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[miffed]</i> Would somebody put this retard out of his misery?!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, day, playground. Stan and Pip stand by Kenny, who's groaning in pain and holding his stomach.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[walks up with Butters]</i> What's the matter?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kenny's not feeling so good. That manatee spleen made him sick. <i>[Clyde and Token come in from the right, Wendy and Bebe come in from the left. Stan comforts Kenny.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Uh oh. I guess we shouldn't have made him eat it. <i>[Stan jumps back as Kenny starts vomiting the spleen up. Stan and Kyle watch in shock]</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td>Eewww.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Well, at least you got it out of your system.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Aw, dude! You can still kinda see the spleen! <i>[Butters looks at him]</i> How much, Kenny?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(WHAT?!)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'll give you five bucks to eat your puke.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Huh-I'm in for five!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh, you guys!
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>I've got three.
+</td></tr>
+<tr>
+<th>Token:
+</th><td>Six!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Uh-here. Uh-you can scoop it up in my R. Kelly thermos. <i>[Kenny takes it and opens it up, then bends to scoop the vomit up into the thermos]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That's 19 bucks, Kenny! <i>[more kids gather]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Ungh.) <i>[goes ahead and eats his vomit]</i>
+</td></tr>
+<tr>
+<th>Kids around Kenny::
+</th><td>AAAAA!
+</td></tr>
+<tr>
+<th>Kids around Timmy::
+</th><td>Waugh.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kick ass, dude!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You know, dude, there might be something <i>to</i> this.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah. People are willing to pay big money to see Kenny do this stuff.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hopeful Hills Children's Weight Management Center, later. The counselors come up over a hill and down the other side jogging. They stop]</i>
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Doing great kids! Come on! <i>[they resume jogging and the fat kids lumber to the top of the hill panting behind them. Cartman stops and droops]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[resumes jogging]</i> This... is... bullcrap!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hopeful Hills Children's Weight Management Center, mess hall, after dinner. Rick is talking to the kids]</i>
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Well, I sure enjoyed <i>my</i> carrots and protein bar! How about you, gang?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[in withdrawal]</i> I'm starving. This is it. I'm going to die here.
+</td></tr>
+<tr>
+<th>Susan:
+</th><td><i>[cheerfully arrives with a loaded plate]</i> I hope you all left room for dessert. Soybean pudding for everybody! <i>[serves a plate of the stuff to everyone there, starting with Cartman's table]</i>
+</td></tr>
+<tr>
+<th>Brunet Boy:
+</th><td><i>[to Cartman's left]</i> Are you going to eat your soybean pudding?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[shoves his plate to the boy]</i> Take it! I can't eat this crap!
+</td></tr>
+<tr>
+<th>Blonde Girl:
+</th><td><i>[to Cartman's right]</i> Me neither. I have to have sugar or I'm going to <i>die.</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[to the girl]</i> Yeah, well, when I was in prison, we used to sneak stuff in by hiding it up our ass.
+</td></tr>
+<tr>
+<th>Brunet Boy:
+</th><td>I have some Fudge 'Ems up my ass. You want some?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Psss. Yeah, I'm not falling for that one again!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hopeful Hills Children's Weight Management Center, night. Cartman sneaks out and creeps along the side of the campers' cabin]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Alright, Clyde Frog. We just gotta clear the counselor building and we're free. <i>[sees the entrance and races for it. He exits and races through the meadow until he reaches a road.]</i> We did it, Clyde Frog! Now the only question is, do we go home to our traitor moms and friends, or do we start a new life on the run? <i>[an ice cream truck approaches him]</i> An ice cream truck! Hey wait! <i>[races up to the truck. The driver exits the cab]</i> Boy, am I glad to see you!
+</td></tr>
+<tr>
+<th>Driver:
+</th><td>Can I interest you in some ice cream?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You're <i>damn right</i> you can! Two Roller Pops, please!
+</td></tr>
+<tr>
+<th>Driver:
+</th><td><i>[goes to the back of the truck, opens the doors, and pulls out one pop.]</i> Alrighty, do you want this kind or this kind? <i>[points to the inside of the truck. Cartman looks]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hunh? <i>[is lifted up]</i> Uuh! <i>[and tossed into the truck. The doors are closed behind him, and he looks up. Before him sit four other kids who have tried to escape]</i>
+</td></tr>
+<tr>
+<th>Boy 1:
+</th><td><i>[on bench at left]</i>They tricked us again, huh?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[stands up]</i> Aw, God-damnit! <i>[turns]</i> LET ME OUT OF HMYA! <i>[pounds on the back doors]</i>
+</td></tr>
+<tr>
+<th>Driver:
+</th><td>Hang on, we'll be back at camp in a matter of no time. <i>[drives into camp]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hopeful Hills Children's Weight Management Center, moments later. The campers' cabin door is opened and the five escapees return to their bunks]</i>
+</td></tr>
+<tr>
+<th>Boy 1:
+</th><td>They always get us. Sometimes it's a ice cream truck, sometimes it's a taco stand. But they always fool us.
+</td></tr>
+<tr>
+<th>Taller Boy:
+</th><td>Heh-I can't help it. I'd give anything. Any amount of money for some candy. <i>[Rick and Susan pop into the campers' cabin.]</i>
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Hey kids!
+</td></tr>
+<tr>
+<th>Sussan:
+</th><td>Looks like we had some attempted escapees again tonight.
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Escape-aroo! Now campers, I know that camp is tough, but you have to believe that you can do it. And you have to know that until you drop the weight, you can't leave.
+</td></tr>
+<tr>
+<th>Susan:
+</th><td><i>[bends forward sweetly a bit and cocks her head to the left]</i> There <i>is</i> no escape.
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>So let's just all put on our try-hard helmets, and accept that the only way for us to get out of camp, is to LOSE THE WEIGHT
+</td></tr>
+<tr>
+<th>Eric:
+</th><td><i>[pissed off]</i> Aw, damnit!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, the Cartman house. Butters and Timmy have replaced Cartman in the boy's group for now, and they stand in front of the Broflovski parents, Mr. Mackey, Mr. Garrison, Sharon March, Principal Victoria, and Dr. Doctor. They argue amongst themselves.]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>That's what being young is all about.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td><i>[at the same time]</i> But that's not the question.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Thanks for coming, everybody.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uh what's all this about, Mrs. Cartman? Is Eric having trouble at havin' trouble at his weight-management camp?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We knew he wouldn't make it.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Oh, no. Quite the contrary. Eric showed up and surprised me last night. Ladies and gentlemen, I would like to present to you... the new Eric Cartman. <i>[steps to one side as Cartman enters]</i>
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>Hey, dudes!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Whoa! <i>[the others look stunned]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I don't believe it.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Believe it. He lost 40 pounds at his fat camp. <i>[everyone gathers round Cartman]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Eric, that's fantastic, m'kay?!
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Congratulations. How do you feel?
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>I feel awesome!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What did they do with all the fat? There must have been enough to last an Eskimo family months.
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>You know, Kyle? There was a time when your fat jokes would have gotten to me. But now I'm totally slim and totally happy! In fact, I'd say I'm <i>[leans a bit to eye Kyle's belly]</i> a little bit trimmer than you, fatboy! <i>[stands erect]</i> Heh heh. Just kidding, Kyle.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>I made some healthy tofu pudding to celebrate. Who wants some?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Memememeee! <i>[the group heads for the kitchen while Stan and Kyle stay behind]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude. I don't know if I'm going to like the new Eric Cartman.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Did you like the old one?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Good point.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Jesus and Pals]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>And now back to <i>Jesus and Pals</i>, on South Park Public Access.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td><i>[with the new Cartman]</i> Back to our courageous story of a little boy's triumph over obesity. Eric, yea. You found that the Spirit of the Lord inside you gave you strength.
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>No. Actually, I found a diet that totally works.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>A little boy who overcame the odds. Let's hear it for Eric Cartman! <i>[the studio audience applauds]</i> Well, our second guest tonight is a young man named Kenny McCormick, who is going to eat dog crap. Kenny? <i>[Kenny enters with Stan, Kyle, and a dog. Music begins as a spotlight falls on Kenny. The dog turns his ass to Kenny and craps. A musical riff plays as Kenny picks the crap up and the audience groans with disgust. Some of them cover their eyes. Kenny lifts the crap dramatically into the air a wailing female joins the music. Another riff plays as Kenny swallows the crap. A small pedestal appears under him and pushes him up and around. The audience groans some more, Kenny finishes off the crap, and the audience beings to cheer. The new Cartman is pissed]</i>
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>God-damnit, all <i>I</i> got was a little golf clap!
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td><i>[hesitant]</i> Thanks for coming on the show, Kenny.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[gracious]</i> (Sure!)
+</td></tr>
+<tr>
+<th>Man 1:
+</th><td>Do it again!
+</td></tr>
+<tr>
+<th>Man 2:
+</th><td>Do it again!
+</td></tr>
+<tr>
+<th>Man 3:
+</th><td>Hey kid! I'll give you 20 bucks to eat a really old piece of bacon!
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>This is ridiculous! <i>[picks at his eye]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>So. Kenny, how did you discover that you had this... talent?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We thought of it, Jesus. I mean, Kenny's the one that does it all, but we were the masterminds of the whole thing.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>I can't say I approve of this, my children.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[he and Stan look at Jesus for a moment]</i> Huh? Why not?
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Because Kenny is only doing things that anybody could do. For money. He's a prostitute.
+</td></tr>
+<tr>
+<th>Man 4:
+</th><td>I'll pay him 50 bucks to eat someone else's vomit.
+</td></tr>
+<tr>
+<th>Man 5:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Man 6:
+</th><td>Yeah! Go for it!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[to Kyle]</i> What's a prostitute?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I don't know.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, day, cafeteria. The kids mill around and eat during lunchtime. In line for their lunches are Craig, Tweek, Butters, and a few others. In the kitchen Stan, Kyle, and Kenny arrive for their lunches.]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[behind the sneeze guard, as usual]</i> Hello there, children!
+</td></tr>
+<tr>
+<th>Stan, Kyle, Kenny:
+</th><td>Hey, Chef:
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Chef, what's a prostitute?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[ponders, then displeased]</i> Dag-nabbit children! How come every time you come in here you gotta be askin' me questions that I shouldn't be answering?! "Chef, what's the clitoris?" "What's a lesbian, Chef?" "How come they call it a rimjob, Chef?" <i>[the boys blink. Stan and Kyle look at each other]</i> For once, can't you just come in here and say, "Hi Chef. Nice day, isn't it?"!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hi Chef. Nice day, isn't it?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[pleased]</i> It sure is! Thank you.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Chef, what's a prostitute?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Uh uh! You children are gonna get me in trouble with the principal again.
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td><i>[joins the other boys]</i> Lunchtime! I'm starved!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oh my God. Eric?
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>That's me.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Chef was just about to tell us what a prostitute is.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Why do you need to know what a prostitute is anyway?!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Because Jesus told us that Kenny's a prostitute. Is he?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah. Am I?)
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Well, no, uh of course Kenny is not a prostitute.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Why?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Well, because, children, a prostitute is someone who... you could pay for certain services.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Like what?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Like keeping you company. Understand?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><div class="poem">
+<p>You see, children, sometimes a man needs to <i>be</i> with a woman. But sometimes, when the lovin' is over, the woman just wants to talk and talk and talk and talk. <i>[begins singing]</i><br />
+<i>But a prostitute is someone who would love you</i><br />
+<i>No matter who you are, or what you look like.</i><br />
+<i>Yes, it's true, children.</i><br />
+<i>[the new Cartman looks at the other boys as he starts sneaking away. They don't notice him. Other kids, Jordan, Token, Clyde, Butters, and Bebe, enter the kitchen]</i><br />
+<i>That's not why you pay a prostitute,</i><br />
+<i>no, you don't pay her to stay, you pay her to leave afterwards.</i><br />
+<i>[Principal Victoria arrives and listens]</i><br />
+<i>That's why I pays a lot for prostitutes!</i><br />
+Ladies and Gentlemen, Mr. James Taylor.
+</p>
+</div>
+</td></tr>
+<tr>
+<th>James Taylor:
+</th><td><div class="poem">
+<p><i>[enters next to Chef playing a guitar]</i><br />
+<i>A prostitute is like any other woman</i><br />
+<i>They all trade somethin' for sex and they do it well.</i><br />
+<i>[the new Cartman goes into the supply room and starts packing donuts into his backpack]</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>And that's why I say-</i>
+</td></tr>
+<tr>
+<th>Chef and James Taylor:
+</th><td><i>Prostitutes! Prostitutes! They-</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oohhhh <i>[they stop when they see Principal Victoria, who has crossed her arms in anger]</i> ...James Taylor, what the hell are you doin' in here?! Singing' about <i>prostitutes</i> to the children! Get out of here! <i>[James leaves, but Principal Victoria is not satisfied.]</i> ...These children tricked me!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hopeful Hills Children's Weight Management Center, that night. After being tucked int bed, the new Cartman sneaks out and rides a bike towards the Center, hides the bike near the entrance, and approaches the gate]</i>
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td><i>[a shadow falls on him]</i> Oh, there you are. Alright, I got the goods. Some candy bars, a few donuts, and some beef gravy.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Is anyone starting to suspect anything?
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>Nobody. Your mom even thinks I'm a skinny you.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ahawesome! Alright, throw it over!
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>Uh uh. One thing. I want a bigger cut.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What?!
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>I'm the one risking my ass, running around in that stupid town pretending to be you and collecting all the food to bring up here! All you have to do is sit back and sell it to all the fat kids!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Alright alright! Keep your voice down! I'll bump you up to 10%.
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>Twenty.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[soft gasp]</i> Suck my balls, 20!
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>Fine! Then I shall bid you good day! <i>[turns aside to get his bike]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Waitwaitwaitwait! Fine, 20! But just remember that <i>your</i> parents think that <i>you're</i> in the drug rehab center next door! You blow your cover and we're <i>both</i> screwed! <i>[the new Cartman looks trapped]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The University of Colorado, dorm room. Several students are reading their books while clothes is strewn all over the place]</i>
+</td></tr>
+<tr>
+<th>Student 1:
+</th><td><i>[bursts through the door]</i> You guys! You have to check this tape out!
+</td></tr>
+<tr>
+<th>Student 2:
+</th><td><i>[on the sofa]</i> Ey, we're trying to study. Finals are tomorrow.
+</td></tr>
+<tr>
+<th>Student 1:
+</th><td>No, dude, check this out! It's a video: this kid, he does all kinds of crazy stuff. <i>[pops the video into the VCR and turns on the TV]</i> Check it out! He jumped into a Porto-Potty at a construction site and stayed there for four days! <i>[the screen shows Kenny standing in a pool of poo under the toilet and looking at the camera]</i>
+</td></tr>
+<tr>
+<th>Other Students:
+</th><td>Whoa! <i>[the screen shows a construction worker heading for the Porto-Potty. He enters and sits on the toilet, and a long log of poo descends from his nether regions]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[the poo lands square on his face]</i> (Ow.)
+</td></tr>
+<tr>
+<th>Student 1:
+</th><td>Oh, gro-hoss
+</td></tr>
+<tr>
+<th>Student 3:
+</th><td>Sick!
+</td></tr>
+<tr>
+<th>Student 2:
+</th><td>That's awesome! <i>[rushes out to the hall and hollers]</i> Hey guys! Check this out!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Krazy Kenny Show, live]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td><i>[graphics come up animated, with letters exploding behind the show's logo]</i> Get ready for the Krrrrrrazy Kenny Show! <i>[four spotlights roam the stage]</i> And now here's your host, the kid who will do anything to himself for money, Krrrra—a--a-a-azy Kenny! <i>[Kenny appears and goes to the center of the stage, The spotlights converge on him as music reaches climax]</i> Kenny, through the past weeks we've seen you eat mice, pretend to kill newborn babies to shock their mothers and ...wash your hair with battery acid. The question in all our minds is,  who-haht are you gonna do next? <i>[the audience cheers]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Well, I'm gonna give my grandfather a full-body sensual massage.)
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Whoa-ho ho! You heard him, folks! Kenny is going to give a sensual full-body massage to his own grandfather!
+</td></tr>
+<tr>
+<th>Man 1:
+</th><td>Oho! Yeah!
+</td></tr>
+<tr>
+<th>Man 2:
+</th><td>Woohoo!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Fanfare as the stage rotates to reveal Kenny's grandfather relaxing on a heart-shaped bed. Kenny opens up a bottle of massage oil and begins massaging him]</i>
+</td></tr>
+<tr>
+<th>Audience:
+</th><td>Awww! Awgh!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wow! This is Kenny's best show ever!
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>This is so juvenile. <i>[bites a licorice stick. He has a box of donuts on his lap, and he and Kyle have licorice sticks]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman, what the hell's the matter with you? <i>[takes a donut]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, you've gotten lame since you got skinny. What's up?
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>Eh, nothing. Hey, can I have some of that licorice to- take home?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hopeful Hills Children's Weight Management Center, next night. Rick is in the campers' cabin]</i>
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Alright campers, good work today. Lights out, and we'll see you tomorrow for more exercise and proper diet. <i>[opens the door, exits, and closes the door]</i>
+</td></tr>
+<tr>
+<th>Susan:
+</th><td><i>[waiting]</i> All beddy-byes for the night, are they?
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>I don't know what we're doing wrong, Susan. These kids aren't losing the weight.
+</td></tr>
+<tr>
+<th>Susan:
+</th><td>We'll just have to give them more time. They'll do it!
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>They'll do it.
+</td></tr>
+<tr>
+<th>Susan:
+</th><td>They'll do it!! <i>[the counselors leave. Inside the cabin Cartman looks out the window, watching them leave]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[turns around]</i> Alright, they're gone! <i>[walks to his bed and pulls out a suitcase from underneath]</i> The Cartman store is open! <i>[the other kids leave their bunks and head for Cartman]</i>
+</td></tr>
+<tr>
+<th>Blonde Girl:
+</th><td><i>[first in line, hands him some money]</i> Two donuts and a pack of licorice, please.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[quickly as he hands the goods over]</i> Two donuts and a pack of licorice. <i>[she walks away,and a big, tall boy is next]</i> Well, Tony, the usual? <i>[Tony, with squinty eyes, blinks and Cartman gives him the usual. Tony walks away. Another boy walks up, crying]</i> Why are you crying, Chad?
+</td></tr>
+<tr>
+<th>Chad:
+</th><td><i>[sobbing]</i> 'Cause I'm always gonna be fat. I don't wanna eat no sweets, but I can't control myself when they're right in front of me like this. <i>[sobs some more. Cartman moves away a bit]</i> All my life I've been fat. I've beh- I've been to seven camps and I swore to my momma that I'd lose the weight. I want to, but I can't help myself. <i>[breaks down]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[comforts Chad]</i> Hey, Chad, eh... You know what you need? You need a friend.
+</td></tr>
+<tr>
+<th>Chad:
+</th><td><i>[wipes away his tears]</i> I'd, I do?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yes. <i>[dangles a chocolate in front of him]</i> A chocolate friend. <i>[Chad begins to howl]</i> Mr. Candy Bar doesn't judge you, Chad. Mr. Candy Bar likes you just the way you are. <i>[opens the wrapper to expose the aroma and tempts him]</i> Look at how yummy and sweet he is. <i>[Chad, still sobbing, takes the candy bar and starts eating. Cartman bides his time]</i> ...There you go. That'll just be four dollars. <i>[Chad hands him the money and finishes the candy bar. Cartman just watches]</i> ...There you go.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A Krazy Kenny Show promo]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>This week on Pay Per View <i>[a yellow starburst appears with "<font face="lithograph">PAY PER VIEW</font>" on it, then another starburst with Kenny standing behind Ms. Crabtree]</i>, Krazy Kenny will crawl up into a woman's uterus and <i>[a shot of Kenny inside the uterus]</i> stay there for six hours. Don't miss this once-in-a-lifetime event. Order now!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The big city, day. City noise is heard. Next shot is in a studio, with Howard Stern hosting, and three guests. On the walls are posters, one of which is of Elton John. Two loves dolls are in the background, and the Antonio Banderas one is behind Stern]</i>
+</td></tr>
+<tr>
+<th>Howard Stern:
+</th><td>Alright, so we're back talkin' to three competing celebrities: Tom Green, Johnny Knoxville from MTV's <i>Jackass</i> and Krazy Kenny.
+</td></tr>
+<tr>
+<th>Tom Green:
+</th><td>Hey, Howard.
+</td></tr>
+<tr>
+<th>Howard Stern:
+</th><td>Krazy Kenny is here to promote his Pay-Per-View special this week, where he will crawl up into a bus driver's uterus and stay there for six hours.
+</td></tr>
+<tr>
+<th>Johnny Knoxville:
+</th><td><i>[stammering]</i> Wow!
+</td></tr>
+<tr>
+<th>Howard Stern:
+</th><td>Now, some people that all you guys do is perform sick and disgusting acts for shock value and money, which makes you whores. But I'd like to prove them wrong. So what I'm gonna do... is I'm gonna offer each of you $50,000 to give me oral sex right now.
+</td></tr>
+<tr>
+<th>Tom Green:
+</th><td>I'm in.
+</td></tr>
+<tr>
+<th>Johnny Knoxville:
+</th><td>Me too.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(And me!)
+</td></tr>
+<tr>
+<th>Howard Stern:
+</th><td>Oh.
+</td></tr>
+<tr>
+<th>Tom Green:
+</th><td>Fine! I'll do it for 40!
+</td></tr>
+<tr>
+<th>Johnny Knoxville:
+</th><td>30.
+</td></tr>
+<tr>
+<th>Tom Green:
+</th><td><i>[points at Johnny]</i> 20!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(...Ten bucks!)
+</td></tr>
+<tr>
+<th>Howard Stern:
+</th><td>Ooh, the kid says he'll do it for ten bucks.
+</td></tr>
+<tr>
+<th>Tom Green:
+</th><td>Damnit. I'm out.
+</td></tr>
+<tr>
+<th>Johnny Knoxville:
+</th><td>Me too. I guess he <i>is</i> the biggest whore.
+</td></tr>
+<tr>
+<th>Howard Stern:
+</th><td>Alright, let's get going, then. Can we cut the cameras?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hopeful Hills Children's Weight Management Center, day. Exercise...]</i>
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>And we're gonna reach for the sky... <i>[has arms high above his head]</i>
+</td></tr>
+<tr>
+<th>Campers:
+</th><td><i>[follow through]</i> Woo-aagh.
+</td></tr>
+<tr>
+<th>Rick...
+</th><td>And down to the ground. <i>[touches the ground with his fingertips]</i>
+</td></tr>
+<tr>
+<th>Campers:
+</th><td><i>[follow through]</i> Woo-ugh.
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>And up to the sky... <i>[arms high above his head]</i>
+</td></tr>
+<tr>
+<th>Campers:
+</th><td><i>[follow through]</i> Woo-aagh. <i>[Cartman and the camper to his right perform a quick transaction - Cartman hands him a pastry for a few bucks.]</i>
+</td></tr>
+<tr>
+<th>Rick...
+</th><td>And down to the ground. <i>[touches the ground with his fingertips]</i>
+</td></tr>
+<tr>
+<th>Campers:
+</th><td><i>[follow through]</i> Woo-ugh. <i>[a couple enters the yard with their son, the taller camper Cartman got annoyed with early on. Susan catches up]</i>
+</td></tr>
+<tr>
+<th>Susan:
+</th><td>Please, Mr. Sanders. <i>[Rick rises quickly]</i>
+</td></tr>
+<tr>
+<th>Mr. Sanders:
+</th><td>No! I have had it!
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>What's happening?
+</td></tr>
+<tr>
+<th>Susan:
+</th><td>Horace's parents want to take him home.
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Oh! But he's not ready yet.
+</td></tr>
+<tr>
+<th>Mr. Sanders:
+</th><td>Look at what you've done to my boy! You told Horace that <i>he</i> was responsible for his weight! You made him believe that with exercise and proper diet, he could be thin! When <i>we</i> told you it was his genetics!
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>They <i>can</i> lose the weight if they try.
+</td></tr>
+<tr>
+<th>Mr. Sanders:
+</th><td>Look at these kids! They're not getting any thinner! <i>[a shot of the campers]</i> Your camp is a fraud! You need to accept the fact that <i>most</i> fat people are just genetically fat!
+</td></tr>
+<tr>
+<th>Susan:
+</th><td>Please, sir, if you give us one more week,...
+</td></tr>
+<tr>
+<th>Mr. Sanders:
+</th><td>Your time is up!
+</td></tr>
+<tr>
+<th>Mrs. Sanders:
+</th><td>Yeah, your time is up!
+</td></tr>
+<tr>
+<th>Mr. Sanders:
+</th><td>And I'm going to call all the other parents to tell them to come claim <i>their</i> kids as well! Your camp is a WASTE ...of time!
+</td></tr>
+<tr>
+<th>Horace:
+</th><td>But, Dad, I...
+</td></tr>
+<tr>
+<th>Mr. Sanders:
+</th><td>What?! <i>[Horace looks at Cartman, who look back concerned]</i>
+</td></tr>
+<tr>
+<th>Horace:
+</th><td>...Nothin'. <i>[he and his parents turn right and walk away]</i>
+</td></tr>
+<tr>
+<th>Susan:
+</th><td>We're in trouble, Rick.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, day. At the television studio preparations are made for Kenny's test of endurance. Tweek, Token, Clyde, Butters, and Kyle (with hammer) are onstage. The sounds of sawing and hammering fill the air. Ms. Crabtree is prepped for the test, with her legs spread open and the genital area blocked off by small curtains.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Alright, Ms. Crabtree. Is it comf'table enough?
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>HOW LONG HAVE I GOT TO SIT HERE?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Six hours.
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>HELL, I'LL DO SIX HOURS FOR THE FIVE HUNDRED BUCKS YOU'RE PAYING ME!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Great.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[enters and runs to the stage]</i> You guys! It's Kenny! He's been arrested for prostitution in New York!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>For what?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>For giving Howard Stern a hummer!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Who-what's a hummer??
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I don't know! All I know is Kenny is in jail for at least three months!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Three months?! But the pay-per-view is tomorrow!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I <i>know</i>! <i>[Kyle gets an idea. He and Stan descend the steps to talk to the new Cartman, who stands nearby]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[sits next to the new Cartman. Stan sits by Kyle's other side]</i> He worked so hard, come so close. Now we'll <i>never</i> see Kenny crawl up into Ms. Crabtree's uterus.
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>You know, maybe we've all learned something here. I mean, we set Kenny up to further and further himself each time, havin' to always outdo himself. Now he's in jail for being a whore. And perhaps, just perhaps, we are to blame. <i>[Kyle looks at him with suspicious anger]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...Alright, that does it! <i>[rises and backs up a bit]</i> This has been bothering the hell out of me! <i>[reaches for the new Cartman's cap and pulls it off, revealing a puffy head of hair. Stan registers shock]</i> I knew it! You're not Cartman at all!
+</td></tr>
+<tr>
+<th>New Cartman:
+</th><td>Uh oh.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Krazy Kenny Show. The big moment arrives]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Well, we've seen him do just about every disgusting thing in the book, and today live on pay-per-view, Krazy Kenny is going to crawl into a woman's uterus for six hours! <i>[the audience jumps and applauds]</i> Well, Ms. Crabtree, your cervix has been dilated, your womb equipped with oxygen- How do you feel?
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>I feel great! I haven't had this much attention paid to my coot since I was 16!
+</td></tr>
+<tr>
+<th>Audience:
+</th><td><i>[jumping, cheering]</i> Hooray!
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Well, let's bring out the man of the hour, you know him as the-
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Krazy Kenny Show, backstage. Kyle and Stan get the new Cartman, now the new Kenny, ready, dressing him like Kenny.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Don't worry, dude. You're gonna do great.
+</td></tr>
+<tr>
+<th>New Kenny:
+</th><td><i>[pulls the hood off his face]</i> No way! I'm not doing this!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh, you're doing it, or else we're gonna bust your whole scheme wide open, and tell your mom you haven't actually been at your drug rehab this whole time!
+</td></tr>
+<tr>
+<th>New Kenny:
+</th><td>But this isn't fair!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[walks up and puts the hood back on the new Kenny]</i> Deal, druggie!
+</td></tr>
+<tr>
+<th>New Kenny:
+</th><td>(But I'm gonna starve to death if I get in there!)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Krazy Kenny Show, later]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>And here he is, Kenny McCormick! <i>[Kenny enters, waves to the audience as it cheers, and walks towards Ms. Crabtree. Kenny parts the little curtains and the audience quiets down. The audience reacts as Kenny climbs into the uterus]</i> We can watch him on the video monitors. How are you doin' in there, Kenny? <i>[four monitors frame the stage prop behind Ms. Crabtree. Above her is a digital timer. Inside the womb, Kenny holds his right thumb up]</i>
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>That's my boy! <i>[Stuart smiles]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hopeful Hills Children's Weight Management Center, next day. The parents have come for their campers. All the parents are fat, too.]</i>
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Good-bye, Chad.
+</td></tr>
+<tr>
+<th>Chad's Dad:
+</th><td>We'll be wanting our refund, naturally.
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Naturally.
+</td></tr>
+<tr>
+<th>Susan:
+</th><td>Good-bye, Alice.
+</td></tr>
+<tr>
+<th>Alice:
+</th><td>Good-bye. Thank you.
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Oh, don't thank us. We failed you.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[off to one side]</i> ...65, 66, 67... <i>[counting the dollars he's collected during his stay]</i>
+</td></tr>
+<tr>
+<th>Chad:
+</th><td><i>[at the back door of the car, turns around]</i> Wait a second! This isn't right! <i>[other campers and their parents stop]</i> It's time for me to be responsible for my own actions! Mom, Dad, we've been eating candy this whole time! Eric Cartman's been sneaking in junk food!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[through gritted teeth]</i> Eh- shut up, you half-Chad!
+</td></tr>
+<tr>
+<th>Horace:
+</th><td>No, he's right. The counselors've been doing a good job. We've just been cheating.
+</td></tr>
+<tr>
+<th>Other campers:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Horace:
+</th><td>I believe I can lose the weight with exercise and proper diet. I don't wanna make excuses no more.
+</td></tr>
+<tr>
+<th>Girl:
+</th><td>Me neither.
+</td></tr>
+<tr>
+<th>Other campers:
+</th><td>Yeah. <i>[newly overjoyed, Rick and Susan grin and look at each other]</i>
+</td></tr>
+<tr>
+<th>Horace:
+</th><td>If you take us back, we promise we won't cheat.
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Well, it's alright with me. Parents?
+</td></tr>
+<tr>
+<th>Mr. Sanders:
+</th><td>Well, what the heck. Maybe when you're all done you can teach <i>me</i> a thing or two, huh son? <i>[rubs his son's hair; Horace looks up and grins at him]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You know? You guys are right. I'm sick of being the fat kid, too. I've been making excuses all my life. But I know deep down that if I took responsibility and really tried hard, and we all tried together, well we really can lose the weight! <i>[grins hopefully]</i>
+</td></tr>
+<tr>
+<th>Susan:
+</th><td>Oh no, not you. You're not welcome here anymore.
+</td></tr>
+<tr>
+<th>Campers:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What?!
+</td></tr>
+<tr>
+<th>Rick:
+</th><td>Bubbye. <i>[turns around and walks into the registration building with Susan. The rest of the campers follow them in.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, screw you, fatasses! <i>[begins sobbing, and pulls out a donut from his pocket. He eats at it between sobs.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Krazy Kenny Show, stage. The countdown continues...]</i>
+</td></tr>
+<tr>
+<th>Audience:
+</th><td>Four, three, two, one!
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>He did it! Come on out, Kenny! <i>[nothing happens]</i> You made it six hours, Kenny. Come on out of there. <i>[nothing]</i> Hmmm. Uh, Ms. Crabtree, maybe you could give him a little push. <i>[Ms. Crabtree breathes in and pushes down. The new Kenny comes out of the uterus and slides down the steps of the stage]</i>
+</td></tr>
+<tr>
+<th>Audience:
+</th><td>OOOOHHHHHH!
+</td></tr>
+<tr>
+<th>Dr. Doctor:
+</th><td>He's dead. The pressure must have killed him.
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>I told you I was a tight virgin flower.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[pointing]</i> Oh my God, they've killed Kenny! ...Sort of.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah. They've kinda killed Kenny -'s look-alike. You bastards!
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Well, he gave his life for our amusement. One little boy who dared to be different. Let us never forget... Kenny McCormick. <i>[Ms. Crabtree pushes down and another boy, wearing glasses, descends]</i> Who was that?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Fat Camp</b> Chef sings his prostitute song again.]</i>
+</td></tr></table>
+<p><br />
+<br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">415: "<a href="/wiki/Fat_Camp" title="Fat Camp"><span style="color:white">Fat Camp</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:415&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Krazy_Kenny_Show" title="Krazy Kenny Show">Krazy Kenny Show</a> • 
+<a href="/wiki/Howard_Stern" title="Howard Stern">Howard Stern</a> • 
+<a href="/wiki/Johnny_Knoxville" title="Johnny Knoxville">Johnny Knoxville</a> •
+<a href="/wiki/Tom_Green" title="Tom Green">Tom Green</a> •
+<a href="/wiki/Kenny_Impostor" title="Kenny Impostor" class="mw-redirect">Kenny Impostor</a> • 
+"<a href="/wiki/The_Prostitute_Song" title="The Prostitute Song">The Prostitute Song</a>"
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Fat_Camp/Images" title="Fat Camp/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s04e15-fat-camp">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Fourth_Season" title="South Park: The Complete Fourth Season">South Park: The Complete Fourth Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 151/300000
+Post‐expand include size: 4905/2097152 bytes
+Template argument size: 49/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:27119-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Fat_Camp/Script?oldid=243392">http://southpark.wikia.com/wiki/Fat_Camp/Script?oldid=243392</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Four" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Four" title="Category:Scripts from Season Four">Scripts from Season Four</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":27119,"kv_wpage":"Fat_Camp\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Fat_Camp/Script","wgTitle":"Fat Camp/Script","wgCurRevisionId":243392,"wgArticleId":27119,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Four"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Fat_Camp/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1454927565/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":243392,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Fat_Camp/Script","fbReturnToTitle":"Fat_Camp/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Fat_Camp/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Fat_Camp/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:PasswordReset","caption":"Reset password","href":"http://southpark.wikia.com/wiki/Special:PasswordReset","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Fat Camp/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1454927565/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1454927565/group/-/videos_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1454927565/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/visit_source_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1454927565.0.81516"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/monetization_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/global_navigation_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/global_navigation_2016_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/page_share_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

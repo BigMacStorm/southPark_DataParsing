@@ -1,0 +1,2230 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Casa Bonita/Script,Casa Bonita,Eric Cartman,Butters Stotch,Casa Bonita (Location),Atomic Gas Station,Casa Bonita (song),If You Leave Me Now,South Park: The Complete Seventh Season,Casa Bonita/Images,Casa Bonita/Trivia" />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Casa_Bonita/Script" />
+<meta name="twitter:title" content="Casa Bonita/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Casa_Bonita/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Casa Bonita/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":25682,"pageIsArticle":true,"pageName":"Casa_Bonita/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=25682,
+wgCategories=["Scripts","Scripts from Season Seven"],
+wgPageName="Casa_Bonita/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s48","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25682&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25682&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Casa Bonita/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Casa_Bonita/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Casa_Bonita_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FCasa_Bonita%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Casa_Bonita/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Casa_Bonita/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Casa Bonita/Script</h1>
+											<h2>&lt; <a href="/wiki/Casa_Bonita" title="Casa Bonita">Casa Bonita</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Casa_Bonita/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Casa_Bonita/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Casa_Bonita" title="Casa Bonita">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Casa_Bonita/Trivia" title="Casa Bonita/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Casa_Bonita/Images" title="Casa Bonita/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s07e11-Casa-Bonita">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li>Stan Marsh
+</li><li>Kyle Broflovski
+</li><li>Eric Cartman
+</li><li>Kenny McCormick
+</li><li>Butters Stotch
+</li><li>Jimmy Valmer
+</li><li>Sheila Broflovski
+</li><li>Stephen (Chris) Stotch
+</li><li>Linda Stotch
+</li><li>Irene, Trash Dump Worker
+</li><li>Police Captain
+</li><li>Field Reporter
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-25682-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25682-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25682-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25682-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25682-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsm_ffv mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="medium"data-font-face="veranda" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's house, day. Stan, Kenny, and Cartman watch TV from the couch. Cartman is eating a bowl of chips]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, I wonder where Kyle is.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Maybe he caught a disease and died. That'd be so awesome.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude that's not funny. You shouldn't joke about that.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah.)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Who's joking? <i>[a door opens and closes offscreen]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[enters excitedly, his arms up in the air]</i> You guys! You guys! I have awesome news!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You have AIDS?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No. This Saturday, for my birthday, my Mom says she's takin' me to Casa Bonita, in Denver, and I get to invite three friends!.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[stands up]</i> Wow! Casa Bonita?!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[stands up]</i> (Woo-hoo!)
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[stands up]</i> What's Casa Bonita?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Dude, haven't you ever been there?! It's a big Mexican restaurant where they have, like, cliff jumpers and Black Bart's Cave and <i>[holds out his hand wide]</i> all kinds of stuff!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's like the Disneyland of Mexican restaurants.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>This Saturday! Awesome! <i>[begins to sing to "La Cucaracha"] Casa Bonita! Casa Bonita! Food and fun in a festive atmosphere. </i>[begins to snap his fingers]<i> Casa Bonita!</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Who said I'm inviting you? <i>[this freezes Cartman for a few seconds]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You... your Mom said you could take three friends.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yes. Three friends. You're not my friend.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Wuh ih uh... Weh come on, Kyle, who the hell else are you gonna take besides Stan and Kenny?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'm gonna take Butters. He invited me to <i>his</i> birthday party last month, so I owe him one.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Butters?! You're gonna take THAT butt hole?! Why?!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Because Butters isn't a total dick to me!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I have never been a dick to you.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[rolls his eyes]</i> Oh please! All you ever do is call me names and rip on me for being Jewish!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Kyle, when have I ever ripped on you for being a Jew?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[thinks back and counts the number of times Cartman has ripped on him for being a Jew]</i><br /><i>[in the playground. Craig is there instead of Kenny]</i> Oh yeah?! Well you're a stupid Jew!<br /><i>[in the playground, by the school's back doors]</i> You're a Jew!<br /><i>[in Cartman's room. Cartman is wearing a crown]</i> Shut your God-damned Jew mouth!<br /><i>[at Kyle's house, on the front steps]</i> Good job, Jew!<br /><i>[singing the Dreidl song with Kyle's family and Stan]</i> <i>Jew...</i><br /><i>[leaving his seat in class]</i> Shut up, Jew!<br /><i>[at Cartman's house, with outfits]</i> You're Jewish!!<br /><i>[seated on a curb with the other boys]</i> Dude, he's Jewish!<br /><i>[staking out a house]</i> Jew!<br /><i>[on Nightline, seated next to Stan]</i> Jew!<br /><i>[in Cartman's dining room]</i> Jew!<br /><i>[at the side of a road, with Tweek and with their parents]</i> Jew!<br /><i>[next to stacks of lumber, as Kyle is about to whack him]</i> Jew!<br /><i>[at a barn, through a hole on the roof]</i> Jew!<br /><i>[Stan's room. Kyle reads a Bible]</i> Jew?!<br /><i>[At the Costa Rican rainforest, during practice]</i> "I told you Jewish people don't have rhythm." "Fuck off, Cartman!"
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[Cartman thinks back as well]</i> Okay, except maybe for that <i>one</i> time.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You've always been a dick to me, Cartman, and I'm not inviting you. <i>[turns and walks away, but Cartman stays close]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Kyle, you don't understand! Casa Bonita is my most favorite place <i>[Kyle turns around]</i> in the whole world. I'll just, I'll just die if you don't take me! Please! <i>[holds his hands together in a sign of pleading]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[crosses his arms and avoids Cartman's eyes]</i> Sorry, my mind's made up.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[turns irate and flips him off]</i> Well fuck you, Kyle!! I don't wanna go to your faggy birthday party anyway! I'd much rather hang out at home than have to be around you and your Jew mom for a day! <i>[shoves the middle finger close to Kyle's face]</i> Kiss my balls, asshole!!! <i>[turns and walks away. The front door opens, closes, and opens again. Cartman returns and apologizes]</i> Dude, I totally didn't mean that, Kyle.  I really really wanna go to Casa Bonita. I'm sorry we had that fight just now. You know, I mean, I said some things, you said some things, but, I think it was good and we-we've moved past it.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[clearly annoyed now]</i> I'm not inviting you to Casa Bonita.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[turns irate and flips him off again]</i> Well fuck you, Kyle!! I hope you die! I hope you fucking die!! <i>[turns and walks away. The front door opens, then closes]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's house, night. Cartman sleeps...]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Casa Bonita! Come on, you guys! <i>[waves them on. Next scene is him getting a large platter of food]</i> Oh, awesome!! <i>[next scene is him waving his friends to a cave]</i> Come on, you guys! Black Bart's Cave! <i>[next scene is him by a waterfall]</i> Wow, cliff divers! <i>[a cliff diver takes a dive from the top of the waterfall. Next scene is Cartman on his third dish]</i> More sopapillas, please! <i>[next scene has him dancing in front of a low stage, on which a mariachi quartet plays its songs. An image of Kyle floats through his dream]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'm not inviting you, Cartman. You can't go.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[with more foods on his plates, the dream dissolves. He's pulled up and away]</i> No! Noooo! <i>[he's pulled out of Casa Bonita and floats away]</i> Casa Bonita! Noooo! <i>[startled out of his dream]</i> AAAAH!! <i>[catches his breath]</i> Oh... God-damnit, I have to get invited to go! I'm just gonna have to start being nice to Kyle!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's house, next day. Cartman approaches the front door in a nice sweater and rings the bell. Kyle answers]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[looking quite presentable]</i> Hi Kyle. <i>[smiles]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[studies Cartman a bit, but isn't impressed]</i> That isn't it, Cartman.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What isn't it?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That's not being nice! That's just putting on a nice sweater!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>...I don't understand the difference.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I know you don't. <i>[steps back and slams the door on Cartman's face]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, day. The kids head for class: Bill, Craig, Wendy, then Jimmy. Cartman enters and rounds the corner, sees Jimmy and runs up to him]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Jimmy! Hey Jimmy, wait up! <i>[Jordan and Red walk by at the far end of the hall. Jimmy stops]</i> Dude, uh I need your help on something.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Well, sure, Eric. W-w-what seems to be the p-p-p-prrroblem?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, everybody likes you, Jimmy, a-and you seem to be really good with people, so, I was wondering if you could tell me, how "do" you act nice to people?
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Well, the best thing is not to act nice, Eric. Uh, the best thing is to be genuinely nice.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Okay, so how do you act <i>genuinely</i> nice to people?
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Well, Eric, pah part of being nice is just making people smile and laugh. The best way to do that is by telling a fan-tastic joke or a humorous anti-d- ant'duhh ...anecdote.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Like what?
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Well, like, try this one on for size: Knock knock.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Who's there?
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Ing-mar ...Bergman. <i>[Cartman jumps, but not because of the joke. Kyle approaches them from the other end of the hall.]</i> Now you say, "Ingmar Bergman who?" <i>[Cartman quickly punches Jimmy in the face]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Take that, Jimmy! <i>[strikes him again, and Jimmy falls away]</i> And that! And don't you <i>ever</i> talk bad about Kyle again! <i>[Kyle stops by and looks. Cartman glances at him]</i> Kyle is my friend! And if you say you had sex with his mom one more time, I'm gonna really let you have it! You hear me?! <i>[looks at Kyle]</i> Oh, Kyle. Hey.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Do you really think that beating up a handicapped kid is being nice? <i>[turns and walks on his way]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Uh... <i>[turns and runs towards Kyle]</i> He-hey Kyle! Knock knock. <i>[follows him around the corner]</i> Knock knock, Kyle!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The school cafeteria. Cartman is looking at a picture. A tear wells up in his left eye. The picture's frame reads "I Had A Good Time at CASA BONITA," and the picture within is one of Cartman, his mom, and the mariachis in the background. He hears Kyle's excited voice.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, Casa Bonita, this Saturday! <i>[approaches a table with Kenny, Stan, and Butters]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Wow, that's gonna be so fun!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, it'll be awesome. Just the four of us.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah!) <i>[Cartman sits at his own table, alone.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The school hall, the bell rings. Red and Jordan walk one way, Kyle and Craig the opposite way. Keven opens up his locker. Kyle stops at his locker, and Cartman walks up]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey Kyle.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well what?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>How are you going to try to get invited to Casa Bonita <i>this</i> time?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I'm not, Kyle. I know you already told Butters he could go.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh. Well... yeah. I, I did.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>So, fine, Kyle, but honestly, I never meant to make you feel like you didn't matter at all to me. I know we argue all the time and I give you tons of crap, but we've also been through a, a lot together, and... maybe that alone doesn't make us friends, but it makes us something. So, ...whatever, you know, just... ah I hope... things will be cool.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'm still not inviting you to Casa Bonita.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I know, Kyle. I'll see ya later. <i>[turns and walks away]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Eh... hey, Cartman? <i>[Cartman turns around]</i> You really don't care that you can't go?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I care, sure, but I hope it doesn't mean you and me and Stan and Kenny can't hang out anymore.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That's exactly what I wanted to hear from you all along. Ah uh I still have to take Butters, but... I hope things can be cool too.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Good.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>And, and hey, if for some reason Butters can't go to Casa Bonita, you can take his place.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Sweet, whatever. <i>[walks on, then mouths to himself]</i> Bingo!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's house, Friday night. Cartman leads Butters into his bedroom]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>What's this all about, Eric?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[leads him to a telescope, then turns]</i> Butters, can you keep a secret?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Well, sure I can!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>For the past five days I've been looking out into space for a school project. This morning, at 3:45 a.m. I... caught first sight of something terrible.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Nnn-<i>how</i> terrible?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>A meteor. A meteor the size of Wyoming, heading right for earth.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>What?? <i>[begins rubbing his hands together nervously]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Now look, ah I could be wrong. I ...<i>pray</i> that I'm wrong, but, I just want you to take a look and... see what you think. <i>[backs up and looks through the eyepiece]</i> Do you see anything?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>I just see stars. <i>[Cartman hops onto a chair and fishes in his left jacket pocket. He pulls out a wad of junk hanging from a string]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Keep looking. Sometimes it takes your eyes a minute to adjust.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Nope, uh I don't see any... <i>[Cartman holds up the wad against the objective lens]</i> Oh wait. Oh my God! I see it. I see it! It's a meteor! Oh my God!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh my God! Does it look like it's getting closer? <i>[Butters looks through again and Cartman holds up the wad, moving it closer to the objective lens.]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>It is! It is getting closer! Oh my God!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh my God! That meteor is the size of Wyoming and it's on a collision course for Earth.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>When do you think uh it'll get here?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I, I don't know, I, have to do some calculations. <i>[heads for his desk and pulls out a calculator]</i> 10 to the power of 1 base 9 divided by pi plus 5 minus 3. Oh Jesus.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>What??
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>According to my calculations, that meteor is going to hit Earth in less than four hours.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Oh, you mean we're gonna die?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No! No, Butters, we are going to live! Do you hear me?! We are going to live! We just... We've gotta find a bomb shelter!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Wha...? Where is there a bomb shelter??
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Stan's Uncle Jimbo! He has a bomb shelter in his backyard! Come on, Butters! Hurry! <i>[heads out the door]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>AAAAHH! <i>[follows him out]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Jimbo's house. Cartman and Butters head for the bomb shelter]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Oh Jeez!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Here we go! The bomb shelter's down here! <i>[opens the shelter's lid]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[enters and climbs down the ladder within]</i> Oh God! Oh Jesus! <i>[Cartman watches him, then follows him down the ladder]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[reaches the shelter floor]</i> All right, we should be safe in here. This dried food and water should last us for weeks.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>But what about everyone else? I have to tell my parents so they can come here, too.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No! Butters! I can't let you risk it. I'll go up and get the others.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Are you sure?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[looks away]</i> I'm not sure of anything anymore. <i>[turns and climbs up the ladder. He makes it out and looks down]</i> Now Butters, listen: No matter what happens, no matter what you hear, do not come out! If I don't make it back in time with the others, then it will be up to you to repopulate the Earth.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>But I'm the only one down here. What am I supposed to repopulate with?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, you know, with your wiener. <i>[Butters just stares back]</i> Just stay down here until you hear word from me. And... pray, Butters... pray for all mankind. <i>[leaves and closes the lid, then locks it]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[in darkness]</i> Oh God, oh God!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's house, Saturday night. Stan and Kenny are dressed in stripes, Sheila waits in a fur coat, Kyle is in his Sunday best checking his watch]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Where is Butters? We were supposed to leave here forty minutes ago.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Well I think we better just go without him, Kyle. It's getting late.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, screw him. Let's go. <i>[the door bell rings and Kyle looks at the door]</i> Oh, finally! <i>[walks to get the door, but sees Cartman instead]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[bearing a gift]</i> Happy Birthday, Kyle. I just wanted to stop by and give you your present.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh. Thanks, dude.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hope you have a good one. See you later. <i>[turns around and walks toward the street]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh wait. Cartman.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yes?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Uh Butters didn't show. You wanna go to Casa Bonita with us?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[enters the house]</i> Butters didn't show? I I can't believe it. Uh are you sure you told him the right time and everything?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I told him 5:30 and we gotta get going. You in?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well I... really would need to go home first and get my... Weh no no, I guess I have everything I need. Oh, okay, sure.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>All right, let's go.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[heads for the front door]</i> Okay, boys. Get in the car.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[gets excited]</i> Casa Bonita, here we come! <i>Casa Bonita! Casa Bonita!</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[finds Butters' parents approaching]</i> Oh, hello Chris, Linda.
+</td></tr>
+<tr>
+<th>Chris:
+</th><td><i>[misty-eyed. Linda sobs silently]</i> Hello everyone. Have any of you seen our son?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Butters was supposed to go with us to Casa Bonita tonight.
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>We know, but... he hasn't been home since last night. The police have been looking everywhere, but... <i>[Linda cries audibly]</i> Well, thank you. Uh, please, let us know if you find out anything. <i>[they leave. Linda is sobbing hard]</i>
+</td></tr>
+<tr>
+<th>Linda:
+</th><td>Oh Butters!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Aw dude, weak.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[lowers his head and walks towards the front door]</i> Yeah. Man, that sucks about Butters. <i>[brightens up]</i> Well, let's get going, shall we?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Nah. Dude, I c-I can't go to have a birthday party while Butters is missing.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, it's kinda weird.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[a little stunned]</i> Ee-yeah yeah. I think you're right, but, on the other hand, I think Butters would <i>want</i> us to go. You know Butters...
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Nah, I can't. We should help look for him.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>That's very good of you, boys. We can postpone Casa Bonita until next Saturday.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Next Saturday?? I'll <i>never</i> be able to keep Butters in the... <i>[catches himself and waits for a reaction. None comes]</i> In the... depths of my heart for that long. I sure hope he... turns up before then.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, we should check over at Stark's Pond. Butters always hangs out over there. <i>[exits]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah. And then we can try the football field. <i>[exits]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>I'll drive you boys. <i>[exits]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[left alone]</i> Oh, God-damnit! How am I gonna keep Butters down in that bomb shelter for a whole week?!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, Sunday. In front of the police station, Officer Barbrady stands by while one of his men issues the report to the crowd standing before the dais.]</i>
+</td></tr>
+<tr>
+<th>Captain:
+</th><td>All right, folks, this is the little boy we're looking for: <i>[holds up a picture of Butters]</i> Leopold Stotch, also known as Butters. He's been missing for two days and was last seen at the school. Let's go find him.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The bomb shelter. Butters has found the light switch and is enjoying the rations stored on the shelves along the wall]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[reading some directions]</i> "Dried food rations. Add water to feed flavored square..." <i>[the lid opens up above him]</i> Hello? <i>[rises and looks up]</i> Hello??
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[suddenly looks in, looking terribly roughed up]</i> Butters!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[jumps back, startled]</i> Hwaaaah!!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Butters! Oh God, it was... It was horrible!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Wuh, wait, well, what happened??
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[faking fatigue]</i> The meteor... struck the Earth sooner than I predicted. There was no time... no time...
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>What about my parents. Did you see them?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>There was mass confusion! Pa... panic! People were crawling all over each other in the streets! It was... awful! When it hit, millions were evaporated instantly. The rest of us... walking around in a... cloud of... toxic... radiation. <i>[coughs]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[heads for the ladder and begins to climb]</i> Oh my God, let me see!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No Butters!! If you come up, you'll get infected too! You best wait for the radiation level to go down. Probably... next week sometime. After Saturday. Ugh...
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[off the ladder]</i> How many survivors are there? You should all come down here.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>We can't come down there, or else, we'll contaminate you, Butters. No... we just have to survive the best we can. <i>[strains a bit, like he's gonna cough]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Wow... Eric, I can never thank you enough for everything you've done for me.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Thank me by living, Butters. Live. And... rebuild. <i>[coughs]</i> I've got to go. Remember, wait one week for the toxic levels to go down. On Saturday. <i>[moves off]</i> G-goodbye! <i>[locks the lid down once again]</i> All right. Just six days, Butters. Sit tight.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Police station, night. News 4 is covering another announcement by the police]</i>
+</td></tr>
+<tr>
+<th>Field Reporter:
+</th><td>Tom, it has now been three days since the Stotch child has gone missing. Townspeople continue to search, but hope... is dwindling.
+</td></tr>
+<tr>
+<th>Captain:
+</th><td>All right, folks. I wanna thank you for all your efforts. Three days is a long time, but we've got to keep going if we're gonna find him.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[not spoken, he's thinking this while the captain speaks.]</i> Heh you're not going to find him. Not until after Saturday when I go to Casa Bonita. <i>[closes his eyes and begins anticipating. Three images come up. The first is of his waitress bringing him food, the second is of him dancing before a mariachi band, the third is of the cliff divers. He begins to dance while he daydream]</i>
+</td></tr>
+<tr>
+<th>Captain:
+</th><td>Many times in cases like these a child can trap themselves. It is important that we spread our search to duct pipes, wells, and bomb shelters. <i>[Cartman's dance is rudely interrupted by this]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What what what?
+</td></tr>
+<tr>
+<th>Captain:
+</th><td>I say we need to move the search to ducts, wells, and bomb shelters. Let's move out, people! Every second counts! <i>[the crowd breaks up and begins the search]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>UUuuugh!! <i>[runs off]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>But if you leave me now, you'll take away the biggest part of me.<br />Oo-oo-ooooo-oo girl, baby please don't go. Eh,<br />Oo-oo-ooooo-oo girl-<dd>[the shelter lid opens again]</i> Eric? <i>[rises and looks up the shaft]</i> Eric, is that you?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[scrambling down the ladder]</i> Oh God! They're coming! They're coming! We gotta get out of here! They're coming this way!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Who's coming this way?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>The cannibals! Don't you know? The meteor destroyed all of society, Butters. Now Earth is ruled by packs of wild humans gone mad! Those of us who survived are now being hunted by flesh-starved cannibals!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Oh God! I hate cannibals!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>They're coming this way! I can hear them coming. They'll find you down here for sure. And when they do, they'll eat you alive.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Noooo!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>We've gotta get you out of here! Come on! Oh oh no wait, I forgot! The toxic radiation! Hey wait! We can use this box! <i>[picks it up and promptly drops it over Butters so Butters can't see a thing.]</i> There we go. This should keep you protected from the toxins.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>But I can't see nothin'.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Believe me, Butters, you don't wanna see what's up there. Now come on. I'll guide you to a safer location. <i>[guides him to the ladder and nudges him up]&lt;/&gt; There you go. Two more steps and you're at the top. </i>[Butters climbs out]<i> Good.</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Are we out in the destruction?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yes. There's nothing but smoldering bodies all around you. Burnt out buildings, and what used to be our town.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Aw man.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>All right, this way, Butters. Just follow the sound of my voice. <i>[walks off. Butters follows]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[An open field, night. Butters and Cartman are walking through the field behind a row of houses, far enough away so that no sound can reach them]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Right now we're walking by what used to be people's houses, now just smoldering burnt piles of rubble.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Huh... Oh, it's terrible.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>We're coming now to the crater where the meteor hit. A hole in the Earth over two miles in diameter.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Whoa!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The old gas station]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Here we are at the old gas station. It survived a lot of the impact. We might be safe here. <i>[steps to the other side and begins making noises, then steps back]</i> Oh my God!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Whaaat??
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>It's a cannibal! Stay back, cannibal! <i>[steps to the other side and begins making noises, then steps back]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>AAAAHH!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>We've got to fight them off! <i>[jabs at the air a few times]</i> Stay away from Butters! He's humanity's last hope! <i>[makes "cannibal" noises]</i> Awww! He bit me! He bit off my hand!!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Waaaaaah!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[picks up a twig]</i> Aw man, he's eating my hand like a piece of chicken! Can you hear the bones crack? <i>[goes to Butters' other side and begins breaking off pieces of the twig as he makes more "cannibal" noises.]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Ooohhhh!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Wait! Look here! There's a dead body with an axe in the back. I'll pull out the axe and use it to chop off the cannibal's head. Hunh! <i>[swings it and kills the "cannibal"]</i> Die! <i>[one last jab, the "cannibal" "croaks" and it's over]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Ooooh, what happened? What happened?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[feigns exhaustion]</i> The cannibal! The cannibal's dead, Butters! But he bit me, <i>[checks out his hand]</i> which means soon I will have a taste for human flesh as well.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Oh no!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>We have no choice, Butters! We have to lock you away somewhere where even I can't get to you!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Uh w-where??
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Look! There's an old refrigerator! <i>[reaches it and opens it]</i> Get inside, Butters! I'll break off the handle so nobody can get to you!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Aren't you coming?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Too late for me. I can already feel my... body start to... change. <i>[begins to "change"]</i> No! Must... fight... it... Don't open this door for anybody, Butters! No matter what you hear, stay inside for four days! Here's some water and food from the shelter.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Eric, you're the ...best friend in the whole world. I... I love you.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I love you too, man. I just <i>[goes into spasms]</i> You look so delicious! Must eat your brains! <i>[lunges at Butters, who quickly closes the refrigerator door. Cartman walks up and rips off the door handle, then walks away chuckling to himself. A few seconds later a garbage truck backs up and removes the refrigerator from the gas station]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, next day. Cartman is happily asleep in his bed and his alarm goes off.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hah! <i>[turns off his bear alarm clock, hops out of bed cheerfully and skips to his wall calendar he made just for the occasion.]</i> It's Wednesday! It's Wednesday! <i>[crosses off Tuesday on his calendar]</i> Only three more days till Casa Bonita. <i>[]</i> I'm gonna go through Black Bart's Cave first. No! I'm gonna watch the cliff divers first! Maybe if I tell them it's <i>my</i> birthday, they'll let me cliff-dive in the pool! <i>[walks off to get dressed]</i> Oh, that would be so bad-ass!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Park County Trash Dump, night. The refrigerator is now there and begins to heave. Butters kicks his way out of it, having run out of air]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[rises, catches his breath, and dusts himself off]</i> Finally I can breathe a- <i>[looks at the apparent devastation around him]</i> Oh my God. Oh my God, the meteor took out everything! It's all destroyed. Nothing left. <i>[walks forth]</i> Hello? Are there any, are there any other survivors? Hello? Oh. That must have been where the library was. And that was probably the school. Hello? <i>[rustling sounds are heard and he tenses up in fear, then softly]</i> Oh. I forgot, I gotta watch out for radioactive cannibals. <i>[more loudly]</i> Is that a cannibal? Sir? Ma'am? <i>[he watches, and a dog emerges from the rubble]</i> Oh. Aww, it's a little dog. <i>[approaches the mutt]</i> Well, hello there, Mr. Dog. Looks like you and me are the only ones who survive the meteor, heh. We should stick together, huh, Mr. Dog? Well come on, we gotta start cleanin' up this mess, and rebuild this civilization. Boy, that meteor sure did make everything stinky. <i>[walks into the rubble and begins his work]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, day. On the highway, Sheila drives the boys towards their destination. All the boys are now wearing suits instead of sweaters. Stan, Cartman, and Kenny sit in the back seat]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>We're on our way to Casa Bonita! We're gonna be there very soon.</i> You're gonna love Casa Bonita, Stan. There, there's this one part where you can dress up in Old Western clothes and get your photo taken in a fake jail.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Really?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, it's pretty cool.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[sniffs]</i> "Pretty cool." So, um, should we go to Black Bart's Cave first or watch the puppet show? I think we should go through Black Bart's Cave right away 'cause, we're gonna wanna do it seven or eight times. And then we'll watch the cliff divers before the puppet show.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, it's Kyle's birthday. We should do whatever he wants to do.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What? Fuck Kyle. <i>[the others look at him in astonishment]</i> Ha ha, j-just kidding, birthday joke. Of course we'll do whatever Kyle wants, uh. Happy Birthday, Kyle.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>Happy Birthday to you. Happy- [looks at the other boys for support]</i>
+</td></tr>
+<tr>
+<th>Stan, Cartman, Kenny:
+</th><td><i>Birthday to you. Happy Birthday dear Kyle. Happy Birthday to you. [they pass a missing person's billboard with Butters on it and South Park PD's phone number]</i>.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Park County Trash Dump, day. A worker drives into the dump in her truck and pulls out stuffed trash bags from the truck bed.]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[off-screen] You take away the biggest part of me. [the worker listens, then goes to the source of the sound] Woo-oo-ooooo-oo-oo, uh baby please don't go. [hums a bit; the worker arrives to see him sweeping] Woo-oo-ooooo-oo-oo, I just had to find my say to you tan...</i>
+</td></tr>
+<tr>
+<th>Worker:
+</th><td>Hello? <i>[her name tag reads "Irene."]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[quickly arms himself with the broom]</i> HAAAAGH! Who are you? Are you infected?
+</td></tr>
+<tr>
+<th>Worker:
+</th><td>With what?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>You're not a cannibal, are you?
+</td></tr>
+<tr>
+<th>Worker:
+</th><td>No
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Oh. <i>[drops the broom and smiles]</i> Oh good. You're a survivor, like me. Look, Mr. Dog, another survivor. And it's a lady, too. That means we <i>can</i> repopulate the earth. Yippee!
+</td></tr>
+<tr>
+<th>Worker:
+</th><td>Kid, what are you doin' here?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>I'm rebuilding society. Here, take a look. <i>[moves off to his left, she follows. They pass a row of makeshift buildings that he built overnight]</i> This is the library, and over here is the bank. That over there I'm thinking into a P.F. Chang's or a Bennigan's. And this <i>[a statue that reads Cartman under it]</i> is a memorial to Eric Cartman, the person who gave his life so that I could rebuild society. Well ma'am, I guess we should start repopulatin' the earth, huh? <i>[promptly unzips and drops his pants, then steps forward.]</i> I'm ready whenever you are.
+</td></tr>
+<tr>
+<th>Worker:
+</th><td>Kid, I don't know what you think is going on, but this place is a dump.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Hey, that's not very nice! This is my first society! I'm doin' my best!
+</td></tr>
+<tr>
+<th>Worker:
+</th><td>No, I mean you're at the garbage dump. The town is right over there, everybody is fine, and I think they've been looking for you for over a week.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[looks at her for a long time, then looks towards the town]</i> Oh... <i>[realizes he's been tricked, he looks down and pulls up his pants.]</i> Ma'am, can I use your phone?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Casa Bonita, night. Sheila pulls into a parking space]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>We're here! We're here! Casa Bonita! <i>[the boys climb out of the car]</i> Aw man, this is gonna be so great!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Wait up, Eric. We need to stay together. <i>[Cartman stops and dances in place. A phone rings]</i> Uh, hold on boys, that's my cell phone. <i>[fishes it out of her purse and answers it]</i> Hello? Yes. Oh, that's great! <i>[to her charges]</i> Boys, they found Butters. <i>[Cartman stops dancing and his grin turns into panic]</i> He's okay.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh, awesome.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I knew he'd turn up.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Yes, Eric Cartman is with us. Why? <i>[her face turns stern]</i> Oh really? <i>[Cartman looks around for a way to escape]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Yes, I will certainly let him know. Thank you. <i>[hangs up and puts the phone away]</i> Well, it appears that Eric here is responsible for Butters missing, because <i>he</i> wanted to go to Casa Bonita. <i>[the anger now registers on the other boys' faces]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Eric, the South Park Police are already on their way here to have a little talk with you!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>But... Casa Bonita.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[approaches Cartman, who turns around]</i> I should have known better! You never cared about my birthday at all!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[turns to face Casa Bonita]</i> But I... <i>[turns back]</i> but... <i>[suddenly takes Kyle hostage]</i> Stand back!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Cartman, stop it!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[backs up towards the restaurant with Kyle still hostage]</i> I... am going... to Casa... Bonita! <i>[sirens are heard]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's too late, fatass. <i>[Cartman stops]</i> They'll be here in less than a minute.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[hauls Kyle away a bit longer]</i> Ah! Eh. Nuh! <i>[throws him away and dashes for the entrance]</i> Less than a minute! Less than a minute!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[rises and turns around]</i> Cartman!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Casa Bonita, inside. Cartman races into the restaurant]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, awesome!! <i>[approaches a table which has a family enjoying its dinner]</i> Excuse me, excuse me? Can I get to eat some of your- <i>[grabs some food from both the mother's plate and the father's plate]</i> Thank you. Thank you. <i>[climbs over the table]</i> Oh, I've got to get to Black Bart's Cave! <i>[hops off and runs for the cave, barging his way past two other kids]</i> Ah! Excuse me? Excuse me! Coming through to Black Bart's Cave! <i>[runs in]</i> Oh! <i>[stops at a treasure chest with a pirate skeleton beside it]</i> Oh, scary! Look, a skeleton! <i>[moves on]</i> Oh man, I'm so scared! <i>[exits]</i> Oh! Oh! Oh, that was awesome! Oh! Oh! Cliff divers! <i>[rushes to them, stopping long enough to dance before the mariachi band]</i> Come on! Come on, dive! <i>[atop the waterfall, a cliff diver stands ready]</i> Dive, asshole! <i>[the diver dives into the pool below]</i> Oh, awesome! That was cool, huh? <i>[looks towards the entrance and sees the rest of his party and the police enter the restaurant]</i> Whoa. <i>[dashes for the jail set at the Photo Flash Back. He puts on the suit waiting for the next customer and looks out from behind bars. His picture is taken and he quickly jumps down from the cell. He moves on to the table he dreamt about two weeks ago]</i> Sopapillas! Can I get some sopapillas please?! <i>[a waitress arrives with a plate of sopapillas]</i> Sweeet! <i>[runs off with it and heads for a new attraction]</i> Oh! Booth! Puppet show! Puppet show! <i>[an officer steps in and blocks his way, he tosses his dessert away and turns back]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman! <i>[the boys and Sheila trace his path and close in on Cartman. Cartman runs up along the side of the "cliff" until he gets to the top, where two other officers meet him]</i>
+</td></tr>
+<tr>
+<th>Captain:
+</th><td>All right, kid! End of the line!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[steps left]</i> Ah. <i>[steps right]</i> Uh. <i>[moves around a bit more, then jumps off the cliff]</i> Yeeeesss!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Jesus Christ! <i>[Cartman ends up face down in the water, which isn't deep enough to drown him. He flips over and coughs]</i>
+</td></tr>
+<tr>
+<th>Captain:
+</th><td>Well kid, you made an entire town panic, you lost all your friends, and now you're going to Juvenile Hall for a week! Huh, was it worth it?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Totally. <i>[smiles]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Casa Bonita</b>.]</i>
+</td></tr></table>
+<p><br />
+<br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px;border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">711: "<a href="/wiki/Casa_Bonita" title="Casa Bonita"><span style="color:white">Casa Bonita</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:711&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Eric_Cartman" title="Eric Cartman">Eric Cartman</a> •
+<a href="/wiki/Butters_Stotch" title="Butters Stotch">Butters Stotch</a> •
+<a href="/wiki/Casa_Bonita_(Location)" title="Casa Bonita (Location)">Casa Bonita (Location)</a> •
+<a href="/wiki/Atomic_Gas_Station" title="Atomic Gas Station">Atomic Gas Station</a> •
+"<a href="/wiki/Casa_Bonita_(song)" title="Casa Bonita (song)">Casa Bonita (song)</a>" • 
+"<a href="/wiki/If_You_Leave_Me_Now" title="If You Leave Me Now">If You Leave Me Now</a>" •
+<a href="/wiki/Mr._Dog" title="Mr. Dog">Mr. Dog</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Casa_Bonita/Images" title="Casa Bonita/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s07e11-casa-bonita">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Seventh_Season" title="South Park: The Complete Seventh Season">South Park: The Complete Seventh Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 111/300000
+Post‐expand include size: 4847/2097152 bytes
+Template argument size: 57/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:25682-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Casa_Bonita/Script?oldid=258670">http://southpark.wikia.com/wiki/Casa_Bonita/Script?oldid=258670</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Seven" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Seven" title="Category:Scripts from Season Seven">Scripts from Season Seven</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":25682,"kv_wpage":"Casa_Bonita\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Casa_Bonita/Script","wgTitle":"Casa Bonita/Script","wgCurRevisionId":258670,"wgArticleId":25682,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Seven"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Casa_Bonita/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":258670,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Casa_Bonita/Script","fbReturnToTitle":"Casa_Bonita/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Casa_Bonita/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Casa_Bonita/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Casa Bonita/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

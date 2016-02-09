@@ -1,0 +1,2960 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Prehistoric Ice Man/Script,Prehistoric Ice Man,South Park Studios,Official Scripts,Steve Irwin,Dr. Alphonse Mephisto,Federal Bureau of Investigation,Larry (Prehistoric Ice Man),Prehistoric Ice Man/Images,Prehistoric Ice Man/Trivia,South Park: The Complete Second Season" />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Prehistoric_Ice_Man/Script" />
+<meta name="twitter:title" content="Prehistoric Ice Man/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Prehistoric_Ice_Man/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Prehistoric Ice Man/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":32641,"pageIsArticle":true,"pageName":"Prehistoric_Ice_Man/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=32641,
+wgCategories=["Scripts","Scripts from Season Two"],
+wgPageName="Prehistoric_Ice_Man/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s22","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=32641&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=32641&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Prehistoric Ice Man/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Prehistoric_Ice_Man/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Prehistoric_Ice_Man_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FPrehistoric_Ice_Man%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Prehistoric_Ice_Man/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Prehistoric_Ice_Man/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Prehistoric Ice Man/Script</h1>
+											<h2>&lt; <a href="/wiki/Prehistoric_Ice_Man" title="Prehistoric Ice Man">Prehistoric Ice Man</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Prehistoric_Ice_Man/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Prehistoric_Ice_Man/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		<script>
+    
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-below_title" class="monetization-module adunit hide-for-edit below-title" data-mon-type="adunit" data-mon-slot="below_title"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_fsm_fft mon_hub_tv mon_sl_bt" data-ad-type="text" data-font-size="medium"data-font-face="times" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Prehistoric_Ice_Man" title="Prehistoric Ice Man">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Prehistoric_Ice_Man/Trivia" title="Prehistoric Ice Man/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Prehistoric_Ice_Man/Images" title="Prehistoric Ice Man/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s02e18-prehistoric-ice-man">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Prehistoric_Ice_Man" title="Prehistoric Ice Man">Prehistoric Ice Man</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Two" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan Marsh
+</li><li> Kyle Broflovski 
+</li><li> Eric Cartman
+</li><li> Kenny McCormick
+</li><li> Aussie
+</li><li> Larry, the Prehistoric Ice Man
+</li><li> Mayor McDaniels 
+</li><li> Dr. Mephesto 
+</li><li> Kevin
+</li><li> Federal Agents
+</li><li> Reporters
+</li><li> Leslie
+</li><li> Buck
+</li><li> Officer Barbrady And His Officers
+</li><li> Train Station Clerk
+</li><li> Train Conductor
+</li><li> Helicopter Pilot
+</li><li> Marilyn Manson
+</li></ul>
+<h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's house. A television is heard. The screen shows an Australian crocodile hunter narrating his adventures as a woman pilots his boat down a river.]</i>
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>As we steer our boat down <i>[the boys are on the sofa looking at TV]</i>, looking for these dangerous predators... Boy, there's a king croc right here. <i>[it slips into the water]</i> He must be four meters; 12, 13 feet long at least. <i>[it looks up at him]</i> This croc has enough power in its jaws to rip my head right off.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Oh, no!) <i>[tightens his hood up]</i>
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>I've got to be careful. So, what I'm gonna do is sneak up on it and jam my thumb in its butthole.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Holy crap. dude!
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>If I get bit out here, I'm 200 kilometers from the nearest hospital: I'd better be real careful jamming my thumb in its butthole. <i>[jumps in and grabs the crocodile]</i> Oh, boy, it's pissed off now.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Go, dude, go! <i>[excited, the boys jump on the sofa]</i>
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>I'm gonna jam my thumb it its butthole now! This should really piss it off! <i>[reaches down with his left thumb to do it. The croc jumps up in pain and drops]</i> Oh, yeah, that pissed it off, all right! <i>[the boys cheer]</i> I've gotta be careful!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>This guy rules!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(He actually killed it!)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I <i>told</i> you guys.
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td><i>[with left arm now bandaged and in a sling]</i> Well! That was quite an angry croc! But I managed to escape with only a few bruises and a shattered left testicle. Next week we'll look for more of these beautiful creatures, so we can learn more about them by pissing them off immensely. Thanks for watching.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[to Stan]</i> Dude! Let's go look for crocodiles!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah! <i>[the four of them hop to the floor and walk out the front door.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The woods. Cartman leads the boys up a hill. All are armed with water guns]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[with Aussie accent]</i> There's bound to be some crocs up here. I'll use my croc call and try to bring 'em out. <i>Brigeghus, brigeghus! Brig-!</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>That's</i> not how a croc sounds, you fatass penis!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[advancing towards Kyle]</i> Ogh! Now I'm gonna kick my friend Kyle in the beanbag and see what happens, by crikey!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Get away from me, Cartman! <i>[backs away]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Come 'ere, crocky.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[trips over a rock and tumbles down the slope]</i> AAAAAAAAAA! <i>[disappears. The boys follow him to a hole]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[from the bottom of a shaft]</i> HELP! <i>[thud]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Good job, Cartman! You killed Kyle!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(You bastard!)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, he shouldn't have called me fat. <i>[backs up]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Why the hell not?! That's like calling the sky blue!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, screw him, he's dead! Let's go look for crocodiles! <i>[turns around and walks off]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You guuuys!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[to Cartman]</i> Hey, he's still alive. <i>[looks down and calls]</i> Kyle, you okay? <i>[Cartman returns and looks down]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I think so. Is Cartman up there?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I'm right here, Kyle.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman, you fucking hunk of fat, rat-fucking hunk of pig-fucking ass fat.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh yeah?! Oh yeah?! Say that to my <i>face</i>, pussy!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Can you climb back up, dude?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I don't think so.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Damn it, I guess I'll have to go get him.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[moves away]</i> Nah. Come on, guys. Let's go look for crocodi-iles.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Inside a cave at the bottom of the shaft, Kyle awaits his rescue. Stan descends, spinning slowly as Cartman huffs outside.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Whoa, dude. This is making me sick. Blaach! <i>[it goes everywhere]</i> Bluchluchluchluch.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Sick, dude! <i>[wipes some off his cap]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Sorry. <i>[Cartman slips a bit]</i> What the hell are you doing, fat boy?! <i>[drops to the cave ground and stands up]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Screw you, hippie!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on, dude. I wanna get out of here.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>All right. Just grab the rope. Wait a minute. What's this? <i>[walks to an ice pillar nearby. Kyle follows. Stan rubs some frost away from the pillar, revealing a frozen man]</i>
+</td></tr>
+<tr>
+<th>Both:
+</th><td>AAAAAAAAAAAAA!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, it's a dude! <i>[Stan takes a closer look]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He's like, some frozen guy.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Come on, you guys, it's getting <i>cold</i> up here!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Shut up, Cartman! <i>[to Kyle]</i> Dude, I saw this in a movie once. The old cavemen get frozen, and then people discover them and make them their caveman friends.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Wow. Cool.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[to Cartman and Kenny]</i> You guys, there's a frozen ape man from the past down here! Send some more rope!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Really? <i>[to Kenny]</i> Hey, there's a <i>frozen</i> guy down there.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[to Kyle]</i> Help me chip some of the ice away.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey you guys. This is just like that one movie, um, John Travolta and that, French chick were doing it, all summer long and went back to school and sang songs about "Greased Lightning." <i>[no response]</i> You know, that movie where Sandra Dee thinks she's all prissy, and then they try and try to get an abortion, but she doesn't have all the-
+</td></tr>
+<tr>
+<th>Stan and Kyle:
+</th><td>Cartman, will you shut the hell up and get some more rope?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Aww, screw you guys anyway!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, remember when that kid found a wallet and got a reward?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, sweet! Maybe <i>we</i> can get a reward for the <i>frozen</i> guy!
+</td></tr>
+<tr>
+<th>Both:
+</th><td>Hooray!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>For what?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[on the road towards town. Cartman pulls the frozen man on a sled while the other three push from behind]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Where shall we bring it?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I don't know. We just have to get it to town and let <i>them</i> figure out what to do with it.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I think I'm going to name it Gorak.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, dude! We have to name it Steve.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[stops]</i> Steve? What the hell kind of caveman name is Steve? <i>[Cartman pulls, but isn't going anywhere]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's <i>my</i> name, and <i>I</i> found him.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>You</i> didn't find him, <i>I</i> found him.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What are you talking about, dude?! I fell down that abyss and there it was!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You wouldn't even have noticed it if I hadn't pointed it out.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kenny, who found the ice man?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Well, I think you guys should name it Steve)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I think we're almost there, you guys.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[City Hall front lawn. The mayor is at the podium and a crowd of townspeople is watching]</i>
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Aalll right, people. The next order of business is a very serious matter. We need to vote on whether South Park should reinstate the death penalty or not. All those in favor, say "yippee."
+</td></tr>
+<tr>
+<th>Some People:
+</th><td>Yippee.
+</td></tr>
+<tr>
+<th>Tardy Man:
+</th><td>Wait, what was that? I missed the question. Yippee! <i>[raises both hands]</i>
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>All those opposed, say "nay."
+</td></tr>
+<tr>
+<th>Other People:
+</th><td>Nay.
+</td></tr>
+<tr>
+<th>Tardy Man:
+</th><td>Screw you! <i>[punches the guy to his right]</i>
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Ey! Screw you! <i>[hits the tardy man, and everyone starts fighting. The boys show up with the ice man]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Huh, excuse me?
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Not now, kids. The town is having a very important debate on capital punishment. <i>[quite vigorously, too]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But we found a frozen ice man from the past! <i>[all stop]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I found this frozen guy in the woods today.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No. <i>I</i> found this frozen guy in the woods today.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>What the hell is going on here?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We came for our reward.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, like the kid with the wallet.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td><i>[annoyed]</i> Reward? What reward?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td><i>[arriving]</i> Mayor, I think the boys may have stumbled onto something here. You see, Mayor, frozen links are often found: dinosaur eggs, woolly mammoths. This specimen could be a missing link <i>[close-up]</i> in our evolution. If I can unfreeze the body, and perform an autopsy, I could learn much about this creature's people and its time.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Sure sure sure, be my guest, knock your socks off.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Thank you, Mayor. Oh, and boys, I, I can't give you a reward for finding this creature, but if you'd like, I'll let you name him.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Really.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Sweet. How about Steve?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Steve it is.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wait a minute! His name is Gorak!
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Come on, Steve. We've got work to do. <i>[pushes "Steve" away with Kevin. Stan is not happy at Kyle's sleight of word]</i> Unfreezing this body will be quite delicate work. We'll have to use the most advanced methods available.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The South Park Genetic Engineering Ranch. Inside, Mephesto and Kevin use blow dryers on the ice man. Quite an advanced method]</i>
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>This is very exciting. He could be a Neanderthal. Or an Australopithecus from the Paleolithic era. <i>[turns off the blow dryer and picks up a flashlight to inspect the man]</i> Do you see that, Kevin? These clothes are from Eddie Bauer. I haven't seen anybody wear clothes from Eddie Bauer since... 1996! <i>[Kevin expresses shock]</i> This is incredible! Think of all we can learn from this body! All that it can teach us! Let's just hope the press doesn't get wind of this right away. <i>[the lab door flies open and cameras flash all around. Barbrady tries to hold the press back by barring entrance through the door]</i>
+</td></tr>
+<tr>
+<th>Barbrady:
+</th><td>Stand back, people. There's nothing to see here.
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>What about the prehistoric ice man?
+</td></tr>
+<tr>
+<th>Barbrady:
+</th><td>Oh, yeah. There is that. <i>[lowers his arms, and the press rushes in.]</i>
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>Dr. Mephesto, could you <i>please</i> tell us what's going on?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Ladies and gentlemen, we still have a lot of work to do. <i>[the press mills around, taking pictures]</i> But it is my opinion that this man has been frozen in time for over 32 months! <i>[some reporters gasp]</i> Yes, it's true, although at this early stage we know very little about this man or the time from which he comes.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[News 4 Special Report. The caption has a silhouette of a caveman stamped with a question mark.]</i>
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>Fascinating news tonight from South Park. An ancient discovery of a prehistoric man actually <i>frozen in ice</i>. A team of scientists continues to try and unfreeze the body so that it can be autopsied, and studied. The caveman was discovered by Kyle Broflovski, who had this to say:
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[Stan and Kenny in the background]</i> Well, I fell down this ice cavern, <i>[Stan interrupts him with "la"s]</i> and I saw this block of ice, so I told my friend to throw a rope- <i>[Kenny looks at Stan, and Kyle glances back]</i>
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>The prehistoric ice man is thought to be from the late neo-post-Jurassic era, where he was probably part of a hunting and gathering tribe that lived on Waterston Street.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The genetic engineering ranch.]</i>
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>That's it, Kevin. Now we can begin the autopsy.
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td><i>[stirs]</i> Uuuurrr.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Ugh? What's this?
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td><i>[stirs more]</i> Mmmmm.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Holy crap! He's alive??
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>That's impossible! <i>[to Kevin]</i> Do an EKG on him! <i>[Kevin hits "Steve" on the head with the hammer]</i>
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>Uugh! <i>[raises his right arm to his head to soothe the pain]</i>
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>My God, he really <i>is</i> alive. The ice must have preserved him!
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td><i>[alarmed]</i> Well, quick, do something!
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Nono, we've got to think this through. <i>[takes the mayor aside]</i> Mayor, this man has not been conscious for almost three years. He won't understand what he sees! He'll be frightened and confused!
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Well, you just can't let him die.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Perhaps death is better than the shock he will take trying to adapt to our time.
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>Uh, ughn.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td><i>[moves towards him]</i> Oh my God. It looks as if he's about to speak!
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td><i>[eyes open]</i> Where... where am I?
+</td></tr>
+<tr>
+<th>Reporter 1:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Reporter 2:
+</th><td>What's he saying?
+</td></tr>
+<tr>
+<th>Reporter 3:
+</th><td>Is that English?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>What? You're, you're hungry?
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>Where am I?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>You're, you're hungry?
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>What's goin' on?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Me friend. Friieend. Me friend. Ma-phes-to. Mah-phehs-to.
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>Huh?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Hawgh! If we could understand what he's saying, then maybe we could get some answers. <i>[Kevin hits "Steve" a couple more times, and "Steve" soothes his head again]</i> If only there was someone who could communicate with him on a level as primitive as his own, a mind like... a <i>child</i>.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The boys walk along the curb on their was home]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, I wanted to call him Gorak.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Gorak's a gay name.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, it isn't!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Why are you being such a dick?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I'm not being a dick, <i>you're</i> being a dick!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Nuh-uh!
+</td></tr>
+<tr>
+<th>Barbrady:
+</th><td><i>[rushing up]</i> Hello, children. Dr. Mephesto needs one of you to help him out in his lab with the prehistoric ice man.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'll go.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, <i>I'll</i> go! I found him!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Damn, I've never seen you guys fight like this!
+</td></tr>
+<tr>
+<th>Barbrady:
+</th><td>All right, there's only one fair way to do this. Everyone stick out their potatoes. <i>[thumbs come out]</i> My mother and your mother were out hanging clothes. My mother punched your mother in the nose. What color blood came out? <i>[Lands on Kenny]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Blue.)
+</td></tr>
+<tr>
+<th>Barbrady:
+</th><td>B L O O uh oh-O spells "blue" and that means that you will go to the lab and help out Mephesto and then we can all go home and watch <i>Murphy Brown. [The boys look confused]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The genetic engineering ranch. "Steve" is now sitting up.]</i>
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Steve. You-
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>Where am I?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Steeve. Steeeve. Steeeve. <i>[the door opens, and the boys rush in]</i> Oh good, you're here.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh my God, they revived Gorak.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You bastards!
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Yes, and I need you to communicate with him. See if you can understand what he's saying. <i>[takes Stan to "Steve"]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uh. Hi.
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>Hi.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td><i>[rushing]</i> What'd he say?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He said, "hi."
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Very interesting.
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>Where am I?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>What??
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He wants to know where he is.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Tell him, tell him he's... home.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You're... home. <i>["Steve" scratches his head]</i>
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>In the year 1999.
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>It's 1999??
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>He's been frozen for the last 32 months.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, you've been frozen 32 months.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>And we found you-
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>What? Thirty-two months?!
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>All right, all right, all-
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>Aaaa! <i>[throws over a tray]</i>
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>All right, all right, calm down.
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td><i>[panics]</i> AAAAAAA!
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>I think that's enough for today. <i>[sedates him]</i>
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>Whoa, oh.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Good job, dude! You freaked him out!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh, shut up, assmaster. You're just jealous 'cause they had <i>me</i> talk to him. <i>[they face each other. Cartman looks on, between them]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Guess what? <i>You're</i> not my best <i>friend</i> anymore! Cartman's my <i>new</i> best friend!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Sweet.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh yeah? Well <i>You're</i> not <i>my</i> best friend anymore, either! Cartman is now <i>my</i> best friend!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Killer.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Fine! <i>[turns and walks away]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Fine! <i>[turns and walks away]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Fine.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The genetic engineering ranch. A car is stationed outside. A finger presses the butt-shaped doorbell]</i>
+</td></tr>
+<tr>
+<th>Agent:
+</th><td><i>[one of three]</i> Are you Alphonse Mephesto?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>The same.
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>We understand that you are currently in possession of the prehistoric ice man from 1996.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>That's right.
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>We would like to... <i>[notices Kevin and stares]</i> we would like to offer our services in your experiments.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Oh? Where are you gents from?
+</td></tr>
+<tr>
+<th>Agent 2:
+</th><td>We are from the University, of... America.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Well, there's not a lot to see, but... Come in. <i>[opens the door and makes way for them]</i> He's still not responding much to us; the shock is still settling in, <i>[as he leads them, familiar animals can be seen in display cages: four-assed monkey, four-assed mongoose, four-assed ostrich]</i> but we've made great progress now that he's in the habitat.
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>Habitat?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td><i>[they turn the corner into a darkened area]</i> Yes. Kevin and I designed a habitat for Steve to live in that is completely like his own world. Everything is 1996-oriented. <i>[turns on the light, and Ace of Base's "All That She Wants" blares from a stereo]</i>
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>Amazing. He looks so much like us. <i>["Steve" sits on a "Hunchback of Notre Dame" bed, with posters of "Fargo" and "Independence Day" on the back wall]</i>
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Yes, well, Kevin has done a lot of work in figuring out just how related to us Steve really is. He came up with this drawing: <i>[holds up evolution of man drawing with "Steve" right before the modern man]</i>
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>Dr. Mephesto, we realize that scientific study is expensive. We want to help you make this project more... lucrative.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>How would we do <i>that</i>?
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>It's easy.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[</i>[Mephesto has opened up his ranch to the public. Viewers move down a moving sidewalk looking at the habitat and listening to Ace of Base's "The Sign". One viewer snaps a picture. Mephesto stands at a podium]
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>As you can see, the ice man is listening to Ace of Base, which was a very popular group during his era, and primitive drumming soothed his people's tempers. <i>[the boys appear on the sidewalk]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He doesn't look very happy in there.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, he sure doesn't.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I wasn't talking to you, buttpipe! I was talking to Cartman!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, I was talking to Cartman, too!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Damn, I'm pretty freakin' <i>cool</i> all of a sudden.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Ah! Here we see the ice man trying to gain Internet access on the computer. The Internet was still not very big in his time, so the Web frightens and confuses him. <i>["Steve" throws the mouse away, then overturns the computer in a fit of rage. The viewers are alarmed as he moves towards the window]</i> It's okay, he can't hurt you. <i>[they chuckle in relief]</i> It's one-way glass: he can't even see us. <i>["Steve" goes to the back wall]</i> And now the ice man watches television. <i>[Click. The Aussie hunter is on TV. A grizzly bear is man-handling him]</i>
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>This grizzly bear has the strength of over ten Morgan Freemans. I'm really pissing him off right now.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td><i>[to the Agents]</i> Wait. This could be dangerous.
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>How so?
+</td></tr>
+<tr>
+<th>Mepehsto:
+</th><td>He's changing the channel. Something on the television could frighten and confuse him.
+</td></tr>
+<tr>
+<th>Sports Reporter:
+</th><td>And they've done it! The Atlanta Falcons are going to the Super Bowl!
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>What?!! Rrrowrrr! <i>[he throws the TV off the cabinet and the crowd recoils. He senses the crowd, as he turns towards the glass and growls]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[approaches with Kyle and Cartman]</i> You guys aren't being very nice to my creature.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>He's <i>my</i> creature!
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>He's fine, boys. And we're learning <i>so much</i> from him.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Let him out, dude. He's scared.
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>He would be more scared on the outside. Do you think this stuff freaks him out? How do you think he'd react to what's happening in the government right now?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But it isn't right!
+</td></tr>
+<tr>
+<th>Agent 2:
+</th><td>Little boy, sometimes, what's right isn't as important as what's profitable. <i>[Stan turns and walks to the window. He looks at "Steve" in empathy. More people come by to look at the ice man]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[notices the end of the sidewalk]</i> (Uh oh. Ow!) <i>[slips down between the sidewalk and the landing, and is flattened to death. His remains reappear at the other end]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[gasps]</i> Oh my God, they killed Kenny! <i>[looks at Kyle]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?! I'm not talking to you! <i>[walks away]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Later that night.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[a voice in the night]</i> Gorak! <i>[he rushes to the habitat, then heads to the access door]</i> Gorak! Gorak! Are you there?
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>Oh hi. What are <i>you</i> doing here? Viewing hours are 10 to 6.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I don't think it's fair for them to keep you captive like this, Gorak. I came to bust you out.
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>Wow. That's really nice of you, kid. Thanks! <i>[a door opens off-screen, and Stan turns to see who it is. Kyle appears.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What are <i>you</i> doing here?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[reaches the access door]</i> I'm here to bust out Steve.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What?! You can't. I'm here to bust out Gorak.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>His name is Steve!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>His name is Gorak!
+</td></tr>
+<tr>
+<th>"Steve":
+</th><td>My name is Larry.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Steve!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Gorak!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Steve!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What kind of stupid-ass name is Steve?!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Be<i>cause</i>, he kinda like looks like Steve Austin, the $6 million man
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[looks up at Larry, who looks back]</i> No he doesn't!!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Does so!
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Uh. Hey, kids, could you just open the door so I can get back to my family?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I found him, I'm rescuing him! <i>[Kyle just opens the door]</i>
+</td></tr>
+<tr>
+<th>Larry:
+</th><td><i>[to Kyle]</i> Thanks. <i>[leaves]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You're a dick!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You're a dick!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You're a dick, and I've had it with your dicketry! I choose you!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You want a fight? Well, that's fine with me!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Tomorrow at the bus stop, 4 o'clock!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, why don't we make <i>3</i> o'clock?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[hushed]</i> Dude, <i>Terrance and Phillip</i> is on at 3.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[hushed]</i> Oh yeah. <i>[loudly]</i> Fine, I'll kick your ass tomorrow, dick! <i>[walks away]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I'll kick your ass so bad you'll wish you never had it- to begin with! Your ass, I mean. <i>[turns his head aside]</i> Wait. <i>[walks off in the opposite direction]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The town, next day. Larry walks around and comes across "TELE'S," which shows a large-screen TV flanked by towers three TV's tall on each side. Marilyn Manson is on screen]</i>
+</td></tr>
+<tr>
+<th>Marilyn Manson:
+</th><td><div class="poem">
+<p><i>I just smelled your britches and they're stinky</i><br />
+<i>Stinky Britches</i><br />
+<i>Stinky Britches</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Arrrggh! <i>[crashes through the window, takes the large-screen TV and smashes it to the ground, then walks away]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[the genetic engineering ranch]</i>
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>He's gone! The ice man has broken out!
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>No, that's impossible! How <i>could</i> he have?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>He must have used this... door <i>[a door to the outside is open next to him]</i>
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>Damn it, <i>Damn it</i>!
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>We have to find him! He won't survive long out in the world!
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>Yes, and if he isn't found, we won't be able to use him for our military war-
+</td></tr>
+<tr>
+<th>Agent 2:
+</th><td>Sshhhh!
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>Right.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Agent 2:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>Nothing.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>No, what did you say? Uh, use him for what?
+</td></tr>
+<tr>
+<th>Agent:
+</th><td><i>[shrilly]</i> Butlutlutlutlup! <i>[Mephesto just stares at him]</i>
+</td></tr>
+<tr>
+<th>Agent 2:
+</th><td>Dr. Mephesto, where could the creature have gone?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>I have no idea!
+</td></tr>
+<tr>
+<th>Agent:
+</th><td><i>We'll</i> never track him down on our own. This calls for some special assistance.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Larry knocks at a door at 1299 Waterston St. A woman opens the door.]</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Can I help you?
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Leslie. It's me, Larry. <i>[she stares back, blankly]</i> Your husband?
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Husband? You're not my husband.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Think hard, Leslie. We used to be together, for over eight years?
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>I <i>seem</i> to remember a husband, but I think he was lost and never found on Kenosha Pass.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>That was <i>me!</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td><i>[a bit stunned]</i> Oh.
+</td></tr>
+<tr>
+<th>Big Man:
+</th><td><i>[appears behind her]</i> Who is it, lover?
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>It's my former husband, who I had forgotten all about.
+</td></tr>
+<tr>
+<th>Big Man:
+</th><td>Ooooo. <i>[he and Larry check each other out]</i> Well, sir, let me shake your hand. I'm proud to meet the man whose wife I'm currently sticking it to every night. <i>[walks away]</i>
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>So you... remarried.
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Yes, Lorry.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Larry!
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Uhlarry. Larry-y, you disap-peared. I waited for you to come home for over three days! I. I remember how cold and lonely the nights got. By the fourth day I knew: I had to move on.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Didn't anybody send out a search party?
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>We did, Larry. We looked all afternoon. But we found nothing, no trace.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Please, Leslie, I don't know where else to go. I'm confused.
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Leslie, I'm with Buck now. <i>[must be the big dude shown earlier]</i>
+</td></tr>
+<tr>
+<th>Larry:
+</th><td><i>You're</i> Leslie.
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Right. I'm with Buck now. We have children together. <i>[they appear]</i> Calvin is eight, and little Buck is 13. I just can't up and leave them. I'm sorry.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>I'm sorry, too. I'll leave you alone. <i>[walks away. She closes the door, and he stops]</i> Eight and thirteen? <i>[wrong family?]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's house. He and Cartman are out in the backyard. Cartman is dressed as an outback hunter]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, I don't see any crocs out here.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Damnit, Cartman, you're supposed to be helping me to get ready to fight Kyle, not playing Australian outback guy!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[walks over to a cat nearby]</i> Or, in other words, I'll let this jagu-ar bop me in the face and see if it hurts. Come on, jagu-ar, let's see what you've got! <i>[the cat leaps up and scratches his face]</i> Aaah! Ow, son of a bitch! <i>[feels the two scratches on his left cheek]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You suck as a best friend, Cartman!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You son of a bitch cat!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[walks to Larry, bathing in a tub out in the open with the garden hose, and looks at him for a while]</i> What are you doing, Gorak!
+</td></tr>
+<tr>
+<th>Larry:
+</th><td><i>[turns to see him]</i> I can't live in your time. I'm freezing myself again.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wow, that sucks, dude.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Tell me about it. I've been doing this for over three and a half hours now, and only my toes are starting to ice over.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[rushing in with a travel guide]</i> Steve, wait!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What are you doing here, dick?! We're not supposed to fight until 4 o'clock!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I've got something to show Steve, <i>dick!</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Gorak is busy freezing himself again, dick!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Steve, you don't have to freeze yourself. Look!
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>What is that? <i>[drops the hose]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's this place called Des Moines. It's like, lost in time, see? <i>[opens the guide to show Des Moines's assets]</i> Everybody looks like you do. <i>[flips the page]</i> Fashion is two years behind, Technology is two years behind, fads, are two years behind, just like you. <i>[hands him the guide to look over]</i>
+</td></tr>
+<tr>
+<th>Larry:
+</th><td><i>[closes it with affection]</i> Home.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on, Steve, you're going to Des Moines!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh, no you don't, glory-monger! Gorak is <i>my</i> responsibility. <i>I'll</i> take him to Des Moines!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No you <i>don't</i>, butthole! <i>[a helicopter is heard over the neighborhood, and Larry sees it. Dogs begin barking]</i>
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>They're coming for me!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Come on! <i>[the three run away]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, you jagu-ars can be real mean. I'm gonna have to smack it in the face. <i>[Mephesto and his Agents arrive]</i>
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Was the ice man here?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>He might have been, by crikey.
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>We have to get him back. Well, can you do it?
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td><i>[!]</i> Sure I can! I can hunt down anything!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Wow! Kick ass!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Train Station. People are waiting to depart, and a train is pulling in]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We need a one-way ticket to Des Moines, please.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Des Moines? What the hell for?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We have to get our friend, Steve-
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>My friend, Gorak!
+</td></tr>
+<tr>
+<th>Kyle:
+</th></tr>
+
+<tr>
+<th>Stan:
+</th><td><i>No</i>, he's not gonna melt away! That's Frosty, you stupid butthole!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Frosty, Steve, whatever.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Well, okay. Uh, I'll find him a seat. <i>[sets to writing the ticket. The boys soon look at the clock on the wall]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, look, it's 4 o'clock.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>Oh.</i> We'll wait for you over there, Steve. We have to start fighting now.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Okay, boys. Thanks. <i>[the boys walk off, then stop. Stan turns around]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Okay. First one to die, loses.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>'K.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Okay. <i>[neither one moves]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>O-okay.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>So, here we go. <i>[puts up his fists]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>'K <i>[puts up his fists]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Go. <i>[they lock fists and start fighting]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The woods. The Aussie leads Mephesto, Agents, Barbrady, and other cops, in a hunt. He runs across a set of tracks]</i>
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>Wait a second. <i>[bends down, picks up some snow and sniffs at it. Cartman imitates]</i> I think he came through here recently.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, I think the same thing.
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>Well, where the hell is he? We've got to get him back to the lab.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>He can't function out here in our time!
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td><i>[rising]</i> Calm down, calm down.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, calm down, calm down, you sons of bitches.
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>Wait! Look!
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Is it him?
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>No! It's a Rocky Mountain rattle snake. <i>[curled up on a stump, it hisses]</i> This is the most poisonous snake in this entire region. <i>[quietly]</i> Now, what I'm gonna do, is carefully sneak up on him, and jam my thumb up his <i>butthole</i>. Crikey! <i>[leaps on the snake]</i> Oh, this snake is really pissed!! I'm gonna jam my thumb in his butthole now! <i>[his thumb sticks high in the air, then drops]</i> Awww, yeah, that pissed it off all right!
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>Does he always do this?
+</td></tr>
+<tr>
+<th>Agent:
+</th><td><i>[now cross, in a low voice]</i> Yeah.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>I'm</i> gonna go jam <i>my</i> thumb in some'in's butthole now.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[the train station. Stan and Kyle are still fighting]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[punched by Kyle]</i> Ow!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[punched in return]</i> Ow! <i>[he throws Stan down]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Watch my coat, dude.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td><i>[walks up]</i> I got my ticket.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Huh? <i>[both look at Larry]</i>
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>I have to go to Platform B.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[blinks, then]</i> Oh. Okay, it's over this way <i>[leads him there with Stan. Larry takes a seat on a bench, and Stan and Kyle resume fighting]</i>
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td><i>[shows up at the ticket booth with the hunting party]</i> The trail ends here.
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>The train station? Then he's trying to <i>go</i> somewhere.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td><i>[to the clerk]</i> Have you seen a man who looks similar to us, but with a thicker brow and an apish nose?
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>What the hell are you talking about?
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>An ice man, a man from the past. We must find him. Now, where is he?!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Platform B. Larry has gotten on the train, and the boys see him off. They get back to fighting]</i>
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Well, this is it. I'm going back to my time. Thanks again, boys.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[panting]</i> No problem, Gorak.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Later.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>You boys have really shown me the true meaning of friendship. You didn't care about anything but my happiness. You put me in front of yourselves, and that's what real friendship is all about.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yup.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Uhuh.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>After being frozen, I've learned that all a person has in life is family. And friends. If you lose those, you have nothing. So friends are to be treasured, more than anything in the world!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[panting]</i> Right on.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cool.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Goodbye, boys. Goodbye, friends! <i>[the train pulls away. The boys watch it leave, then resume fighting]</i>
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td><i>[rushing up]</i> Where is he? Where is Steve?! <i>[Kyle and Stan butt heads and remain eye-to-eye]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>His... name... is... Gorak!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>His name... is Steve!
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>The train! <i>[it passes the water tower]</i>
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>We've got to stop it!
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>No worries. <i>[cocks his rifle and goes after Larry]</i>
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>Let's get him! <i>[the party gives chase]</i>
+</td></tr>
+<tr>
+<th>Stan and Kyle:
+</th><td>No! <i>[they stay behind, for a moment]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The hunting party is now on the tracks chasing the train.]</i>
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>We've gotta stop that train!
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>Come back here, you! <i>[jumps onto the caboose landing]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Steve! Steve, look out!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>They're after you! <i>[Larry looks out his window]</i>
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>Oh, he's a wily one! <i>[looks over the railing and sees Larry, then shows him his thumb and smiles]</i>
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Oh, poo!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Steve, look out! <i>[Mephesto and the Agents have reached the engine]</i>
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td><i>[meeting Larry in his car]</i> Notice the dilated pupils of this prehistoric man. A sure sign the prey is frightened. As well as he should be, as I will now jam my thumb up his butthole.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>Huh? <i>[the Aussie pounces on him]</i> Whah?!
+</td></tr>
+<tr>
+<th>Agent:
+</th><td><i>[reaches for the conductor's door]</i> Stop the train!
+</td></tr>
+<tr>
+<th>Conductor:
+</th><td>Hey, who are you?
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>I said, stop that train!
+</td></tr>
+<tr>
+<th>Conductor:
+</th><td>Yes, hello. I see you.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>They're all movin' pretty fast, but I'll catch up to 'em, by crikey.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[atop the train, Larry and the Aussie wrestle.]</i>
+</td></tr>
+<tr>
+<th>Larry:
+</th><td><i>[pins the Aussie]</i> I've got you pinned. I win.
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td><i>[reverses the pin]</i> Now I've got <i>you</i> pinned. <i>I</i> win! <i>[on the tracks, Stan and Kyle try to keep up]</i>
+</td></tr>
+<tr>
+<th>Conductor:
+</th><td><i>[ducking gunshots from the Agent]</i> Whoa!
+</td></tr>
+<tr>
+<th>Agent:
+</th><td><i>[a helicopter comes into view and descends]</i> Hey, it's okay! The helicopter is here! <i>[into a communicator]</i> Go get him, boys! <i>[the pilot acknowledges]</i> Cut him off!
+</td></tr>
+<tr>
+<th>Larry:
+</th><td><i>[pinned on his stomach, his butt in the air]</i> Nooo!
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td>Now for the coup de gras. I'll just... get my... thumb up... here.
+</td></tr>
+<tr>
+<th>Larry:
+</th><td><i>[lets out a long, painful]</i> Oohh!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[the helicopter lands in front of the train, but the train rolls on]</i>
+</td></tr>
+<tr>
+<th>Pilot:
+</th><td>Aah, the train's not stopping. <i>[it gets closer...]</i> It's not stopping! <i>[...and closer...]</i> AAAAAAAA! <i>[impact, but the train's the one that gets ruined]</i>
+</td></tr>
+<tr>
+<th>Aussie:
+</th><td><i>[thrown towards the helicopter]</i> Holy bum-! <i>[the blades chop him up]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[catching up]</i> Where's Gorak??
+</td></tr>
+<tr>
+<th>Pilot:
+</th><td><i>[steps off the chopper]</i> Wow, that is the God-damnedest thing I've ever seen.
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>Where's the ice man?!
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>He has to be around here somewhere. <i>[Larry comes up behind the pilot and takes off in the helicopter]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I can't believe he's gone.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[turns around]</i> Wait, look! The helicopter! <i>[they reach Mephesto and company]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He's alive!
+</td></tr>
+<tr>
+<th>Larry:
+</th><td><i>[on the bullhorn]</i> Good-bye again! I'm off to Des Moines!
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td>No! Come back! You can't get out! You'll never live!
+</td></tr>
+<tr>
+<th>Larry:
+</th><td>I'm not living here! Living is having ups and downs and sharing them with friends! <i>[Stan and Kyle look at each other]</i> Thank you, Stan and Kyle! See ya! <i>[flies off towards the mountains]</i>
+</td></tr>
+<tr>
+<th>Agent:
+</th><td><i>[leaving with his colleagues]</i> Damn! Well, so much for our plan to use the ice man to take over Sweden.
+</td></tr>
+<tr>
+<th>Mephesto:
+</th><td><i>[following]</i> What?!
+</td></tr>
+<tr>
+<th>Agent:
+</th><td>What? Nothing!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kyle, Steve was a... pretty good name for that guy.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No- Dude, Gorak is cool because it's original. And besides, you found him.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[still hunting]</i> Be very very quiet. I'm hunting crocodiles, hahahahahaha.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[walks off with Kyle]</i> Could we be best friends again? <i>[Cartman stops]</i> I hate having Cartman as a best friend.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Me, too. He sucks.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh yeah?! Well I don't need you guys anyways! You guys can kiss my- <i>[turns left and goes Aussie]</i> Aha! There's a king croc right there! <i>[a cow grazing on a tiny patch of grass. Cartman sneaks up]</i> And what I'm gonna do, is I'm gonna sneak up on it, and jam my thumb in its-
+</td></tr>
+<tr>
+<th>Cow:
+</th><td>Moo! <i>[sits on Cartman, forcing his gun to the ground, then stands up with Cartman stuck up its ass]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ey! Ey, get me out of here! God-damnit! Ugh. Smells like Kenny's house in here.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><div class="poem">
+<p><i>[End of <b>Prehistoric Ice Man</b>. "Stinky Britches" once again:</i><br />
+<i>Stinkin' britches, you've got stinky britches</i><br />
+<i>Stinkin' britches, you've got stinky britches</i><br />
+<i>You've got stinky britches]</i>
+</p>
+</div>
+</td></tr></table>
+<p><br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">218: "<a href="/wiki/Prehistoric_Ice_Man" title="Prehistoric Ice Man"><span style="color:white">Prehistoric Ice Man</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:218&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Steve_Irwin" title="Steve Irwin">Steve Irwin</a> •
+<a href="/wiki/Dr._Alphonse_Mephisto" title="Dr. Alphonse Mephisto" class="mw-redirect">Dr. Alphonse Mephisto</a> •
+<a href="/wiki/Larry_(Prehistoric_Ice_Man)" title="Larry (Prehistoric Ice Man)">Larry</a> •
+<a href="/wiki/Federal_Bureau_of_Investigation" title="Federal Bureau of Investigation">Federal Bureau of Investigation</a> •
+"<a href="/wiki/The_Sign" title="The Sign">The Sign</a>"
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Prehistoric_Ice_Man/Images" title="Prehistoric Ice Man/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s02e18-prehistoric-ice-man">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Second_Season" title="South Park: The Complete Second Season">South Park: The Complete Second Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 152/300000
+Post‐expand include size: 5092/2097152 bytes
+Template argument size: 92/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:32641-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Prehistoric_Ice_Man/Script?oldid=246744">http://southpark.wikia.com/wiki/Prehistoric_Ice_Man/Script?oldid=246744</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Two" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Two" title="Category:Scripts from Season Two">Scripts from Season Two</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-below_category" class="monetization-module amazon-video hide-for-edit below-category amazon-video-full" data-mon-type="amazon_video" data-mon-slot="below_category"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-32641-B00NY4UD92-piv-fl-npr-bc-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-32641-B00NY4UD92-piv-fl-npr-bc-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-32641-B00NY4UD92-piv-fl-npr-bc-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-32641-B00NY4UD92-piv-fl-npr-bc-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-32641-B00NY4UD92-piv-fl-npr-bc-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-below_category" class="monetization-module adunit hide-for-edit below-category" data-mon-type="adunit" data-mon-slot="below_category"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_fsm_fft mon_hub_tv mon_sl_bc" data-ad-type="text" data-font-size="medium"data-font-face="times" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":32641,"kv_wpage":"Prehistoric_Ice_Man\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Prehistoric_Ice_Man/Script","wgTitle":"Prehistoric Ice Man/Script","wgCurRevisionId":246744,"wgArticleId":32641,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Two"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Prehistoric_Ice_Man/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":246744,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Prehistoric_Ice_Man/Script","fbReturnToTitle":"Prehistoric_Ice_Man/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Prehistoric_Ice_Man/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Prehistoric_Ice_Man/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Prehistoric Ice Man/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

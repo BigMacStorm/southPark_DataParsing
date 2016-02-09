@@ -1,0 +1,2670 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Spookyfish/Script,Spookyfish,South Park Studios,Official Scripts,Spookyfish/Images,Spookyfish/Trivia" />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Spookyfish/Script" />
+<meta name="twitter:title" content="Spookyfish/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Spookyfish/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Spookyfish/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":31034,"pageIsArticle":true,"pageName":"Spookyfish/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=31034,
+wgCategories=["Scripts","Scripts from Season Two"],
+wgPageName="Spookyfish/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s17","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=31034&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=31034&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Spookyfish/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Spookyfish/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Spookyfish_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FSpookyfish%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Spookyfish/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Spookyfish/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Spookyfish/Script</h1>
+											<h2>&lt; <a href="/wiki/Spookyfish" title="Spookyfish">Spookyfish</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Spookyfish/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Spookyfish/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		<script>
+    
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-below_title" class="monetization-module adunit hide-for-edit below-title" data-mon-type="adunit" data-mon-slot="below_title"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_fsm_ffv mon_hub_tv mon_sl_bt" data-ad-type="text" data-font-size="medium"data-font-face="veranda" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Spookyfish" title="Spookyfish">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Spookyfish/Trivia" title="Spookyfish/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Spookyfish/Images" title="Spookyfish/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s02e15-Spookyfish">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Spookyfish" title="Spookyfish">Spookyfish</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Two" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan Marsh
+</li><li> Evil Stan Marsh
+</li><li> Kyle Broflovski 
+</li><li> Evil Kyle Broflovski 
+</li><li> Eric Cartman
+</li><li> Evil Eric Cartman
+</li><li> Kenny McCormick
+</li><li> Stan's Spooky Fish
+</li><li> Sparky
+</li><li> Mr. Kitty
+</li><li> Chef
+</li><li> Randy Marsh
+</li><li> Sharon Marsh
+</li><li> Aunt Flo
+</li><li> Mrs. McCormick
+</li><li> Stuart McCormick
+</li><li> Officer Barbrady
+</li><li> Indian Burial Ground Pet Store Clerk
+</li><li> Mayor McDaniels 
+</li><li> Johnson
+</li></ul>
+<h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>Announcer:
+</th><td>The following program is brought to you in spooky vision. Be warned: all scenes will be accompanied by pictures of Barbra Streisand. <i>[someone screams, then the Pink Eye opening sequence is shown]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Outer Space. A ship descends and then turns towards Earth, headed for the western U.S. As it enters the atmosphere it begins to burn. It slows down and hovers over a road, then lands gently. A door opens like a camera lens, and an alien drops down. As soon as he moves, a tire crushes him. Judging by the size of the tire, the alien was 18 to 24 inches tall. The tire is that of the South Park Elementary school bus, which stops to let the boys off. Then it pulls away.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I wonder why Cartman wasn't in school today.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>He probably just ditched to avoid that spelling test.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey guys. How's it going? <i>[he sports mustache and beard]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[he and Stan laugh]</i> Uh, nice costume, dude. Who are you supposed to be? Luke Perry?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Cartman, how come you weren't in school today?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Did you eat too many pork rinds last night? <i>[he and Stan laugh again]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys, you're so funny. No matter how I'm feeling, I can always count on <i>you</i> guys to lighten me up.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I had to stay home because my mother wasn't feeling well. She has the flu, and I wanted to take care of the house so she could stay in bed. <i>[Stan and Kyle stand there, shocked]</i> I just wanted to catch you guys to see if we were assigned any homework tonight.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What the hell are you talking about, Cartman?!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Stop screwing around, dude. We're all gonna go meet at the store later to buy pumpkins to carve.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[excited]</i> Oooh, then we can enter the carving contest! I'll run home and get money from Mother. Do you guys need some, too? <i>[Cartman and the boys look at each other]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, this is creepy.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan reaches his house and enters]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Stanley? Look who's here. Aunt Flo. <i>[an elderly woman with glasses who has two gifts wrapped up next to her]</i>
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td>Hello, Stanley. Remember me?
+</td></tr>
+<tr>
+<th>Stanley:
+</th><td><i>[flatly]</i> Hi, Aunt Flo. <i>[he stays at the doorway]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[Aunt Flo begins to tremble]</i> Now, Stanley! Aunt Flo only visits once a month. Be nice.
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td>Hey, Stanley. I brought you and Shelly presents.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wow, really?! Hey, I love Aunt Flo! <i>[rushes in]</i>
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td><i>[Shelly comes in]</i> Okay, Shelly. This one's for you. <i>[Shelly opens up the larger box and it explodes into]</i> It's a television/CD player/surround sound home theatre.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wow!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>What do you say, Shelly?
+</td></tr>
+<tr>
+<th>Shelly:
+</th><td>Thank you, Aunt Flo.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Okay, Stanley. Your turn. <i>[he opens up his box and reaches in]</i>
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td>Your very own fish.
+</td></tr>
+<tr>
+<th>Shelly:
+</th><td>What do you say, Stanley?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I don't know. <i>[he and the fish look at each other. Stan shows some fear.]</i>
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td><i>[softly]</i> I think he likes you. <i>[normal]</i> Come on Shelly. Let's hook up your home theater.
+</td></tr>
+<tr>
+<th>Shelly:
+</th><td>Okay. <i>[follows her aunt out]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>How do you like your fish, Stanley?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I <i>don't</i> like it. It's spooky.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Oh, now, what's spooky about a cute, little goldfish? Go put him in your room.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Do I have to?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Yes, you do!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Damn it! <i>[walks off with the goldfish]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Language!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A different Barbra picture zooms out from the center of the screen. Next: the bus stop. Kyle is already there]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Where have you been, dude?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, my mom's having her monthly visitor.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Aunt Flo?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah. Every time she shows up my mom turns into a total bitch.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Where is Cartman? He said he was gonna bring money for us to buy a pumpkin.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, I wonder why he's being so nice.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Here he comes.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, Cartman! Did you bring us money from your mom?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[clean-shaven]</i> Heh! Yeah, right! You guys could kiss my black ass!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>You</i> said you could get us money, Cartman!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Man, you guys are hella stupid! If I had money, I wouldn't give it to <i>you</i> assholes!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, at least he's back to normal.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, but we can't get a pumpkin, so we can't enter the carving contest!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's okay. Kenny said <i>he'd</i> get one.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, how's Kenny gonna get one?! He's <i>hella</i> poor!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Why do you keep saying "hella," fatass?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>'Cause I'm <i>hella</i> cool, that's why.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That's not cool!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys are just hella jealous.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Night time, storm. Stan's house. Randy is about to turn off the light in Stan's room]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Good night, Stanley. We'll uh see you in the morning.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Can you leave the light on, Dad?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, it has to be off, or your Aunt Flo will complain about wasting electricity.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I wish Aunt Flo didn't have to visit now.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Yeah, me too. But she only visits your mom for five days or so. I'll be out sleeping on the couch. <i>[turns the light off and closes the door]</i>
+</td></tr>
+<tr>
+<th>
+</th><td><i>[In the darkness, Stan pulls the covers close and looks at the fish. They stare at each other, and the fish blows a bubble. Stan turns away, then looks back. The fish just looks at him. Stan then turns towards the window and begins to fall asleep, until lightning startles him upright. He looks at the tank. The fish is gone!]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Where did it go? <i>[he lifts the covers and looks under the bed, then sits back. The fish swims back into view.]</i> Huhhh. <i>[he gets out, picks up his shirt, and throws it over the tank. He goes back to bed and looks at the tank again.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kenny's house. Rain is dripping in all over the ceiling as pails collect the water. Kenny, Kevin and Mom share a blanket on the sofa while Stuart sits in the armchair]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Give me that-!) <i>[pulls the blanket off Kevin]</i>
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>Kenny <i>[paf]</i>,
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Ow, mom!)
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>You share that blanket with your brother! <i>[knock knock knock]</i>
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Who the hell could that be? <i>[the front door opens and the family looks to see who it is]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[with mustache and beard, and dressed in raingear]</i> Hi there, folks! This is a heck of a storm out now! Thought maybe you could use some provisions. <i>[a box of SUPPLIES is next to him. The parents look at each other]</i> There's some candles and food in there. It ain't much, but it should get you through the night. Take care, folks. I've got other houses to get to. <i>[walks off]</i>
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td><i>[suspicious]</i> Kenny, wasn't that your fat, racist, foul-mouthed friend, Eric Cartman?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Uh huh)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's house. He gets up once again to look at the tank, but the shirt is not on it anymore.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey. Where did the shirt go? <i>[hops off and approaches the fish]</i> I covered you with a shirt! Where did it go?! <i>[the fish blinks, then looks down and to the right. Stan's eyes follow, and he sees the shirt.]</i> AAAaAaAaAa <i>[runs back to his bed and pulls the covers up, then drops them a bit. He looks at the fish]</i> I'm not gonna look. <i>[shuts his eyes, then opens them again. The fish tank, and the dresser it's on, are closer to the bed]</i> It's not closer. I'm just seeing things. <i>[shuts his eyes again, then opens them. The tank and dresser are at the foot of his bed]</i> GAAAH! <i>[shuts his eyes tight, and opens them one more time. The fish tank is now on the bed, between his feet]</i> AAAAAAAH!! <i>[he jumps off, runs to his door, and rushes into the hallway]</i> MOM! Mom! <i>[comes back to the room with her in tow]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Stanley, settle down!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Look. He's gonna kill me, Mom!
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td><i>[at the door]</i> Is there a problem? <i>[walks to Sharon]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Uhno problem, Aunt Flo.
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td>Do you not like your goldfish?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No!
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td>I'm sorry. I'm a bad aunt. <i>[buries her face in her hand and begins to sob.]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>There, there, Aunt Flo. Stanley <i>loves</i> his goldfish. <i>[he merely looks up at them]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[1:25 a.m. Stan is under the covers looking at the spooky fish. After a long while, the fish turns around and starts writing something on the tank wall with his tail. Stan gets out of bed for a closer look. The fish finishes writing and turns to blow on the wall. A gray area appears and the word "KILL" appears within it.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>AAAAAAAAH! <i>[runs back to bed]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[enters his room and turns on the lights]</i> Stanley, what are you doing?!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[pointing]</i> The fish! <i>[nothing is left of the writing on the tank wall]</i> But-.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Stanley, I'm in no mood for this! Not when your Aunt Flo is in town! Oh, look, you woke your sister up. <i>[Shelly stands in front of Sharon, then approaches Stan and slaps him, then leaves the room]</i> Go to sleep, Stanley! <i>[turns off the light and closes the door behind her.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td><i>[Stan gets back into bed and pulls the covers up. Another flash of lighting gets Stan to sit up again. He looks at the tank again, then gets out of bed for a closer look, failing to notice the growing pool of blood next to him. The fish again looks down and to the right, and Stan's eyes follow]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[gasps. A man lies dead between the tank and the bed]</i> WAAAAAAAH! Mooomm!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>All right, Stanley. I have had enough o- <i>[freezes when she sees the body, then, quivering]</i> Oh, Stanley, what have you done, baby? What have you done?? <i>[rushes to comfort him]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Mom, I was just sleeping. And the next thing I knew-.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[covers his mouth with her arm, then quietly]</i> Sshhh. It's okay, honey. It's okay. I've got such a good boy, Mommy's little angel. <i>[kisses him and gets up]</i> Now, don't worry, Stanley. Mommy's going to hide the body. <i>[starts to drag it away]</i> Nobody's going to take my baby away. I've got such a handsome boy, such a good boy. <i>[she drags the body out of the room and out into the storm. Stan just looks at her]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[turns to the fish]</i> You're not gonna get away with this! <i>[the fish writes again, blows, and the message is: "Yes I Will."]</i>
+</td></tr>
+<tr>
+<th>
+</th><td><i>[Stan walks over to the window and sees his mom digging a grave next to the body. She then places the body in the grave and covers it up. She returns with the shovel to the kitchen and closes the door behind her.]</i>
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td><i>[her silhouette appears]</i> Sharon!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>D'uh! Aunt Flo, what are <i>you</i> doing up?!
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td>Look at you, with your little shovel. Just like when you were twelve.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[sees Sharon pass by]</i> Mom, what are you doing?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Sshh. It's going to be okay, Stanley.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Mom, do you think <i>I</i> killed that guy? It was the <i>fish</i>! He says I'm next! <i>[The fish blinks and blows a bubble]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[enters the room]</i> Now get some sleep, baby. Mommy's taken care of everything.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>But MOM!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td> [Cradles Stan]Sshh.<br /><i>Hush little baby, don't say a word. Momma's gonna buy you a mockin' bird<br />If that mockin' bird don't sing, Momma's gonna bury it in the backyard</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[8 a.m., next day. A rooster crows and Stan's clock farts. Stan wakes up and looks at the tank. The fish is still there. Stan hops off the bed and walks to the tank, but is stopped by another body.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>MMOOMM!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[frantic]</i> What is it, honey? <i>[gasp!]</i> My baby's killed again!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[points at the body, then holds up his hands]</i> No, mom!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[holds him tight]</i> What are we gonna do, baby? What are we gonna do?? <i>[the fish looks on. Sharon drags the body out]</i> I've got such a handsome boy, such a good boy. <i>[Stan then stands at the window. As he looks out, a reflection of Sharon burying the body is seen on the window pane.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Almost 8 p.m., Kyle's house. Kyle and Cartman are at table when Kenny comes in]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's about time, Kenny! Did you bring the pumpkin?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Uh huh!)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, where is it? <i>[Kenny brings out a squash and sets it on the table]</i> What the hell is that?!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(It's the only thing I could afford.)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>It's all you could afford?! Whoever heard of a squah-o-lantern, Kenny?! That's hella stupid!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Stop saying "hella," Cartman! <i>[to Kenny]</i> How are we gonna win the contest with a squash? <i>[as Kyle says this Stan enters the room]</i> Whoa, Stan. You don't look so good.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[squeezes into Kyle's chair so both fit. Cartman walks to Kenny's chair]</i> I haven't been sleeping so well.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[cuts the top off the squash and taps at the bottom to clear it out. Sigh]</i> God, I hate you, Kenny. <i>[works on the squash some more]</i> I have to get another knife; this one's hella dull! <i>[goes into the kitchen for another one]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>God, will you shut up?!</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kyle, you know how some people are, like, murderers and stuff?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Do you think animals can be murderers, too?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I don't know. <i>[the bearded Cartman comes in with a huge knife]</i> Oh, great. He's got that stupid beard on again.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[gives Kenny a hand]</i> No, Kenny. You should cut with the blade facing away from you. You're gonna hurt yourself. Seriously, dude. Isn't this fun, you guys? Carving pumpkins for Halloween?<br /><i>You guys are my best friends<br />Through thick and thin, we've always been together<br />We're four of a kind, havin' fun all day<br />Pallin' around and laughin' away<br />Just best friends, best friends are we.</i><br />I love you guys. <i>[throughout the song, Kyle and Stan look on with awe]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Next day. Stan, Kyle and Kenny are at the bus stop. A picture of Barbra in curls is now on all four corners.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You seem tired, Stan.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I haven't been sleeping well.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Why?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>My pet goldfish killed another random person last night.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hoh, that sucks, dude.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey, dudes. Man, it's hella cold out here.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Who'd you expect? Maury Povich? Golly, you're hella lame!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What are you doing?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What do you mean, what am I doing?! I<i>m just standing here. Jesus, mellow out, you guys.</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You <i>can't</i> be standing there, Cartman.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Why the hell not?!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Because you're standing over <i>there</i>! <i>[Kenny looks at the bearded Cartman]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[seeing his parallel for the first time]</i> Aaah! Son of a bitch!
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td><i>[Cartman walks to him]</i> Wow, you don't see this every day.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I can't believe what I'm seeing.
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>It's like I'm looking in a mirror.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Dude, this is hella weird.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Sunrise, Stan's house. Officer Barbrady approaches the front door, humming. He rings the bell]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[answering]</i> Oh. Uh-Officer Barbrady, Woowhat what a surprise. Wwhat can I do for you?
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>Well, there's been a report of a few missing people.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Is that so?
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>Yeah. No biggie, but I was wondering if you had seen any of them. <i>[show her some pictures of the missing men]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>I'd never seen <i>any</i> of those men, Officer Barbrady.
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>No, I didn't think so. Mind if I look around the back yard, though?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[somewhat alarmed]</i> Why would you wanna do that?
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>Well, I'm checking everyone's back yards. Missing people usually turn up hiding in someone's bushes. May I? <i>[Sharon moves aside and Barbrady enters. They head for the back yard, where five fresh graves await around the clubhouse, and Sparky is pulling a leg out of one of them. Sparky pulls it free and walks away with it]</i> Well, this all looks in- <i>[clunk]</i> oh? Tennis anyone? <i>[falls to the floor unconscious. Sharon had hit him with a pan]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The fourth image of Barbra zooms out and back with a scream, and Sharon is now in the basement]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Nobody's going to take my baby away from me! Nobody!
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td><i>[missing his pants and shoes, his wrists are tied to posts]</i> Okay, Mrs. Marsh, I'm afraid I'm going to have to ask you a few questions.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, lunch time. The boys are in the kitchen for their food]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[excited]</i> Hello there, children! <i>[he is dressed as an African chieftain, complete with reebock skull]</i>
+</td></tr>
+<tr>
+<th>The Boys:
+</th><td>Hey, Chef.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>All ready for our Halloween lunch? Today I've got spooooooky spaghetti, with freeeeeaky French fries.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Uh, Chef?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Or haaauuunted hash browns.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Chef.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>And a creeeeeepy cookie, and moooooonstrous milk!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Chef.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>And a <i>teeeeerrifying napkin!</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Chef!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>What?!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We have problems!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Well, what's the first problem?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Chef, I have a goldfish that keeps killing people.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oh. Well, uh, don't worry, Stan. I'm sure it'll work out. Now, what's the other problem? <i>[Kyle points to Cartman, but now there are two of him. They blink together.]</i> Oh, nohoho. <i>[rubs his eyes]</i> Oh, DEAR GOD, NO!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cafeteria dining area. The five boys and Chef are sitting at a table]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>...and them I saw them all at the bus stop, and <i>this</i> son of a bitch is standing there!
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>I'm sorry I caused so much trouble. This is all very strange to me, too.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Exactly what do you remember?
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>Well, I was just standing around, and Stan and Kyle were being really mean, as usual, and Kenny had just bought a new car.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Of course! That's it!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Don't you see, children? <i>This</i> Cartman is from an evil, parallel universe where everything exists as its opposite!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>He's my evil twin? But he doesn't even <i>look</i> that much like me; he's all fat and stuff. He's hella lying.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Will you stop saying that word?!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Of course! My pet goldfish must be from the evil, opposite universe, too!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Children, somewhere in South Park, something has created a door to the evil, parallel universe!
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>This is amazing! I can't believe how nice you are, Chef.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>How do you mean?
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>In my world, you're a skinny, white insurance salesman. <i>[Chef's jaw drops]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's house, daytime. The boys enter the living room and Stan places his fish on a small desk next to the sofa. Aunt Flo greets them.]</i>
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td><i>[shaking]</i> Ooh, hello, boys. I'm Stan's Aunt Flo.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Whoa! What's wrong with your head?! Why are you shaking like that?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[taps Kyle, then softly]</i> Dude, that's not cool. She's got Parkinson's disease.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ey, sweet! <i>[hops on her lap]</i> Sweeeeeet! Check it out, guys; you don't even have to put a quarter in her.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Cartman!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Dude, this is hella cool.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Aunt Flo, where did you get this goldfish?
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td>Nn-oh. <i>[Cartman hops off and rejoins the boys]</i> I got it from the pet store, Stanley.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Do you remember <i>what</i> pet store?
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td>Let's see. I believe it was called "The Indian Burial Ground Pet Store," just outside of town.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Where?
+</td></tr>
+<tr>
+<th>Aunt Flo:
+</th><td>I know I have the address written down somewhere. <i>[Stan turns and takes Kyle aside]</i> Let me look.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That's it, dude. We've gotta take the spooky fish back to that pet store.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Who's "we"? You got a turd in your pocket? I'm goin' home. I'm hella hungry!
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>I'll help you, Stan.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Shut your god-damned mouth, fatass!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude. Are you sure that fish is a murderer? It seemed like a normal fish to me.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Just help me take it back. Come on! <i>[walks to Aunt Flo, who's now dead on the floor]</i> Did you find the address, Aunt Flo- Aunt Flo!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[rushing in]</i> Oh, Stanley, no! Not Aunt Flo! <i>[holds her hands to her face]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>It was the <i>fish</i>! <i>[points to it]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[dragging Aunt Flo, mutters]</i> Oh, what a good baby. What a good son I have. <i>[the fish swims around]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Now we'll <i>never</i> know where that pet store is!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>There can't be <i>that</i> many pet stores in South Park, dude. <i>[the fish jumps out and somehow pulls Kenny into the tank head first.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Aunt Flo isn't from South Park. The pet store could be anywhere between here and Denver. <i>[Kenny starts to gargle as the fish gives him the blender treatment. The water turns blood red as Kenny spins in the tank]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, we'd better get working. Cartman, you go home and call all the pet stores in the phone book.
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>Can do!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Screw you! <i>[the fish spits Kenny's corpse out of the tank and jumps back in. Kenny's left eye is gone and the water is clear]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[returning]</i> It's all taken care of, Stanley- G'oh! <i>[sees Kenny's corpse and reacts frantically. Rats rush in to munch on it]</i> I've got such a good boy, such a handsome boy! <i>[drags Kenny away. The fish looks on]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[to Kyle]</i> Come on, we're running out of time. <i>[both walk by Randy trying to open a door]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[turns around]</i> Hey, why is the basement door locked? <i>[turns back and keeps trying]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh basement. Officer Barbrady is still tied up]</i>
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td><i>-crack corn and I don't care<br />Jimmy crack corn and I don't care<br />My master's gone away<p>[long pause]Jimmy crack corn and I don't care</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's house. Both Cartmans are seated on the sofa. Evil Cartman has the phone book, Cartman has a pot pie]</i>
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>I don't see any pet stores called "Indian Burial Ground."
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Shut up, dude! I'm trying to watch TV!
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>And now, back to the Terrance and Phillip Halloween Special.
+</td></tr>
+<tr>
+<th>Terrance:
+</th><td><i>[both are dressed as ghosts]</i> (Fart)
+</td></tr>
+<tr>
+<th>Phillip:
+</th><td><i>[long pause]</i> That fart was absolutely ghoulish, Terrance. <i>[both pull out little daggers and stab each other as they laugh. Small spurts of blood ensue.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Uh-ho-ho, man, that's hella funny! <i>[slaps his thigh]</i>
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td><i>[looks up]</i> What's so funny about that?
+</td></tr>
+<tr>
+<th>Kitty:
+</th><td>Meow.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, Kitty, this is my pot pie!
+</td></tr>
+<tr>
+<th>Mr. Kitty:
+</th><td>Meow.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>No, Kitty, this is my pot pie, Kitty!</i>
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td><i>[picks up Kitty]</i> Who's my kitty? Who's my little kitty? My fluffy little cat. Yeah, that's good, yeah, that's my nice little kitty, yeah. <i>[Kitty is purring loudly, happily now. Cartman is not amused]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>NO KITTY, BAD KITTY!!! <i>[Evil Cartman is startled as Kitty jumps away.]</i> Hahaha, you-hoo suck, dude.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Night time, the Marsh house. Stan and Kyle are on the sofa. Sharon enters with another woman]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Stanley. Kenny's mother is here. She's wondering if you've seen Kenny.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td><i>[approaches him]</i> You saw him, didn't you? <i>[Sharon mouths and waves "no" to Stan]</i> You saw my boy. <i>[sits down on the sofa between the boys]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, my goldfish-.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Yeah. Stan just got a new goldfish and he wanted to show it to Kenny but, Kenny never came over.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td><i>[cradling Stan, distraught]</i> My Kenny used to laugh and play. He was eight years old, just like you, my Kenny was.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I know.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>You've gotta tell me <i>what happened to him</i>! <i>[holds Stan up and throttles him]</i> You have to know something!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[intervening]</i> Mrs. McCormick, I'm going to have to ask you to leave! You've been drinking!
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>That's right, I'm a little drunk. <i>[Sharon escorts her to the door]</i> You'd be drunk, too, if you'd lost your boy. <i>[Evil Cartman enters as the women reach the door]</i> My Kenny used to sing and dance, eh.
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td><i>[at the sofa]</i> You guys, I found the pet store!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Come on, let's go! <i>[takes the fish with him and stops before Sharon]</i> Mom, I know you think I did all this, but I'm gonna prove to you it was this fucking fish!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>I believe you, sweetheart. <i>[Stan goes outside, and she addresses Kyle and Evil Cartman]</i> Run from him, boys. Run and don't stop!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A stormy night, at the pet store. The remains of a covered wagon are next to it. The three boys enter]</i>
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Can I help you boys?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I wanna return a fish.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td><i>[pounds the counter with both fists]</i> Damn it!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>That's the ninth return I've had this week! What's wrong with it? <i>[holds his palms out]</i> Ap! Let me guess. It killed a bunch of people, right?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Yeah, dude.</i>
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Damn it! <i>[pounds with the right fist]</i> Just like all the other returns! <i>[the camera pulls back to show them. They all groan and have red, evil eyes. One bird blinks, and its eyes glow]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, why is your store called "The Indian Burial Ground Pet Store?"
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Well, there was an Indian burial ground here before I bought it.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>So you just- built your store on top of an Indian burial ground?
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Oh, hell no! First I dug up all the bodies, pissed on 'em, then buried them again upside down.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Why?
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Why? I don't know. I was drunk.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We think that when you did that, you opened up a doorway to an evil, parallel universe.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Well, that certainly would explain a lot.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Like what?
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Well, like this. <i>[opens a door marked, "Employees Only." A bright, flashing portal appears]</i> I've been wondering what the hell this was.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's house. Randy finally opened the door to the basement and brings down some items.]</i>
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>Hello, Mr. Marsh. Top of the evening to you. <i>[Randy turns to see Officer Barbrady, then rushes up the stairs]</i> Okay, bye, then.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The kitchen. Sharon is preparing cookie dough. Randy enters.]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Sharon?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Yyes, hon?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>There's a policeman being held captive in our basement.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[rolling the dough]</i> Yes, hon. I <i>had</i> to restrain him so he wouldn't find the bodies in the back yard and take our baby away. <i>[begins cutting out cookies in star shapes.]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[ponders]</i> Why'd you take his pants off? <i>[long pause. Sharon makes more cookies]</i> Sh-sharon, why'd you take his- pants off?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[sobs. Randy comes over]</i> Oh, Randy, I just don't know what to do anymore.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>What is it?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>I just ughhhh, I can't believe that Aunt Flo is gone, that she won't be visiting me ever again.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oh. Wuwell, don't- think of it as an end, think of it as a new beginning. Now, could you fill me in on the dead bodies and captive policeman stuff real quick?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Back at the pet store]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Look, pal. This is very simple. All I want to do is return this fish.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>I can't give you your money back.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I don't care, dude! I just want this fish away from me!
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>No! I won't take it back!
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>Listen, friend. You can't sell people pets like this. You have to have a sign that says, "Warning: these fish are from an evil, parallel universe." Now, it's not our fault you disrespected the bodies of this land's native people, but by golly <i>[pounds his right hand with his left fist]</i>, you're gonna take this fish back.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>All right, you win.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wow! Thanks, evil Cartman! <i>[the clerk takes the fish from Stan]</i>
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td><i>[turns to face the clerk again]</i> And sir, can I make a suggestion? <i>[the clerk looks at him]</i> Move your store, and let these great people of the Wampanoag rest in peace.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You kick ass, evil Cartman!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You know what I like best about you? You don't say, "hella," like <i>our</i> Cartman does. I swear, if he says that one more time, I'm gonna <i>kill</i> him! <i>[the boys exit the store, and the skies are clear]</i>
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>No, Kyle. Murder is never an answer. <i>[the clerk puts the fish up on a shelf and the employee door opens, the doorway glowing brightly]</i>
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td><i>[recoils]</i> What the-? <i>[two figures appear: Evil Stan and Evil Kyle]</i>
+</td></tr>
+<tr>
+<th>Evil Stan:
+</th><td>He was here! Cartman was just here!
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Who are you?
+</td></tr>
+<tr>
+<th>Evil Kyle:
+</th><td>We're looking for Cartman. The trail ended here. Where is he?
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>I don't know who you mean?
+</td></tr>
+<tr>
+<th>Evil Kyle:
+</th><td><i>[pulls out a big bat]</i> Maybe this will jog your memory! <i>[starts releasing the evil returns by bashing in the cages]</i>
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>No! Stop! You don't know what you're doing! Those pets are evil!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Several identical images of Barbra flash through space, one of them towards the camera, and the boys are walking down Main Street]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I'm sure glad that's over with. Now I can sleep at night.
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>Hey, you guys. We still have time to enter the pumpkin-carving contest.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, yeah! I almost forgot.
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>Come on! I bet that together we can make the best pumpkin ever!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You know, evil Cartman? I like you a lot better than our Cartman.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, you're cool. And you don't say "hella."
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>Yuh, thanks, you guys. I certainly like you a lot more than in my evil, parallel universe. <i>[the boys turn to see a man attacked by two dogs, a cat, two ducks, and a vulture]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[the boys resume walking]</i> Dude, where are we going to find a pumpkin to carve?
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>Let's use Kenny's squash.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah. You know, I never thought it was such a bad, little squash. It just needs some tender, loving care.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's house. Cartman is watching TV in the dark. Onscreen, Phillip is in a cemetery standing next to a tombstone that might be Terrance's, and has three roses in his hand]</i>
+</td></tr>
+<tr>
+<th>Terrance:
+</th><td><i>[as a ghost, walks up to Phillip]</i> Boo!
+</td></tr>
+<tr>
+<th>Phillip:
+</th><td><i>[jumps up]</i> Aaaaagh!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Aw, man, this movie is hella scary. <i>[click. The front door flies open and Evil Stan and Evil Kyle burst in]</i>
+</td></tr>
+<tr>
+<th>Evil Stan:
+</th><td>Aha! There you are, Cartman!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>P'h. Nice costume, you guys. You spent about a buck fifty on those?
+</td></tr>
+<tr>
+<th>Evil Kyle:
+</th><td>We're here to take you back, Goody Two-Shoes!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh? I've got a better idea. Why don't you two go fuck yourselves?
+</td></tr>
+<tr>
+<th>Evil Stan:
+</th><td><i>[he and Evil Kyle look at each other, then]</i> Hey! What's wrong with you, Cartman?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What's wrong with me? Let's see. Uum. <i>[checks them off]</i> I hate you guys. You're hella stupid.
+</td></tr>
+<tr>
+<th>Evil Kyle:
+</th><td><i>[he and Evil Stan go over to grab him]</i> Come on, Mr. Wholesome! We're taking you back to <i>our</i> universe!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Don't touch me! <i>[punches Evil Stan, who releases him]</i>
+</td></tr>
+<tr>
+<th>Evil Stan:
+</th><td>What the hell's goin' on?! Cartman never hits us!
+</td></tr>
+<tr>
+<th>Evil Kyle:
+</th><td>Hall right! Just stand there, Cartman! This gingerification gun will send you back to <i>our</i> universe!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, right! You guys are from the evil, parallel universe?!
+</td></tr>
+<tr>
+<th>Evil Stan:
+</th><td>Yes!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, it's about freakin' time you showed up! You don't want me, you want that impostor Cartman! Come on, I'll show you. <i>[leads them out the door]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[At the Pumpkin Carving Contest. Mayor McDaniels is dressed as a Puritan woman. Johnson holds a ball on a platter. They are on stage, which is adorned with two spiderwebs and a bat in each one]</i>
+</td></tr>
+<tr>
+<th>Mayor McDaniels:
+</th><td>And the winner is: Squash-O-Lantern, by Stan Marsh, Kyle Broflovski, and the evil Eric Cartman from the parallel universe! "The Winning Entry! Squash in cobweb, amid a tiny graveyard and flanked by four tiny bats"
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[the crowd cheers]</i> We won, dude!
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>Hooray!
+</td></tr>
+<tr>
+<th>Mayor McDaniels:
+</th><td>You boys win the Halloween Chocolate Ball!
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>Oh, no! <i>[spots Cartman, Evil Stan and Evil Kyle]</i> Stan and Kyle have come to take my back to my world, and I don't <i>wanna</i> go back!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Don't worry, Evil Cartman. You're staying with us! <i>[the two groups face each other]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[to Evil Kyle]</i> Now, zap his hella ass back to your- hella universe!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>Stop saying "hella," Cartman!</i>
+</td></tr>
+<tr>
+<th>Evil Stan:
+</th><td><i>[to Evil Cartman]</i> Thought you could get away from us, huh, Cartman?!
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td><i>[pleading]</i> Please!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Leave him alone, butthole!
+</td></tr>
+<tr>
+<th>Evil Kyle:
+</th><td>Shut your trap, kid!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Why don't you guys take <i>our</i> Cartman back? He's more like you anyway.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ey, you backstabbin' sellout!
+</td></tr>
+<tr>
+<th>Evil Stan:
+</th><td>It's time, Cartman! Prepare for gingerification! <i>[sets the gun]</i>
+</td></tr>
+<tr>
+<th>Evil Cartman:
+</th><td>Well, good-bye, you guys. It's been fun. <i>[Stan and Kyle look down. The evil pets return to South Park and start attacking the townsfolk]</i>
+</td></tr>
+<tr>
+<th>Man:
+</th><td>AAAAAH!
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>AAAAAH!
+</td></tr>
+<tr>
+<th>Mayor McDaniels:
+</th><td>Oh, what now?!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's the evil pets <i>[the attack continues, and a vulture knocks the gingerification gun out of Evil Stan's hands.]</i>
+</td></tr>
+<tr>
+<th>Evil Stan:
+</th><td>The gingerification gun!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[picks it up]</i> Get to the stage! <i>[Stan, Kyle, and Evil Cartman rush up. Stan's spooky fish attacks a man and kills him]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[seeing what just happened]</i> Oh, dear. It really <i>was</i> Stan's fish that killed those people!
+</td></tr>
+<tr>
+<th>Evil Stan:
+</th><td><i>[all six boys are on stage]</i> Give me that gun, kid!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Up yours, evil twin! <i>[zaps him back to the evil, parallel universe.]</i>
+</td></tr>
+<tr>
+<th>Evil Stan:
+</th><td><i>[shrinks as Evil Kyle watches]</i> Noooooo! <i>[vanishes]</i>
+</td></tr>
+<tr>
+<th>Evil Kyle:
+</th><td><i>[zapped, he shrinks too]</i> Noooooo! <i>[vanishes]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>All right, now you can try to send this Bozo through and the whole mess'll be over with!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Sorry Cartman. We like Evil Cartman better. See ya. <i>[takes aim]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What?!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We can't deal with you saying "hella" anymore, Cartman! You're going to the other universe! <i>[Cartman takes on Evil Cartman, and both wrestle. Cartman rips off Evil Cartman's mustache and beard, and kicks him. Both of them then stand up, indistinguishable. Stan pulls the gingerification gun back]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Which one is the <i>good</i> Cartman?
+</td></tr>
+<tr>
+<th>Both Cartmans:
+</th><td>I am!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Stop wasting time, Cartman! We have to send one of you back to the evil universe!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah! Now, which one of you is the Cartman we can't stand?!
+</td></tr>
+<tr>
+<th>Both Cartmans:
+</th><td><i>[pointing to the other one]</i> He is!
+</td></tr>
+<tr>
+<th>Cartman on Left:
+</th><td>Time is running out. You'll have to destroy us both.
+</td></tr>
+<tr>
+<th>Cartman on Right:
+</th><td>What?!
+</td></tr>
+<tr>
+<th>Cartman on Left:
+</th><td>It's the only way you can be sure. We have to both go, for the good of the world.
+</td></tr>
+<tr>
+<th>Cartman on Right:
+</th><td><i>[Stan zaps him]</i> Noooo! Screw you guys! <i>[disappears]</i>
+</td></tr>
+<tr>
+<th>Cartman on Left:
+</th><td>How did you guys know?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Our</i> Cartman would <i>never</i> say anything like that.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Haaa hahaha! You guys are hella stupid! I <i>knew</i> you would fall for that!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh no, dude!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You tricked us, Cartman!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's right, I did!<br /><i>You guys are hella stupid<br />You guys are hella lame<br />You guys are hella dumb<br />Hella hella hella!</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Damn it!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[On the street, Randy walks with Officer Barbrady. The evil pets are still attacking the townsfolk.]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>I'm sorry my wife held you captive, officer. She's been upset 'cause her Aunt Flo isn't gonna visit her anymore.
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>Oh, I understand. I remember when my wife stopped getting her monthly visitor.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Uuuh, do you want your pants back?
+</td></tr>
+<tr>
+<th>Officer Barbrady:
+</th><td>No. Just leave me with my dignity. <i>[turns around and walks into the crowd]</i> Okay, people, move along. Nothing to see here.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of "Spooky Fish." Cartman sings "Best Friends"]</i>
+</td></tr></table></p>
+</div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 63/300000
+Post‐expand include size: 1277/2097152 bytes
+Template argument size: 50/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:31034-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Spookyfish/Script?oldid=250477">http://southpark.wikia.com/wiki/Spookyfish/Script?oldid=250477</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Two" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Two" title="Category:Scripts from Season Two">Scripts from Season Two</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+				
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-above_footer" class="monetization-module amazon-video hide-for-edit above-footer amazon-video-full" data-mon-type="amazon_video" data-mon-slot="above_footer"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-31034-B00NY4UD92-piv-fl-npr-af-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-31034-B00NY4UD92-piv-fl-npr-af-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-31034-B00NY4UD92-piv-fl-npr-af-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-31034-B00NY4UD92-piv-fl-npr-af-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-31034-B00NY4UD92-piv-fl-npr-af-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-above_footer" class="monetization-module adunit hide-for-edit above-footer" data-mon-type="adunit" data-mon-slot="above_footer"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_bt_fsm_ffv mon_hub_tv mon_sl_af" data-ad-type="text" data-font-size="medium"data-font-face="veranda" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>				<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":31034,"kv_wpage":"Spookyfish\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Spookyfish/Script","wgTitle":"Spookyfish/Script","wgCurRevisionId":250477,"wgArticleId":31034,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Two"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Spookyfish/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":250477,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Spookyfish/Script","fbReturnToTitle":"Spookyfish/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Spookyfish/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Spookyfish/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Spookyfish/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

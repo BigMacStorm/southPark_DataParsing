@@ -1,0 +1,2063 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,The Last of the Meheecans/Script,The Last of the Meheecans,Butters Stotch,Mexico,U.S. Border Patrol,Mr. and Mrs. Whipple,South Park: The Complete Fifteenth Season,El Pollo Loco,Texans vs. Mexicans,The Last of the Meheecans/Images,The Last of the Meheecans/Trivia" />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/The_Last_of_the_Meheecans/Script" />
+<meta name="twitter:title" content="The Last of the Meheecans/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/The_Last_of_the_Meheecans/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>The Last of the Meheecans/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images4.wikia.nocookie.net/__am/1454927565/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":31557,"pageIsArticle":true,"pageName":"The_Last_of_the_Meheecans/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1454927565",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=31557,
+wgCategories=["Scripts","Scripts from Season Fifteen"],
+wgPageName="The_Last_of_the_Meheecans/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="tv_episode",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1454927565",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s13","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1454927565&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=31557&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1454927565&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=31557&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images1.wikia.nocookie.net/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1454927565/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="The Last of the Meheecans/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/The_Last_of_the_Meheecans/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-The_Last_of_the_Meheecans_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic"itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FThe_Last_of_the_Meheecans%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation global-navigation-2016" id="globalNavigation">
+		<div class="global-navigation-container">
+			<div class="wikia-logo-container table-cell">
+				<a href="http://www.wikia.com/fandom"
+					class="wikia-logo final-url"
+					rel="nofollow"
+					data-id="wikia-logo">
+					<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+						height="24"
+						width="91"
+						alt="Wikia"
+						title="Wikia">
+											<span class="wikia-logo__subtitle">The Home of Fandom</span>
+									</a >
+			</div >
+							<div class="table-cell hubs-links" data-visibility="desktop">
+											<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+						   data-tracking-label="hub-games">
+							Games						</a>
+											<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+						   data-tracking-label="hub-movies">
+							Movies						</a>
+											<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+						   data-tracking-label="hub-tv">
+							TV						</a>
+									</div>
+						<div class="table-cell">
+				<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+					<a class="cell-link top-level final-url"
+						href="http://www.wikia.com/explore"
+						data-tracking-label="explore-wikia">
+						Explore Wikia						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+					</a>
+					<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																					<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://gameshub.wikia.com/wiki/Games_Hub"
+									   data-tracking-label="hub-games">
+										Games									</a>
+								</li>
+															<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+									   data-tracking-label="hub-movies">
+										Movies									</a>
+								</li>
+															<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://tvhub.wikia.com/wiki/TV_Hub"
+									   data-tracking-label="hub-tv">
+										TV									</a>
+								</li>
+																										<li>
+								<a class="cell-link"
+								   href="http://www.wikia.com/WAM"
+								   data-tracking-label="top-communities">
+									Trending Wikias								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   href="http://community.wikia.com"
+								   data-tracking-label="community-central">
+									Community Central								</a>
+							</li>
+												<li>
+							<a href="http://www.wikia.com/Special:CreateNewWiki"
+								class="start-wikia"
+								title="Start a wikia"
+								data-id="start-wikia">
+								<span>Start a wikia</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="search-container table-cell">
+				<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+			</div>
+			<div class="account-navigation-container table-cell">
+				<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=The_Last_of_the_Meheecans/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="The_Last_of_the_Meheecans/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+			</div>
+								</div>
+	</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>The Last of the Meheecans/Script</h1>
+											<h2>&lt; <a href="/wiki/The_Last_of_the_Meheecans" title="The Last of the Meheecans">The Last of the Meheecans</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/The_Last_of_the_Meheecans/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/The_Last_of_the_Meheecans/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">2</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/The_Last_of_the_Meheecans" title="The Last of the Meheecans">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/The_Last_of_the_Meheecans/Trivia" title="The Last of the Meheecans/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/The_Last_of_the_Meheecans/Images" title="The Last of the Meheecans/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s15e09-the-last-of-the-meheecans">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li>Stan Marsh
+</li><li>Kyle Broflovski
+</li><li>Eric Cartman
+</li><li>Kenny McCormick
+</li><li>Butters Stotch
+</li><li>Clyde Donovan
+</li><li>Craig Tucker
+</li><li>Token Black
+</li><li>Jimmy Valmer
+</li><li>Liane Cartman
+</li><li>Randy Marsh
+</li><li>Anchorman Chris
+</li><li>Border Patrol Officers
+<ul><li>Officer Charlie
+</li><li>Officer Marcus
+</li></ul>
+</li><li>Brian Whipple
+</li><li>Mrs. Whipple
+</li><li>Doctor
+</li><li>Elderly Man
+</li><li>Nurse Yimenez
+</li><li>Mexican Crowds
+</li><li>Mexican Commentator
+</li><li>Mr. Geiger
+</li><li>Narrator
+</li><li>President Calderón
+</li><li>Backup Singers
+</li><li>El Pollo Loco Workers
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-31557-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-31557-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-31557-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-31557-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-31557-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsl_fft mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="large"data-font-face="times" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's backyard, day. By the fence, Cartman and some other boys have erected a small U.S. border with a sign saying "Welcome to Texas" on it. The sign also has an outline of the State of Texas on it. Cartman is patrolling the border with DogPoo and Jason. Cartman scans for illegals with his binoculars]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[turns around]</i> Alright y'all, keep your eyes peeled and your guns ready. <i>[spits something out, wipes his lips clean with the back of his shirt sleeve, and returns to patrolling the border]</i> There's a heap of Mexicans out there who want nothin' more than to sneak past our border, and we've gotta stop them!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td><i>[walking out]</i> Eric, you wanna say hi to Grandpa?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Not now, Mom! We're playing Texans versus Mexicans! Gah! <i>[turns to the boys on the ground - Clyde, Craig, and Timmy]</i> All right patrol, you all know the drill. Not one Mexican is to get past this border! Not a single one! Yeehaw!
+</td></tr>
+<tr>
+<th>The other four:
+</th><td>Yeehaw! <i>[Timmy stays silent]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[In the woods nearby, Butters leads five other boys in a plot to get past the US border at Cartman's house - Stan, Kyle, Kenny, Jimmy, and Token]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Fellow Meheecans! This time, we're gonan try rushin' the Texans from the left side! Do not give up home, for I am Mantequilla! Viva la Meheeco!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uh, Butters, I think we're gonna go back to Kyle being team leader.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[saddened]</i> Oh what, I'm not a good Meheecan?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You're a great Meheecan, Butters, but maybe just not a <i>leader</i> of Meheeco.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Look guys, all we need to do is split up and apply some good diversion tactics. We'll use the Texans' emotions against them.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Back at the border, Cartman scans the surrounding area, making sound effects while doing so]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[robot voice]</i> Scanning for Mexicans. <i>[more sound effects]</i> Oh! <i>[He spots Kyle coming out of the woods]</i> We've got a Mexican! <i>[Clyde and Craig take up posts]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey Texans! Let me through; we want a treaty!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[to the other boys]</i> He's trying a simple diversion tactic, thinks we're stupid. <i>[to Kyle]</i> Haha! You're gonna have to do better than that, Mexican!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Better than being a fatass Texan!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ey! Just because I'm Texan doesn't mean I'm fat!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, you're fat to begin with, chubby! Now you're Texan too!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh yeah?! Oh yeah?! Well you're a fuckin' Jew Kyle! And now you're a Mexican Jew! You dirty, no good... Mexijew! <i>[Stan sneaks in past a cardboard box labelled "Christmas Ornaments"]</i> Let's just see you try and-!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Base! <i>[the others turn to see Stan in their midst]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Clyde?! <i>[descends from his perch atop the border and goes to Clyde]</i> The fuck are you doin'?! You just let a Mexican through!
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>I was enthralled with the dialog exchange.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ugh yeah?! Well you all need to stay focused, Goddamnit! <i>[Token appears at the other end of the border and hops over]</i> If you let yourselves get distracted for even one minute, we're gonna be overrun with these jobless, no good-!
+</td></tr>
+<tr>
+<th>Token:
+</th><td>Base!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Dude!! <i>[walks over to Craig]</i> How did he get past the fence, Craig?!
+</td></tr>
+<tr>
+<th>Craig:
+</th><td>I didn't hear him coming with all your screaming.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Nobody's fuckin' screaming, Craig! Wake the fuck up! <i>[Jimmy walks by in the foreground]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Eh, b-base.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh God! <i>[throws down his hat]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's house, evening. All the boys are at the dining table eating dinner. Well, all but one. All of the ones present are laughing. Well, all but one.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>So, so then, so then the pope says, "Maybe you should go check the toilet." <i>[most of the other boys laugh]</i>
+</td></tr>
+<tr>
+<th>Craig:
+</th><td>Hey. Hey, I got one. <i>[the other get quiet]</i> Why do girls wear makeup and perfume?
+</td></tr>
+<tr>
+<th>Token:
+</th><td>Why?
+</td></tr>
+<tr>
+<th>Craig:
+</th><td>'Cause they're ugly and they stink. <i>[most of the other boys laugh]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Cartman, stop pouting that you lost the game.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I'm not pouting! I just heard all these jokes before!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>So then don't have a slumber party if you're gonna be an asshole all night!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>At least I have an asshole, Kyle! <i>[the boys laugh]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[As the boys enjoy themselves, the camera pulls back into the woods, where we find one boy sitting by a screen with a jug of water next to him, in a cold snowy night.]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[thinking to himself]</i> Boy, I've really done it this time. I have one simple direction: "Go that way." How did I end up getting lost? My amigos were right: I <i>am</i> a lousy Meheecan. They're all living the good life while I'm, while I'm stuck out here in Meheeco. I am... The Last of the Meheecans.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>["The Last of the Meheecans" appears onscreen after the camera pans up into the sky]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[wanders around]</i> Hello? Anybody? Come on Mantequilla, you have to find that border! <i>[walks further away, and finds a road. He walks along the shoulder and shivers as he sings]</i> Lalala, lalala, Work Mexican Work. Lalala, lalala, Work Mexican Work. <i>[A couple in a car drive up behind him]</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Oh, careful darling, the storm is getting worse.
+</td></tr>
+<tr>
+<th>Man:
+</th><td>It sure is. I-I can barely see. <i>[Butters turns around and the woman suddenly sees him]</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Oh my God look out it's a Mexican! <i>[the man loses control and hits Butters, who simply tumbles off the car and onto the shoulder, face down. The couple stops the car and goes to check on Butters. The wife turns him over]</i>
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Oh my God, are you alright?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Por favor, ehe, I have to get across the border. Mmis amigos, may a-, my amigos are waiting.
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Poor thing must have snuck across the border and then lost track of his family.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>I, am Mantequilla, the last of the Meheecans.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The couple's house, night. There's something about the Spanish Colonial architecture in this house. The couple shows Butters to a spare room full of inspirational phrases. He will sleep here for the night]</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td><i>[showing him around the room]</i> Guest room. Guest room. Bed, bed. Pillow. You're going to be okay. <i>[kneels before him]</i> Do you understand?
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Darling, I don't know if we can keep him.
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>What are we supposed to do?! Call the police?! And have him shipped back to Mexico like some animal?! <i>[to Butters]</i> Window. Window.
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Yep, window.
+</td></tr>
+<tr>
+<th>Woman:
+</th><td><i>[pleased]</i> Bueno! <i>[to her husband]</i> He'll have so much more opportunity here than he ever would in Mexico! <i>[to Butters]</i> Window. Window. <i>[gives him a bottle of]</i> Windex. Windex, Mantequilla. Paper towel. <i>[squirts some Windex onto the towel and takes Butters to the window]</i> Sí, sí Mantequilla <i>[shows Butters how to clean the window, then leaves him to continue doing it himself]</i>
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Ah, be sure to get the edges.
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Oh darling, it's wonderful.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's house, night. The boys have gone to sleep in the basement, the TV is now snow, as there are no more shows on]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[talking in his sleep]</i> No. NO! Must protect the border! Everyone's gettin through! No! Clyde! We're losing! Kyle go through! Oh no, now Stan's through! And Jimmy! It's over! The only Mexican left is Butters; we've got... <i>[wakes up]</i> Butters! <i>[gets up, then tries to get the others up]</i> Hey! Wake up you guys! Wake up, losers!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What are you talking about?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Where is Butters?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[after a few seconds]</i> He was with us at dinner. Wait. Was he with us at dinner?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, I think he was. Wait.
+</td></tr>
+<tr>
+<th>Craig:
+</th><td>Butters is one of those people who you can never remember if he was there or not.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Outside Cartman's house, night. The boys walk out through the sliding doors in back]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Butters?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Butters!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[hugs himself]</i> Jesus, it's freezing out here. He, he could be dead.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[puts on his ranger hat]</i> All right men, rally up! There's still a Mexican out there and he ain't gettin' through! <i>[walks towards the woods, but stops long enough to tell Kyle]</i> You haven't won yet! <i>[smiles evilly and moves on]</i> Game on!
+</td></tr>
+<tr>
+<th>Craig:
+</th><td>Game on!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Wugh, game on. <i>[puts on his mustache]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The couple's house, later. Butters is washing dishes and humming to himself.]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Work, Mexican, Work. <i>[hums some more]</i> Work, Mexican, Work
+</td></tr>
+<tr>
+<th>Woman:
+</th><td><i>[arrives at the kitchen entrance]</i> Mantequiila? Mantequilla, come to the living room. We have a surprise for you. <i>[leaves. Butters follows her out]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The living room. A large box wrapped up and tied with a bow sits in the middle]</i>
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Surprise! We've scraped some money together and got you something. <i>[Butters grins]</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>It's a present, Mantequilla. Un presente.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Wow! A present just for me? <i>[starts to unwrap it]</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Oh he's such a happy little Mexican. <i>[Butters finishes unwrapping it only to see a gas-powered leaf blower designed to be worn on the back]</i>
+</td></tr>
+<tr>
+<th>Man:
+</th><td>How do you like that, Mantequilla? Your very own leaf blower! Hahah, I have no idea how it works, but I'm sure you do, huh. Say, how would you like to go in the back yard and play? <i>[moments later, Butters is in the back yard using the power blower to blow some leaves around. The couple watch him from a table with umbrella providing shade]</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Oh look at him, darling. He's so happy.
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Hup. Nono, Mantequilla! You're just blowing the leaves from one side to the other. Get them in one pile so you can use the garbage bags we loaned you.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Ah, sí señor.
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Oh he's so adorable.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A song begins to play as Butters clears away the leaves. As the song plays, you see the following montage: Butters blowing leaves into piles, Butters washing he couple's care as they watch, Butters scooping leaves out of the pool as the couple plays in it with a beach ball, the boys pasting fliers all over town asking "Have you seen this Mexican? Answers to 'Mantequilla.' Text *** 67319," Cartman and his border patrol watching for illegal aliens, Butters providing pedicures for the couple, Butters serving them ham, Butters washing more dishes, Stan and Kyle putting up billboards that echo what the fliers said, and Cartman looking into the woods. Seeing no one coming, Cartman lowers his binoculars and smiles. Butters now clean up the front yard.]</i>
+</td></tr>
+<tr>
+<th>Singers:
+</th><td><i>Work, Mexican, work.</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>All week long, bossman say</i>
+</td></tr>
+<tr>
+<th>Both:
+</th><td><i>Work, Mexican, work.</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>Sing your Song, earn your pay</i>
+</td></tr>
+<tr>
+<th>Both:
+</th><td><i>Work, Mexican, work.<br />Work, Meheecan</i>
+</td></tr>
+<tr>
+<th>Singers:
+</th><td><i>Sweat</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>Meheecan</i>
+</td></tr>
+<tr>
+<th>Singers:
+</th><td><i>Toil</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>Meheecan, it's your</i>
+</td></tr>
+<tr>
+<th>Both:
+</th><td><i>lot in life.</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>While people play in the sun all day</i>
+</td></tr>
+<tr>
+<th>Both:
+</th><td><i>Work, Mexican, work.</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The couple's kitchen, later. The woman is at the breakfast nook crying and wiping away her tears with a tissue. The man sees her and gets worried, then walks into the kitchen.]</i>
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Honey? Honey, what's wrong? <i>[she looks up to see him]</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>It's Mantequilla. We've tried giving him everything, but I don't think he's happy. Tonight I told him he could do whatever he wanted before bed - wash the dishes, mop up our bathroom - but you know what he said? He said "I need to go home." I tried telling him "your home is here, Mantequilla! ¡Tu casa es aquí!" But I don't think he feels it.
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Well, maybe if we let him paint the garage, he'll feel more like family and then-
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>No, Brian! In my heart I know it's true. He belongs with his own kind, Brian. He belongs with his own kind!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[El Pollo Loco, night. The couple drive up to El Pollo Loco and take Butters to the door. The woman is still weeping]</i>
+</td></tr>
+<tr>
+<th>Brian:
+</th><td>Come on, honey. <i>[they walk back to the car]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Hey, where are you going?
+</td></tr>
+<tr>
+<th>Woman:
+</th><td><i>[turns around]</i> No! Mantequilla bad! Go now!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Ma'am, can I, can I just use your phone?
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>No es bueno, Mantequilla! ¡No me mi-mires! ¡Por favor! ¡Por favor no mires! <i>[they reach the car, get in, and drive off. The woman is still weeping]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[El Pollo Loco kitchen. Butters tells his story as the crew go about making meals]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>So there I was, just yards away from the American border. All my amigos made it across, but I became lost in the woods. If the Whipples hadn't come along, I might have froze to death. But I'm not giving up, for I, am Mantequilla! <i>[the workers all stop and look at him]</i>
+</td></tr>
+<tr>
+<th>Worker 1:
+</th><td>Mantequilla?
+</td></tr>
+<tr>
+<th>Worker 2:
+</th><td>Mantequilla?
+</td></tr>
+<tr>
+<th>Worker 1:
+</th><td>¡Yo he escuchado de este niño! ¡He visto anuncios de el por donde quiera! <i>["I've HEARD of this kids! I've seen POSTERS and BILLBOARDS of him everywhere!"]</i>
+</td></tr>
+<tr>
+<th>Worker 3:
+</th><td>Sí. Es famoso! <i>["Yeah. He's FAMOUS!"]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Nothing can stop me, and my pride, in Mother Meheeco!
+</td></tr>
+<tr>
+<th>Worker 1:
+</th><td>¿Un niño gringo que quiere ses mexicano? <i>["A WHITE American kid who wants to be Mexican?"]</i>
+</td></tr>
+<tr>
+<th>Worker 3:
+</th><td>Ay, tiempos han cambiado. <i>["Wow, times are really changing"]</i>
+</td></tr>
+<tr>
+<th>Worker 1:
+</th><td>No... no. ¿Saben qué? Mantequilla tiene derecho. ¿Por qué venimos a este país? ¡Vale madre aquí, 'mano! <i>["No... no, you know what? Mantequilla is RIGHT! Why did we even come to this country? It SUCKS HERE, MAN!"]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Hey! You fellas think you can get me across that border?
+</td></tr>
+<tr>
+<th>Worker 1:
+</th><td>Debemos escuchar a este niño. ¡Mexico es mucho mejor que esto! <i>["We should listen to this kid. Mexico is better than this!"]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>All my amigos are there, waitin' for me.
+</td></tr>
+<tr>
+<th>Worker 1:
+</th><td>Todos mis amigos están allí también.. <i>["All my amigos are back there too."]</i>
+</td></tr>
+<tr>
+<th>Worker 2:
+</th><td>¡A la chingada con esto! ¡Vamonos! <i>["Come on, screw this! Let's go!"]</i>
+</td></tr>
+<tr>
+<th>Worker 3:
+</th><td>Sí, ¡vamonos a la chingada!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Viva la Meheeco!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A hospital, outside. An elderly man is being assisted off an ambulance and onto a wheelchair]</i>
+</td></tr>
+<tr>
+<th>Doctor:
+</th><td>Alright, let's get him into ER.
+</td></tr>
+<tr>
+<th>Elderly Man:
+</th><td>Careful w'my foot! <i>[a car stops and a man whistles]</i>
+</td></tr>
+<tr>
+<th>Worker 2:
+</th><td>¡Oye Yimenez! ¡Nos vamos a regresar, hombre! <i>["Hey Yimenez!!! We're going back, man!"]</i>
+</td></tr>
+<tr>
+<th>Yimenez:
+</th><td>¿Qué? <i>["What?"]</i>
+</td></tr>
+<tr>
+<th>Worker 2:
+</th><td>¡Este lugar es una mierda! ¡Nos regresamos a Mexico!<i>["This place sucks! We're going back to Mexico!"]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>We're crossin' the border!
+</td></tr>
+<tr>
+<th>Yimenez:
+</th><td>¡Jose! ¡Martinez! Nos vamos para atras para Mexico! <i>["We're going back to Mexico!" The nurses and other Hispanic workers pour out of the hospital]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Olé!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The real Mexican border, day. There's no activity. One of the guards is looking through binoculars]</i>
+</td></tr>
+<tr>
+<th>Border Officer 1:
+</th><td>Pretty quiet out there.
+</td></tr>
+<tr>
+<th>Border Officer 2:
+</th><td>Yeah, a bit too quiet if you ask me. Gimme those! <i>[takes the binoculars and looks through them]</i>
+</td></tr>
+<tr>
+<th>Border Officer 1:
+</th><td>Just seems like Mexicans don't try to cross into the US as much as they used to, you know?
+</td></tr>
+<tr>
+<th>Border Officer 2:
+</th><td>Noo, they're out there, Charlie. Plottin' their next move. They'll do anything they can to get into the Land of Opportunity. <i>[lowers the binoculars. The first illegals appear on the US side of the border and head towards the fence]</i> And as long as this country offers everyone a better life, there's gonna be people calmorin' to get it. It's the curse of success, Charlie. <i>[more aliens appear as the first ones hop over the fence]</i> A great and wealthy nation will always be plagued <i>[raises the binoculars and looks through them again]</i> by the needy tryin' to-what the hell? <i>[sees the Mexicans running into Mexico. The other guard notices too]</i>
+</td></tr>
+<tr>
+<th>Charlie:
+</th><td><i>[scratches his head]</i> Uhh, sir? Aren't those Mexicans runnin' <i>into</i> Mexico?
+</td></tr>
+<tr>
+<th>Border Officer 2:
+</th><td><i>[lowers his binoculars]</i> That don't make sense.
+</td></tr>
+<tr>
+<th>Charlie:
+</th><td><i>[to the returning illegals]</i> You're goin' the wrong way!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[TV News break]</i>
+</td></tr>
+<tr>
+<th>Anchorman:
+</th><td>You've heard of Mexican salsa, but Mexican pride? The phenomenon is called "Orgullo de Mantequilla," where Mexicans are realizing it actually is starting to suck more here in the US. The borders are being flooded with Latin Americans trying to get back to their own countries. <i>[Randy and Sharon are on the sofa watching the news]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, I think it's good. <i>[stands up and puts on his blazer, then walks to the front door]</i> If the Mexican people feel inspired, good for them. People have a right to go and be happy. <i>[opens the door and looks outside. Huge piles of leaves have been left on his front yard]</i> NOOOOOO!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's house, day. He's watching the news too]</i>
+</td></tr>
+<tr>
+<th>Anchorman:
+</th><td>But just what has sparked the Mexican desire to live... in Mexico? Joining us now is economist Mark Geiger, and Mark, we've heard of Mexican ice cream, but Mexican patriotism?
+</td></tr>
+<tr>
+<th>Mr. Geiger:
+</th><td>Yes, it's a very odd phenomenon, Chris. Ih it just- <i>[the front door ]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman, what the hell is this?! <i>[he's holding a poster Cartman designed: "Wanted by U.S. Border Patrol. Permission to shoot on sight."]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys, the game is over! Clearly I won. Give it up.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>"Wanted by U.S. Border Patrol"?! "Permission to shoot on sight"?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys were putting out fliers, I had to put some out too.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Butters has been missing for a week! You might have inadvertently gotten him killed!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well then I inadvertently won the game, didn't I?
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>Do you have what it takes to join the Border Patrol? Border Patrol officers are looking for volunteers to help with the reverse immigration crisis.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh dude. Sweet.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Butters is asleep in a room, on a wooden bed. The floor has a hexagonal design. He wakes up, gets off the bed, looks around, and walks towards a doorway. He opens the double doors and steps outside. He rubs his eyes to get a better view. A small plaza full of people awaits his appearance, and everyone cheers]</i>
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>¡Vamos Mantequilla! <i>[Clap clap clapclapclap]</i> ¡Vamos Mantequilla! <i>[Clap clap clapclapclap]</i> ¡Vamos Mantequilla! <i>[Clap clap clapclapclap]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Oh uh, I'm sorry, <i>[opens his arms wide]</i> I don't really-
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>Aaaaaaaaaaaaaaaaaaaah. <i>[he lowers his arms and the crowd quiets down. He raises them up and]</i> Aaaaaaaaaaaaaaaaaaaah. <i>[he raises his right arm and points]</i> ¡Oy! <i>[he lowers his arm and raises it a little]</i> ¡Oy! <i>[now raises his left arm]</i> ¡Orgullo! <i>[opens his arms wide]</i> Aaaaaaaaaaaaaaaaaaaah. <i>[the crowd members raise their arms and some begin to toss their hats in the air]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Wow.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The U.S. border. Officer 2 briefs the new volunteers on their duties]</i>
+</td></tr>
+<tr>
+<th>Border Officer 2:
+</th><td>Welcome to the US Border Patrol. You volunteers are the key to keepin' this country safe and prosperous. <i>[begins to walk back and forth]</i> Every day, more and more Mexicans are tryin' to get past this fence and go back to their homes in Mexico. As border patrol officers our duty is to stop Mexicans from crossin' the border. We don't need to worry about the semantics of which direction they're going, we're just supposed to stop them! <i>[pounds his left fist into his right hand]</i> Marcus?
+</td></tr>
+<tr>
+<th>Marcus:
+</th><td>The standard-issue border patrol weapon is the P-29 stun baton. It carries a 4000 watt charge and is your best option for enforcin' border patrol law.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>This is gonna be so fuckin' sweet.
+</td></tr>
+<tr>
+<th>Marcus:
+</th><td>The baton is non-lethal, but powerful e-
+</td></tr>
+<tr>
+<th>Border Officer 3:
+</th><td>Hey! We got some! Mexicans at 2 o'clock! <i>[hands his binoculars over to Officer 2]</i>
+</td></tr>
+<tr>
+<th>Border Officer 2:
+</th><td>Let's get ready, recruits! Must be a couple dozen of them! <i>[Cartman takes out his own binoculars and begins scanning and providing his own sound effects]</i> This is the US Border Patrol! Stop where you are! Turn around and get back to work!
+</td></tr>
+<tr>
+<th>Marcus:
+</th><td>There's too many of 'em! We're gonna need backup! <i>[Cartman goes to a nearby water truck and opens a spigot, which releases water and creates a large puddle. The Mexicans run into the puddle and stand there. Cartman tosses his baton into the puddle, electrocuting the Mexicans.]</i>
+</td></tr>
+<tr>
+<th>Border Officer 2:
+</th><td>You're pretty good at stoppin' Mexicans, son. What's your name?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Cartman. Eric T. Cartman.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Mexicans are rounded up and taken to San Francisco to be released. What follows is a montage parody of Border Wars: first, shots of a border crossing showing four lanes of cars waiting to get into Mexico. A U-Haul truck is opened up and its cargo of Mexicans is removed from the trailer. A nighttime patrol shows Cartman with some other officers in a boat. They intercept a smaller boat with Mexicans trying to row to Mexico, then escort them back to shore near Santa Monica. The third shot shows Cartman on a helicopter with two other officers. He points at a sign on the ground. The helicopter drops him off near the sign and he turns it around to fool unsuspecting Mexicans, grins, and hides behind some bushes. Some Mexicans stand in line to get unemployment checks, and one of them gets a flag from Officer 2]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Dedicated. Patriotic. Tireless. These are the men and women of the US Border Patrol. They work around the clock protecting American prosperity. They are the front line in making sure Mexicans stay here and work. The border patrol is uncompromising, diligent, and cool. They will defend, arrest, and most importantly, let the Mexicans know that they are way better off here in the United States.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Días De Mantequilla. Butters has earned himself a festival - Butters Days - in what looks like Mexico City, complete with mariachis and a portrait of him mimicking the famous portrait of Our Lady of Guadalupe. Among the sights at this festival: little kids dancing, señoritas dancing nearby, a man wearing a Mantequilla head, people buying Mantequilla shirts at the Tienda de Orgullo, kids trying to burst open a piñata of Mantequilla. A girl runs by with a small Mexican flag. One of the kids breaks open the piñata and the others rush in for the candy.]</i>
+</td></tr>
+<tr>
+<th>President Calderón:
+</th><td>¡Hoy celebramos el primer día de Mantequilla, honrando el espiritu de México! <i>["Today we celebrate the FIRST day of Mantequilla, honoring the spirit of Mexico!" Everyone claps for Butters]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Thanks everyone. <i>[hops onto the table]</i> It suer has been great gettin' to know you all. You've been really great amigos. <i>[gets sad]</i> It's really kind of made me... appreciate my amigos back home. I know they were waitin' for me, and I'm sure they're all worried sick.
+</td></tr>
+<tr>
+<th>President Calderón:
+</th><td>Mantequilla, tu tienes que hacer una decisión. Los Estados Unidos están de baja, y claro, México pronto será el mejor lugar. Pero como Mexicanos, nosotros sabemos que nada es más importante que la famlia, y amistades. Estás invitado a vivir con nosotros, Mantequilla, pero tienes que seguir tu corazón. ¿Quieres quedarte aquí con nosotros, o quieres estar con tus amigos? <i>["Mantequilla, you have a decision to make. The United States is on the decline, and clearly, Mexico will quickly become the better place to be. But as we Mexicans know, nothing is more important than FAMILY and FRIENDS. You are welcome to live with us, Mantequilla, but you must follow your heart. Do you want to stay here with us, or do you want to go back to your amigos?"]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>...What did he say? Ah I actually don't speak Spanish.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The US Border. Cartman stands front and center scanning the horizon, with other soldiers and volunteers taking breaks.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[robot voice]</i> No Mexicans detected. <i>[normally]</i> Huh, nothing.
+</td></tr>
+<tr>
+<th>Border Officer 4:
+</th><td><i>[Richards]</i> Let's face it: they've just about all gotten back across. No matter how hard we tried, the Mexicans all got across the border.
+</td></tr>
+<tr>
+<th>Border Officer 2:
+</th><td>When we asked Obama to stop illegal immigrants, we didn't mean to make the US so shitty they wouldn't wanna come anymore.
+</td></tr>
+<tr>
+<th>Marcus:
+</th><td><i>[along in the lookout tower, as bored as the others, he suddenly sees something, sits up, and rushes to tell the others.]</i> Hey! Hey wait a minute! <i>[whips out his binoculars and gets a better look.]</i> It's a Mexican! <i>[It's Mantequilla]</i> I think he wants to come back in! <i>[Officer 2 climbs the ladder and gets a better look]</i>
+</td></tr>
+<tr>
+<th>Border Officer 2:
+</th><td>Oh my God it is! <i>[puts down the binoculars and happily waves his hat at Butters]</i> Hey! Hey! Come on in! <i>[bangs at the tower and whistles]</i> Come on! Come on! Come on, it's okay! <i>[Butters draws closer, smiling. guard 2 addressed the other officers and volunteers]</i> What the fuck are you doing?! Get that gate open! <i>[an officer and a volunteer happily oblige. The other officers and volunteers are smiling too]</i>
+</td></tr>
+<tr>
+<th>Border Officer 5:
+</th><td>Come on, buddy!
+</td></tr>
+<tr>
+<th>Other Officers:
+</th><td>Come on now, come on! You've got it. <i>[Cartman gets up on the tower and uses his own binoculars]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Wait a minute, isn't that...
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[looking back at him]</i> Game on!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[squints his eyes]</i> Oh no you don't! <i>[takes Officer 2's sidearm and fires at Butters.</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[dodging the bullets]</i> AAAH!
+</td></tr>
+<tr>
+<th>Border Officer 2:
+</th><td><i>[takes his weapon back]</i> What the fuck are you doin'?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That asshole is not getting across my border! <i>[Butters either fails to see the open gate, or it was closed while Cartman was firing at him, because he starts climbing the fence. Cartman quickly gets down to intercept him, but decides that electrocuting the fence would get Butters off it, and it works]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>AAAAH! <i>[falls and gets up]</i> I'll get over! <i>[runs farther away from the tower]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[gives chase]</i> No you won't Butters!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[sees a gray burro and jumps up on him]</i> Giddy up! <i>[gallops away. Cartman gets on a pale gray burro and whistles, and gallops after Butters]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Mexico City, day. The Mexicans have huddled around just one radio and are listening to the play-by-play provided by a commentator. Since the Spanish lines are not translated here, I will provide them]</i>
+</td></tr>
+<tr>
+<th>Commentator:
+</th><td>Un otro shoto de Mantequilla. Y Manteque-ah. ¡Oh! ¡Una arma! Una arma del El Niño Gordo! <i>["Another shot of Mantequilla! And Mantequi-ah. Oh! A firearm! The fat kid's firearm!" Apparently Cartman was firing at Butters]</i>
+</td></tr>
+<tr>
+<th>Mexicans:
+</th><td>Ohhh!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The US Border. Butters and Cartman ride past the tower, and Cartman finds himself fired upon. He turns and sees the border patrol after him]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ey!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Mexico City.]</i>
+</td></tr>
+<tr>
+<th>Commentator:
+</th><td>Mantequilla ayudar ¡1a Border Patrol! <i>["The Border Patrol is coming to Mantequilla's aid!" The Mexicans cheer]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[El Río Bravo. Butters is now speeding away in a small boat, and Cartman is chasing him in a Border Patrol boat.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>¡Respeto mi autóridad! <i>["Respect my authority!" Again, Cartman is fired upon, and his boat begins to sink. This time, the border patrol is in a helicopter firing away]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Mexico City.]</i>
+</td></tr>
+<tr>
+<th>Commentator:
+</th><td>Border Patrol pegaron ¡El Zero Gordo! <i>["The border patrol hit the Fat Zero!" Next, Cartman is on an ATV and stops to look tor Butters]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The US Border.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Where the fuck did he go?! <i>[in the background, Butters can be seen riding by on his burro. Cartman sees him and gives chase. Just before Cartman reaches him, Butters blinks. Cartman jumps off his burro and tackles Butters off his, and they both end up on the desert floor, with Cartman on top]</i> Haha! Game over, Butters! You lose! <i>[Butters apparently collapses]</i> The fuck is this?! <i>[instead of seeing the real Butters, Cartman sees a life-size piñata of him. The head separates from the body and candy falls out]</i> No. NO! <i>[Butters is climbing the fence]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[taunting]</i> Haha! Heheeheeheehahaheehee!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>NOOOOOOOOOOOOOO! <i>[Butters goes over the border fence and jumps down]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Base! <i>[dances around with his arms outstretched]</i>
+</td></tr>
+<tr>
+<th>Mexicans:
+</th><td>AAAAAAAAAAAAAAAAAAA! <i>[Butters gets on his knees and slides itno a pose]</i>
+</td></tr>
+<tr>
+<th>Commentator:
+</th><td>El mirito, vinto! <i>[the Mexicans celebrate. The border patrol celebrates as well, and Butters dances]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's dining room, evening. The boys are back at the table eating dinner, with Butters sitting between Craig and Kyle. The boys are laughing and telling jokes to each other]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>So then, so then the fireman says "That won't even <i>fit</i> in my scrotum!" <i>[the boys laugh again]</i> Yeah!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[noticing Cartman]</i> Stop being a pouty little bitch 'cause you lost, Cartman!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I'm not pouting! I'm just... sensitive to fireman jokes 'cause of 9/11 and uh, uh... fuck you Kyle!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Boy, I'm so glad I proved I'm a good Meheecan! Hey, maybe next time I can be team leader!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Ahhh, I think we'll stick with Kyle, dude. You made it across the border, but it did take you... two and a half weeks.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, you're a great Meheecan, Butters, just not a great leader of Meheeco. <i>[everyone falls silent. Butters gets up on his chair and raises his arms slowly]</i>
+</td></tr>
+<tr>
+<th>Mexicans:
+</th><td><i>[responding to his gesture]</i> ¡Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh... <i>[Even a baby responds to it. Craig and Kyle look all around, and then at Butters. Butters thrusts his right arm out twice.]</i> ¡Oy! ¡Oy! <i>[Butters thrusts his left arm out once]</i> ¡Orgullo! <i>[raises both arms again]</i> ¡Maaantequilla! <i>[now all his friends are looking at him]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[Sighs gruffly and rolls his eyes]</i> A Baptist priest with a huge boner walks into a bar...
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>The Last of the Meheecans</b>.]</i>
+</td></tr></table>
+<p><br />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt;border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px;border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">1509: "<a href="/wiki/The_Last_of_the_Meheecans" title="The Last of the Meheecans"><span style="color:white">The Last of the Meheecans</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:1509&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Butters_Stotch" title="Butters Stotch">Mantequilla</a> • 
+<a href="/wiki/Mexico" title="Mexico">Mexico</a> • 
+<a href="/wiki/El_Pollo_Loco" title="El Pollo Loco">El Pollo Loco</a> • 
+<a href="/wiki/Texans_vs._Mexicans" title="Texans vs. Mexicans">Texans vs. Mexicans</a> • 
+<a href="/wiki/U.S._Border_Patrol" title="U.S. Border Patrol">U.S. Border Patrol</a> •
+"<a href="/wiki/Work_Mexican_Work" title="Work Mexican Work">Work Mexican Work</a>" • 
+<a href="/wiki/Mr._and_Mrs._Whipple" title="Mr. and Mrs. Whipple">Mr. and Mrs. Whipple</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/The_Last_of_the_Meheecans/Images" title="The Last of the Meheecans/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s15e09-the-last-of-the-meheecans">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Fifteenth_Season" title="South Park: The Complete Fifteenth Season">South Park: The Complete Fifteenth Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 115/300000
+Post‐expand include size: 5178/2097152 bytes
+Template argument size: 113/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:31557-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/The_Last_of_the_Meheecans/Script?oldid=246740">http://southpark.wikia.com/wiki/The_Last_of_the_Meheecans/Script?oldid=246740</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Fifteen" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Fifteen" title="Category:Scripts from Season Fifteen">Scripts from Season Fifteen</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":31557,"kv_wpage":"The_Last_of_the_Meheecans\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"The_Last_of_the_Meheecans/Script","wgTitle":"The Last of the Meheecans/Script","wgCurRevisionId":246740,"wgArticleId":31557,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Fifteen"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"The_Last_of_the_Meheecans/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1454927565/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":246740,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=The_Last_of_the_Meheecans/Script","fbReturnToTitle":"The_Last_of_the_Meheecans/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/The_Last_of_the_Meheecans/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/The_Last_of_the_Meheecans/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:PasswordReset","caption":"Reset password","href":"http://southpark.wikia.com/wiki/Special:PasswordReset","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"The Last of the Meheecans/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1454927565/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1454927565/group/-/videos_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1454927565/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/visit_source_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1454927565.0.81516"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/monetization_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/global_navigation_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/global_navigation_2016_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/page_share_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

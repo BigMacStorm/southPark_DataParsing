@@ -1,0 +1,2253 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Best Friends Forever/Script,Kenny McCormick,List of video game references,Heaven,Best Friends Forever,Best Friends Forever/Images,Best Friends Forever/Trivia,South Park: The Complete Ninth Season" />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Best_Friends_Forever/Script" />
+<meta name="twitter:title" content="Best Friends Forever/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Best_Friends_Forever/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Best Friends Forever/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":13829,"pageIsArticle":true,"pageName":"Best_Friends_Forever/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=13829,
+wgCategories=["Scripts","Scripts from Season Nine"],
+wgPageName="Best_Friends_Forever/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="character",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/average","env":"prod","hostname":"ap-s14","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"average"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=13829&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=13829&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Best Friends Forever/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Best_Friends_Forever/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Best_Friends_Forever_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FBest_Friends_Forever%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Best_Friends_Forever/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Best_Friends_Forever/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Best Friends Forever/Script</h1>
+											<h2>&lt; <a href="/wiki/Best_Friends_Forever" title="Best Friends Forever">Best Friends Forever</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Best_Friends_Forever/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Best_Friends_Forever/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Best_Friends_Forever" title="Best Friends Forever">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Best_Friends_Forever/Trivia" title="Best Friends Forever/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Best_Friends_Forever/Images" title="Best Friends Forever/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s09e04-Best-Friends-Forever">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan Marsh
+</li><li> Kyle Broflovski
+</li><li> Eric Cartman
+</li><li> Kenny McCormick
+</li><li> Liane Cartman
+</li><li> Goths Kids
+</li><li> Sixth Graders
+</li><li> Stuart McCormick
+</li><li> Mrs. McCormick
+</li><li> Angels:
+<ul><li>Archangel Michael
+</li><li>Archangel Gabriel
+</li><li>Archangel Uriel
+</li></ul>
+</li><li>Satan's Spy
+</li><li> Peter
+</li><li> Satan
+</li><li> Kevin, the Hooded Figure
+</li><li> Hell's Pass Hospital Doctor and Nurse
+</li><li> Kenny's Lawyer
+</li><li> Various people and crowds
+</li><li> HBC Anchor
+</li><li> George Bush
+</li><li> Colorado Supreme Court Justices
+</li><li> Police Officer
+</li><li> Skeeter 
+</li><li> Mrs. Garrison
+</li><li> BFF Rights supporters
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-13829-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13829-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13829-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13829-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13829-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsm_ffa mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="medium"data-font-face="arial" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Dawn over Cartman's house. He runs into his mother's bedroom]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Mom! Mom! Get up, we have to go! <i>[moves to the foot of the bed]</i> MOM, GET UP!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td><i>[sits up]</i> Oh, Poopie-kins, it's very early.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[goes to the other side of the bed and draws close to her face]</i> Mom, I told you! The new Sony PSP game machines go on sale at seven a.m. today. I <i>have</i> to be the first to get one! <i>[turns on her light]</i> Come on! <i>[goes back to the door]</i>
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Sweetie, can't we go after school?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Everyone's moms are taking their kids after school! We're outsmarting everyone by getting to the store right when it opens! Let's go!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Liane's car, some time later. She and Cartman drive along, Cartman bouncing happily in his seat]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I can't wait to see the look on everyone's faces when I show up to school with a PSP! I wonder if Kyle will cry? Oh PLEASE let Kyle cry! <i>[they pull up to the curb and stop. Cartman gets out of the car]</i> What the hell?!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Before them is a long line of people in front of Luau's Toys waiting for the PSP. The camera reaches the front of the line only to find Kenny right at the front door. He's the first one in line. Cartman approaches Kenny]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Kenny, when did you get here?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Friday)
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Friday?! Aw, Jesus! <i>[he switches tactics]</i> I'll just... sort of get in here- in here. <i>[gets in line between Kenny and the Goths]</i>
+</td></tr>
+<tr>
+<th>Tall Goth:
+</th><td>Hey dickhole! What do you think you're doing?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Uh, my friend Kenny was saving my place in line.
+</td></tr>
+<tr>
+<th>Sixth Grader:
+</th><td>There's no saving place, fourthie! Get to the back or we'll beat your face in!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, Goddammit! <i>[moves to the back of the line]</i> They'd better not sell out!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The bus stop, later in the day. Kenny is playing with his PSP as Stan and Kyle look on. Stan and Kyle weren't in line]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That thing is pretty cool. What games did you get with it?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[answering for Kenny]</i> It's a game called "Heaven versus Hell." Kenny commands the armies of heaven against the forces of Satan. <i>[Cartman walks up to the other boys, but he's quite upset. He crosses his arms]</i> Dude, you see what Kenny got?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>YES YES, I KNOW! UP YOURS, KYLE!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Wuh what'd I do?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>JUST SHUT YOUR JEW MOUTH!
+</td></tr>
+<tr>
+<th>Game Voice:
+</th><td>"Congratulations! You have reached ...level nine!"
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Wow, level nine already? Dude, you kick ass in "Heaven versus Hell."
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, Kenny finally found something he's really good at.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A montage follows. Kenny is seen in class playing on his PSP, then in the cafeteria, then in the playground, then in his bedroom at night. He reaches level 24. He's then seen at the amusement park with his family, still playing with his PSP, then in "The Mine Shaft" roller coaster, where he reaches level 45. He's seen on the bus playing on his PSP while the other students are having fun, then in Le Bijou playing while Stan and Kyle watch a movie, then on the sidewalk passing some hot babes - he doesn't look up to acknowledge them, then in his bed again at night. He reaches level 54.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kenny's house, day, the kitchen. He's still playing on his PSP]</i>
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>Kenny? Kenny, are you still playin' with that thing? <i>[Yep]</i> Kenny, it's been two weeks and you've done nothin' else!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(I could get to level sixty!)
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>Who cares if you almost made it to level sixty?! You're wastin' your life, Kenny! If you died tomorrow, what would you have to show for it?! You're gonna end up wishin' you'd done more with your life, <i>just like your dead-beat father</i>!
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td><i>[offscreen]</i> Hey, I heard that, bitch!
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>I wasn't talkin' to you, asshole!! <i>[Kenny leaves, having tuned her out all the while]</i>
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td><i>[offscreen]</i> How about I come in there and kick your teeth in!
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>I'd like to see you try!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kenny leaves the house and goes to the sidewalk.  His parents continue arguing inside.]</i>
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Goddamnit, do you have to smart off at me in my own house?!
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>It's my house too, you no-good loser!
+</td></tr>
+<tr>
+<th>Game Voice:
+</th><td>You have reached level sixty!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[starts jumping around excited]</i> (Yes! Woohoo! I did it! I reached level s-!) <i>[an ice-cream truck runs over him. The driver misses this, as he's playing on his own PSP]</i>
+</td></tr>
+<tr>
+<th>Driver:
+</th><td>Oh yeah, level four, sweet!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The street. Kenny's body lies on the road. Eventually his soul rises out of his body]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Hey, that's odd.) <i>[He rises up in the air.]</i> (Hey, I'm floating. That can't be! Hey wait!) <i>[he then speaks too fast to decipher, but he toes towards heaven.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[He reaches heaven, right side up, and bounces once before landing. He walks towards the Golden Gates]</i>
+</td></tr>
+<tr>
+<th>Angel 1:
+</th><td>Open the gate!
+</td></tr>
+<tr>
+<th>Angel 2:
+</th><td>Open the gate! <i>[the gates open and an elderly man walks towards Kenny. Kenny shields his eyes from the bright rays.]</i>
+</td></tr>
+<tr>
+<th>Peter:
+</th><td>Welcome to the Kingdom of Heaven, Kenny. I am Peter.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(What the fuck is going on?)
+</td></tr>
+<tr>
+<th>Peter:
+</th><td>There isn't much time, Kenny. You're dead, but, your death was no accident. Heaven needs you.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Me?)
+</td></tr>
+<tr>
+<th>Peter:
+</th><td>Come! There is much to discuss. <i>[they both enter and behold a gleaming city on a hill. Inside, the city has all the appearance of a super-basilica, built with gold and marble. Angels flit around doing stuff]</i> Things are not good in Heaven, Kenny. Satan is planning a massive attack and he knows we are too few in number to stop him! God has changed the rules here. For ages, only Mormons were allowed into Heaven. <i>[they pass the Mormons, who greet them]</i> But knowing that Hell was becoming much larger, God decided to let more people cross over so that he could build an army as well, an army that YOU must command.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(That I <i>what</i>?)
+</td></tr>
+<tr>
+<th>Peter:
+</th><td>The Sony PSP was built by God, to determine who on Earth had the best skills to defeat the armies of Satan. You... are the best. YOU, are the only hope for the universe.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[In a great courtyard outside the super-basilica. An angel addresses the others]</i>
+</td></tr>
+<tr>
+<th>Angel 3:
+</th><td>Satan's army grows as we speak. The Dark Lord knows that our armies are few in number, and unorganized. So our only hope... is perfect strategy. <i>[steps aside to show Kenny off]</i>
+</td></tr>
+<tr>
+<th>Angel 4:
+</th><td>A child? This is God's solution?
+</td></tr>
+<tr>
+<th>Peter:
+</th><td>He beat Satan's army in over three thousand separate simulations.
+</td></tr>
+<tr>
+<th>Angel 4:
+</th><td>Archangel Michael, what say you?
+</td></tr>
+<tr>
+<th>Michael:
+</th><td><i>[looks out into space, then turns around]</i> The child did something none of us could: Reach level sixty on the PSP. Now I don't know if that's luck or perseverance, but it's Goddamned impressive. All right, Kenny, let me show you what we're up against. <i>[two other angels roll a chalkboard to him, and he begins drawing up strategies.]</i> This is the Kingdom of Heaven. Satan's armies will attack the gate ...here. They are... ten billion in number. Maybe more. <i>[sniffs the fumes from the Sharpie]</i> Our armies are here, here, and here. Just under... ten thousand strong. <i>[sniffs again]</i> We are outnumbered and in need of someone who can single handedly bring the whole Dark Empire down. Basically, Kenny, you... are Keanu Reeves. <i>[Kenny just sits there.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hell. Satan's armies mill about, the troops arm each other. Satan addresses them]</i>
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>My fellow damned souls! Now is the time for our assault! <i>[with him is a small hooded figure]</i> You know no fear! You will drink the blood of angels! We go now! Nothing can stop us!
+</td></tr>
+<tr>
+<th>Angel 5:
+</th><td>Step aside! Step aside, I say! <i>[stops when he sees Satan]</i> Satan! God has mocked thee once again!
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>My spy!
+</td></tr>
+<tr>
+<th>Angel 5:
+</th><td>God has found a way to defeat your army.
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>Impossible! How?!
+</td></tr>
+<tr>
+<th>Angel 5:
+</th><td>A young man. Basically, he-he's like Keanu Reeves.
+</td></tr>
+<tr>
+<th>Satan:
+</th><td><i>[slumps down in his throne]</i> Oh Jesus Christ.
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td>My Lord. My Lord, we must attack, now!
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>What's the point?! They have a Keanu Reeves now.
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td>Do not fear, my Lord. Your army is great!
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>Very well. <i>[rises and addresses his army]</i> Demon Army, begin your march on Heaven! <i>[a loud roar comes up from the army]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Michael and Kenny walk to one of the ramparts and look out over Heaven]</i>
+</td></tr>
+<tr>
+<th>Michael:
+</th><td>Up here, you get the best tactical view to protect the fortress. It is from here, Kenny, that you shall command the armies of heaven.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(All right. How am I supposed to do that?)
+</td></tr>
+<tr>
+<th>Angel 6:
+</th><td>Simple. You will use... this. <i>[bows towards a chair and backs off. A golden PSP descends onto the chair]</i>
+</td></tr>
+<tr>
+<th>Michael:
+</th><td><i>[gets the PSP and shows it to Kenny]</i> This golden PSP is king of all PSPs.
+</td></tr>
+<tr>
+<th>Angels:
+</th><td>Hail the holy PSP.
+</td></tr>
+<tr>
+<th>Michael:
+</th><td>It works just like the ones we sent to Earth. All the commands you make will be sent to the troops down on the battlefield. All you have to do is play the game, Kenny. Only this time, It's for reals.
+</td></tr>
+<tr>
+<th>Angel 7:
+</th><td>Gabriel returns with news!
+</td></tr>
+<tr>
+<th>Gabriel:
+</th><td>Hell's army is departing! They head now for the Gates of Heaven.
+</td></tr>
+<tr>
+<th>Michael:
+</th><td>Prepare the troops! <i>[the angels take off]</i> We must be ready for them! <i>[walks up to Kenny]</i> The time is at hand, Kenny. The stage is set and the final battle between Heaven and Hell is about to begin! The fate of the outcome is in <i>your hands</i>. <i>[Kenny vanishes. The angels notice]</i> Where'd he go?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hell's Pass Hospital. The paddles have been taken to Kenny and fired away.]</i>
+</td></tr>
+<tr>
+<th>Female Nurse:
+</th><td>Doctor! Doctor, we have a pulse!
+</td></tr>
+<tr>
+<th>The Doctor:
+</th><td>Then that's it! We brought him back.
+</td></tr>
+<tr>
+<th>Male Nurse:
+</th><td>Amazing, doctor! You've revived somebody who's been legally dead for almost a day!
+</td></tr>
+<tr>
+<th>The Doctor:
+</th><td>Call the parents. They're going to be shocked to find out... their son is alive.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hell's Pass, later]</i>
+</td></tr>
+<tr>
+<th>The Doctor:
+</th><td>It's the latest in electro-plastilical science. Your son's organs are all functioning again.
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>It's a miracle... Kenny, you're alive.
+</td></tr>
+<tr>
+<th>The Doctor:
+</th><td>I'm afraid he can't respond to you. You see, being dead for that long, most of Kenny's brain cells died from lack of oxygen. Your son is alive, but, in what we call a "persistent vegetative state."
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>Will he ever recover?
+</td></tr>
+<tr>
+<th>The Doctor:
+</th><td>I'm afraid no. Brain cells cannot be repaired once dead. But his soul is still in here. <i>[places his hand on Kenny's chest]</i> Almost... trapped in here, if you will. Kenny is the same as he ever was. It's just that, now, he's more like ...a tomato.
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>He can't more on his own-ah how will he eat?
+</td></tr>
+<tr>
+<th>The Doctor:
+</th><td>A feeding tube. It pumps a nutrient paste directly into Kenny's stomach. With it we can actually keep Kenny the tomato alive for years.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Back in Heaven, business goes on as usual]</i>
+</td></tr>
+<tr>
+<th>Michael:
+</th><td><i>[reading a scroll]</i> A feeding tube?!
+</td></tr>
+<tr>
+<th>Gabriel:
+</th><td>Yes. Apparently they're using machines to keep them alive.
+</td></tr>
+<tr>
+<th>Michael:
+</th><td>But... that's not natural. God intended Kenny to die! What are these people doing?!
+</td></tr>
+<tr>
+<th>Angel 3:
+</th><td>The child's soul is now trapped inside his vegetative body. We have no one to command the troops with the PSP.
+</td></tr>
+<tr>
+<th>Gabriel:
+</th><td>And Satan's armies are approaching.
+</td></tr>
+<tr>
+<th>Michael:
+</th><td>Oh, Goddammit.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A brick building. Inside, a lawyer sees the four boys.]</i>
+</td></tr>
+<tr>
+<th>Lawyer:
+</th><td>Boys I want to thank you for coming down to my office on such short notice. <i>[the boys are shocked]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Are we in trouble or something?
+</td></tr>
+<tr>
+<th>Lawyer:
+</th><td>No. Boys, I'm a lawyer. Your friend Kenny has passed away and I've called you here to read his will.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kenny had a will?
+</td></tr>
+<tr>
+<th>Lawyer:
+</th><td><i>[clears his throat]</i> "In the highly likely event of my death, I, Kenny McCormick, wish to leave all my belongings to my good friends, Stan and Kyle. Dudes, you were the friends a guy could have."
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh wow...
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That's... really touching.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>(looking bored)</i> Fags!
+</td></tr>
+<tr>
+<th>Lawyer:
+</th><td>To Eric Cartman: "Eric, I never really liked you. But then, nobody does. You have no ability to feel, and you are going to die alone and miserable. It is only because I feel so sorry for you that I leave you my Sony PSP."
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[suddenly excited and cocky]</i> Oh yeah! Oh yeah, baby! Who the man? Who the <i>man</i>?
+</td></tr>
+<tr>
+<th>Lawyer:
+</th><td>There is one more thing I would like to ask you all, as my friends. If I should ever be in a vegetative state and kept alive on life-support, please,... <i>[Cartman is still dancing. The lawyer reaches the last page and... can't fine it]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Please what?
+</td></tr>
+<tr>
+<th>Lawyer:
+</th><td>I don't know. I lost the last page.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Who cares? Kenny's dead! <i>[rushes up to the lawyer's desk]</i> When do I take possession of my PSP, sir?
+</td></tr>
+<tr>
+<th>Lawyer:
+</th><td><i>[pulls up a box from nowhere and puts it on his desk]</i> It's right here, along with Kenny's other belongings. They're all yours.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[salivating]</i> Yes!
+</td></tr>
+<tr>
+<th>Man:
+</th><td><i>[enters the office]</i> He's alive!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Kenny McCormick! He's alive at the hospital! <i>[leaves]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh my God! <i>[he and Stan rush out of there, leaving Cartman incredulous]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Satan's armies continue their march to Heaven. Satan looks on through his crystal ball]</i>
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td>Your army nears the Kingdom of Heaven, my Lord.
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>I don't know if we should continue without knowing more about this Keanu Reeves God has.
+</td></tr>
+<tr>
+<th>Spy Angel:
+</th><td>Satan! I come bearing good news! The Keanu Reeves boy has been revived on Earth! His soul is no longer in Heaven.
+</td></tr>
+<tr>
+<th>Satan:
+</th><td><i>[whispers]</i> Then God is helpless. <i>[aloud]</i> Full march, to the Gates of Heaven! Victory is ours!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The boys reached Hell's Pass and enter Kenny's recovery room]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kenny?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kenny! You're alive!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, how'd you do that?
+</td></tr>
+<tr>
+<th>The Doctor:
+</th><td>He can't respond to you, boys. Being dead for that long caused severe damage to his brain.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well... well then he's NOT alive.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>He's alive. He-ee smiles when I talk to him. I think...
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's not Kenny. Kenny sniffs paint and sets things on fire! Here, look. <i>[climbs onto Kenny's bed and holds out a $1 bill]</i> Kenny, Kenny look. Want a dollar?
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>I-I don't know if it's right to keep Kenny alive on that machine. I-I just... I don't know what he would want.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, the lawyer lost that page.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, I just remembered! Kenny told me this one time, that he wouldn't wanna be kept alive via feeding tube.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>He did? When?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Um, it was um, this one time...
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>He did not say that! You just want him dead so you can have his stupid PSP!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Stupid? PSP is stupid?! <i>[steps forth]</i> Did you all hear that? <i>[steps back to his little group]</i> Uh I mean, I mean this isn't about PSP, Kyle! This is about my friend, and his wishes. And Kenny said he didn't want to live like this!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>He did not!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Did so!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Did not!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Fine! We'll see about this, you freakin' Jew! <i>[moves towards the door]</i> I'm gonna get that feeding tube removed if I have to go all the way to the Supreme Court! <i>[runs out]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Heaven. The angels mill around inside the fortress]</i>
+</td></tr>
+<tr>
+<th>Peter:
+</th><td>Satan's army has crossed over the Plains of Limbo!
+</td></tr>
+<tr>
+<th>Gabriel:
+</th><td>Then they will be here on the morrow. Without Kenny's soul here there will be nobody who can use the holy PSP.
+</td></tr>
+<tr>
+<th>Uriel:
+</th><td>No! There is another. A Japanese boy did make it to level fifty-nine.
+</td></tr>
+<tr>
+<th>Michael:
+</th><td><i>[thinks for a moment]</i> Are you stupid, Uriel? Japanese people don't have souls!
+</td></tr>
+<tr>
+<th>Angel 9:
+</th><td>Yeah
+</td></tr>
+<tr>
+<th>Angel 10:
+</th><td>Yeah
+</td></tr>
+<tr>
+<th>Angel 11:
+</th><td>Yeah
+</td></tr>
+<tr>
+<th>Angel 12:
+</th><td>Yeah, Uriel!
+</td></tr>
+<tr>
+<th>Uriel:
+</th><td>Oh, right right, I'm sorry
+</td></tr>
+<tr>
+<th>Michael:
+</th><td>Kenny remains our only hope! Here is what we must do. <i>[walks up to the chalkboard and starts writing]</i> Gabriel and Uriel, you go down to Earth and try to get that feeding tube removed. In the meantime <i>[sniffs those Sharpie fumes]</i> we will put all our troops at Heaven's Gate. We will try to keep Hell's Army from breaking through as long as possible. <i>[sniffs those Sharpie fumes]</i> Hopefully, it will be long enough to get our Keanu Reeves back.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Colorado Supreme Court, day.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You see your honor, I was the only one that Kenny McCormick told his wishes to. And Kenny told me specifically that he would never want to be kept alive on a machine. What they're doing to him ...is not right.
+</td></tr>
+<tr>
+<th>Chief Justice:
+</th><td>Well I'm sorry, young man, but the parents want their child kept alive. I don't believe you have any legal authority here.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I do have legal authority, your honor. You see, I was Kenny's... BFF.
+</td></tr>
+<tr>
+<th>Judge 2:
+</th><td>Best friends forever?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's right. Kenny and I have been BFFs since first grade. Here, look. <i>[brings forth a necklace with the left half of a BFF heart medallion]</i> Kenny has the other half of this BFF necklace. I believe you all know what that means, and how serious this is.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hell's Pass hospital, Kenny's room. Kenny's parents keep vigil with Stan and Kyle.]</i>
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>Look, Kenny, your friends are here to visit you again.
+</td></tr>
+<tr>
+<th>The Doctor:
+</th><td><i>[entering with a policeman]</i> But this just doesn't seem right.
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Wha, what's the matter, doctor?
+</td></tr>
+<tr>
+<th>The Doctor:
+</th><td>I'm afraid I've been given a court order to remove Kenny's feeding tube.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[comes in with the Chief Justice]</i> He's right in here.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman!
+</td></tr>
+<tr>
+<th>Chief Justice:
+</th><td>Kenny's BFF says that Kenny didn't want to be kept alive artificially. The courts have determined we must obey his wish.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman is NOT Kenny's BFF!
+</td></tr>
+<tr>
+<th>Police Officer:
+</th><td>Sir, take a look at this. <i>[has Kenny's necklace in hand and points to the other half of the BFF medallion. the justice walks over the officer puts the two halves together]</i>
+</td></tr>
+<tr>
+<th>Chief Justice:
+</th><td><i>[steps back]</i> That's all the verification we need. Pull the feeding tube, doctor.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>No doctor! You can't!
+</td></tr>
+<tr>
+<th>The Doctor:
+</th><td>I'm sorry. I have no choice. <i>[pulls the tube and drops it on the floor]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hell's Pass hospital, outside. Uriel and Gabriel arrive]</i>
+</td></tr>
+<tr>
+<th>Gabriel:
+</th><td>Here is the hospital
+</td></tr>
+<tr>
+<th>Uriel:
+</th><td><i>[the blonde angel without a shirt]</i> This is hopeless, Gabriel. We cannot interact with anything on Earth, how could we possibly get a feeding tube removed?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[exiting the hospital with Stan]</i> That dirty no-good sonofabitch!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Now that Cartman got Kenny's feeding tube out, he's gonna die for sure! <i>[they walk through the angels, then the angels turn around]</i>
+</td></tr>
+<tr>
+<th>Gabriel:
+</th><td>The tube has been removed?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>How can they let an eight-year-old decide Kenny's fate?
+</td></tr>
+<tr>
+<th>Uriel:
+</th><td>Apparently, some blessed child has done our work for us.
+</td></tr>
+<tr>
+<th>Gabriel:
+</th><td>Good. Now all we must do is pray nobody interferes with the child's death a second time.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, we have to do whatever we can to get that feeding tube put back in!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Gabriel:
+</th><td>No!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Let's go to the, uh, media. We'll make everyone in the country know that they're killing Kenny.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, come on! <i>[grabs Kyle and they go away]</i>
+</td></tr>
+<tr>
+<th>Uriel:
+</th><td>No! No, no boys! Aw Goddammit! <i>[the angels follow]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[HBC World News. Splashy graphics.]</i>
+</td></tr>
+<tr>
+<th>Anchor:
+</th><td>This is HBC News. A right-to-die case debate is heating up in Colorado, <i>[Kenny is shown]</i> where Kenny McCormick's feeding tube has been removed by his BFF. <i>[a choked-up Cartman shows his half of the BFF medallion]</i> Two boys are bringing national attention to this story by protesting outside the hospital.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hell's Pass hospital, outside. The protest has begun]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Don't kill Kenny!
+</td></tr>
+<tr>
+<th>All:
+</th><td>You bastards!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Don't kill Kenny!
+</td></tr>
+<tr>
+<th>All:
+</th><td>You bastards!
+</td></tr>
+<tr>
+<th>Uriel:
+</th><td><i>[drifting through the crowd]</i> No! No, they're not killing him, they're letting him die!
+</td></tr>
+<tr>
+<th>Skeeter:
+</th><td>You bureaucrats have no right to play God and take that tube out!
+</td></tr>
+<tr>
+<th>Gabriel:
+</th><td>Nono, see, they were playing God when they put the feeding tube IN!
+</td></tr>
+<tr>
+<th>Anchor:
+</th><td>A woman was arrested for trying to bring food to the patient. <i>[Two officers haul Mrs. Garrison out of the emergency room]</i>
+</td></tr>
+<tr>
+<th>Mrs. Garrison:
+</th><td>Get your man-hands off of me!
+</td></tr>
+<tr>
+<th>Anchor:
+</th><td>However, a growing number of people are also standing behind Kenny's BFF, Eric Cartman.
+</td></tr>
+<tr>
+<th>Man 1:
+</th><td><i>[in a crowd of people wearing BFF chains]</i> We must respect the wishes of people's BFFs. Otherwise, all our BFF necklaces would become meaningless
+</td></tr>
+<tr>
+<th>Man 2:
+</th><td>We all have BFFs, and we believe that a BFF is the highest legal authority.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's right. Respect our authoritah.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Satan watches on his TV, which is much nicer than the one in his bedroom. The hooded figure stands nearby]</i>
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>What mockery is this?!
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td>My Lord...
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>The feeding tube has been pulled! If the child dies and his soul returns to Heaven, God will have his Keanu Reeves!
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td>Perhaps the child won't die in time.
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>Forget it! I'm calling the attack off!
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td>No! Keep your army marching, my Lord. I will get that feeding tube put back in. <i>[turns and walks off]</i>
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>How?
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td>I will do what we always do: Use the Republicans.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The White House, a press conference on the lawn. People carry signs saying "Kenny Is Alive" "Murder Is Not A Choice" and "Don't Kill Kenny"]</i>
+</td></tr>
+<tr>
+<th>George Bush:
+</th><td>We Republicans are deeply saddened by the tragic events in Colorado. <i>[the crowd cheers]</i>
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td><i>[appears and whispers into Bush's right ear]</i> Removing the feeding tube is murder, hughughughughughugh...
+</td></tr>
+<tr>
+<th>George Bush:
+</th><td>Removing the feeding tube is murder!
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td><i>[whispers into Bush's left ear]</i> Who are we to decide if Kenny should live or die?
+</td></tr>
+<tr>
+<th>George Bush:
+</th><td>Who are we to decide if Kenny should live or die?
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td><i>[whispers into Bush's right ear]</i> It is God's will that he live!
+</td></tr>
+<tr>
+<th>George Bush:
+</th><td>It is God's will that he LIVE! <i>[the hooded figure hisses into Bush's left ear]</i> Haaghaghaghaghaghagha...
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td>No no, you don't say that part. <i>[hisses into Bush's right ear]</i>
+</td></tr>
+<tr>
+<th>George Bush:
+</th><td>No no, you don't say that part, haghaghaghagha. <i>[the crowd looks at him in stunned silence]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Heaven's Gate. The armies of Hell converge in front of it]</i>
+</td></tr>
+<tr>
+<th>Angel 9:
+</th><td>Jesus, their army is massive.
+</td></tr>
+<tr>
+<th>Angel 10:
+</th><td>Heaven help us.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[HBC World News.]</i>
+</td></tr>
+<tr>
+<th>Anchor:
+</th><td>The biggest battle of all time is about to begin: the battle of the feeding tube! As people on both sides of the argument vie for media attention.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kenny's hospital room. Both sides of the controversy chatter away]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We want all the country to see that Kenny is alive, and in pain!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I believe the people at home see he's NOT in pain because he's a tomato!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You say tomato, but I say Kenny!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You say Kenny, but I say tomato! <i>[both sides yell at each other]</i>
+</td></tr>
+<tr>
+<th>Cartman's Side:
+</th><td>Tomato!
+</td></tr>
+<tr>
+<th>Kyle's Side:
+</th><td>Kenny! Kenny!
+</td></tr>
+<tr>
+<th>Cartman's Side:
+</th><td>Tomato!
+</td></tr>
+<tr>
+<th>Judge:
+</th><td><i>[The executioner of Kenny's will]</i> Uuhh, excuse me. I uh, just found the last page of Kenny's will. <i>[Everyone quiets down]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Judge:
+</th><td>I found the page where Kenny specified his wishes about being on life support.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Well, what does it say?
+</td></tr>
+<tr>
+<th>Judge:
+</th><td><i>[clears his throat]</i> If I should ever be in a vegetative state and kept alive on life support, please... <i>[flips to the last page]</i> for the love of God, don't ever show me in that condition on national television. <i>[not a word is uttered for a few seconds]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oooo.
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Oowhoops
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh geez. Maybe we let this thing get out of hand. This issue is so complicated, but... m-maybe we sh-should just let Kenny go in peace.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You mean, Cartman's side is right?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman's side is right, for the wrong reasons. But we're wrong, for the right reasons.
+</td></tr>
+<tr>
+<th>Both sides:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on, everybody. I think Kenny wants to be left alone. <i>[everyone walks out.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[HBC World News.]</i>
+</td></tr>
+<tr>
+<th>Anchor:
+</th><td>We've just received word that Kenny McCormick... has passed away. The debate still rages on in America, but at least now, Kenny... is in a much more peaceful place.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Heaven, inside the fortress. Angels scurry around in a panic]</i>
+</td></tr>
+<tr>
+<th>Angel 11:
+</th><td>The armies of Satan have already broken through the gate!
+</td></tr>
+<tr>
+<th>Angel 12:
+</th><td>We're gonna die!!!
+</td></tr>
+<tr>
+<th>Michael:
+</th><td>Send our troops to the battlefield! I'll command as best I can!
+</td></tr>
+<tr>
+<th>Gabriel:
+</th><td>Michael! Michael! <i>[he and Uriel bring Kenny to Michael]</i> The humans finally did the right thing!
+</td></tr>
+<tr>
+<th>Michael:
+</th><td>Oh my God, they killed Kenny! Get him into the command station! Hurry! <i>[Uriel and Gabriel sit Kenny down and strap him in]</i> Satan's army charges! Tell our troops what to do, Kenny! <i>[Kenny sets to work on the Golden PSP, manning the controls like a pro]</i> So it begins. <i>[Gabriel and Uriel leave Kenny to his task and fly off. The camera focuses on Michael]</i> Now we shall see the final battle between Heaven and Hell play out! <i>[Kenny continues playing, and Michael provides commentary]</i> Yesss, good, Kenny! The angel spearmen are taking out their demon soul rippers! Oh, the cavalry angels are clashing with their Black Knights! Oh my God! My God, this battle is epic! Ohh, they're bringing in their demon dragons! Look at the size of them! My God, this is even bigger than the final battle in the <i>Lord of the Rings</i> movie! It's like, it's like TEN times bigger than that battle!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Hell. Satan is watching the battle through his crystal ball]</i>
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>No! NO! How are we losing?! <i>[the spy angel returns]</i>
+</td></tr>
+<tr>
+<th>Spy Angel:
+</th><td>The child's soul is in Heaven! God has his secret weapon!
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>Full retreat!
+</td></tr>
+<tr>
+<th>Hooded Figure:
+</th><td>Patience, my Lord!
+</td></tr>
+<tr>
+<th>Satan:
+</th><td>No, Kevin! <i>[turns and glares at him]</i> That's it! I'm breaking up with you! <i>[one blast from his eyes and Kevin is dead]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Heaven. Kenny's still at it]</i>
+</td></tr>
+<tr>
+<th>Michael:
+</th><td>Yesss. Yes, Kenny! Satan's forces are retreating! This is TRULY a sight to behold! OH I wish I had a camcorder! <i>[Kenny continues to play]</i> We have done it! We have defeated the armies of Satan! <i>[the angels in the battlefield look around and celebrate weakly. The angels then gather around Kenny, and Peter joins them.]</i>
+</td></tr>
+<tr>
+<th>Peter:
+</th><td>Kenny! Bless your soul! You've saved all of Heaven!
+</td></tr>
+<tr>
+<th>Michael:
+</th><td>Yes, Kenny! And to thank you for all you've done, we are going to give you a very special gift. For saving the entire universe from the forces of evil, we give you this. <i>[two angels haul something into view]</i> Keanu Reeves' statue. <i>[a ten-foot statue of Keanu Reeves on a three-foot base]</i> Congratulations. <i>[everyone claps for him]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Best Friends Forever</b>.]</i>
+</td></tr></table>
+<p><br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt;border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px;border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">904: "<a href="/wiki/Best_Friends_Forever" title="Best Friends Forever"><span style="color:white">Best Friends Forever</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:904&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Kenny_McCormick" title="Kenny McCormick">Kenny McCormick</a> • 
+<a href="/wiki/List_of_video_game_references#PSP" title="List of video game references">PSP</a> • 
+<a href="/wiki/Heaven" title="Heaven">Heaven</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Best_Friends_Forever/Images" title="Best Friends Forever/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s09e04-best-friends-forever">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Ninth_Season" title="South Park: The Complete Ninth Season">South Park: The Complete Ninth Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 103/300000
+Post‐expand include size: 4798/2097152 bytes
+Template argument size: 93/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:13829-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Best_Friends_Forever/Script?oldid=258635">http://southpark.wikia.com/wiki/Best_Friends_Forever/Script?oldid=258635</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Nine" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Nine" title="Category:Scripts from Season Nine">Scripts from Season Nine</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":13829,"kv_wpage":"Best_Friends_Forever\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Best_Friends_Forever/Script","wgTitle":"Best Friends Forever/Script","wgCurRevisionId":258635,"wgArticleId":13829,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Nine"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Best_Friends_Forever/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":258635,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Best_Friends_Forever/Script","fbReturnToTitle":"Best_Friends_Forever/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Best_Friends_Forever/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Best_Friends_Forever/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Best Friends Forever/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

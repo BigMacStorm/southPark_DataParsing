@@ -1,0 +1,2434 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Cripple Fight/Script,South Park Studios,Big Gay Al,Jimmy Valmer,Timmy,Gloria Allred,Mr. Grazier,Cripple Fight,Cripple Fight/Images,Cripple Fight/Trivia,Marc Shaiman" />
+<meta name="description" content="General Trivia Images Script Watch Episode The official script for &amp;quot;Cripple Fight&amp;quot; was released..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Cripple_Fight/Script" />
+<meta name="twitter:title" content="Cripple Fight/Script" />
+<meta name="twitter:description" content="General Trivia Images Script Watch Episode The official script for &quot;Cripple Fight&quot; was released by South Park Studios. It is located here! Cast Eric Cartman Stan Marsh Kenny McCormick Butters Stotch T" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Cripple_Fight/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Cripple Fight/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":23948,"pageIsArticle":true,"pageName":"Cripple_Fight/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=23948,
+wgCategories=["Scripts","Scripts from Season Five"],
+wgPageName="Cripple_Fight/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s23","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=23948&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=23948&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Cripple Fight/Script" />
+	<meta property="og:description" content="General Trivia Images Script Watch Episode The official script for &quot;Cripple Fight&quot; was released by South Park Studios. It is located here! Cast Eric Cartman Stan Marsh Kenny McCormick Butters Stotch Timmy Burch Jimmy Valmer Token Black Other Scouts A Girl selling puppies Randy Marsh Sharon Marsh Stuart McCormick Sheila Broflovski Big Gay Al Priest Maxi Jimbo and Ned Mr. Grazier Mountain Scoutmasters Field Reporter Chris and News Anchor Tom Steve Black Skeeter Marc (Marc Shaiman) Shoppers and..." />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Cripple_Fight/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Cripple_Fight_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FCripple_Fight%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Cripple_Fight/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Cripple_Fight/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Cripple Fight/Script</h1>
+											<h2>&lt; <a href="/wiki/Cripple_Fight" title="Cripple Fight">Cripple Fight</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Cripple_Fight/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Cripple_Fight/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Cripple_Fight" title="Cripple Fight">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Cripple_Fight/Trivia" title="Cripple Fight/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Cripple_Fight/Images" title="Cripple Fight/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s05e03-Cripple-Fight">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Cripple_Fight" title="Cripple Fight">Cripple Fight</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Five" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li>Eric Cartman
+</li><li>Stan Marsh
+</li><li>Kenny McCormick
+</li><li>Butters Stotch
+</li><li>Timmy Burch
+</li><li>Jimmy Valmer
+</li><li>Token Black
+</li><li>Other Scouts
+</li><li>A Girl selling puppies
+</li><li>Randy Marsh
+</li><li>Sharon Marsh
+</li><li>Stuart McCormick
+</li><li>Sheila Broflovski
+</li><li>Big Gay Al
+</li><li>Priest Maxi
+</li><li>Jimbo and Ned
+</li><li>Mr. Grazier
+</li><li>Mountain Scoutmasters
+</li><li>Field Reporter Chris and News Anchor Tom
+</li><li>Steve Black
+</li><li>Skeeter
+</li><li>Marc (Marc Shaiman)
+</li><li>Shoppers and other townsfolk
+</li><li>Joe, of Joe n' Friends
+</li><li>Steven Spielberg and Gloria Allred
+</li><li>Colorado Supreme Court Justices
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-23948-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-23948-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-23948-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-23948-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-23948-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsm_fft mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="medium"data-font-face="times" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South park, night. Randy is driving the boys, including Timmy on the truck bed, through the town. Stuart is with them, but Kyle is not. The boys are in Scout gear.]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, you boys must be pretty excited: Your first night of Scouts.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>It's gonna suck. There's gonna be like, new kids there we don't know.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah.)
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Well, now, that's part of the fun.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Yeah. Both Kenny's dad and I were in Scouts for years.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Was your dad in Scouts, Cartman? Oh yeah, you don't have a dad. <i>[all but Cartman laugh]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's not funny! Jesus Christ!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[calling to the back]</i> Are you excited for your first night of Scouts, Timmy??
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Hyeah Timmay!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, he's excited.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Park County Community Center, night, outside shot, then inside shot. The doors open and the group walks in. A shot of the many kids inside, then back to the doors. Butters walks up.]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Hey, fellas!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[flatly]</i> Hey, Butters.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Boy, am I glad to see you guys! There's lots of kids here from other schools, and I don't know anybody.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Alright, boys, we're gonna head to the bar. We'll be back to pick you up at nine.
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>You boys just make sure to obey the scout leader now. He's the man in charge.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td><i>[suddenly steps in]</i> Hello scouts!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, it's Big Gay Al!
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>Hello, Stanley. I was happy to see you and your little friends' names on the list!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmay!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>You're the new scout leader?
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td><i>[walks around the boys and stops behind the dads, hugging them]</i> I just got transferred in. <i>[lets go of the dads and moves further into the room]</i> I think everyone's here now, so we can get started. <i>[stops]</i> Come on, Scouts. We've got work to do! <i>[moves again]</i>
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Hooray! <i>[they start moving, too]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>See ya, Dad!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Community Center gymnasium. Three tables are set for the scouts to sit at. Big Gay Al walks up to his chair at the center table. Stan, Cartman, Kenny, and Timmy find empty spots on the outside of the table to the left. A small banner hangs from the center table: TROOP 69]</i>
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>Hey, are you parents gonna stand there all night? This meeting is for scouts only, you silly gooses. <i>[Randy and Stuart look on a bit longer, then turn around and walk out. Close-up on the table reveals four older scouts, two on either side of Big Gay Al]</i> Now, before we get started, scouts, I want to introduce you to someone very special here tonight. He's a brave little boy with disabilities who proves just by being here that Scouts are for everyone!
+</td></tr>
+<tr>
+<th>Timmy!
+</th><td><i>[happily]</i> Timmay!
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>So let's all give a big round of applause to little... Jimmy! <i>[points to his right. A boy with palsied legs walks up using only crutches. His face is a bit disfigured, with his mouth very close to his eyes, his right eye pupil under his eyelash, and the whole face shifted to the left.]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Well hello everyone. <i>[applause]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Ji- Jimmay?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The bar, nearby. There's some argument going on inside]</i>
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Look! I'm not saying the new scout leader's a bad person, I just don't think he should be a scout leader!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>He got to where he is by being a good scout; maybe we should just leave him alone.
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>Well how gay is he?
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>He's really, really gay.
+</td></tr>
+<tr>
+<th>Token's father:
+</th><td>Well then, <i>I</i> don't want <i>my</i> boy there, either. <i>[more argument ensues]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>So he's a homosexual. So what?
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>I have nothing against homosexuals either, Randy, but the big camping trip is next week! Are you sayin' you're fine with this guy campin' overnight, alone, with our boys??
+</td></tr>
+<tr>
+<th>Skeeter:
+</th><td>You know, boys emulate authority figures. Even if it doesn't turn them gay, they could end up all talk and all fem' and prancin' around like girls. <i>[more argument]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Aw, that's ridiculous.
+</td></tr>
+<tr>
+<th>Priest Maxi:
+</th><td><i>[walks in]</i> People, people, please! You're forgetting that homosexuality is a choice! As many of you know, I, myself, went through a... homosexual... phase. But the light of Christ showed me how to change. Just give me two hours with this man, and I <i>can</i> convert him back.
+</td></tr>
+<tr>
+<th>Man:
+</th><td><i>[voice only]</i> That's what you said about Peterson, and then you ended up having sex with him!
+</td></tr>
+<tr>
+<th>Man 2:
+</th><td><i>[voice only]</i> That's right.
+</td></tr>
+<tr>
+<th>Man 3:
+</th><td><i>[voice only]</i> You did.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Community Center gymnasium. The Scouts are well into their first activities]</i>
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>And so that's how to make banana-nut muffins. And now, as a very special treat, our very special friend Jimmy is going to do what he loves most: Motivational standup comedy. <i>[Jimmy walks into view]</i> Let's give him a big hand. <i>[applause]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Wow, what a great audience. <i>[applause dies down]</i> Well, just in case you were wondering, I do have a disability. I am totally happy with the way I was born, very much. I travel to different states and talk to kids about being proud of what they are. My mom says that God has a p-plan for everyone. I guess I was plan B. <i>[the other kids laugh]</i> You guys like im- personations? <i>[applause]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[displeased]</i> Timmy.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>How about Jimmy Stewart? "Merry Christmas, movie house." And John Travolta. "Oh my God, Mr. Kotter! Mr. Kotter, oh, oh my God, Mr. Kotter!"
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Jimmy's funny, dude.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Yeah, well, he's the coolest kid with disabilities in the world!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[gets angry and crosses his arms]</i> Hmph! <i>[the doors open and in walk Randy and Stuart]</i>
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Uh, Kenny, it's nine o'clock.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Come on, Stanley.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>Oops, guess we're out of time, kids. Now remember, tomorrow you all have bake sales in your respective neighborhoods to raise money. We'll meet back here <i>next</i> Tuesday, and see who raised the most. Good luck.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, I have a <i>great</i> idea! Why don't we see if Jimmy wants to come be in <i>our</i> Scout club?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey, yeah!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[brushing off the idea]</i> Timmuh Timmy Timmy Timmy. <i>[camera pulls back to show Jimmy walking up]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey Jimmy, do you wanna join <i>our</i> bake sale in South Park tomorrow?
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Gee, sure, that'd be great! Thanks, fellas.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[the other scouts leave]</i> Come on, Stan.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Bye, Big Gay Al. We had a great time.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah, see ya.)
+</td></tr>
+<tr>
+<th>Stan, Cartman:
+</th><td>Bye, Jimmy.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>See ya tomorrow at the bake sale, fellas.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Randy's truck, night. Randy is taking the boys home.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You were right, Dad. Scouts is awesome!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah!)
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We told ghost stories, a-and learned how to make a tornado in a glass bottle!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, we learned how to make cakes and muffins for our bake sale.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>And best of all, we met this kid named Jimmy. He's disabled, but he doesn't let it ruin his life! He's awesome!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[outside, visibly upset]</i> Yahahah!!!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, we're gonna use him to help raise money in our bake sale.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Cartman, don't say "use him", you big silly goose. <i>[Randy bears down on the brakes, causing Timmy to roll backwards and into the back window]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Ah.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[to Stan]</i> What did you say?!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[a bit softly, eyes fixed on his fater]</i> I just... called Cartman a name- he's a, he's a silly goose.
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Uh huh!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>You do not say "Big silly goose"! You call him an asshole like a normal kid!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dad, I was just tryin' tuh-
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Stanley, you call your friend an asshole this instant!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[glances at Cartman]</i> ...Asshole. <i>[looks at Randy again]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>That's better.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Don't call <i>me</i> an asshole, you som' bitch.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, next day, Camera pulls back to show a booth next to a stage. On the booth is a banner: "Mountain Scout Bake Sale," and Timmy, Kenny, Cartman, and Butters are manning the booth. Items for sale: cookies, cakes, and donuts. Butters mans the collection box. People walk by this way and that. On stage, Stan prepares to speak.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uh, hello? We are having a bake sale to raise money for scout troop number six nine. Uh, please stop by and give us a hand. And now, for your entertainment, our new best friend, stand-up comic Jimmy! <i>[Jimmy walks up on crutches to the mic and begins]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Wow, what a great audience. I just flew into South Park. Boy, are my crutches tired! <i>[male laughter]</i> What a terrific audience. You know, sometimes people ask me, "Are you angry at God for making disabled people?" I say, "No, I think the world is better with puh-President Bush." <i>[laughter]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[heartfelt]</i> What a brave little boy.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>He's able to use comedy to overcome his handicap! I love him! <i>[Timmy, upset, sighs and crosses his arms]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Well, I sure have met a lot of interesting people here in South Park. <i>[more people gather]</i> H-how about that Eric Cartman kid, huh? "Goddamnit! God-. No, Kitty, that's my pot pie! Goddamnit! Eh, Goddamnit!" <i>[more laughter]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hehe, I don't sound like that.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>And how about that school counselor? "Uh, dr-, drugs are b-bad." <i>[Mackey happily nudges a man to his right]</i> "Uh. Drugs are bad, okay? Uh, drugs are, drugs are bad, okay? Okay?" <i>[Timmy is stewing in his anger]</i> Wow, what a great audience. "Mr. Hat. Be quiet, Mr. Hat. Mr.-" <i>[Garrison grins]</i> "Hello there, children. Mr. Hat. Hello- Mr. Hat" <i>[more laughter]</i> "I'm making Salisbury steak for lunch." <i>[Chef looks flattered]</i> "Salisbury steak for lunch." Eh. Uh. "Goddamnit, Goddamnit!" <i>[more, stronger laughter and applause]</i> And of course, my very favorite, "Timmy! Huh. Timmy! Uh liv-, I'm living a lie! I'm living a lie, Timmy!" <i>[the laughter and applause get louder, and Timmy gets livid]</i> "Ti- Timmy, I'm living a lie. Heh, heh. Ah Timmy." Heh. Sometimes it's like, "Please, Timmy, learn a new word," heh. "Timmy! Tu-Timmy!" <i>[more laughter]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[angrily]</i> Aaaaaaah! <i>[Stan notices. Quickly, Timmy takes a cake half and throws it right at Jimmy, and it hits. Jimmy leans to his left, and stabilizes himself]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Wow, looks like when it comes to comedy, I really t-take the c-keh-c. I really take the cay. I really take the k-keh cake. <i>[cheers and claps abound]</i>
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Jim-my! Jim-my! Jim-my! Jim-my
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[wailing]</i> Tiiimm-mmah!!!!!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[State Mountain Scouts of America headquarters, day, outside shot. Inside, three men sit behind a table - a tribunal.]</i>
+</td></tr>
+<tr>
+<th>Head Scoutmaster:
+</th><td>Well, this is it. We've simply gotten too many complaints from concerned parents about him. I'm afraid we don't have a choice.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td><i>[enters the room]</i> Hi ya fellas! <i>[waves his left arm quickly]</i>
+</td></tr>
+<tr>
+<th>Head Scoutmaster:
+</th><td>How are you today, Scout?
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>I'm super, thanks for asking. The troops are off having bake sales, and I'm pleased to report that we have already raised over $600 for the event. Yippie!
+</td></tr>
+<tr>
+<th>Head Scoutmaster:
+</th><td>Uh, Big Gay Al, it's recently come to our attention that you are... gay.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>Well, stop the presses. Did you figure that out all by yourselves, silly buns?
+</td></tr>
+<tr>
+<th>Scoutmaster 1:
+</th><td>Yes, well, unfortunately for you, the Scouts have a policy that openly gay men cannot belong.
+</td></tr>
+<tr>
+<th>Head Scoutmaster:
+</th><td>We are left with no options, Mr. Al. I'm afraid you are hereby... out of Scouts.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td><i>[Softly. Somber music plays.]</i> Out of... Scouts?
+</td></tr>
+<tr>
+<th>Head Scoutmaster:
+</th><td>We're sorry, Mr. Gay Al.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>But I've been in Scouts since I was nine - it's a... huge part of my life.
+</td></tr>
+<tr>
+<th>Scoutmaster 2:
+</th><td>Uh, you must understand that Scouts is a private club. A club that follows certain beliefs, and one of those beliefs is that homosexuality is immoral.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>I see...
+</td></tr>
+<tr>
+<th>Head Scoutmaster:
+</th><td>It's nothing against you personally
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>What if I promise not to be gay anymore? <i>[holds up a pinky]</i> Pinky swear.
+</td></tr>
+<tr>
+<th>Scoutmaster 2:
+</th><td>We think it's best you just... move on.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td><i>[rejected]</i> Right. Move on. <i>[turns around, sighs, and walks out]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park streets, day. Timmy sits on the sidewalk as Jimmy ambles towards him.]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Oh, hey Timmy. I'm glad you called, very much. I've been detecting some a-animosity towards me lately, and I was hoping we could bury the hatchet.
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[holding a gift]</i> Timmih.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>What's that?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Hur livin' a lah, Timmih. <i>[presents the gift]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>A present? You got me a p-present?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih!
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>...<i>[takes the gift]</i> Gee, you didn't have to do that. I mean, I understand why you've been jealous of my talent. <i>[opens the present]</i> If you work at it, maybe you could be as... handi-capable as I am, huh? <i>[pulls out the contents]</i> Wow, a parka. <i>[an orange one]</i> You-you didn't have to do that, Tim-Tim.
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[all smiles]</i> Tim-Timmy.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Oh, sure. I'll see if it fits. <i>[Timmy grins with anticipation as Jimmy dons the parka. Next shot is of Jimmy looking suspiciously like Kenny]</i> This is very warm. Thanks a lot, Tim-Tim. Well, I'll see you around. <i>[turns around to walk away]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih! <i>[grins]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[As Jimmy walks, suspense music comes up. Jimmy reaches the corner, and a safe falls from above and cracks the sidewalk behind him. He crosses the street, and a truck plows into an oncoming car and jackknifes, sending the car backwards through the air. Jimmy is untouched. An eagle tries to swoop him up, but misses. Jimbo and Ned appear atop a building across the street]</i>
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td>There he is! Kill him! Kill him! <i>[Ned fires three times]</i> Oh, wait, that's not him. <i>[the two men withdraw, and Jimmy keeps walking]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Some glass blows out from a window next to Jimmy, followed by a blast of fire, and Jimmy walks. He crosses the second street and a herd of cattle stampede past him. He continues down the road, and a space shuttle crashes into the sidewalk, nose first.]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td><i>[calling back]</i> Thanks again, Tim-Tim.
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[thwarted]</i> Tim-Timmay!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Big Gay Al's house, night. Quite colorful front lawn, with fountain, flowers, a flower strip down the middle of the driveway. Soft music plays. Inside, Al sits on his bed looking over framed photos of his Scouting career. Scout Troop 417 - 1988, Camp White Swallow - 1974, his Scout medals, a picture of a black man dresed as Superman. Al sighs and looks over at his Scout uniform. He walks over and takes it down, then walk to his dresser and puts the uniform away in one of its drawers]</i>
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>Ah, bye, Scouts. <i>[closes the drawer. The camera pans to show a man playing a piano]</i> Okay, okay, Marc, stop playing now.
+</td></tr>
+<tr>
+<th>Marc:
+</th><td>Hey, don't yell at me! Ya <i>asked</i> me to come over and play sad songs for you to pack to, and then ya <i>yell</i> at me.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td><i>[approaching]</i> I'm sorry. Sorry. But now I've packed everything away, so just... well, play something uplifting, like... "I'm gonna put all this behind me and make it okay" music.
+</td></tr>
+<tr>
+<th>Marc:
+</th><td><i>[starts playing sprightly music] Ooooh, I don't want her. You can have her. She's too fat for me.</i>
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>Oh! <i>[buries his face in his left hand]</i> Jesus, Marc.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Park County Community Center, night. A group of men stand outside. The head Scoutmaster exits the building with a big, beefy, decorated Scout leader]</i>
+</td></tr>
+<tr>
+<th>Head Scoutmaster:
+</th><td>Parents, this is the new Scout leader, Mr. Grazier. He will be taking over for the homosexual.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Nice to meet you.
+</td></tr>
+<tr>
+<th>Mr. Grazier:
+</th><td>Marsh, right? We actually kind of know each other. Your wife and mine are friends.
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Your wife, huh?
+</td></tr>
+<tr>
+<th>Head Scoutmaster:
+</th><td>Carol is the head of a girls' Mountain Scouts troop.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[nudges Stuart, who then smiles]</i> Well, I guess we're off to the bar until nine, then.
+</td></tr>
+<tr>
+<th>Mr. Grazier:
+</th><td>Gonna go pound some brews, huh?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Inside, Jimmy entertains the troops with more of his comedy skit as the men talk outside]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>And so I said to him, "Hey, I- I may be handicapped, bu-but I'm not... deaf." <i>[the other scouts laugh]</i> Wow, what a terrific audience. Well, for my next joke I'm gonna need a vo-volunteer from the audience, very much. How about you, Timmy?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[resisting]</i> Timmay.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Sure, come on up here, Tim-Tim. <i>[the boys laugh, and Jimmy approaches]</i> Timmy, ladies and gentlemen. Let's give him a hand, very much. Come to think of it, give him a pair of legs, too. <i>[laughter. Timmy gets angry when Jimmy offers him a Dr. Seuss-like hat.]</i> Here, Timmy, put on this silly hat. <i>[Timmy throws the hat down. Jimmy picks it back up and offers it again.]</i> Just for a second, Timmy. <i>[Timmy throws the hat back at him, an dhe picks it up again]</i> Don't be a jerk, Timmy. <i>[approaches with the hat, but Timmy smacks him away]</i> Hey, don't push me!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih! <i>[turns his chair to face Jimmy directly]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Cripple fight! <i>[the other boys cheer, but Mr. Grazier bursts through the doors]</i>
+</td></tr>
+<tr>
+<th>Mr. Grazier:
+</th><td>That is enough, Scouts! Take your seats! <i>[the boys turn left and go to their seats]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Awww!
+</td></tr>
+<tr>
+<th>Mr. Grazier:
+</th><td>Alright, Scouts, I am your new Scout Master, Mr. Grazier! <i>[paces back and forth between tables]</i> Together we are going to become the best! The sleekest! The most polished Scout troop in all of Colorado! Isn't that right! <i>[there's no answer]</i> When I ask you a question you will answer "Yes, Scoutmaster!" Do I make myself clear?!
+</td></tr>
+<tr>
+<th>Scouts:
+</th><td>Yes, Scoutmaster!
+</td></tr>
+<tr>
+<th>Mr. Grazier:
+</th><td>Good! Now, the first activity for this evening will be... <i>[hushed]</i> naked pictures <i>[brings forth a camera]</i> I'm going to take some pictures of each of you naked, in case we need them, for later.
+</td></tr>
+<tr>
+<th>Scouts:
+</th><td>Awww.
+</td></tr>
+<tr>
+<th>Mr. Grazier:
+</th><td>Aw, what is this?! If there's one thing I hate, it's a whining platoon! "We don't wanna do pushups! We don't wanna get up early! We don't wanna have you take naked pictures of us!"
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[to Kenny]</i> Man, this guy sucks.
+</td></tr>
+<tr>
+<th>Mr. Grazier:
+</th><td>Now, fall in and strip down, Scouts!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Community Center gym, later. The pictures have been taken and the Scouts are dressed and at table.]</i>
+</td></tr>
+<tr>
+<th>Mr. Grazier:
+</th><td>Alright, Scouts, we're gonna end this meeting with a little puppet show. <i>[pulls out a smiling Scout hand puppet]</i> Here's a little Scout. He's always prepared. He's always ready. Now, here's a little Scout telling his parents that Mr. Grazier took naked pictures of him. Look what happens. <i>[pulls out a hammer with his left hand and whacks away at the puppet on his right hand. The Scouts are frightened]</i> Oh! No! Aw! Aw! Aw! <i>[his right hand is bleeding, leaving a small pool of blood under the puppet]</i> Do I make myself clear, Scouts?!
+</td></tr>
+<tr>
+<th>Scouts:
+</th><td>Yes, Scoutmaster! <i>[the parents enter to pick up their boys]</i>
+</td></tr>
+<tr>
+<th>Mr. Grazier:
+</th><td><i>[now hiding his right hand]</i> Oh, hello parents. Alright, that's all the time we have for tonight, Scouts. We sure had a great time, didn't we?
+</td></tr>
+<tr>
+<th>Scouts:
+</th><td>Yes sir Scoutmaster! <i>[the troops break and go to their parents. Mr. Grazier walks over to Randy and Stuart, with his right hand behnd his back]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Wow, you sure whipped those kids into shape.
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Yeah. Now they're acting like men.
+</td></tr>
+<tr>
+<th>Mr. Grazier:
+</th><td>Well, you know what I say about kids: They're all pink on the inside.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>You bet.
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>I heard that.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>See ya, Mr. Grazier. <i>[Randy and Stuart walk out. Mr. Grazier waits till they're gone and then pulls out the pictures he'd just taken and reviews them]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Big Gay Al's house, night, living room. Al is on the couch unkempt, covered in a blanket, watching TV, and devouring ice cream. The door bell rings]</i>
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>Go away! I'm dead! <i>[the door closes, and soon the South Park troop comes into view and stands in front of him]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Oh, well, here he is.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Big Gay Al, what are you doing?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah! Get your big gay ass off the couch and come be our scoutmaster again!
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>I can't, kids. I've been... kicked out of Scouts.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kicked out? Oh no!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>But you <i>have</i> to come back. We <i>hate</i> our new scout leader.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>Really? wull-why?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[pause. Stan and Cartman look to him]</i> We can't tell you.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>Why not?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[approaches the kidney-shaped table and demonstrates]</i> Oh, no. No. Oh, no. No! Oh no no! <i>[Al is shocked at the implication]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Please, Big Gay Al. We don't wanna go on a camp trip with this guy next week.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>Boys, there's nothing I can do. The Scouts don't allow homosexuals.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Well then that settles it! Fellas, what we're gonna hafta do is try to ch... change the Scouts' rules, very much.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park streets, day. The six boys are picketing on the sidewalk. Cartman carries a picket: "Scouting is for everyone!" Butters and Kenny carry a fold-up table between them]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What do we want?
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Gays in Scouts!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>When do we want it?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What do we want?
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Gays in Scouts!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>When do we want it?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What do we want?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[slowly, as the boys and Stan continue]</i> Oh, no.
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Gays in Scouts!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>When do we want it?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park streets, day, further down the street. The six boys continue picketing.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What do we want?
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Gays in Scouts!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>When do we want it?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih! <i>[the boys approach Henry's Supermarket]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Alright, this looks like the perfect place to get some signatures. <i>[a little girl stands at the market's entrance]</i>
+</td></tr>
+<tr>
+<th>Little Girl:
+</th><td>Puppies. Puppies for sale.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[moves over to her]</i> Beat it, toots! We've got discrimination work to do! <i>[takes her box and looks inside, then tosses it away. She goes after the box]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Alright, let's set up. <i>[the table's legs come down and Cartman's picket is hung in front of the table. A mic and sound system are set up next to the table. A customer exits the market, and Stan whips out a petition board]</i> Ah hi, we're here to collect signature in support to force the Scouts to accept gays? <i>[the customer gets away, but another one comes]</i> Uh, hello, gays in Scouts? <i>[the customers ignore him]</i> Goddamnit! <i>[All the while Timmy looks down angrily at Jimmy]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Hey! Why don't we have Jimmy do some stand-up comedy? Like at our bake sale, very much?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That's a great idea! <i>[takes the mic]</i> Attention, ladies and gentlemen! Now, for your entertainment, stand-up comic, Jimmy!
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td><i>[takes the mic]</i> Wow, what a great audience. For my first joke, I'm going to need a... volunteer. Come on up here, Tim-Tim. <i>[Jimmy gets the big hat and turns to give it to Timmy, only to see him wheel away. Jimmy follows, and they end up in a parking lot away from the market]</i> Timmy, when I tell you to do something, you do it!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih!
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Timmy, don't make me k... kick you ass!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmay!
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Put on the hat!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[smacks the hat down]</i> Timmay!
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Pu-put it on!!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, this looks like it could get ugly. <i>[he and Cartman leave the table and go towards Jimmy and Timmy. Timmy and Jimmy face off and start circling each other]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[makes a fist]</i> Timmih. Timmih.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Not this year.
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih, Timmh.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Cripple fight!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Haaa.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Come on. Come on!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Church. A service is on, and organ music plays]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Cripple fight! <i>[after a moment, the congregants get up and leave]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Henry's Supermarket, inside. Shoppers mill about, getting their items]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[on speakers]</i> Attention, shoppers. Outside, we have... cripple fight. Cripple fight outside! <i>[the shoppers abandon their carts and exit]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Parking lot. Timmy delivers the fist blow, to Jimmy's head, but Jimmy delivers four blows back with his crutches. The third one turns Timmy's head to the left. The fourth one turns Timmy's head to the right and forces the wheelchair backwards. Jimmy recovers and the rivals approach each other anew]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Come on!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Jimmy jumps up and delivers a blow to Timmy's face, but Timmy responds with four quick blows - a right hook, two left jabs, and another right hook - sending Jimmy to the ground face first.]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td><i>[struggling to get up]</i> Uh.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Jesus Christ, dude! <i>[a crowd begins to gather]</i>
+</td></tr>
+<tr>
+<th>Susan:
+</th><td>Oh my God!
+</td></tr>
+<tr>
+<th>Man 5:
+</th><td>Just let 'em have it out, Susan. They'll run out of steam soon. <i>[Jimmy gets up quickly and faces Timmy again]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Hahnah Timmih.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td><i>[swipes at him, but Timmy blocks]</i> Huah!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Hahnah Timmih.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td><i>[swipes at Timmy again, but Timmy blocks]</i> Come on!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih!
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>No! <i>[swipes at him again, but Timmy blocks and quickly delivers a blow to the face, drawing fist blood]</i> Ow!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Jimmy recoups and delivers a back-handed blow to Timmy with his right crutch, then measures Timmy and swings the crutch back and launches Timmy out of his chair. Timmy quickly scrambles back to his chair, but Jimmy whacks him away again. Camera movements get more dynamic. Timmy rolls over and Jimmy walks up to him and offers his left hand]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Timmy? Timmy? <i>[Timmy takes his hand and slowly rises to his feet. Jimmy helps him into the chair]</i><br />I told you to put on the HAT!! <i>[swings his right crutch and blows Timmy out of the chair again. Jimmy walks up to Timmy and pulls him up by the hair, and swings the right crutch at him, but Timmy blocks it and holds both crutches down]</i><br /> You dirty motherfucker! <i>[hits Timmy with the crutches, and Timmy responds with a headbutt, knocking Jimmy down. Timmy goes down himself]</i>
+</td></tr>
+<tr>
+<th>Man 5:
+</th><td><i>[just arriving]</i> What's goin' on?
+</td></tr>
+<tr>
+<th>Man 6:
+</th><td><i>[turns to answer]</i> Some kind of gay pride rally.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Timmy gets a hold of Jimmy and delivers a right cross. Jimmy responds by striking Timmy with both crutches, then grounding his crutches and swinging his legs up to strike Timmy agian. Next, Jimmy tries to pull Timmy off the wheelchair head first, then tries to get a reverse headlock on Timmy. Timmy breaks out of it and delivers a blow. They each try a headlock on the other, but the effort forces the wheelchair backwards, and they both fall out.]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Lah-livin' a lie!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Jimmy chokes Timmy for a bit, then rises to jump on him. Timmy tries to force Jimmy off by pushing Jimmy's face back, but Jimmy bites Timmy's fingers. Timmy cries in pain, then flips Jimmy off overhead. Jimmy scrambles up on his crutches as Timmy tends to his bitten hand, and strikes Timmy again, and again. Jimmy then swings his legs into Timmy and flies off - a flying kick. Timmy rises and jumps on Jimmy, grabbing his head and ramming it into the ground twice, then performing an eye gouge. Jimmy works around it and throws Timmy off, then jumps on him, driving a knee into Timmy's crotch five times, shot from various angles. Jimmy struggles to get up, and Timmy trips him.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Channel 4 News report]</i>
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>Tom, I'm standing out in front of Henry's Supermarket where five brave little boys are holding a rally to support gays in scouting. The rally is drawing so much attention that people from all over the country are taking media notice.
+</td></tr>
+<tr>
+<th>Farmer:
+</th><td>Those boys have shown me the light. I never knew the Mountain Scouts was a hate group.
+</td></tr>
+<tr>
+<th>Joe:
+</th><td><i>[host of Joe n' Friends]</i> This is a wake up call to America. We cannot turn our backs on gays anymore!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Bar. People are looking at the report]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oh, God, they're actually pulling it off.
+</td></tr>
+<tr>
+<th>Reporter
+</th><td><i>[voice only]</i> The rally has also caught the attention of old Scouts members, like Steven Spielberg, director of such films as <i>Always</i> and <i>1941</i>.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cut to Channel 4 News report]</i>
+</td></tr>
+<tr>
+<th>Steven Spielberg:
+</th><td><i>[at his desk]</i> I salute those boys and their courage. I am hereby cutting all my funding to the Scouts!
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>The rally has also caught the attention of high-powered lawyer, Gloria Allred.
+</td></tr>
+<tr>
+<th>Gloria Allred:
+</th><td><i>[at her desk]</i> It is a disgrace that these homophobes are allowed to discriminate. <i>[rises from her chair and pounds the desk]</i> I am taking this case on, personally!
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>With this kind of support, Tom, these boys are sure to have a victory for gays. Back to you.
+</td></tr>
+<tr>
+<th>Tom:
+</th><td>Thanks, Chris. In other news, the FBI has finally caught the child molester known as Mr. Slippyfist. <i>[pictured is Mr. Grazier being arrested, then his mug shot]</i> This sick child molester was found with disturbing graphic photos of young boys naked, which we will show you now.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cut to South Park Bar for reactions. The men are stunned]</i>
+</td></tr>
+<tr>
+<th>Tom:
+</th><td><i>[voice only]</i> Here's one. And here's another.
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Kenny?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oh my God.
+</td></tr>
+<tr>
+<th>Tom:
+</th><td>Here, look at this one. Sick sonofabitch! Here's one right here.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Jimmy and Timmy have taken to throwing each other all over the place. Jimmy and Timmy land on a car and tumble down to the ground beside it. The camera follows the action closely. Jimmy picks Timmy up and throws him back on the car, then swings his right crutch at Timmy, striking him, and strikes him again on the return swing. Timmy punches Jimmy with his left fist, sending Jimmy spinning around. Jimmy swings at Timmy again, but Timmy ducks and catches Jimmy in a sleeper hold, holding on for a few seconds. Jimmy escapes, then picks Timmy up high and brings him down upon the left knee for a back-breaker. Timmy rises and responds with a neck-breaker, knocking Jimmy out. Both boys lay there, motionless.]</i>
+</td></tr>
+<tr>
+<th>Man 6:
+</th><td>Alright, boys, break it up.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Colorado Supreme Court, day, exterior shot. Inside, the justices enter and take their seats]</i>
+</td></tr>
+<tr>
+<th>Bailiff:
+</th><td>All rise.
+</td></tr>
+<tr>
+<th>Chief Justice:
+</th><td>In the case of Big Gay Al versus Mountain Scouts of America: due to the overwhelming show of support, it is the ruling of this court that the Scouts <i>must</i> allow Big Gay Al and all gays into their club!
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>Alright! Yeah! Woohoo! <i>[more cheering]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, we'va all learned an important lesson. That just because somebody's gay doesn't mean they're gonna molest children. Straight people do that too.
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>Yeah! <i>[more cheering. Timmy and Jimmy, bruised and battered, sit next to each other]</i>
+</td></tr>
+<tr>
+<th>Chief Justice:
+</th><td>And furthermore, the Scout elders will be put into stocks for three days, so they can see how it feels to be outcast!
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>Hooray, yeah, yeah! <i>[more cheering]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We did it! We did it!
+</td></tr>
+<tr>
+<th>Gloria Allred:
+</th><td>I did it! I did it! Haha! <i>[the press gathers in around her.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Colorado Supreme Court, day, outside. Gloria Allred is holding a press conference at the top of the steps at the courthouse]</i>
+</td></tr>
+<tr>
+<th>Gloria Allred:
+</th><td>Today is a great day for democracy. The Scouts have been exposed for the vile gay bashers they are. <i>[each of the three Scout elders is in a stock, and underneath each one is written "HOMOPHOBE" The crowd throws stones at them.]</i> And we all it all to me, and these six brave little boys <i>[the big bird comes down and plucks Kenny right up. The other kids, Al, and Gloria move aside and return, the kids stunned]</i> five... brave little boys. And now, here to take his official oath back in Scouts is Big Gay Al. <i>[moves aside]</i>
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td><i>[as the crowd cheers]</i> Thank you all very much. But I don't want this. <i>[the crowd quiets down and gets confused]</i>
+</td></tr>
+<tr>
+<th>Crowd members:
+</th><td>What's he saying?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Huh?
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td>Look, I appreciate what you kids did; I really do. But this isn't what I wanted. I'm proud to be gay. And I'm proud to be in a country where I'm free to express myself. But freedom is a two-way street. If <i>I'm</i> free to express <i>my</i>self, then the Scouts have to be free to express <i>themselves</i>, too. I know these men. They are good men. They are <i>kind</i> men. They do what <i>they</i> think is best for kids. No matter how wrong we think they might be, it isn't right for us to force them to think our way. It's up to us to persuade, and help them see the light, not extort them to. Please, don't cut the Scouts' funding. The Scouts help and have always helped a lot of kids. That's why I <i>love</i> them. I will continue to persuade them to change their mind, but this is the wrong way to do it. So, I am hereby dropping my case, and allowing the Scouts <i>their</i> right to not allow gays into their private club.
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Uh, Hooray!
+</td></tr>
+<tr>
+<th>Another Man:
+</th><td>Hooray, hey!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>So wait, did we do good?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Uh yeah, ah I think so.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Eh, we kick ass.
+</td></tr>
+<tr>
+<th>Big Gay Al:
+</th><td><i>[approaching the boys]</i> Come on kids, let's go get some ice cream! <i>[moves along]</i>
+</td></tr>
+<tr>
+<th>Gloria Allred:
+</th><td><i>[at the mic]</i> You can't do this! You homophobe!
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Well, Timmy, I guess we learned an important lesson, too, very much. There <i>is</i> room for more than one handi-capable person in Scouts.
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>I'm glad we're best friends now. See ya at Scouts. <i>[walks off]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Tim-mih.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Timmy's house, exterior shot. Inside, Timmy is working on his computer in his room. He's working the keyboard and the mosue like an experienced user. He sings:]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>Timmih Timmih Timmih Timmih, Timmih Timmih Timmih. [on screen is a picture of Timmy and Jimmy, in a Photo Wiz program. Timmy traces a cutout around Jimmy's head] Timmih Timmih Timmih Timmih, Timmih Timmih Timmih. [he clips the head off and moves it to the right, and grins]</i> Aaaaah.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[stops at Timmy's room and enters. Timmy stops work to listen]</i> Timmy, come on! We're gonna be late for Scouts! <i>[walks out]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Park County Community Center, day. Inside the boys are seated around the table, and a new Scoutmaster, the head Scoutmaster, is present]</i>
+</td></tr>
+<tr>
+<th>Head Scoutmaster:
+</th><td>Alright, boys, I am your <i>new</i> Scout leader. Everything is going to be just fine. No naked pictures.
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[rolls up to the scoutmaster]</i> Uh, Timmih.
+</td></tr>
+<tr>
+<th>Head Scoutmaster:
+</th><td>Yes, Timmy? <i>[Timmh hands him an envelope, which he opens. He takes out a picture]</i> Oh dear. Jimmy?
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Yes?
+</td></tr>
+<tr>
+<th>Head Scoutmaster:
+</th><td>You know our policy: I'm afraid you're... out of Scouts.
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>Out of Scouts? <i>[the scoutmaster shows a picture of two naked men holding each other close from the waist down and looking at the camera. The paler man has Jimmy's head pasted over his]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[with eyes half-closed, waves at Jimmy and grins]</i> Tim-mih.
+</td></tr>
+<tr>
+<th>Jimmy
+</th><td>What? <i>[the two other Scoutmasters come up behind Jimmy, pull him out of his chair, and carry him towards the entrance]</i> Hey wait a minute! This is crazy! You can't do this!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wow, I never knew Jimmy was gay.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Me neither. <i>[the two Scoutmasters prepare to toss him out the doors]</i>
+</td></tr>
+<tr>
+<th>Jimmy:
+</th><td>No! No! <i>[the Scoutmasters toss him a good distance]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[triumphantly]</i> Timmay!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Cripple Fight!</b>]</i>
+</td></tr></table>
+<p><br />
+<br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">503: "<a href="/wiki/Cripple_Fight" title="Cripple Fight"><span style="color:white">Cripple Fight</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:503&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Big_Gay_Al" title="Big Gay Al">Big Gay Al</a> • 
+<a href="/wiki/Jimmy_Valmer" title="Jimmy Valmer">Jimmy Valmer</a> • 
+<a href="/wiki/Timmy" title="Timmy" class="mw-redirect">Timmy</a> • 
+<a href="/wiki/Gloria_Allred" title="Gloria Allred">Gloria Allred</a> •
+<a href="/wiki/Mr._Grazier" title="Mr. Grazier">Mr. Grazier</a> •
+<a href="/wiki/Marc_Shaiman" title="Marc Shaiman">Marc Shaiman</a> •
+"<a href="/wiki/Too_Fat_Polka" title="Too Fat Polka">Too Fat Polka</a>"
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Cripple_Fight/Images" title="Cripple Fight/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s05e03-cripple-fight">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Fifth_Season" title="South Park: The Complete Fifth Season">South Park: The Complete Fifth Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 106/300000
+Post‐expand include size: 5012/2097152 bytes
+Template argument size: 69/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:23948-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Cripple_Fight/Script?oldid=243399">http://southpark.wikia.com/wiki/Cripple_Fight/Script?oldid=243399</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Five" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Five" title="Category:Scripts from Season Five">Scripts from Season Five</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":23948,"kv_wpage":"Cripple_Fight\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Cripple_Fight/Script","wgTitle":"Cripple Fight/Script","wgCurRevisionId":243399,"wgArticleId":23948,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Five"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Cripple_Fight/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":243399,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Cripple_Fight/Script","fbReturnToTitle":"Cripple_Fight/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Cripple_Fight/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Cripple_Fight/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Cripple Fight/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

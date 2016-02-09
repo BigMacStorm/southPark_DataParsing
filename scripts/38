@@ -1,0 +1,2449 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Jewbilee/Script,Jewbilee,Jewbilee/Trivia,Jewbilee/Images,South Park Studios,Official Scripts,Kyle Broflovski,Ike Broflovski,Kenny McCormick,Garth,Haman" />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Jewbilee/Script" />
+<meta name="twitter:title" content="Jewbilee/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Jewbilee/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Jewbilee/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images4.wikia.nocookie.net/__am/1454927565/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":24931,"pageIsArticle":true,"pageName":"Jewbilee/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1454927565",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=24931,
+wgCategories=["Scripts","Scripts from Season Three"],
+wgPageName="Jewbilee/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1454927565",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s14","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1454927565&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=24931&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1454927565&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=24931&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images1.wikia.nocookie.net/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1454927565/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Jewbilee/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Jewbilee/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Jewbilee_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic"itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FJewbilee%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation global-navigation-2016" id="globalNavigation">
+		<div class="global-navigation-container">
+			<div class="wikia-logo-container table-cell">
+				<a href="http://www.wikia.com/fandom"
+					class="wikia-logo final-url"
+					rel="nofollow"
+					data-id="wikia-logo">
+					<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+						height="24"
+						width="91"
+						alt="Wikia"
+						title="Wikia">
+											<span class="wikia-logo__subtitle">The Home of Fandom</span>
+									</a >
+			</div >
+							<div class="table-cell hubs-links" data-visibility="desktop">
+											<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+						   data-tracking-label="hub-games">
+							Games						</a>
+											<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+						   data-tracking-label="hub-movies">
+							Movies						</a>
+											<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+						   data-tracking-label="hub-tv">
+							TV						</a>
+									</div>
+						<div class="table-cell">
+				<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+					<a class="cell-link top-level final-url"
+						href="http://www.wikia.com/explore"
+						data-tracking-label="explore-wikia">
+						Explore Wikia						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+					</a>
+					<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																					<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://gameshub.wikia.com/wiki/Games_Hub"
+									   data-tracking-label="hub-games">
+										Games									</a>
+								</li>
+															<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+									   data-tracking-label="hub-movies">
+										Movies									</a>
+								</li>
+															<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://tvhub.wikia.com/wiki/TV_Hub"
+									   data-tracking-label="hub-tv">
+										TV									</a>
+								</li>
+																										<li>
+								<a class="cell-link"
+								   href="http://www.wikia.com/WAM"
+								   data-tracking-label="top-communities">
+									Trending Wikias								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   href="http://community.wikia.com"
+								   data-tracking-label="community-central">
+									Community Central								</a>
+							</li>
+												<li>
+							<a href="http://www.wikia.com/Special:CreateNewWiki"
+								class="start-wikia"
+								title="Start a wikia"
+								data-id="start-wikia">
+								<span>Start a wikia</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="search-container table-cell">
+				<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+			</div>
+			<div class="account-navigation-container table-cell">
+				<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Jewbilee/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Jewbilee/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+			</div>
+								</div>
+	</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Jewbilee/Script</h1>
+											<h2>&lt; <a href="/wiki/Jewbilee" title="Jewbilee">Jewbilee</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Jewbilee/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Jewbilee/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Jewbilee" title="Jewbilee">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Jewbilee/Trivia" title="Jewbilee/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Jewbilee/Images" title="Jewbilee/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s03e09-Jewbilee">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Jewbilee" title="Jewbilee">Jewbilee</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Three" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Kyle Broflovski
+</li><li> Kenny McCormick
+</li><li> Gerald Broflovski
+</li><li> Sheila Broflovski
+</li><li> Ike Broflovski
+</li><li> Moses
+</li><li> Haman
+</li><li> Elder Carn
+</li><li> Elder Harris
+</li><li> Elder Garth
+</li><li> Elder Schwartz
+</li><li> Shlomo 
+</li><li> The Jew Scouts and Inductees
+</li><li> The Squirts
+</li><li> Ranger
+</li><li> A Momma Bear and her Cub
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-24931-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-24931-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-24931-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-24931-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-24931-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fss_ffa mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="small"data-font-face="arial" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td style="background:#709C22;"><i>[Broflovski residence. Gerald and Sheila are with Ike at his changing table in his room.]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Hold still, Ike! We have to get you dressed! Where the heck is Kyle?
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>I don't know. Come on, Kyle! You're gonna be late for Jew Scouts!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle looks in the bathroom mirror to make sure everything is set, and hums. Both he and Kyle have little pigtails hanging from their hair.]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Kyle!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'm coming, Ma! <i>[the doorbell rings]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Go get the door, Kyle!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[to himself, angrily]</i> "Get ready", "answer the door", Jesus Christ, make up your friggin' mind! <i>[exits]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Living room. Kyle walks across to the front door and opens it]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh! Hey, Kenny.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Kyle, I'm gonna camp and watch the meteor shower. Do you wanna come and see it with me?)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I can't watch the meteor shower with you, Kenny. I have to go to Jewbilee.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(What's that?)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's what we do in Jew Scouts. Usually we just sit around and make stuff. But tonight, because there's a meteor shower, we're gonna do some big thing out in the woods. It's gonna suck ass, I'm sure.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Oh, that's alright.)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey! Maybe you can come with me. Then it won't suck so hard.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Really?) <i>[follows Kyle to the sofa, where Kyle's parents now wait]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Mom? Can Kenny go to Jewbilee with me?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>...Uhwell, Kyle, Jewbilee is sort of a ...<i>special</i> thing.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...Oh. Kenny isn't special?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Aw.)
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>No, no, you're <i>very</i> special, Kenny. It's just that... well, Jewbilee is... for Jewish kids. <i>[Kyle and Kenny have blank stares]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>You see boys, Jew Scouts is a special group that borrows a little bit from all different Jewish denominations. From the Orthodox Jews, from the Hasidic Jews, from the Northern Italy Cave Jews... But you have to believe the basic tenets of Judaism to be a Scout.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kenny'll believe whatever you want him to.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah.)
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Kyle, eh, the problem is...
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Please, Ma. I don't think Kenny has anywhere else to be tonight.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Oh, all right. Just don't let any of the elders know that he isn't Jewish, okay?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Woohoo!)
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Come on, Ike! <i>[he hops in]</i> It's time to go to Squirts!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Squirts?)
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>You have to be in Squirts if you're too young to be a Jew Scout.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Oh.)
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Don't worry, Kenny. I'll fill you in on our faith on the way up there. <i>[everyone heads out the door]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[In the car. The family and Kenny drive south as a full moon rises. Sheila gives a quick overview of the Old Testament, or Tanakh]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>And then, Kenny, Abraham's wife bore him no children. She had a handmaid, an Egyptian, whose name was Hagar. And Sarai said unto Abraham, "Behold now, the Lord hath restrained me from bearing. I pray thee, go into my maid."
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Uh huh.)
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Abraham begat Isaac, who the Lord then said to kill. But that was just a little silly trick to see if Abraham would do it.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Uh huh!)
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Eng jeck. <i>[takes off his cap]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, Ike! Ma, Ike keeps taking off his Squirt uniform!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Ike, you behave!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Buwor? <i>[takes off his cap again]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, Ike!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Buh buh buh buh. <i>[the cap is back on, the bandana comes off]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I don't think Ike wants to go to Squirts.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td><i>[turns to face the boys]</i> Ike, your brother Kyle was in Squirts, and so was I. You have to go so someday you can be a big brave Jew Scout.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>No-o. <i>[takes off the pigtails]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Tell Ike how much fun Squirts is, Kyle.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What? You want me to lie?
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Yeah, lie.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh. Ike, Squirts is so much fun--
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh my God, what is that?! <i>[brakes hard and stop. A big brown bear is walking towards them.]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Hey, it's a bear! <i>[the bear turns left and walks into the woods]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Wow, cool.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>This retreat really <i>is</i> out of the way, isn't it?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Jew Scout camp. The sign on the entrance reads, "WELCOME TO JEWBILEE." They reach the Jew welcome station]</i>
+</td></tr>
+<tr>
+<th>Ranger:
+</th><td>Welcome to Jewbilee. You folks find it okay?
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Yeah. <i>[the boys leave the car]</i> Actually, we saw a bear a few miles back.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>He was huge.
+</td></tr>
+<tr>
+<th>Ranger:
+</th><td>Yeah. We spotted him a few days ago. Nothing to worry about, though. Your boys are safe with us.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>I'm sure they are.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>We'll be back to pick you up after the meteor shower party, boys.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Good-bye, boys. Kyle and Ike, you be safe. And Kenny?
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Uh huh?)
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Try and act Jewish. <i>[drives away. Ike is properly dressed again]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(How do you do <i>that</i>?)
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td><i>[arrives with his troop]</i> Come on, Squirt! We're meeting over here! <i>[motions to the place]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[Ike hides behind him]</i> Who are you?
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>I'm the Squirt leader. I don't want to be the Squirt leader, but I don't have a choice; it's the only way I can earn my chutzpah badge. So I gotta spend all night instructing Squirts.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You have to go with him, Ike.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Buh buh buh buh.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Don't worry, Ike. Squirts is fun. And I'll be right over there in the next building. <i>[points to it.]</i>
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Boul ball.
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>Come on! <i>[drags Ike away. The Squirts leave as well, and the ranger returns]</i>
+</td></tr>
+<tr>
+<th>Ranger:
+</th><td>Name?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kyle Broflovski.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Kenny McCormick.)
+</td></tr>
+<tr>
+<th>Ranger:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Uh, Kenny McHeinenberg.
+</td></tr>
+<tr>
+<th>Ranger:
+</th><td><i>[writes the names]</i> Alright, get to Meshuggeneh Hall! The meeting is already starting.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[On the way to Meshuggeneh Hall. Kenny is curious about the buildings, naturally.]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(What's that?) <i>[about the CHAMBER OF ELDERS]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>This is where the elders meet. Nobody is allowed to go in there when they're having a meeting.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Chamber of Elders, the meeting. The Chief Elder sits on a futuristic throne, from which he can look down at the other elders]</i>
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td><i>Baleilah hazein, Hame kadesh mekoh hikenazu puanazikeh hakeilah.</i> (Now gather us, the elders, on this most holy of nights.)
+</td></tr>
+<tr>
+<th>Elders:
+</th><td><i>Helalelah, het Moshe.</i> (Praise Moses.)
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>I want to welcome you all. Though we each come from a different sect of Judaism, on this night of Jewbilee, we all pray to Moses as one. <i>Hineinih kureh leirukeshu.</i> (May all the power of Moses show the way...) Now, let us all introduce ourselves.
+</td></tr>
+<tr>
+<th>Elder 1:
+</th><td><i>[with buns on his head]</i> Elder Carn, from the Orthodox synagogue.
+</td></tr>
+<tr>
+<th>Elder 2:
+</th><td><i>[with mustache]</i> Elder Harris, from the Hasidic sect.
+</td></tr>
+<tr>
+<th>Elder 3:
+</th><td>Elder Garth, from the synagogue of anti-Semites.
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td><i>[cautiously]</i> I don't believe I've heard of the anti-Semitic sect of Judaism before.
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>We're new.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Squirt's Lair. Stars of David are everywhere]</i>
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>Okay, Squirts, the elders have given us a very important task tonight. We are all going to make macaroni pictures, like this one, <i>[pulls out a picture of the Star of David made from macaroni]</i> using dry macaroni, paper, and glue.
+</td></tr>
+<tr>
+<th>Squirt 1:
+</th><td>How come we have to make macaroni pictures?
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td><i>[angrily]</i> Because that's what Squirts do! Now, shut your pie-hole!
+</td></tr>
+<tr>
+<th>Squirt 2:
+</th><td>What's <i>your</i> name?
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>No.
+</td></tr>
+<tr>
+<th>Squirt 2:
+</th><td>How come your head is lookin' so... funny-looking?
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Uh-uh. <i>[doffs the hat and pigtails and hops to the window. He sees Kyle and Kenny walk to Meshuggeneh Hall]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Meshuggeneh Hall, the camp lodge, but inside it looks like a lecture hall. The banner outside says, "Jew Scouts Meeting Hall"]</i>
+</td></tr>
+<tr>
+<th>Elder:
+</th><td>And that's how we'll be making tonight's craft. And so you see, Scouts, all you need is a bar of soap and a dull knife <i>[displays them]</i>, and you can make nifty soap sculptures like these. Here's a giraffe. <i>[displays it]</i> And here's a cloud. <i>[displays it]</i> You can all pick up your bars of soap later on, as we will all be making soap sculptures tonight. <i>[Kyle and Kenny enter and take their seats]</i> Now, this year we are pleased to announce that Jewbilee has grown to over one hundred Jew Scouts from all around the country. All new inductees, raise your hands. <i>[several of them raise their hands. None of them wear the Jew Scout cap yet.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That's you, Kenny. Raise your hand. <i>[Kenny does so. The elder spots the new Scouts, but returns to an odd prospect]</i>
+</td></tr>
+<tr>
+<th>Elder:
+</th><td>Uhhhh, yess, and what is your name, young man?
+</td></tr>
+<tr>
+<th>Inductee:
+</th><td>Junichi.
+</td></tr>
+<tr>
+<th>Elder:
+</th><td>O-oh, wonderful, uh, uh, um... <i>[places his index finger on his lower lip]</i> Cu-could you run out and grab some... some of those candles for us? <i>[Junichi leaves, and the attendant locks the door immediately]</i> There we go. Ahem. <i>[Kyle notices the injustice that has just been done]</i> Now, I would like all the new inductees to step forward, please. <i>[the new Scouts leave their seats and come up]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>This part kinda sucks, Kenny, but don't screw it up. <i>[Kenny moves forward]</i>
+</td></tr>
+<tr>
+<th>Elder:
+</th><td>Raise your left hand and repeat after me: I pledge to be a Jew Scout.
+</td></tr>
+<tr>
+<th>Inductees:
+</th><td>I pledge to be a Jew Scout.
+</td></tr>
+<tr>
+<th>Elder:
+</th><td>My honor, wide and true.
+</td></tr>
+<tr>
+<th>Inductees:
+</th><td>My honor, wide and true.
+</td></tr>
+<tr>
+<th>Elder:
+</th><td>I am proud to be a Jew Scout.
+</td></tr>
+<tr>
+<th>Inductees:
+</th><td>I am proud to be a Jew Scout.
+</td></tr>
+<tr>
+<th>Elder:
+</th><td>Otherwise, I'd just be a Jew.
+</td></tr>
+<tr>
+<th>Inductees:
+</th><td>Otherwise, I'd just be a Jew.
+</td></tr>
+<tr>
+<th>Elder:
+</th><td><i>[brings forth a large bell] Nahit chaim.</i>
+</td></tr>
+<tr>
+<th>Inductee 1:
+</th><td><i>Nahit chaim. [the elder lowers the bell over his head and strikes it once to produce a long, loud peal, then raises it. The boy walks off]</i>
+</td></tr>
+<tr>
+<th>Elder:
+</th><td><i>Nahit chaim.</i>
+</td></tr>
+<tr>
+<th>Inductee 2:
+</th><td><i>Nahit chaim. [the elder lowers the bell over his head, strikes it, and raises it. The boy stumbles away crying]</i>
+</td></tr>
+<tr>
+<th>Elder:
+</th><td><i>Nahit chaim.</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(<i>Nahit chaim.</i>) <i>[the elder lowers the bell over his head, strikes it, but Kenny ducks]</i> (Ha! Hiheh haha.) <i>[the elder lowers it again and strikes it several times to make sure]</i> (Hah! Oh my God!)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Squirt's Lair. Macaroni projects now due]</i>
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>Okay, Squirts, let's see what you made macaroni pictures of. Ishmael?
+</td></tr>
+<tr>
+<th>Ishmael:
+</th><td>Apple.
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>Good. Matthew?
+</td></tr>
+<tr>
+<th>Matthew:
+</th><td>Cat.
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>Joseph?
+</td></tr>
+<tr>
+<th>Joseph:
+</th><td>Triangle.
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>Okay. Ike?
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Cokeshen.
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td><i>[gasps]</i> ...You don't make a macaroni picture of the <i>Last Supper</i> at a Jewish camp! <i>[growling and other noises are heard]</i> What the geez? <i>[outside, a bear is searching through trashcans. The leader goes to the window]</i> Oh my God, it's that bear they've been talking about! <i>[the bear looks back, then jumps and runs away, leaving the trashcans strewn about and trash everywhere. The leader walks out with the Squirts]</i> Where did it go?! Squirts, go grab your gear! We're gonna hunt us a bear! Then I'll get my chutzpah badge for sure!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Chamber of Elders. Meanwhile...]</i>
+</td></tr>
+<tr>
+<th>Chief Elder:
+</th><td><i>Elehem hav dorim, ashoseveh laoleinu. Hakadosh boruku, omasheh hachreit.</i> (Tonight, for the meteor shower, we will pray to Moses. Then we will give Moses thanks.)
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td><i>[losing patience]</i> Oh, enough already. What has Moses ever done for us?
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>All sects of Judaism follow the words of Moses.
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Not mine. Tonight's meteor shower is a sign of the New Time, heh. We should use it to pray to Haman and enter into a new millennium faith, and it--
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Enough, elder! You will not speak the name of Haman here!
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>All you ever do is worship Moses, but it says in the Book of Centuries that Haman will one day lead the Jews.
+</td></tr>
+<tr>
+<th>Elder Harris:
+</th><td>We pray to Moses here, elder.
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>If you guys love Moses so much, why don't you marry him?!
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>We accept all denominations of Judaism here at Scouts, elder, but your synagogue of anti-Semites is too strange! Get out and do not return: you are no longer welcome here!
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Fine! <i>[goes to the door and turns]</i> Jewbilee is the time of Haman! You will all see how wrong you are, very soon! When Haman returns from the Ninth Tower of Disillusionment, and smotes Moses and all his followers into pillars of dust that would cry for their petty lives but can't, having recently been turned into dust and all, you will see! You will see this very night! <i>[walks out and closes the door.]</i>
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Hello.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="red"><b><i>[End of act one. Time: 8:32]</i></b>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Campfire. The Jew Scouts form a ring around it and sit. Kyle and Kenny stand behind the chief elder.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on, Kenny. You have to get in the circle.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(What the fuck are we doing?)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>This is where we all stand in a circle and pray to Moses for guidance during Jewbilee.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Uheheheheh, that's stupid.)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It is not stupid, Kenny! This is my faith and you shouldn't make fun of it!
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Alright, Jew Scouts, the meteor shower will start soon. Let's pray to Moses for guidance. <i>[spreads his arms out. All the Scouts close their eyes save Kenny, who looks around first, then closes them.]</i> Moses, great leader, on this blessed night of Jewbilee, we ask for your tutelage.
+</td></tr>
+<tr>
+<th>Scouts:
+</th><td>May the teachings of Moses fill our ears and our hearts respectively.
+</td></tr>
+<tr>
+<th>All:
+</th><td><i>[the elder first, then the Scouts join him one by one]</i> O...
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td><i>[behind a nearby tree]</i> Stupid assholes. Moses ain't gonna teach them anything! <i>[softens to pray]</i> Do not fear, Haman. This night shall be yours, and the anti-Semitic Jews will once again rule the Earth.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Squirts and their leader march through the woods...]</i>
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td><i>We are Squirts, we are Squirts; we're so kosher that it hurts<br />When we get older we'll be Scouts, but until then we are Squirts<br />[gasps. The brown bear is in front of him approaching a pile of crap]</i> There he is, Squirts. <i>[the bear turns up its snout, but sniffs again]</i> Okay, Squirts. Remember the plan: immobilize and attack. Matthew, y-you immobilize the bear with the net, then Echo team, run up and attack it with your Squirt knives. <i>[the bear sniffs some more]</i> Don't get too close now, just close enough to throw the net on the stupid bear. <i>[Matthew goes forward with the net. The leader and the other Squirts hide behind some bushes and watch. The leader then barks]</i> Now! <i>[the bear turns to see Matthew and growls, and Matthew throws the net on himself]</i>
+</td></tr>
+<tr>
+<th>Matthew:
+</th><td>Oh, funt. <i>[the bear takes the net and carries Matthew away]</i> No!
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>Oh, no! <i>[the bear disappears]</i> Oh, God! <i>[comes out of the bush with the Squirts]</i> Oh, the bear took a Squirt. Oh, I'm gonna get it now!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Back at the campfire, the Scouts are trying to summon Moses]</i>
+</td></tr>
+<tr>
+<th>All:
+</th><td><i>[long note]</i> O... <i>[the Scouts are now holding hands as they chant]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[notices some rumbling]</i> (What's happening now?)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[looks at him]</i> Shh. Shut up, Kenny. <i>[rejoins the rest in chanting, the fire builds, and a huge techno-colored dreidel rises out of the fire. A face appears on it]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(<i><b>What the fuck is that?!</b></i>)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[stops long enough to say]</i> That's Moses, stupid! <i>[rejoins the rest in chanting]</i>
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Great Moses, we, your most loyal followers, want to thank you a lot for coming.
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>The hour of Jewbilee is near. Let all debts be forgiven and all slaves freed. Mwaaaaaaaaaah!</i>
+</td></tr>
+<tr>
+<th>All:
+</th><td>Aaaaaaaaaah!
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Alright Scouts, let's all show Moses our soap sculptures so that he may rejoice and be pleased. <i>[the Scouts approach Moses one by one, offer their sculptures, and drop them off before him]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[steps up and offers his]</i> It's a duck. <i>[Kenny steps up, but he's just starting on his sculpture]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Behind the tree. Garth reads from the Book of Centuries]</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>"And it was foretold that the spirit of Moses would finally rest when his spirit was imprisoned by Haman in a conch shell of blind faith." Conch shell, like this one, hnee. <i>[produces one from his robes]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Campfire.]</i>
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Moses, the Squirts have made you tidings of macaroni pictures. They should be here any second. <i>[walks up to Elder Harris]</i> Where the hell are the Squirts? <i>[Elder Harris shrugs]</i> We need those macaroni pictures for Moses right now!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The woods. The Squirt leader is setting a trap for the bear. He places some bait on a tray swinging from a rope as the Squirts hold the rope steady from behind a bush. Then he pours some DED RAT grains onto the bait]</i>
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>Now, we'll just see how Mr. Bear likes rat poison. <i>[reviews his work]</i> Well now, that'll be enough to kill a stupid bear. Okay, raise the tray! <i>[the Squirts start heaving]</i> Chutzpah badge, here I come. <i>[the bear shows up and growls]</i> Yikes! <i>[runs for the bushes and reaches the Squirts]</i> Okay, here he comes. Easy now. Easy, Squirts. <i>[the bear comes closer, sniffing]</i> Okay, Squirt, lower the tray. <i>[the Squirt begins to lower it]</i> That's it. That's it, you god-damned stupid bearface! <i>[the bear rears up and pounces on the tray, jerking the rope.]</i>
+</td></tr>
+<tr>
+<th>Squirt:
+</th><td>Agghhh! <i>[the leader gasps. The Squirt is pulled into the air and lands in the tray]</i> Ah--! <i>[the bear carries him off]</i> Agghhh!
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>Jesus! Hell, he got another Squirt!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Mommy.
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td><i>[steps out of the bush with the Squirts]</i> You think you can stop me from getting my chutzpah badge, you stupid bear?! Think again!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Campfire. The Scouts now sing "Kumbaya," a spiritual]</i>
+</td></tr>
+<tr>
+<th>All:
+</th><td><i>Kumbaya, my Lord, Kumbaya<br />O Lord, Kumbaya</i>
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Great and honorable Moses, what do you desire from us, your children?
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>I desire... [the elders and the Scouts await anxiously] I desire... mamaroni pictures.</i>
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Yeh yes, yes, the macaroni pictures are coming right away. Uh, anything else you want from us, O great leader of the people?
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>I desire... popcorn necklaces.</i>
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>You heard him. Get to making popcorn necklaces right away! <i>[the elders and Scouts scatter]</i> All you need is some popcorn, and a needle and thread. <i>[Kenny finishes his sculpture, which is of himself, as the last few Scouts leave. He then offers it and leaves it on the pile]</i>
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>Hold! [Kenny stops in his tracks as Kyle looks on. Kenny looks at Moses] There is... an impurity.</i>
+</td></tr>
+<tr>
+<th>Garth:
+</th><td><i>[still behind the tree]</i> Oh no, he's on to me, Haman.
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td><i>[the Scouts gasp and Kenny droops]</i> An impurity, Moses?
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>This child here is not kosher.</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Uh-oh.) <i>[Garth looks, curious. Kyle rushes to Kenny's side, and the Scouts move in on them]</i> (Help me, Kyle! What are we gonna do?)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Don't worry. I know what to do.
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Scout Broflovski, have you defiled Jew Scouts by bringing a non-Hebrew to Jewbilee?! <i>[the Scouts grow angry]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Elder, It's not my fault. He told me he was Jewish.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(What?!) <i>[the Elders and Scouts approach Kyle and Kenny closer]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="red"><b><i>[End of act two. Time: 13:33]</i></b>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Campfire. Some time later...]</i>
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>A non-Jew has infiltrated Jew Scouts and looked upon the face of Moses! He must be dealt with!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(I'm telling you, it's Kyle you want. He's the one who tried to get me in here, and you know it.)
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>You are banished from here. You must leave before the great eating of carrot cake.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(What?!)
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>He doesn't get cake?
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>No cake for the impurity.</i>
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Go now. You do not belong here. <i>[points to the woods. Kenny comes out of the middle of the group and walks towards the woods. Kyle is sad for him. Kenny looks back, then faces forward and walks on]</i>
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>[spins around and around] Aaggghhh! [the others turn to see what's happening]</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td><i>[prostrated, with conch in hand] Infatu camdavid. David hakum ba'ikan shtud!</i>
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Elder, what are you doing?!
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td><i>[now standing with hands outstretched] Shtud balaa shtud inca inca brusht!</i>
+</td></tr>
+<tr>
+<th>Elder Harris:
+</th><td>He's reading from the Book of Haman!
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Enter the conch shell, Moses! <i>[thrusts the shell forward]</i>
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>[spins and shrinks to fit in the shell] Eo! Eh! Diu! [disappears into the shell]</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>And there you shall stay, trapped for all eternity!
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>Elder, what have you done?
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>I told you, the meteor shower is the time of Haman! I <i>am</i> running Jewbilee now!
+</td></tr>
+<tr>
+<th>Elder:
+</th><td><i>[from Orientation]</i> Release Moses, now!
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td><i>[pulls out a gun]</i> I don't think so. <i>[all gasp]</i>
+</td></tr>
+<tr>
+<th>Scout:
+</th><td>When do we get to eat carrot cake?
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Now... All of you into that building, or I shoot you where you stand!
+</td></tr>
+<tr>
+<th>Chief Elder:
+</th><td>Elder, you cannot mean--
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Move! <i>[drives them towards the building. Kenny peeks out from behind a tree. Garth follows the last of the Scouts to the door, closes it, and padlocks it. He descends the steps and heads for the campfire as the others look on through the window, frightened]</i> Now! Now, Haman, your time has come!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, what the hell is going on?!
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>If he summons Haman, we will all be destroyed.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Oh no!)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Woods. The Squirts still march]</i>
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td><i>We are Jew Squirts, we know Jewish<br />Stick stick smiley smiley Stick stick smiley smiley<br />dur dur dur dur dur--</i><br />Hold it, Squirts! This is where we'll set our trap. Everyone remember your squadron. Alpha-5 and Gamma-7 will be on recon teams. Alpha will take left flank and flush the bear out of sector three. Once we're in position, I want constant contact between all squad leaders. We'll flush him out and we'll attack him! <i>[the bear comes up silently and snatches another Squirt]</i>
+</td></tr>
+<tr>
+<th>Squirt:
+</th><td>Agh! Agghh! <i>[the bear rushes away]</i>
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td><i>[not missing a beat]</i> Remember, this is only a bear. All we have to do is stick together, and we can spend the rest of the night making bear sandwiches! <i>[turns and counts his troop]</i> Where's Zigmal?
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>No.
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>God-damnit! You stupid god-damned son of a bear, you've taken your last Squirt! Do you hear me?!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Campfire. Elder Garth is kneeling before it, summoning Haman.]</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>And the Ancient One looked upon Haman as the new leader of the people! <i>[clouds roll in and the winds whip Elder Garth's hair around]</i> And it was the night that stars flew around the sky! <i>[the meteor shower goes by]</i> Yes! Yess!!
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>If he summons Haman, it will be the end of everything we hold dear.
+</td></tr>
+<tr>
+<th>Scout:
+</th><td>I wanna go home.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The road. Kenny walks along the curb, then sees reflections of headlights in front of him. He turns to see a car coming and tries to stop it]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Stop!) <i>[a red car speeds by. Kenny watches it leave, then hears more vehicles coming]</i> (Officer Barbrady, I really need to talk to you!) <i>[Barbrady and the ATF speed by as well]</i> (Shit!)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The woods. The Squirt leader takes the Squirts back to camp.]</i>
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>That bear thinks he can outsmart me! Well, I'm not <i>gonna</i> let a stupid bear get the-- <i>[gasp]</i> Hold! Look over there! <i>[a figure resembling a Squirt stands alone in a clearing in front of a cliff]</i> It's one of the Squirts the bear took. Maybe he's okay. <i>[takes the Squirts over to the figure to make sure. They arrive, only to see a straw Squirt - straw dressed in a Squirt uniform. The Squirt leader looks at the straw Squirt long and hard before deciding]</i> <i><b>It's a trap!!</b></i> <i>[jumps out of the way as a net descends and traps the rest of the Squirts. The full net rises to a high branch; the bear comes to the edge of the cliff and carries it away]</i> Damn! Damn, damn, damn! Okay, bear, that does it! You wanna kill all the Squirts?! You can have 'em! I give up! I don't need my chutzpah badge, or Jew Scouts, or any of this crap! Forget it!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The campfire. The meteor shower continues]</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Let the New Tide turn! Let Haman rule his people once again!
+</td></tr>
+<tr>
+<th>Chief elder:
+</th><td>No! <i>[Kenny walks into the camp again]</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>We await your return, Haman! <i>[Kenny stops to see Elder Garth at work]</i> Your passage is safe from the enemies!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[the bear finds him and carries him off]</i> (Aghh!)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The building. The chief elder tries to burst through the door, but fails]</i>
+</td></tr>
+<tr>
+<th>Chief Elder:
+</th><td>It's hopeless.
+</td></tr>
+<tr>
+<th>Elder:
+</th><td>Haman will be summoned and we will be forced to obey him, or die. <i>[the Scouts are scared]</i>
+</td></tr>
+<tr>
+<th>Elder Harris:
+</th><td>Uh I'm fine with obeying.
+</td></tr>
+<tr>
+<th>Elder:
+</th><td>Yeah, obeying should work out swell. <i>[!]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Don't worry, you guys. He forgot about Kenny. Kenny will help us.
+</td></tr>
+<tr>
+<th>Elder 2:
+</th><td>How?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kenny will find a way.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The bear cave. The bear brings Kenny in.]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Haaarrrrrh!) <i>[the bear drops him off and leaves the cave]</i> (Huh?)
+</td></tr>
+<tr>
+<th>Squirt:
+</th><td>Hey, welcome to the party. <i>[Kenny studies the scene]</i> See this li'l bear cub? It's his birthday.
+</td></tr>
+<tr>
+<th>Squirt 2:
+</th><td>Yeah, so his mommy brought us all over to play with him.
+</td></tr>
+<tr>
+<th>Bear cub:
+</th><td>Mrar.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Aww.) <i>[the momma bear comes and licks a Squirt's face, and the Squirt laughs]</i> (Okay, you guys, we've gotta get back to the camp and... <i>[indistinct chatter]</i>)
+</td></tr>
+<tr>
+<th>Squirt:
+</th><td>They are? Uh oh.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Come on, Squirts, we gotta run! We're already god-damned late!)
+</td></tr>
+<tr>
+<th>Squirt:
+</th><td>Come on, Squirts. We have to help them.
+</td></tr>
+<tr>
+<th>All:
+</th><td>Yeah! <i>[everyone, including the cub, races out of the cave]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="red"><b><i>[End of act three. Time: 18:07]</i></b>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The camp. The Squirt leader returns alone]</i>
+</td></tr>
+<tr>
+<th>Squirt leader:
+</th><td>Elder Schwartz, I lost the Squirts! I lost all the Squirts! <i>[no answer]</i> Well, screw you too! I don't need your Chutzpah badge anyway! Hello? <i>[in the building behind him, heads rise from under the window sill]</i>
+</td></tr>
+<tr>
+<th>Elder Schwartz
+</th><td><i>[the chief elder]</i> Shlomo, get us out of here!
+</td></tr>
+<tr>
+<th>Shlomo:
+</th><td><i>[Squirt leader]</i> What the geez? <i>[turns and walked towards the hostages]</i> What are you guys doing in there?
+</td></tr>
+<tr>
+<th>Elder Schwartz
+</th><td>Get the keys and unlock the door! <i>[the Scouts jump up and down]</i>
+</td></tr>
+<tr>
+<th>Schlomo:
+</th><td>What?!
+</td></tr>
+<tr>
+<th>Elder Schwartz:
+</th><td><i>[now points]</i> Get the keys and unlock the door!
+</td></tr>
+<tr>
+<th>Schlomo:
+</th><td><i>[doesn't understand what Schwartz is saying, but gives his own news]</i> I lost the Squirts! <i>[Elder Garth appears behind him]</i>
+</td></tr>
+<tr>
+<th>Elder Schwartz:
+</th><td>Look out!
+</td></tr>
+<tr>
+<th>Schlomo:
+</th><td>Huh? <i>[turns to face Garth]</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Don't move!
+</td></tr>
+<tr>
+<th>Schlomo:
+</th><td><i>[backs up quick]</i> Oh, Jiminy gravy, what is this??
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>It's the summoning of Haman, fool! The awakening of a new kingdom, heeheh!
+</td></tr>
+<tr>
+<th>Schlomo:
+</th><td>You can't wake Haman. What would Moses say?
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Moses is trapped for all eternity in the conch of blind faith!
+</td></tr>
+<tr>
+<th>Schlomo:
+</th><td><i>[sees the shell and dives for it]</i> Oh, no you don't! <i>[grabs it, but Farth shoots him. The bullet grazes Schlomo's right shoulder, which he then covers with his left hand, dropping the shell]</i> <b><i>Ooowww!!</i></b>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Enough of this waste of time! <i>[turns and goes back to the campfire. Once there, he reaches for the Book of Haman]</i> Haman! The Great Summoning is done! Upon these words let your spirit come! <i>Einich! Hos!</i>
+</td></tr>
+<tr>
+<th>Elder Schwartz:
+</th><td>It is lost.
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td><i>Zayak. Kareem! [Kenny comes up behind him]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Woohoo!) <i>[takes off with the book]</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Hey, give that back! <i>[chases Kenny into the woods. The Squirts line up before the window where the hostages await]</i>
+</td></tr>
+<tr>
+<th>Elder Schwartz:
+</th><td>It's the Squirts.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Go, Ike!
+</td></tr>
+<tr>
+<th>Elder Schwartz:
+</th><td>Unlock the door, Squirts! The keys are up there.
+</td></tr>
+<tr>
+<th>Elder Harris:
+</th><td>They'll never reach.
+</td></tr>
+<tr>
+<th>Squirt:
+</th><td>Squirts, fall in. Chinese formation. <i>[the Squirts hurry and climb up one on top of another to form a human pillar]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The woods. Elder Garth catches up to Kenny]</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Give me that book! <i>[knocks Kenny down]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Ow!) <i>[gives up the book, and Garth kicks him]</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Haman will deal with you! <i>[kicks him again]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Ow!)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The camp. The Squirts have finished the pillar, with Ike at the very top. Ike gets the key and the pillar falls apart to form two rows of four Squirts each, and Ike alone at the top of the steps. He jumps up to the padlock and unlocks it. He then removes the lock. The door opens and everyone inside pours out. Elder Harris moves out into the open]</i>
+</td></tr>
+<tr>
+<th>Elder Harris:
+</th><td>Oh, no. It's too late!
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td><i>Ramek shtud! [lightning strikes the ground. Nearby, the bear returns and gets the conch shell. She moves away, only to take it to Kenny, who receives it. The bear growls and leaves. Meteors continue to shower down as a black cloud with a pair of red eyes appears among the gathering clouds]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What is that?
+</td></tr>
+<tr>
+<th>Elder Schwartz:
+</th><td>It is Haman.
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Yes! Yes! <i>[Kenny tries to break the conch shell open on a rock, then against the tree, but it doesn't break]</i>
+</td></tr>
+<tr>
+<th>Haman:
+</th><td><i>Free! Free to punish those that imprisoned me!</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td><i>[now prostrate before Haman]</i> Haman! It's me, Garth! I freed you!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Look! <i>[Kenny comes into the clearing and throws the shell against the snow several times.]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(It's okay, I'll use my head!) <i>[faces the shell and throws his head back]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kenny! Noooooo!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Heeeeeyah! Ugh--!) <i>[the headbutt opened the shell alright, but Kenny falls back on his side as Moses comes out of the broken shell]</i>
+</td></tr>
+<tr>
+<th>Haman:
+</th><td><i>Moses! Nooo!</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>Nooo! Eheh. Nooo! <i>[Moses rises into the sky, absorbs Haman, and reclaims his place above the campfire. Elder Garth turns to face him again]</i> Moses. Uh I, I apologize for any inconvenience, eheh. Uh yuh you see, I was just uh--
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>Die! [lightning comes out of both his eyes and nukes Garth until Garth explodes]</i>
+</td></tr>
+<tr>
+<th>Elder Garth:
+</th><td>No! Aaagghhh! Ooww..! <i>[poof]</i>
+</td></tr>
+<tr>
+<th>All:
+</th><td><i>[gathering]</i> Hooray!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Kenny! <i>[runs to Kenny, who now lies in a pool of blood. The others follow]</i>
+</td></tr>
+<tr>
+<th>Elder Harris:
+</th><td>That blow to his head must have killed him.
+</td></tr>
+<tr>
+<th>Elder Carn:
+</th><td>He saved us. He saved all the Jews.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You know, I think we all learned something today. It's fine to have your own beliefs and your own traditions, but as soon as you start excluding people from your ways, only because of their race, you become separatists. And being a separatist sucks ass.
+</td></tr>
+<tr>
+<th>Elder Harris:
+</th><td>We've learned a lot from you and your great friend, Kenny.
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>[joins them next to Kenny] Every year we shall gather here in this special place and bring Kenny tidings of soap sculptures and macaroni pictures.</i>
+</td></tr>
+<tr>
+<th>Elder Harris:
+</th><td>Yes.
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>And those little shaker things where... you put beans inside of paper plates that are glued together.</i>
+</td></tr>
+<tr>
+<th>Elder Harris:
+</th><td>Paper-plate bean shakers.
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>And let us put patterns of glue on the outside of those paper plates so we can then pour glitter on them so they can look nice and sparkly.</i>
+</td></tr>
+<tr>
+<th>Elder Schwartz:
+</th><td>You heard him, Scouts! Let's get to work!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Jewbilee</b>.]</i>
+</td></tr></table>
+<p><br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">309: "<a href="/wiki/Jewbilee" title="Jewbilee"><span style="color:white">Jewbilee</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:309&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Kyle_Broflovski" title="Kyle Broflovski">Kyle Broflovski</a> • 
+<a href="/wiki/Ike_Broflovski" title="Ike Broflovski">Ike Broflovski</a> • 
+<a href="/wiki/Kenny_McCormick" title="Kenny McCormick">Kenny McCormick</a> • 
+<a href="/wiki/Moses" title="Moses">Moses</a> •
+<a href="/wiki/Garth" title="Garth">Garth</a> •
+<a href="/wiki/Haman" title="Haman">Haman</a> •
+<a href="/wiki/Jew_Scouts" title="Jew Scouts">Jew Scouts</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Jewbilee/Images" title="Jewbilee/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s03e09-jewbilee">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Third_Season" title="South Park: The Complete Third Season">South Park: The Complete Third Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 122/300000
+Post‐expand include size: 4860/2097152 bytes
+Template argument size: 50/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:24931-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Jewbilee/Script?oldid=246667">http://southpark.wikia.com/wiki/Jewbilee/Script?oldid=246667</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Three" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Three" title="Category:Scripts from Season Three">Scripts from Season Three</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":24931,"kv_wpage":"Jewbilee\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Jewbilee/Script","wgTitle":"Jewbilee/Script","wgCurRevisionId":246667,"wgArticleId":24931,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Three"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Jewbilee/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1454927565/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":246667,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Jewbilee/Script","fbReturnToTitle":"Jewbilee/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Jewbilee/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Jewbilee/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:PasswordReset","caption":"Reset password","href":"http://southpark.wikia.com/wiki/Special:PasswordReset","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Jewbilee/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1454927565/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1454927565/group/-/videos_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1454927565/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/visit_source_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1454927565.0.81516"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/monetization_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/global_navigation_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/global_navigation_2016_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/page_share_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

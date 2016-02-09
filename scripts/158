@@ -1,0 +1,2256 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Fantastic Easter Special/Script,Hare Club for Men,Snowball,Pope Benedict XVI,Professor Teabag,Bill Donohue,Jesus,Easter Parade,Fantastic Easter Special,Fantastic Easter Special/Images,Fantastic Easter Special/Trivia" />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Fantastic_Easter_Special/Script" />
+<meta name="twitter:title" content="Fantastic Easter Special/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Fantastic_Easter_Special/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Fantastic Easter Special/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":25234,"pageIsArticle":true,"pageName":"Fantastic_Easter_Special/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=25234,
+wgCategories=["Scripts","Scripts from Season Eleven"],
+wgPageName="Fantastic_Easter_Special/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/average","env":"prod","hostname":"ap-s38","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"average"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25234&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25234&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Fantastic Easter Special/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Fantastic_Easter_Special/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Fantastic_Easter_Special_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FFantastic_Easter_Special%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Fantastic_Easter_Special/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Fantastic_Easter_Special/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Fantastic Easter Special/Script</h1>
+											<h2>&lt; <a href="/wiki/Fantastic_Easter_Special" title="Fantastic Easter Special">Fantastic Easter Special</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Fantastic_Easter_Special/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Fantastic_Easter_Special/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		<script>
+    
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['AU','CA','DE','GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-below_title" class="monetization-module adunit hide-for-edit below-title" data-mon-type="adunit" data-mon-slot="below_title"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_fss_fft mon_hub_tv mon_sl_bt" data-ad-type="text" data-font-size="small"data-font-face="times" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Fantastic_Easter_Special" title="Fantastic Easter Special">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Fantastic_Easter_Special/Trivia" title="Fantastic Easter Special/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Fantastic_Easter_Special/Images" title="Fantastic Easter Special/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s11e05-Fantastic-Easter-Special">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li>Stan Marsh
+</li><li>Kyle Broflovski
+</li><li>Eric Cartman
+</li><li>Randy Marsh
+</li><li>Sharon Marsh
+</li><li>Marvin Marsh
+</li><li>The Hare Club For Men
+<ul><li>Easter Bunny
+</li><li>Nelson
+</li><li>Nick Donovan
+</li></ul>
+</li><li>Easter Bunny Aide
+</li><li>Teabag and his Butler
+</li><li>Bill Donohue and his ninjas
+</li><li>Jesus Christ
+</li><li>Pope Benedict
+</li><li>Italian Cardinal
+</li><li>Cardinal
+</li><li>Crowd At St. Peter's
+</li><li>Tourist
+</li><li>Announcer
+</li><li>Reporter
+</li><li>Singer
+</li></ul>
+<h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, outside, night.]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[inside] ...In my Easter Bonnet, with all the frills upon it, I'll be the grandest lady in the Easter parade.</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, dining room table. The Marshes are decorating Easter eggs. Stan dips a hard-boiled egg into a glass of green dye. Marvin spins his slowly in a small lathe. Randy finishes one up and shows it off.]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Look at that one, huh? Half purple and half yellow with a chikadee sticker. I'm good. <i>[sets it into the egg tray]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uh, can I ask a question? Why do we do this?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Wha... what do you mean, "Why do we do this?" It's Easter!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Right, so, why do we color eggs? <i>[Shelly makes a cross face]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Wulll, ssso that the Easter bunny can hide them.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, but why?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Stanley, Easter celebrates the day that Jesus was resurrected after being crucified for our sins.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>So we dip eggs in colored vinegar and a giant rabbit hides them?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>That's right.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You don't see the missteps in logic with that? <i>[Randy is unfazed, while Shelly, Sharon, and Marvin look at Stan disapprovingly]</i> Look, I'm just saying that somewhere between Jesus dying on the Cross and a giant bunny hiding eggs there seems to be a, a gap of information.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Stanley, just dye your Goddamned eggs!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[leaves his seat]</i> I don't feel like coloring eggs! I don't get it!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>What is wrong with him?!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Well, he's just getting older, Randy. Maybe he's figured out the Easter bunny isn't real. <i>[continues dying her egg. Randy slams his palms down on the table angrily. Sharon is taken aback.]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[rising]</i> You know so little! <i>[leaves]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Mall, day. The Easter bunny has a big Easter display at the mall where he sits in a chair taking requests for Easter gifts. A line of kids is waiting. In that line are Stan, Clyde, Red, Kevin, Craig, Heidi, Millie, Bill, Token, Jimmy, and a few little brothers and sisters]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>And I want a Baltor soldier doll for Easter, and five Crash'n'Go RC cars, you got that?! Do you have that?!
+</td></tr>
+<tr>
+<th>Mall Bunny:
+</th><td>Ahh, don't you think that's-
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Nono! You don't ask me questions! You are a rabbit! I am a human. So if you don't bring me what I want for Easter, I can fucking kill you!
+</td></tr>
+<tr>
+<th>Aide:
+</th><td>Smile! <i>[takes a picture and Cartman hops off]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Bye, Easter bunny! <i>[leaves]</i>
+</td></tr>
+<tr>
+<th>Mall Bunny:
+</th><td><i>[watches him leave]</i> Oh my God. <i>[Stan walks up and sits on the bunny's lap. The bunny notices]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>All right, can you explain to me what's going on?
+</td></tr>
+<tr>
+<th>Mall Bunny:
+</th><td>Huh?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What is the deal with the coloring the eggs and you hiding them and all that? What does that have to do with Jesus dying on the Cross? <i>[no reply]</i> It is symbolic? Are you trying to reference something that happened in Biblical times? <i>[nudges him]</i> Answer me!
+</td></tr>
+<tr>
+<th>Mall Bunny:
+</th><td>Look, kid ahh, I'm j-, I'm just a guy in a costume.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I know that! But I figure you must have some knowledge of what Easter's about if you're playing the Easter Bunny at the mall!
+</td></tr>
+<tr>
+<th>Mall Bunny:
+</th><td>Huhuh, Easter's just Easter. Just, just go with it, kid.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, I'm not gonna just go with it! I'm gonna find out what's behind all this! <i>[hops off and walks away]</i>
+</td></tr>
+<tr>
+<th>Mall Bunny:
+</th><td>I need a break. Can I have a break? <i>[he gets it and walks up to some payphones nearby. He picks one up and dials a number]</i> We have a problem. Somebody's onto us. Yeah, he's askin' a lot of questions. Only a matter of time before he finds out what Easter's really about. Yes, I understand what must be done. Call the others. <i>[hangs up the phone]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's neighborhood, day. Stan is walking home with determination. He walks by a bus stop where someone is reading a newspaper. The newspaper drops down a bit and the reader is another Easter bunny. Stan stops and looks over his shoulder and the newspaper rises to its former position again. Stan walks on, and the bunny rises a few seconds later to follow him.  Stan notices and begins to run. A few seconds later he notices three more Easter bunnies facing him. With bunnies behind him and in front, he runs across the street to escape, but a car stops just before hitting him and two more bunnies step out of the car. He gets to the other side and continues running in the same direction as before, with the six bunnies chasing him. He makes it home and closes the front door behind him. The bunnies reach the door and start pounding on it]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, inside. Stan runs upstairs.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Mom? Dad? <i>[reaches the second floor]</i> Anybody home?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[voice only]</i> Not now, Stanley, I'm on the toilet! <i>[Stan runs to the restroom door and pounds on it]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dad! You've gotta help me! <i>[looks around]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Hang on, I'm taking a crap.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dad! There's Easter bunnies chasing me!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>They chased me from the mall! I don't know what they want! <i>[hears the front door breaking open]</i> They're coming in! Dad, open the door! <i>[the bathroom door opens and Randy looks out, wearing some bunny ears and a bunny snout with buck teeth.]</i> Dad?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>We... need to talk, Stan. <i>[the Easter bunnies run up the stairs]</i> Ih, it's okay guys.
+</td></tr>
+<tr>
+<th>Gray Hare:
+</th><td>Randy?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Yeah. 'Cause it turns out the kid we're after is my son.
+</td></tr>
+<tr>
+<th>Purple Hare:
+</th><td>Ohhh.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Tell the Grand Hare everything is okay. I'll take it from here.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's room. Randy explains things.]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>I wanted to keep this from you, Stan. I really wanted to wait until you were older but... you just had to keep asking questions!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Why were those other rabbit guys chasing me?!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>We have to be careful when we think somebody's onto us. <i>[turns to face him]</i> We are all part of a secret society, Stan. A very ancient, very important society of men who follow the way of the Rabbit, and protect the secret of the Easter bunny. We are called... the Hare Club For Men.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[not impressed, but curious]</i> Does Mom know about this?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Duh, it's the Hare Club For Men. Chicks wouldn't understand.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>I</i> don't understand!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>I belong to a secret society that has been around for thousands of years! Our identities have to be protected!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Could, could you, take off, the ears, please?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Stan, you don't seem to understand how serious this is! The secret of Easter that we protect is something that could rock the foundation of the entire world!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>So what is the secret of Easter?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>I can't tell you. You have to be allowed into the Society first, but... but perhaps... it's time.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Randy's car, night. He and Stan drive along a secluded road. Stan has a bag over his head so he doesn't see where they're going.]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>I always knew this day would come, when my son would be brought into the society. Reminds me of the day I was brought in by my father.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Grandpa's in it too?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Of course. Marshes have been in the Hare Club For Men for generations. All the way back to the beginning.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dad, do I have to wear this bag over my head the entire time?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>You aren't a member yet. You can't know where our secret meetings take place. We're going to a distant location, an old building near a lake about 40 minutes away.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You mean the old Galveston Lodge? <i>[Randy's taken aback at Stan's memory and so thinks about what to do next. After a while, he decides to remove the bag]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Dammit.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Galveston Lodge, night. Hares from all around gather inside. T.H.C.F.M. The lodge is guarded by two large golden hares]</i>
+</td></tr>
+<tr>
+<th>Hare 1:
+</th><td>Hey Bill.
+</td></tr>
+<tr>
+<th>Hare 2:
+</th><td>Evenin' Marcus.
+</td></tr>
+<tr>
+<th>Hare 3:
+</th><td>Heh heh hey, look at you!
+</td></tr>
+<tr>
+<th>Hare 4:
+</th><td>Hey everybody.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Galveston Lodge, inside. Hares mingle and chat]</i>
+</td></tr>
+<tr>
+<th>Hare 5:
+</th><td>Stan Marsh, welcome! You must be very excited.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Must I?
+</td></tr>
+<tr>
+<th>Marvin:
+</th><td>There he is! There's my grandson!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hi Grandpa.
+</td></tr>
+<tr>
+<th>Marvin:
+</th><td>I'm proud of ya, Billy.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>...Stan.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Galveston Lodge, induction ceremony. Randy places a strip of white fur on Stan's shoulders. The purple Hare dips an egg in a glass lavender dye and rings the bell. The gray Hare steps up, dips his egg in yellow dye and rings the bell. This continues. Later on, a gavel is sounded and the Hares turn left with lit candles.]</i>
+</td></tr>
+<tr>
+<th>Pink Hare:
+</th><td>Tonight, we determine if a new member is worthy of protecting the Secret. Bring out... the rabbit.
+</td></tr>
+<tr>
+<th>Hares:
+</th><td><div class="poem">
+<p><i>Sanctum Piter oteum, Deus ore uneum.</i><br />
+<i>Hippitus hoppitus reus homine.</i><br />
+<i>In suspiratoreum, lepus in re sanctum.</i><br />
+<i>[two Hares carry the rabbit forward in a gilded cage]</i><br />
+<i>Hippitus hoppitus Deus Domine.<br /></i>
+<i>[they set the rabbit before the Pink Hare and everyone genuflects... except for Stan. Randy looks up and has him genuflect as well]</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Pink Hare:
+</th><td>All hail the cute rabbit, Snowball!
+</td></tr>
+<tr>
+<th>Hares:
+</th><td>Hail Snowball. <i>[all rise as the Pink Hare approaches Stan]</i>
+</td></tr>
+<tr>
+<th>Pink Hare:
+</th><td>Stan Marsh, are you ready to hear the secret of Easter?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Are you sure, son? Once you hear the secret, you will be bound to The Hare Club For Men forever.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, I wanna know already.
+</td></tr>
+<tr>
+<th>Pink Hare:
+</th><td>Very well. At the Last Supper, Jesus Christ met with his 12 Disciples. It was there that- <i>[interrupted by breaking windows and ninjas pouring in]</i>
+</td></tr>
+<tr>
+<th>Gray Hare:
+</th><td>They found us! <i>[the other Hares arm themselves]</i>
+</td></tr>
+<tr>
+<th>White Hare:
+</th><td><i>[with rainbow vest]</i> Protect Snowball! <i>[a door is turned down, and a ninja, a monk, and a layman enter the lodge. Another door breaks down and another monk enters with three ninjas]</i>
+</td></tr>
+<tr>
+<th>Brown Hare:
+</th><td>They're everywhere! <i>[Hares and ninja battle each other, killing each other as Stan watches]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[approaches Stan with Snowball]</i> Come on, we've gotta go! <i>[a ninja spots him and quickly fires an arrow into his left leg. He stumbles]</i> Stan, take Snowball and get out of here!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Where am I supposed to go?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Just get out of here! <i>[Stan turns around and heads for the entrance. A ninja comes up behind him, but Randy grabs the ninjas leg and holds on, forcing the ninja to fall. The ninja tries to kick Randy off]</i>
+</td></tr>
+<tr>
+<th>Layman:
+</th><td>Where is the rabbit?!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Galveston Lodge, outside. Stan runs into a small woods nearby, but he hears car doors, so he goes back to see what's going on. The ninjas and laymen are rounding up the wounded Hares.]</i>
+</td></tr>
+<tr>
+<th>Hare 6:
+</th><td>Where are you taking us?
+</td></tr>
+<tr>
+<th>Hare 7:
+</th><td>No! I'm not goin' anywhere! <i>[the layman walks up and shoot him in the head, and he falls.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Jesus Christ! <i>[a monk has Randy restrained]</i>
+</td></tr>
+<tr>
+<th>Layman:
+</th><td>Who did you give the rabbit to?! <i>[slaps Randy, Randy spits back. The layman punches Randy in the stomach and has him rounded up with the others]</i> Search the area! The boy could not have gotten far!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh no... <i>[looks around, then runs off]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's house, night. Kyle is at the dining room table doing fingerpaints of Stars of David for Passover. The doorbell rings and he goes to answer it. Stan is at the entrance gasping for air and carrying Snowball. He's a bit unkempt.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Help.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What happened?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>My Dad's in a rabbit-worshiping cult called the Hare Club For Men they protect the secret of Easter but before they said what it was they were attacked by ninjas and put me in charge of Snowball.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...I'm kind of finger painting right now.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[enters anyway]</i> Dude, they took my Dad away. They even shot one of his fellow hares. And now they're after me! <i>[turns around and fires off a few questions]</i> Do you know anything about Easter? What is the connection between Jesus and rabbits and colored eggs?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, I'm Jewish. I have no idea.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A dark place. Randy is laying on the floor, the arrow removed from his leg. He stirs, coughs, and sits up. He's in an old large jail cell with the surviving Hares]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Nelson. <i>[crawls towards him]</i> Nelson? Nelson, say something.
+</td></tr>
+<tr>
+<th>Nelson:
+</th><td><i>[reclining against a cage wall]</i> My legs. I... I think they're broken.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Nelson, do you know where we are? Where did they take us?
+</td></tr>
+<tr>
+<th>Nelson:
+</th><td>Don't know... we traveled for hours... kept blacking out... <i>[coughs. Randy lets go and crawls back, but sees someone standing before him]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>You...
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A mansion, night. Stan and Kyle arrive and knock on its front door. A butler answers the door]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hi, we'd like to speak to a <i>[reads the name from a slip of paper]</i> Professor Teabag? <i>[Stan is still carrying Snowball]</i>
+</td></tr>
+<tr>
+<th>Butler:
+</th><td>What is it in regard to? <i>[the professor appears at the far end with a walking stick]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>The history of Easter.
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td><i>[walks slowly towards the boys]</i> Sorry boys, it's a little late for me to be giving lectures. <i>[turns around and walks away]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Please? Do you know anything about the Hare Club For Men? <i>[the professor stops and turns around]</i>
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>The Keepers? <i>[walks towards them]</i> The Guardians of the Secret?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[the butler steps aside]</i> My Dad is in it. This... rabbit is too somehow.
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>Come on in. <i>[smiles]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Teabag's study. He leads the boys in and begins]</i>
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>The Hare Club For Men has been around for centuries. One of its most famous members was Leonardo da Vinci. <i>[on a large widescreen TV is a picture of The Last Supper]</i> Behold the Last Supper. The dinner Christ had with his disciples the night before he was crucified. What food do you see on the table?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Just bread...
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>Really? Look to Jesus's right. <i>[zooms in and pans to the lower left, then zooms in on an oval shape]</i> The food which is a little different color than the others.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It kind of looks like... an egg.
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>Yes. The egg marks the secret. It lies directly in front of... <i>[zooms out and a bright trace appears around the disciple behind the egg]</i> Saint Peter.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Who is Saint Peter?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He was the disciple that Jesus made into the first pope.
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>Eggsactly. But there's something the Church didn't tell you. In actuality, Peter wasn't a man at all. Saint Peter... was a rabbit. <i>[the boys say nothing for a few seconds]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[flatly]</i> Peter Rabbit.
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>Of course, the Church wouldn't allow da Vinci to paint Peter as a rabbit, so he painted him as a man, but left clues. Look closely.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I don't see it.
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>Look closelier. <i>[zooms in]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He looks like a guy.
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>Look <i>more</i> closelier. <i>[zooms in further, and a pair of rabbit ears appear on Peter's head]</i> With laser technology we can look beneath the paint, the way da Vinci originally painted it. <i>[Peter disappears from the picture and a rabbit appears next to the egg which was in front of Peter]</i> That... is Saint Peter. <i>[Stan jumps a bit]</i> The original Pope of Christianity.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I don't believe it.
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>Proof is everywhere. Look at the Pope's hat. <i>[a picture of Benedict XVI appears]</i> It makes no sense, except that it was originally designed... <i>[a picture of a rabbit slides in next to that of the pope, and Teabag moves the hat from the pope to the rabbit]</i> for a rabbit.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[looks at the professor]</i> But why would Jesus want a rabbit to run his church?
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>Because Jesus knew no one man could speak for everyone in a religion. Men can be intolerant; rabbits are pure. But the Catholic Church buried the truth, put a man in charge, and the Hare Club For Men has been decorating eggs ever since to keep the secret in da Vinci's painting alive.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>So... the Vatican took Stan's dad?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Vatican, night. Thunder and lightning roll through the sky. At St. Peter's Basilica, the Pope approaches one of the doors with a monk behind him. The Hare Club for Men is waiting to meet him]</i>
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>You dare to mock God by telling people St. Peter was a rabbit?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>You monster! You have no right to wear that hat!
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>Trying to tell people that St. Peter was a rabbit is blasphemy! You must admit you are wrong or burn in hell!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>It's saying stupid things like that that made Jesus wanna put a rabbit in charge.
+</td></tr>
+<tr>
+<th>Layman:
+</th><td>I'm sorry I couldn't bring you the rabbit, Your Holiness, but they know where it is!
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>The rabbit you call Snowball is a threat to Christ's Church. Where is the rabbit?!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>I don't know! And even if I did know... well, I'd probably tell you because I don't wanna be here anymore.
+</td></tr>
+<tr>
+<th>Layman:
+</th><td>Take him to be tortured!
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>Tortured, huh, but Bill, all this... torturing and ninjas, it just doesn't seem very Christian.
+</td></tr>
+<tr>
+<th>Bill:
+</th><td><i>[the layman]</i> You asked for the help of the American Catholic League, let us do our job! Take him! <i>[a cardinal and a ninja open the door, take Randy in, and escort him to his torture.]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>No! No, you bunny-hating bastards! Don't do this!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Teabag's mansion. Stan and Kyle are still looking at the Last Supper. Stan turns around.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I don't get it. Why would the pope be holding my Dad hostage for Snowball?
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>I believe Snowball must be a direct descendant of St. Peter himself, and therefor the true heir of the pope's throne. <i>[the butler is shown polishing a steel vase as some ninjas make their way towards the study]</i>
+</td></tr>
+<tr>
+<th>Butler:
+</th><td><i>[notices some ninjas behind him]</i> Mr. Teabag! Get out! <i>[one of the ninjas runs his sword through the butler's head and out his face, killing him]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>They found me!
+</td></tr>
+<tr>
+<th>Teabag:
+</th><td>Boys, get out of here! <i>[takes them to a window and opens it]</i> Head to the woods! I'll try to buy you some time. <i>[Stan and Kyle climb down the ladder he's prepared for them]</i>
+</td></tr>
+<tr>
+<th>Bill:
+</th><td><i>[off screen]</i> Check upstairs! <i>[the professor picks up a box of... PEEPS]</i> Upstairs clear! Try the office! <i>[Teabag takes the peeps to a microwave oven nearby and opens the oven's door. He puts the peeps in and sets the timer to 15 seconds. Behind him, two ninjas break into the study]</i>
+</td></tr>
+<tr>
+<th>Ninja 1:
+</th><td>In here! <i>[Teabag closes his eyes]</i>
+</td></tr>
+<tr>
+<th>Ninja 2:
+</th><td>What's that? <i>[the peeps begin to expand quickly and fill up the oven. Four seconds left, three, two, one...]</i>
+</td></tr>
+<tr>
+<th>Ninja 1:
+</th><td>PEEEEPS! <i>[the oven explodes, spewing peeps everywhere and killing Teabag. Stan and Kyle are running away when they turn to see the whole mansion being destroyed by peep marshmallow]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>So what now?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>If the pope has my Dad... I have to give him what he wants.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You aren't just gonna hand Snowball over?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What choice do I have?! There's nobody left who can help us! <i>[softly]</i> Wait... unless... maybe there is. <i>[hands Snowball to Kyle]</i> Here, hold this. <i>[walks some distance away from Kyle and prays]</i> Jesus, I know we haven't talked in a long time, and I know that every time you appear we end up killing you somehow, but... I don't know what to do. And I could really use your help. <i>[waits for a long time, then peeks with his right eye, then with both, but there's no sign of Jesus. He opens his eyes wide, as normal, and looks up. Kyle looks down at Snowball]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I think the rabbit just crapped on my jacket.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A news special comes on: World News, Easter Vigil coverage.]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Live, from the Vatican, it's our Easter Vigil coverage.
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>As Holy Saturday comes to an end, the Easter vigil at the Vatican begins. Thousand have turned out to hear the Pope and celebrate the Resurrection. <i>[visitors whip out their cameras and take pictures]</i> For this Easter vigil the Pope is also showing his divine grace by feeding the poor, with a massive rabbit stew. <i>[two chefs stand atop ladders next to a huge cauldron, slicing up ingredients. Bill and a ninja bring in a bunny to toss into the cauldron]</i>
+</td></tr>
+<tr>
+<th>Violet Hare:
+</th><td>NOOO! Noo! No, don't put m- <i>[he's thrown in and is boiled to death]</i> AAAAAAAAAAH!
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>Bill, this seems extreme.
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>The child who has the rabbit has to know that we are willing to kill the hostages if he doesn't hand it over.
+</td></tr>
+<tr>
+<th>Italian Cardinal:
+</th><td>Your Holiness, a child has arrived with a the rabbit!
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>Ya see? <i>[the three leave to meet this boy]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[St. Peter's Basilica. Stan and Kyle walk towards the alter with Snowball. Randy greets them as he's headed towards his torture]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oh thank God! Hand it over, Stan! They're gonna kill me! Give them the rabbit!
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>Yes, hand it over!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>First, you have to promise you won't hurt it! And that you'll let everybody go!
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>We promise.
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>We swear it, on the cross.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Just hand over the bunny, Stan!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Okay, fine. <i>[a cardinal takes Snowball from Stan, and Randy is released]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[reaching his son]</i> Stanley, why did you do that? I would have proudly died for that rabbit.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You said "hand over the bunny."
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>No! That is not the way we're remembering it!
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>Take them into custody! <i>[ninjas come in and put cuffs on Randy and the boys]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, what the hell!
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>Bill, we have zeh rabbit, it's all we need.
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>Don't be soft, Your Holiness! These "whores" must be punished in front of everyone!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You swore on the cross, fatso!
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>Yeah. Too bad for you... it was a double cross! <i>[cackles]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oh, we should've seen that coming!
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>Bill, I'm not sure that double-crossing people is very Christian.
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>It is what Christ would've wanted!
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td><i>[off-screen]</i> Who are you to say that?! <i>[the clerics look surprised. Jesus approaches them from the entrance of the basilica]</i>
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>It... can't be.
+</td></tr>
+<tr>
+<th>Stan, Kyle:
+</th><td>Jesus! <i>[as Jesus walks, clergymen genuflect and bow to him]</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>He is risen. He is risen. Let the voices sing his praises on this holy day. He is risen!</i>
+</td></tr>
+<tr>
+<th>Cardinal:
+</th><td>Jesus, we thought you died. In Iraq.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>I have the power of resurrection. Or have you forgotten? You all seem to have forgotten a lot of things.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Jesus, you did answer my prayer! <i>[grins]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Actually, I was answering the prayer of Nick Donovan.
+</td></tr>
+<tr>
+<th>Purple Hare 2:
+</th><td>Ohh, that's me Neato!
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>This is exactly why I put a rabbit in charge of the Church, Benedictus! Because men are so easily led astray. St. Peter <i>was</i> a rabbit. And a rabbit should be Pope.
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>Kill him!
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>What?!
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>He goes against the Church. He must die!
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>All right, that does it, Bill. I'm pretty sure that killing Jesus is not very Christian.
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>You are soft! Weak! You leave me no choice: take them! <i>[two ninjas apprehend Jesus]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>What are you doing?! <i>[two others arrest Benedict]</i>
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>I am the Pope!
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>You are no longer able to fulfill your duties to the Lord! <i>[removes the papal tiara and places it on his own head]</i> The Easter vigil will go on as planned! <i>[walks to a clear spot with Snowball, so all could see.]</i> Every Hare Club member, young and old, will watch as their precious savior dies!
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>What is your problem, guy?!
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>Lock up those two Jews! <i>[referring to Kyle and Jesus]</i> We'll deal with them later.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No! No! <i>[Stan and Randy are taken away in one direction, Kyle and Jesus in another, Benedict in still another]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Easter Vigil coverage continues.]</i>
+</td></tr>
+<tr>
+<th>Reporter:
+</th><td>A strange turn of events here at the Vatican: Pope Benedictus has stepped down, ushering the new era of... Pope Bill Donohue
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The platform outside St. Peter's, moments later. Bill presides over the rabbit stew.]</i>
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>My people! This Easter I'm gonna start by making our rabbit stew ten times meatier! <i>[the crowds cheer loudly]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>No! Listen! We aren't rabbits! <i>[a ninja punches him in the stomach]</i> Oof.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A dungeon cell. Jesus and Kyle are in it. Jesus has a file in his right hand and is furiously sawing away at a chain by the cell's entrance. Across the hall from him is Benedict XVI in his own cell.]</i>
+</td></tr>
+<tr>
+<th>Pope Benedict:
+</th><td>Forgive me, Jesus.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>We'll never get out in time to stop him!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Don't you have any superpowers?
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td><i>[throws the file away]</i> Not as a mortal. Only in death. Wait. That's it. We have no choice, Kyle. You're going to have to kill me.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Stab me with this. <i>[brings out a small dagger]</i> If I die I can resurrect outside the bars.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>N-no way! Do it yourself.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Suicide is blasphemy. There's no choice here, Kyle!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, you don't understand, I'm a Jew. I have a few hang ups about killing Jesus.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Just make it quick. <i>[kneels down and hands the dagger to Kyle]</i> Through the neck. I'll arise again immediately.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[looks at the dagger in dismay]</i> Don't make me do this.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>My son, there is no time! Do it!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Eric Cartman can never know about this.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>I understand. And Kyle, happy Easter.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Happy Easter, Jesus. <i>[stabs Jesus in the neck, as ordered]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Awgh! <i>[walks around for a few seconds, groaning and shedding blood here and there. He falls forward and his halo rolls away with a metallic "clink"]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...Jesus?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Back at the platform, Bill continues his speech.]</i>
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>Behold, no longer will Easter be about bunnies and colored eggs! Kill the rabbit! <i>[a cardinal holds Snowball over the cauldron]</i>
+</td></tr>
+<tr>
+<th>Cardinal:
+</th><td>Sorry, little bunny.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Snowball! <i>[now dressed in rabbits ears and snout like Randy. A bright light appears near one of the obelisks in the center of the piazza, and Jesus' figure appears in the light. The light fades and Jesus is all alone. The crowd oohs and aahs]</i>
+</td></tr>
+<tr>
+<th>Tourist:
+</th><td>Jesus?
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Stop! That rabbit is of holy descent!
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>Why won't you go away?!
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>One man cannot be the voice of the Church!
+</td></tr>
+<tr>
+<th>Bill:
+</th><td>Enough of this blasphemy! I'm the Pope now! That means I am the voice of God!
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Not anymore. I'm removing you from your position. <i>[brings out a black and yellow glaive, then presses a button in the middle to release the blades, as in a switchblade. He throws it towards Bill, who runs from it. It levels off and slices through Bill's midsection and returns to Jesus. Jesus strikes a pose and catches it with his right hand. The blades disappear into their sheaths. Jesus brings out some sunglasses with his left hand and puts them on, still maintaining the dramatic pose.]</i>
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>YAAAY!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>All right Jesus!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[St. Peter's Basilica, day. The sun is bright and the sky is blue, the basilica is decked out with streamers and Easter wreaths. White smoke rises above and behind the basilica, indicating a new pope]</i>
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td><div class="poem">
+<p><i>Sanctum Piter oteum, Deus ore uneum.<br />
+Hippitus hoppitus reus homine.</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Cardinal:
+</th><td>Your Holiness, what should we tell the world about how to run their lives? <i>[Snowball now sits on the papal throne. Snowball, having no human vocal cords, says nothing]</i> It isn't saying anything.
+</td></tr>
+<tr>
+<th>Italian Cardinal:
+</th><td>Yes, just as a-Jesus intended it.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Stanley, I'm so proud of you. You've learned so very much this Easter.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah. I've learned not to ask questions. Just dye the eggs and keep my mouth shut.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>That's my boy.
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td><div class="poem">
+<p><i>[in the background] In suspiratoreum, lepus in re sanctum.<br />
+Hippitus hoppitus Deus Domine.</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Fantastic Easter Special</b>.]</i>
+</td></tr></table>
+<p><br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt;border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px;border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">1105: "<a href="/wiki/Fantastic_Easter_Special" title="Fantastic Easter Special"><span style="color:white">Fantastic Easter Special</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:1105&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Hare_Club_for_Men" title="Hare Club for Men">Hare Club for Men</a> • 
+<a href="/wiki/Snowball" title="Snowball">Snowball</a> • 
+<a href="/wiki/Pope_Benedict_XVI" title="Pope Benedict XVI">Pope Benedict XVI</a> • 
+<a href="/wiki/Professor_Teabag" title="Professor Teabag">Professor Teabag</a> • 
+<a href="/wiki/Bill_Donohue" title="Bill Donohue">Bill Donohue</a> • 
+<a href="/wiki/Jesus" title="Jesus" class="mw-redirect">Jesus</a> • 
+"<a href="/wiki/Hippitus_Hoppitus" title="Hippitus Hoppitus">Hippitus Hoppitus</a>" •
+"<a href="/wiki/Easter_Parade" title="Easter Parade">Easter Parade</a>" •
+"<a href="/wiki/He_is_Risen" title="He is Risen">He is Risen</a>" 
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Fantastic_Easter_Special/Images" title="Fantastic Easter Special/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s11e05-fantastic-easter-special">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Eleventh_Season" title="South Park: The Complete Eleventh Season">South Park: The Complete Eleventh Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 109/300000
+Post‐expand include size: 5196/2097152 bytes
+Template argument size: 109/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:25234-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Fantastic_Easter_Special/Script?oldid=246705">http://southpark.wikia.com/wiki/Fantastic_Easter_Special/Script?oldid=246705</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Eleven" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Eleven" title="Category:Scripts from Season Eleven">Scripts from Season Eleven</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-below_category" class="monetization-module amazon-video hide-for-edit below-category amazon-video-full" data-mon-type="amazon_video" data-mon-slot="below_category"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-25234-B00NY4UD92-piv-fl-npr-bc-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-25234-B00NY4UD92-piv-fl-npr-bc-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-25234-B00NY4UD92-piv-fl-npr-bc-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-25234-B00NY4UD92-piv-fl-npr-bc-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-25234-B00NY4UD92-piv-fl-npr-bc-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-below_category" class="monetization-module adunit hide-for-edit below-category" data-mon-type="adunit" data-mon-slot="below_category"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_bt_fss_fft mon_hub_tv mon_sl_bc" data-ad-type="text" data-font-size="small"data-font-face="times" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":25234,"kv_wpage":"Fantastic_Easter_Special\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Fantastic_Easter_Special/Script","wgTitle":"Fantastic Easter Special/Script","wgCurRevisionId":246705,"wgArticleId":25234,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Eleven"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Fantastic_Easter_Special/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":246705,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Fantastic_Easter_Special/Script","fbReturnToTitle":"Fantastic_Easter_Special/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Fantastic_Easter_Special/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Fantastic_Easter_Special/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Fantastic Easter Special/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

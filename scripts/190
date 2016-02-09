@@ -1,0 +1,2152 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Fatbeard/Script,Fatbeard,Fatbeard/Trivia,Fatbeard/Images,Eric Cartman,Pirate Club,Somalia,Somalian Pirates We,South Park: The Complete Thirteenth Season" />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Fatbeard/Script" />
+<meta name="twitter:title" content="Fatbeard/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Fatbeard/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Fatbeard/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":24396,"pageIsArticle":true,"pageName":"Fatbeard/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=24396,
+wgCategories=["Scripts","Scripts from Season Thirteen"],
+wgPageName="Fatbeard/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/average","env":"prod","hostname":"ap-s13","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"average"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=24396&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=24396&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Fatbeard/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Fatbeard/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Fatbeard_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FFatbeard%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Fatbeard/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Fatbeard/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Fatbeard/Script</h1>
+											<h2>&lt; <a href="/wiki/Fatbeard" title="Fatbeard">Fatbeard</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Fatbeard/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Fatbeard/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Fatbeard" title="Fatbeard">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Fatbeard/Trivia" title="Fatbeard/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Fatbeard/Images" title="Fatbeard/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s13e07-Fatbeard">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li>Stan Marsh
+</li><li>Kyle Broflovski
+</li><li>Eric Cartman
+</li><li>Butters Stotch
+</li><li>Clyde Donovan
+</li><li>Ike Broflovski
+</li><li>Kevin Stoley
+</li><li>Gordon Stoltski
+</li><li>Gerald Broflovski
+</li><li>Sheila Broflovski
+</li><li>Somalian Pirates
+</li><li>French Captain
+</li><li>Cruise Attendant
+</li><li>Deck Hand
+</li><li>Mr. Leon
+</li><li>U.N. Leader
+</li><li>Paolo Captain
+</li><li>CNNN Anchorman
+</li><li>Announcer
+</li><li>Clerk
+</li></ul>
+<h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[South Park Elementary Cafeteria, lunchtime. The boys are seated at a table and Cartman runs up to them with a map.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys! You guys! We can finally do it! We can finally leave this crappy town and live the life we've all dreamed of!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>We can?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What are you talking about, dude?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Haven't you assholes been watching the news? <i>[rolls the map flat on the table]</i> Pirating is back, my friends. Swashbuckling adventure on the high seas! The stuff we've all dreamed about! And it's all happening right here: <i>[points to the circled nation on the map]</i> Somalia.
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>Somalia? Where's that?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>North Africa. Just picture it, guys: clear blue water with skull islands. Waterfalls and jeweled treasure underneath.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[in thrall]</i> Whoa.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I've worked it all out on Expedia. <i>[traces the route from Denver to Somalia]</i> We can take Southwest Airlines to Miami, then Dubai Air here to Cairo, and then it's just a 49-hour bus ride into Mogadishu, with all the booty and plunder a pirate could want.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Wow, you know, Cartman? That is an awesome idea. You should totally go to Somalia.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Right, and wi- <i>[stops]</i> Wait a minute. You never think my ideas are good, Kyle.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, I'm being totally serious. That is the best idea you've ever had. You should run away to Mogadishu. You should go there right away. I'll even help pay for your ticket.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Wow, cool! Wait a minute. The fuck?! Why would you do that? Unless... you're trying to trick me somehow.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Nono, you're right. Somalia is an oasis of treasure and waterfalls. It's totally the pirate's life.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Then why don't <i>you</i> wanna go?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, c-cause dude, I'm Jewish, a-and you know...
+</td></tr>
+<tr>
+<th>Kyle, Cartman:
+</th><td>Jews can't be pirates.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's true. Well, I'm glad you've finally come to terms with your disability, Kyle. <i>[rolls up the map]</i> Gentlemen, I'm off to start planning! <i>[walks away]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[puts his hands together and prays]</i> Please. Please let him go.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[South Park Elementary, Garrison's class. The students are in their seats. Three notes play over the PA system.]</i>
+</td></tr>
+<tr>
+<th>Gordon Stoltski:
+</th><td>Good morning, students. These are the morning announcements. Teacher-parent conferences have been rescheduled to next Tuesday. <i>[Mr. Garrison reads during the announcements]</i> Please inform your parents. The gym is being repainted, and is closed until tomorrow afternoon. And now for a special announcement:
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Avast there, mateys! <i>[the class looks up at the speaker]</i> Do ya have a thirst for adventure on the high seas of life? <i>[a shot of some kids in the hall, including sixth graders]</i> Arrre you sick and tired of your parents and teachers telling you what to do all the time? <i>[a shot of the kindergarten class, and its teacher]</i> Then join Captain Cartman's Perfect Pirate Club, arrrr! <i>[back to Mr. Garrison's class]</i> Just imagine it, me hearties! A life without rules, without homework and chores! You can live the pirate's life in Somalia, me friends! <i>[Kyle looks at the blackboard, his eyes half-closed. Stan begins to write stuff down]</i> Even Kyle said so. <i>[Kyle buries his face into his desk]</i> Our first official pirate mee'in will be 4 pm today at Kevin Stoley's house!
+</td></tr>
+<tr>
+<th>Kevin:
+</th><td>At my house? Why my house?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>There will be refreshments served! So make sure your mom goes to the grocery store, Kevinnn! So come one, come all! The invitation is open to any student who wants to be a pirate, and who isn't Jewish, Mexican or ginger! Arrrgh!
+</td></tr>
+<tr>
+<th>Gordon Stoltski:
+</th><td>And for lunch today, the cafeteria will be serving taco salad or hoagie sandwiches. Thank you.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Kevin Stoley's house, basement, just past 4. Butters is leading the meeting, as Cartman hasn't arrived yet]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Ahoy fellow club members. Congratulations on leaving your meaningless lives behind to become pirates. <i>[only four kids showed up - Kevin, Ike, Clyde, and Gordon Stoltski]</i> Your life of boredom is at an end, thanks to Captain Cartman. All hands on deck! <i>[blows into a whistle. To his left, by the stairs, is a door with a sign, "Captain" on it. Cartman enters the room though that door.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Attention! All right, you booty lovers! So you decided to join Captain Cartman's edjeh... <i>[sees Gordon Stoltski, then goes into a low voice]</i> Uh, guys, who let in the g-i-n-g-e-r?
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>Well, there's really not that many of us. We figured we should let him join.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>But guys, g-i-n-g-e-rs can't be pirates because they don't have souls. Please get it out of here.
+</td></tr>
+<tr>
+<th>Gordon Stoltski:
+</th><td>Fine, I don't wanna be a pirate anyways! <i>[leaves his seat and goes out the stairs and out of the basement]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Okay, anyways. Now enough small talk, lads! It's time for us to start rapin' and plunderin'!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>We set course tomorrow! I purchased everyone's ticket online using me mother's credit card!
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>And your mom is okay with that?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Dude, I'm a pirate! What the devil do I care what me mudder thinks anymore?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Neato!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Alright lads! Go home and write your farewell letters to your families! The land of pirates awaits! <i>[holds up a jewelled sword]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Pirates ho! <i>[holds up his own small sword. The others follow suit with daggers]</i>
+</td></tr>
+<tr>
+<th>Clyde, Ike:
+</th><td>Pirates ho!
+</td></tr>
+<tr>
+<th>Kevin:
+</th><td>Ho! <i>[his sword is a lightsaber. Cartman looks at it in disbelief]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Kevin, Goddammit! <i>[Kevin turns off the lightsaber's light]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Montage. A passenger jet flies out of Denver International]</i>
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Have a good flight. Next, please? <i>[Cartman approaches with his crew. He hands the clerk his payment]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>We be headin' to Somaaliaa. By way of Miami to Cairo. And take care o' you put us in an exit row, you land lubber!
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td><i>[slowly]</i> I see. You five boys are all booked through to Cairo by yourselves?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That we be, lass. It's all paid for on me mudder's credit card.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[has second thoughts and turns around]</i> Oh jeez. Unh I don't know if I can really go through with this.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What?!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>It's just l-leavin' everything behind, uh, uh I can't believe I'm actually doing it.
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>Yeah maybe we should think about this.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys, the fuck? Are you forgetting how crappy your lives are?! All the homework, the rules?! Butters, do you really wanna just go back to school, where people just make fun of you?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Huh, who, you mean you?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yes! Do you really wanna go back to that?!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>No, I'm sick of it!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well all right then, fag! We can't turn back now! The path to adventure lies just beyond this ticket counter! And if you four have really come all this way just to turn back now, then seriously you guys, the FUCK?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>He's right, lads. To adventure!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[the flight path is shown. It follows the path Cartman traced on the map. Butters is giddy looking out the window. As the plane crosses the Atlantic the boys play in their seats. Once the plane reaches Cairo, the boys transfer onto a bus and go south across Egypt, Sudan, Ethiopia, and finally Somalia, ending in Mogadishu. A shot of the city from the air, looking east. The bus stops and everyone gets off. The road underneath it is dusty. The boys walk away from the bus, then it rolls off. They can't believe what they see]</i>
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>This is Somalia?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Where's all the waterfalls and shi-and shipwreck lagoons?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>The FUCK?! <i>[some Somalis notice them and stop to look]</i> 'Scuse me, where are the pirates? <i>[stops a man walking by]</i> Hey, hey we're looking for the pirates? Where can we find the-uh! <i>[the man ignores him and keeps on walking.]</i> Butters, get the phrase book out. <i>[Butters approaches with the phrase book in hand]</i> Ask these people where the pirates are.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Uhh, <i>[mumbles a bit]</i> mahjey burazi?
+</td></tr>
+<tr>
+<th>Somali 1:
+</th><td>Burad. Iyaja dene zaredeko
+</td></tr>
+<tr>
+<th>Somali 2:
+</th><td>Buradi wakuwasa.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Oh. He-he says they're in there. <i>[points to his left. A mustard-colored building is being defended by two guards.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ah, nice. Come on, mateys! <i>[the boys turn and walk towards the building]</i>
+</td></tr>
+<tr>
+<th>Somali 2:
+</th><td>Mayasuk! Hageha-aden! Letka suwahater! <i>[Translation: "No! wait! Don't go in there! Those people are dangerous!"]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yes, bebebudjuhbluhbluhbluhbluh. Thank you. <i>[dismissing the warning, he and his crew continue on to the building.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[The pirates' lair. They go about their business until they notice the boys enter. Cartman walks on into the middle of the lair.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Avast! <i>[no one else says a word. In a low voice, he says]</i> These aren't pirates, they're just a bunch of black people.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[The following is taken from the episode, as they are English subtitles.]</i>
+</td></tr>
+<tr>
+<th>Pirate 1:
+</th><td>"Is this some kind of joke?"
+</td></tr>
+<tr>
+<th>Pirate 2:
+</th><td>"I don't know what the fuck this is!"
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I am Captain Cartman and this here be my terrible crew! We be lookin' for a ship to pirate with
+</td></tr>
+<tr>
+<th>Pirate 1:
+</th><td>"These white children will bring a high price in ransom money!"
+</td></tr>
+<tr>
+<th>Pirate 2:
+</th><td>"Take them out to the nearest European boat! Show them we have children hostages!" <i>[surrounding pirates stand up with their rifles]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yes, very nice. Apparently, these are the pirates.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[The pirates' bay. Several pirates walk the boys down the dock]</i>
+</td></tr>
+<tr>
+<th>Pirate 3:
+</th><td><i>[wearing a #13 jersey]</i> "Move it! Go over that way!"
+</td></tr>
+<tr>
+<th>Pirate 4:
+</th><td><i>[wearing a mustard-colored shirt]</i> "We will get a nice ransom for you!" <i>[the fifth pirate wears a black shirt]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, excellent! They're taking us to a ship. Once we commandeer our vessel the plundering will be easy indeed, lads. <i>[they all stop next to a small boat]</i>
+</td></tr>
+<tr>
+<th>Pirate 3:
+</th><td>"Get on board!"
+</td></tr>
+<tr>
+<th>Pirate 4:
+</th><td>"Do it now!" <i>[the boys turn to see the boat the pirates want them on]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>This... is your pirate boat? Dude, the FUCK! Alright, seriously you guys? What kind of pirates are you? I mean, really? The FUCK, dude, the FUCK?!
+</td></tr>
+<tr>
+<th>Pirate 3:
+</th><td>"Get on the boat now!"
+</td></tr>
+<tr>
+<th>Pirate 4:
+</th><td>"Move!"
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Alright lads, guess we'll have to settle with this meager ship. Two of you sit aft and two of you sit in the front.
+</td></tr>
+<tr>
+<th>Kevin:
+</th><td>I gotta sit middle 'cause I get motion sickness. <i>[the other boys climb in and all four end up on the same row]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Kevin, Jesus Christ! <i>[a pirate starts the motor and the boat moves forward]</i> Hard to starboard, lads! There's sure to be lots of booties out hyah! <i>[Clyde begins to cry]</i> Clyde, the fuck?!
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>You said there was gonna be crystal clear lagoons and treasure and plunderrrr! <i>[continues crying]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Calm down, Clyde. Everything's gonna be okay!
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>No it's not! You made me run away to be a pirate and there's not even any treasure!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ike, will you do something about Clyde, please? <i>[Ike looks at Clyde and smacks him. Clyde stops crying]</i> Very nice, Ike. <i>[looks ahead]</i> All right me hearties! Keep your eyes open for boats to plunder! <i>[before them is a French cruise ship]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[The French cruise ship, day]</i>
+</td></tr>
+<tr>
+<th>French Captain:
+</th><td>"Keep your eyes open, Mr. Leon. These waters are full of renegades and thieves."
+</td></tr>
+<tr>
+<th>Mr. Leon:
+</th><td><i>[ship's navigator]</i> "Yes, Captain!" <i>[an alarm sounds and the captain leaves the bridge to find out what's going on.]</i>
+</td></tr>
+<tr>
+<th>Deck Hand:
+</th><td><i>[sees the captain and approaches]</i> "Captain! We have an unknown vessel approaching quickly to port!"
+</td></tr>
+<tr>
+<th>French Captain:
+</th><td>"Damn pirates! Alert the crew! All hands on deck!" <i>[the little boat pulls up next to the cruise ship. The captain and his crew gather in front of the bridge and the captain looks at the pirates through his binoculars]</i>
+</td></tr>
+<tr>
+<th>Pirate 5:
+</th><td><i>[through a bullhorn]</i> "We demand ransom for these children! Pay us or we will kill them!"
+</td></tr>
+<tr>
+<th>French Captain:
+</th><td>"They've got CHILDREN HOSTAGES!"
+</td></tr>
+<tr>
+<th>Cruise Attendant:
+</th><td>"My God!"
+</td></tr>
+<tr>
+<th>French Captain:
+</th><td>"Get the U.N. on the radio. Advise them of the situation."
+</td></tr>
+<tr>
+<th>Pirate 5:
+</th><td>"We want 5,000 Euros! You easily have that much on board!"
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Du-dude! You're doing it all wrong! Let me handle this. <i>[takes the bullhorn from him]</i> Alright ya scalliwags! Surrender your plunder and let me send my shot across your bow!
+</td></tr>
+<tr>
+<th>Pirate 4:
+</th><td><i>[moves over to Cartman and aims his rifle at him]</i> "We are going to start killing them! Starting with the fat one!"
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah that's good, but now go ARRRGH!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>ARRRRRRGH!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Kyle's house, day. Kyle is looking mighty relaxed now that Cartman is gone. He's in the living room talking on the phone with Stan]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah? Okay, and you checked with Kenny and Token? He's not just staying at their houses?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[in the kitchen at his house]</i> No, dude, everyone's checked. I think Cartman really ran away to Somalia.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yes! I can't help but take some credit for this. I helped convince him to go!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You really think he'll die in Somalia?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[chuckles]</i> Oh for sure, dude! It's the most God-forsaken place on the planet! Things are finally gonna be normal around here.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[voice only, but soon comes down the stairs with Gerald behind her]</i> Oh God! Oh God, what did we do wrong, Gerald?! <i>[She has a letter in her hand. Kyle's happiness vanishes]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Take it easy. We'll find him.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'll call you back. <i>[hangs up. Sheila approaches him.]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh Kyle, he's gone! Your little brother's run away from home!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What? Are you sure?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>He left a note saying he's never coming back.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[takes the note and reads it aloud]</i> "Dear Mommy and Daddy: I am running away. I am sorry, but I can no longer handle the monotony of middle-class life. Everyone at school is a fucking idiot, and if one more person talked to me about that Susan Boyle performance of <i>Les Misérables</i> I was going to puke my balls out through my mouth. I love you all, but I have to move on. I'm going to Somalia to be a-" to be a pirate?! Oh shit!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh Gerald, what are we gonna do?
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>It's alright, he couldn't have gone far. Let's call the other kids' houses. <i>[leaves with Sheila and the phone]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh God. What have I done?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[The French cruise ship, day.]</i>
+</td></tr>
+<tr>
+<th>Pirate 4:
+</th><td>"We are growing impatient! Give us what we want or they die!"
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>The FUCK are you pirates doing?! Are we gonna plunder them or not?!
+</td></tr>
+<tr>
+<th>French Captain:
+</th><td>"Alright! Alright! We are going to give you what you want! But you must hand over the children UNHARMED!"
+</td></tr>
+<tr>
+<th>Pirate 5:
+</th><td>"The money first!" <i>[a crewman throws down a bag of money to the small boat and one of the pirates catches it and opens it. A rope ladder is unforled so the boys could climb up to the cruise ship]</i> "Go! Get on the boat! Move!"
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Alright, let's go! <i>[the boys go up the ladder and board the ship]</i>
+</td></tr>
+<tr>
+<th>Cruise Attendant:
+</th><td>"We got 'em - They're safe!" <i>[the pirate boat turns and zooms away]</i>
+</td></tr>
+<tr>
+<th>French Captain:
+</th><td><i>[to the pirates]</i> Your crimes will not go unpunished! <i>[turns and faces the kids]</i> Are you kids alright?
+</td></tr>
+<tr>
+<th>Cruise Attendant:
+</th><td>"Did they hurt you?"
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Quiet, you sons of biscuit eaters! This boat is now pirate propertih! Now get ye to your lifeboat, lest you wanna be shark bait!
+</td></tr>
+<tr>
+<th>French Captain:
+</th><td>"What is this?!"
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Plunder the booty, lads! This ship is ours!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Okay! <i>[runs off to plunder]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I said, get off my boat!
+</td></tr>
+<tr>
+<th>French Captain:
+</th><td>"Hey! You can't order us around!" <i>[Kevin walks up with his lightsaber and turns it on. The captain and crew jump back. Kevin waves it around, Cartman rolls his eyes to the right, and the captain and crew move in that direction. They all head to a lifeboat, with the captain and crew going "Qu'est-ce que passe? Mon Dieu!"]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's it! Get in there you swarmy dogs! <i>[the captain and crew get on the lifeboat]</i> Lower 'em down, Ike. <i>[Ike lowers the lifeboat to the ocean]</i>
+</td></tr>
+<tr>
+<th>French Captain:
+</th><td>"Scoundrels! You will pay for this!"
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Have a good day! <i>[the lifeboat is safely on the water. Cartman quickly begins to make changes. The French flag comes down and the skull and bones one goes up. Cartman walks up to the the ship's bow]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hard to port, lads!
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td><i>[relaying the message]</i> Hard to port!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[at the wheel. Ike stands on a stool next to him]</i> What's "port"?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Just make the boat go that way, kind of. <i>[the ship ends up turning towards shore, towards the pirates' lair. The pirates have just finished tying up their boat when they stop and look towards the sea. The ship's horn blows and the ship heads towards the dock]</i> That's good. Now bring her around portside. <i>[the cruise ship pulls up alongside the pier and lowers the rope ladder. The boys get off the ship and head back to the lair. Cartman stops for a moment and points it out to the pirates]</i> Now that's a pirate ship! <i>[the boys head into the pirates' lair]</i> A fine day o' plunderin' we had, boys! What about yourselves? <i>[starts tossing wads of cash at pirates]</i> Here you are, lads. Plenty of booty to go around. <i>[walks to an open table and has the boys sit there]</i> A round of grog for me boys! <i>[a pirate brings drinks to the table and passes them out]</i> A round of grog for everyone! <i>[the pirate leaves]</i> The fuck is this? This is water in a Dixie cup! Alright, Goddammit, really you guys! What kind of pirates are you?! Look at yourselves! You disgrace the Blackbeard! I don't know where you people get off calling yourselves pirates! <i>[gets up and walks around]</i> Little beat-up boats, water in Dixie cups. I mean, I mean look, look at this guy! <i>[the pirate he's looking at has lost his left leg from the knee down]</i> Look at this guy for Christ's sake! <i>[rips a leg from a chair and ties it up the pirate's left leg]</i> I mean, how hard is this, people?! <i>[the pirate grins and hobbles away with his new peg leg. Cartman walks back to the boys' table, then stands on it]</i>  I tell you lads, if we're gonna be the most feared people on Earth, then there needs to be some Goddamned changes around here!
+<p><i>Weee drink and we pillage and we do what we please! We get all that we want for free!</i>
+</p>
+</td></tr>
+<tr>
+<th>Cartman, Butters:
+</th><td><div class="poem">
+<p><i>We'll kick your ass and rape your lass. Somalian pirates we!</i><br />
+<i>So with a yo ho ho!</i><br />
+<i>[No one says a thing]</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[sighs]</i> Goddamnit people! <i>With a yo ho ho!</i>
+</td></tr>
+<tr>
+<th>Pirates:
+</th><td>Yo ho ho.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>And with a yee hee hee!</i>
+</td></tr>
+<tr>
+<th>Pirates:
+</th><td>Yee hee hee
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><div class="poem">
+<p><i>We take to the African sea!</i><br />
+<i>We'll brave the squalls and bust your balls</i><br />
+<i>Somalian pirates we!</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Pirates:
+</th><td>Somalian pirates we.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Butters mops the deck with the pirates. Cartman leads other pirates off the ship with fresh booty. Other pirates build up a sand sculpture of a giant skull. Next, they paint "Beware!" on the cruise ship. Butters walks up to Ike, who puts a tri-corner hat on a Somali pirate. Nearby, pirates carry barrels of "ALE" between them.]</i>
+</td></tr>
+<tr>
+<th>Together:
+</th><td><div class="poem">
+<p><i>We left our homes and we left our mudders</i><br />
+<i>to go on a pillagin' spree!</i><br />
+<i>We'll cut off your ears and break your toes</i><br />
+<i>and make you drink our pee!</i><br />
+<i>And if you sail into our waters,</i><br />
+<i>you best hear this decree:</i><br />
+<i>We'll take your boat, set your ass afloat!</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[One of the barrels has another pirated in it]</i>
+</td></tr>
+<tr>
+<th>Pirate:
+</th><td><i>Somalian pirate we.</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Nice. <i>And with a yo ho ho!</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[A shot of the sand sculpture]</i>
+</td></tr>
+<tr>
+<th>Pirates:
+</th><td><i>Yo ho ho!</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[A shot Clyde and Kevin raising the flag on the flagpole, then of Cartman nailing down the lair's new name: Skull Cove]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>And a tricky lahty do!</i>
+</td></tr>
+<tr>
+<th>Pirates:
+</th><td><i>Tricky lahdy do!</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Cartman makes a choir out of the pirates and conducts them]</i>
+</td></tr>
+<tr>
+<th>Cartman, Choir:
+</th><td><div class="poem">
+<p><i>We'll shoot you in the face with glee!</i><br />
+<i>Then we'll cut off your ears-</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Okay okay, let's stop there for a minute. Remember, on tricka lahty do, that's a "lahty do" Okay, really need you guys to enunciate the "lahty" Uh, Nadif, if I can get you and Abdikaram to sing the harmony on the second "yo ho". And uh, Hashmish, is it? I'm sorry, but you're a little flat. Remember to sing out, don't close your throat, m'kay? So let's go from uh, bar 14. We'll pick up after the quarter rest. Ike? <i>[Ike is at a spinet piano]</i>
+</td></tr>
+<tr>
+<th>Pirate Choir:
+</th><td><i>Somalian pirates we.</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Better! <i>With a yo ho ho!</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Cartman looks out over the cove with a telescope from the crow's nest. The cruise ship, now called "The Black Diamond," pulls up along another French ship and force its crew to surrender. Cartman pours water over a lazy crocodile.]</i>
+</td></tr>
+<tr>
+<th>Choir:
+</th><td><i>Yo ho ho!</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>And a tricky lahty do</i>
+</td></tr>
+<tr>
+<th><i>!Choir:</i>
+</th><td><i>Tricky lahty do!</i>
+</td></tr>
+<tr>
+<th>Cartman, Choir:
+</th><td><div class="poem">
+<p><i>We'll shoot you in the face with glee!</i><br />
+<i>Then we'll cut off your cock and feed it to a croc</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Somalian pirate we.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Ike sets off a coconut cannonball, but the coconut simply falls out. Next is the big finish, with everyone gathered around Cartman on the beach]</i>
+</td></tr>
+<tr>
+<th>Pirate Choir:
+</th><td><i>Somaliaaan piiiraaates weeeeee.</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>Somaliaaan piiiraaates weeeeee.</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Off shore is a tanker called "Paolo." The French crew is now on board with cups of water and draped in blankets, and the tanker's captain is on the phone with the U.N.]</i>
+</td></tr>
+<tr>
+<th>Paolo Captain:
+</th><td>We found then adrift in a lifeboat, sir. They say that pirates took their ship by force.
+</td></tr>
+<tr>
+<th>U.N. Leader:
+</th><td>Damn pirates! What's causing them to suddenly be so much more active? Is the crew okay?
+</td></tr>
+<tr>
+<th>Paolo Captain:
+</th><td>Yes sir. They're French, so they surrendered immediately. <i>[addresses the crew]</i> Once the pirates boarded your ship how did they force you off?
+</td></tr>
+<tr>
+<th>French Captain:
+</th><td>Il a vert lightsabeur.
+</td></tr>
+<tr>
+<th>Cruise Attendant:
+</th><td>Oui. Un lightsabeur
+</td></tr>
+<tr>
+<th>Deck Hand:
+</th><td>Le lightsabeur terrible. <i>[does lightsaber sound effects, then sobs.]</i>
+</td></tr>
+<tr>
+<th>Paolo Captain:
+</th><td>Sir, the pirates appear to have forced the French crew off their boat with a lightsaber.
+</td></tr>
+<tr>
+<th>U.N. Leader:
+</th><td>My God, pirates are getting better-equipped every day! Gentlemen, I want the President of the United States on the phone. We can no longer fight the pirates on the seas. We have to take them out where they live.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Skull Cove, later. Cartman enjoys a drink from a coconut shell]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What did I tell you, Butters? This is the good life, huh? <i>[a shot is heard, followed by commotion from the pirates. Cartman and the boys walk over to a crowd of pirates gathered around something]</i> What's going on?
+</td></tr>
+<tr>
+<th>Pirate 6:
+</th><td>"We have a hostage!"
+</td></tr>
+<tr>
+<th>Pirate 7:
+</th><td>"Another American arrived on the bus!"
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ahhh, good. A hostage will bring a fine ransom. <i>[the crowd splits in two and Kyle is shown. Kyle is tied up so he can't use his arms. Ike looks happy to see Kyle.]</i> Well well well well well!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[a news flash]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>The is CNN... N.
+</td></tr>
+<tr>
+<th>Anchorman:
+</th><td>Breaking news of yet another pirate crisis in Somalia. Members of NATO received word today that pirates have captured an American child and are demanding ten million Euros for his safe release. U.S Navy ships have been deployed and the pirate standoff is about to get ugly.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Skull Cove, later. Cartman paces back and forth with confidence]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well well well well well well well well well Kyle! You came all this way to try and join my pirate club.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, fatass, I came to get my brother! We all have to get out of here! It isn't safe.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>"It isn't safe." That's not what you said back in the cafeteria, Kyle. In the cafeteria you said Somalia was "awesome."
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I know! I was lying then!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Or are you lying now? So many lies, Kyle, you can't even keep them straight. You just couldn't stand that we were living in paradise while you were back home.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>This isn't paradise and you know it! The people here are starving and dying! The whole world has used Somalia as a dumping ground for toxic waste. Even the fish here are radioactive! <i>[a fish walks out of the water on hind legs, squawks, turn around and goes back into the ocean]</i> Cartman, just give me my brother <i>[Cartman turns around and faces Kyle]</i> and let us get out of here!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Your brother is with Butters taking inventory of our latest plunder, Kyle. You... just sit tight till we hear about your ransom money, hmhmm.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Inside the pirates' lair, Butters and Ike stock a French tool box. Butters announces the items and hands them to Ike]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>One box of Italian passports. One necklace, gold. Three crewmember watches.
+</td></tr>
+<tr>
+<th>Pirate 4:
+</th><td><i>[walks up to the two boys]</i> Ey excuse me. Can I ask you a question?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Oh. Uhuh sure, Galeed.
+</td></tr>
+<tr>
+<th>Galeed:
+</th><td>Why did you Americans come here?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Well, 'cause our lives sucked back home! We had all these rules and homework.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Yeah, homework.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>And our parents hollered at us!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>So we wanted to come here and be pirates.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Piewets!
+</td></tr>
+<tr>
+<th>Galeed:
+</th><td>But that's not what I do not understand. Why would anyone "want" to be a pirate?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Huh?
+</td></tr>
+<tr>
+<th>Galeed:
+</th><td>Every day I dream that I can go to school. Learn about the world. But my mother, she is dyin' of AIDS, and there is no money for medicine. My father was killed trying to find food for us. Do you know how I feel every time we try to capture a boat? Scared. And not just scared because I might get killed, but scared because if I don't get something out of it, my family and friends are going to die. I don't <i>want</i> to be a pirate. I don't see how anybody would. <i>[turns and quickly runs out of the lair.]</i>
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Oh my God. <i>[rests his head against a chair]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Jeez. Guess we kind of got put in our place, huh Ike?
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>I feel, like an asshole.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Yeah, me too.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[Outside on the cove, Cartman has Kyle on the makeshift plank above the crocodile]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Go on! Walk the plank, you scurvy dog!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman, knock it off!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's Captain Cartman, you Jewswoggle!
+</td></tr>
+<tr>
+<th>Pirate 6:
+</th><td>"Do you think all American kids are as crazy as these are?"
+</td></tr>
+<tr>
+<th>Pirate 8:
+</th><td>"It's starting to look that way."
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[runs up to Eric with Ike in tow]</i> Eric! Hey Eric. Listen, we wanna go home.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What?!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Me and Ike, well, we've been talkin' and, well guys, we really had it pretty good back in America. I mean, sure, it's easy to think our lives are boring and full of rules, but a lot of people have it way worse. The pirate's life isn't a life of fun and adventure, it's a life of hardship and suffering. When you get down to it, well we were pretty lucky to have the lives we did. <i>[Clyde begins to cry again]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Clyde!
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>I hate it here and I wanna go home!! <i>[begins to bawl]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[threatens the other three boys with his sword; they back down]</i> You guys cannot leave the pirate club now! How can you not want to stay in this paradise we've created?! In Somalia, people have no laws! They have no rules! And they never grow old!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>They never grow old because they die before they're 30!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Nobody's goin' anywhere!! I'm the captain of this outfit! <i>[whistles]</i> To arms! <i>[the real pirates gather around and aim their rifles at the boys]</i> Now, is there any question who's in charge? I have an enire pirate crew willing to do anything for me!
+</td></tr>
+<tr>
+<th>Pirate 5:
+</th><td>"Hey, what's that?" <i>[in the distance a U.S. ship gets into position]</i>
+</td></tr>
+<tr>
+<th>Commander:
+</th><td>Alright men, remember, do not hit the white ones!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Me and my crew are gonna go on piratin' forever! <i>[a volley of bullets takes down all the pirates, leaving the six boys unharmed. The boys look at the carnage around them]</i>
+</td></tr>
+<tr>
+<th>Sniper:
+</th><td><i>[several seconds later]</i> Clear.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>The FUCK?!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="709C22"><i>[End of <b>Fatbeard</b>.]</i>
+</td></tr></table>
+<p><br />
+<br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt;border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px;border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">1307: "<a href="/wiki/Fatbeard" title="Fatbeard"><span style="color:white">Fatbeard</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:1307&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Eric_Cartman" title="Eric Cartman">Eric Cartman</a> • 
+<a href="/wiki/Pirate_Club" title="Pirate Club">Pirate Club</a> • 
+<a href="/wiki/Somalia" title="Somalia">Somalia</a> • 
+"<a href="/wiki/Somalian_Pirates_We" title="Somalian Pirates We">Somalian Pirates We</a>"
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Fatbeard/Images" title="Fatbeard/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s13e07-fatbeard">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Thirteenth_Season" title="South Park: The Complete Thirteenth Season">South Park: The Complete Thirteenth Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 123/300000
+Post‐expand include size: 4568/2097152 bytes
+Template argument size: 45/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:24396-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Fatbeard/Script?oldid=246656">http://southpark.wikia.com/wiki/Fatbeard/Script?oldid=246656</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Thirteen" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Thirteen" title="Category:Scripts from Season Thirteen">Scripts from Season Thirteen</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-below_category" class="monetization-module amazon-video hide-for-edit below-category amazon-video-full" data-mon-type="amazon_video" data-mon-slot="below_category"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-24396-B00NY4UD92-piv-fl-npr-bc-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-24396-B00NY4UD92-piv-fl-npr-bc-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-24396-B00NY4UD92-piv-fl-npr-bc-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-24396-B00NY4UD92-piv-fl-npr-bc-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-24396-B00NY4UD92-piv-fl-npr-bc-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-below_category" class="monetization-module adunit hide-for-edit below-category" data-mon-type="adunit" data-mon-slot="below_category"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc_fsm_ffv mon_hub_tv mon_sl_bc" data-ad-type="text" data-font-size="medium"data-font-face="veranda" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":24396,"kv_wpage":"Fatbeard\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Fatbeard/Script","wgTitle":"Fatbeard/Script","wgCurRevisionId":246656,"wgArticleId":24396,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Thirteen"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Fatbeard/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":246656,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Fatbeard/Script","fbReturnToTitle":"Fatbeard/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Fatbeard/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Fatbeard/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Fatbeard/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

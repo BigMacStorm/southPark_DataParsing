@@ -1,0 +1,2635 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Super Best Friends/Script,South Park Studios,Official Scripts,Lao Tse,Blaintology,Buddha,David Blaine,Hall of Super Best Friends,Jesus,Joseph Smith,Krishna" />
+<meta name="description" content="General Trivia Images Script Watch Episode The official script for &amp;quot;Super Best Friends&amp;quot; was..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Super_Best_Friends/Script" />
+<meta name="twitter:title" content="Super Best Friends/Script" />
+<meta name="twitter:description" content="General Trivia Images Script Watch Episode The official script for &quot;Super Best Friends&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Kenny McCormick Eric Car" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Super_Best_Friends/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Super Best Friends/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":25587,"pageIsArticle":true,"pageName":"Super_Best_Friends/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=25587,
+wgCategories=["Scripts","Scripts from Season Five"],
+wgPageName="Super_Best_Friends/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s17","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25587&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25587&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Super Best Friends/Script" />
+	<meta property="og:description" content="General Trivia Images Script Watch Episode The official script for &quot;Super Best Friends&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Kenny McCormick Eric Cartman Butters Stotch David Blaine Blaintologists Steven The Super Best Friends Jesus Christ Buddha Mohammad Krishna Joseph Smith Lao Tse Seaman Moses Carol Sheila Broflovski Ike Broflovski Barber Elderly Woman Driver Announcer Narrator Karl Rove George W. Bush Larry Statue of Abraham Lincoln..." />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Super_Best_Friends/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Super_Best_Friends_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FSuper_Best_Friends%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Super_Best_Friends/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Super_Best_Friends/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Super Best Friends/Script</h1>
+											<h2>&lt; <a href="/wiki/Super_Best_Friends" title="Super Best Friends">Super Best Friends</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button loginToEditProtectedPage" >
+	<a accesskey="e"  href="/wiki/Special:SignUp?returnto=Super_Best_Friends/Script&amp;returntoquery=action%3Dedit&amp;type=login" data-id="edit" id="ca-viewsource">
+		<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Edit	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Super_Best_Friends/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">2</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Super_Best_Friends" title="Super Best Friends">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Super_Best_Friends/Trivia" title="Super Best Friends/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Super_Best_Friends/Images" title="Super Best Friends/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s05e04-Super-Best-Friends">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Super_Best_Friends" title="Super Best Friends">Super Best Friends</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Five" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan Marsh
+</li><li> Kyle Broflovski
+</li><li> Kenny McCormick
+</li><li> Eric Cartman
+</li><li> Butters Stotch 
+</li><li> David Blaine 
+</li><li> Blaintologists
+</li><li> Steven
+</li><li> The Super Best Friends
+<ul><li> Jesus Christ
+</li><li> Buddha
+</li><li> Mohammad
+</li><li> Krishna
+</li><li> Joseph Smith
+</li><li> Lao Tse
+</li><li> Seaman
+</li><li> Moses
+</li></ul>
+</li><li> Carol
+</li><li> Sheila Broflovski 
+</li><li> Ike Broflovski
+</li><li> Barber
+</li><li> Elderly Woman
+</li><li> Driver
+</li><li> Announcer
+</li><li> Narrator
+</li><li> Karl Rove
+</li><li> George W. Bush
+</li><li> Larry
+</li><li> Statue of Abraham Lincoln
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-25587-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25587-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25587-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25587-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25587-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsl_ffa mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="large"data-font-face="arial" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, day. People mill around, but a group of them has gathered around a magician, tall and slender, with a severe face]</i>
+</td></tr>
+<tr>
+<th>Magician:
+</th><td>Okay, Carol, put the card you picked back into the deck so I can't see ittwah. <i>[Butters and Kenny are watching as Stan and Kyle rush up]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What's going on? <i>[he and Kyle have ice cream cones. He has vanilla, Kyle strawberry]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Uh this feller David Blaine. He's doin' magic tricks. Hey, where'd you get that ice cream?
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Okay, now hold this card up to the crowd. <i>[Carol takes the card and shows it to the crowd. It is an ace of clubs]</i> Was that the card you picked?
+</td></tr>
+<tr>
+<th>Carol:
+</th><td>No, I'm sorry. I picked the four of hearts.
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Four of hearts? Really? Look again.
+</td></tr>
+<tr>
+<th>Carol:
+</th><td><i>[looks and find the four of hearts in her hand]</i> Daa-ah!
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>Oooohhhh! <i>[applause]</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Whoa
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That's pretty cool, dude!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[walking up]</i> Who's this asshole?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>He's a magician named David Blaine, dude. He kicks ass.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey, where'd you guys get that ice cream?
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Sir, c- could you come over here? <i>[Jimbo walks over]</i> Now, what I want you to do, Mr...
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td>Kern.
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Mr. Kern, I want you to just... think about a card. Pick any card, and picture it in your mind.
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td><i>[shuts his eyes and keeps them shut]</i> O-kay.
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Okay, jus... s think about your card. <i>[a few seconds pass]</i> okay, look at me. <i>[Jimbo looks at him]</i> Look at me... Look at me... okay, now reach up your ass.
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td>Huh??
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Go on, reach up your ass.
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td><i>[reaches into his ass and digs around]</i> Uh, I don't feel nothin'.
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Deeper.
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td><i>[groans as he goes deeper]</i> Hhud. I <i>don't feel</i>... hello... wait... <i>wait... [pulls out a card and cleans the crap off it]</i>
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Was that the card you picked?
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td><i>[in disbelief]</i> Yes! Oh my God!
+</td></tr>
+<tr>
+<th>Man:
+</th><td>O-hoho! <i>[more crowd reaction]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Wow, that's cool!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>How'd he do that??
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Thank you. I've been traveling from town to town for quite a while. I've started quite a following, mostly because of my levitation tricktwah. Watch. <i>[goes into a meditative state]</i> Watch. <i>[slowly, he rises into the air]</i>
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>Whoa!!!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No way!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Damn. That guy is the coolest guy in the universe!
+</td></tr>
+<tr>
+<th>Blaintologist:
+</th><td><i>[passing out pamphlets through the crowd]</i> Pamphlet. Pamphlet. Here you go, kids,  take a pamphlet. <i>[Kyle takes one and reads from it]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>"David Blaine Workshop. Learn all about David Blaine at the Center for Magic." Dude, we gotta go.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, and they probably teach you how to do magic tricks!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The David Blaine Complex, in the middle of nowhere, day.]</i>
+</td></tr>
+<tr>
+<th>Speaker:
+</th><td>Hello, everyone. My name is Steven and I've been a Blaintologist for about three years. So, when David Blaine performed his miracles out on the street, what moved you the most?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>His a-miracles?
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>Oh yes, you see, David Blaine is much more than a magician. He's a scholar, a visionary, a leader.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>When are we gonna learn magic tricks?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>Oh, I've got a trick for you to learn: I can show you how to make your true self appear. Let me ask you all something: Do you consider yourselves to be happy?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>I don't think I'm very happy. I always fall asleep to the sounds of my own screams.
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>...Right, yeh. Eh, see, the reason that you are unha-
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>And then I always get woken up in the morning by the sounds of my own screams. Do you think I'm unhappy?
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>Wait, the.. the <i>point</i> is... that you <i>can</i> be happy. You see, your friends and parents have programmed you in a way that makes you feel isolated and alone. How many times have you felt like nobody knows the real... you? <i>[focus on a stunned Kyle]</i> You're not really happy.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[thinking]</i> I'm not really happy.
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>Your potential hasn't even been reached.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[thinking]</i> My potential hasn't even been reached.
+</td></tr>
+<tr>
+<th>Steven:
+</th><td><i>[holds up the book]</i> If you look through David Blaine's incredible book, you'll find a lot of life's answers. Let's read some of the book together, shall we?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Then we get to be in David Blaine's secret club?
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>That's right.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Cool.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's house, day. In the dining room, Sheila is trying to feed Ike, who is in a baby chair.]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Ike, eat your gefilte fish. <i>[Ike pulls away as far as he can]</i>
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>No-oo.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[rushes in with Blaine's book]</i> Mom. Mom. I found out all about this great new magician named David Blaine.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>That's nice, Kyle. Ike, eat!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We spent all afternoon learning about how we aren't actually happy. I had no idea how unhappy I was until today. They gave me this cool book to read, and I'm already on chapter four....
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Well, it's nice to see you so interested in something, Kyle. Ike, for the love of Abraham, you are gonna eat this.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>So can I go to the Magic Camp, to learn how to become a full member? All the other guys are doin' it, and it's only $69.95.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Magic Camp? I don't know, bubbe, ask your father. <i>[Kyle turns and walks out]</i> Ike, you will eat this!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The David Blaine Complex, in the middle of nowhere, day. The new recruits are having their hair shaved off their heads]</i>
+</td></tr>
+<tr>
+<th>Barber:
+</th><td>Prepare to be cleansed and release the magic inside you.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[Solemnly]</i> I am prepared. <i>[the barber takes the clippers and clips Butters' hair off in one swoop. The hair ends up on the floor in one piece]</i> Hoh, jeez, eh it sure got cold in here.
+</td></tr>
+<tr>
+<th>Barber:
+</th><td>Next? <i>[Mr. Garrison appears...]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The David Blaine Complex, main room]</i>
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>Congratulations, young Blaintologists. From this day, you are clean. <i>[a shot of the new recruits. They all look the same]</i> Now, we have very important work to do! David Blaine is going to put on a big magic show in Denver tomorrow night, where he's going to eat his own head.
+</td></tr>
+<tr>
+<th>Recruits:
+</th><td>Wow!
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>So it's up to all you new Blaintologists to get as many people there as you can. Whoever gets the most people to come gets a prize! <i>[eight boys gravitate towards each other]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[talking to a boy between him and Cartman]</i> Kyle, I'm starting to think that this is a really bad idea.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Ha-I'm not Kyle, I'm Butters. I thought you were Kyle.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, I'm Stan.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[behind Butters]</i> You're Stan? Where's Kenny?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Who are you?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'm Kyle.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[thinking he's indistinguishable]</i> Heheh, guess who I am, guys?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kyle, I think we may have gotten into something bad here.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[steps back to join Stan]</i> What do you mean? We're learning all kinds of cool stuff.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Look at us, dude. These people are trying to change us somehow. I think it's time we went home.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But David Blaine is gonna do more miracles in Denver tomorrow..
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I don't care! I'm leaving! <i>[walks towards the door, but a man blocks the way]</i> 'Scuse me. <i>[eerie music begins]</i>
+</td></tr>
+<tr>
+<th>Aide:
+</th><td>Where are you going?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I'm going home.
+</td></tr>
+<tr>
+<th>Aide:
+</th><td>You don't want to go home.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You said we're free to leave whenever we want
+</td></tr>
+<tr>
+<th>Aide:
+</th><td>You are.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Move out of the way.
+</td></tr>
+<tr>
+<th>Aide:
+</th><td>I'm not <i>in</i> the way. <i>You</i> are. Are you unhappy with the Church's teachings? Let's just talk about it
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I don't wanna talk about it, I jus' wanna leave.
+</td></tr>
+<tr>
+<th>Aide:
+</th><td>Why don't we go into the back room for a second, and talk? Then you can leave.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[begins to back away, intimidated]</i> That's okay, I... I changed my mind. I'm... gonna stay.
+</td></tr>
+<tr>
+<th>Aide:
+</th><td>That's great news. <i>[escorts Stan back to the group]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The David Blaine Complex, dorm, night. Stan peers out from a door into a hall.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Okay, it's all clear. <i>[exits with Kyle]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What are we doing?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We're getting out of here. This whole thing has gotten way out of hand.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Whoa whoa, I'm not going anywhere.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Come on, Kyle, this is stupid!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's <i>not</i> stupid, Stan. For once in my life I feel like I'm part of something.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>A part of what?! Some gaywad magician's crazy life plan?!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Don't call Mr. Blaine a gaywad! He's a brilliant man.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, they've just <i>convinced</i> you that he's a brilliant man! Let's go!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'm not going anywhere!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Goddamnit, I'm not going with you! I wanna stay here!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Huh? I thought you wanted to leave.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh wait, who am I again?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You're Stan.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh- oh yeah. God- Goddamnnit, hold on a second. <i>[pulls out his hat and puts it on]</i> Okay. Now look, dude, I'm getting out of here, and you're a dumbass if you don't come with me!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Then I guess... I'm a dumbass. <i>[turns and walks back to his room. Stan turns back to face the hall and watched Kyle walk away]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kyle, please. You- <i>[looks down and to the left, then looks up]</i> You're my best friend.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, this is what I believe in now, Stan. And if you can't respect that,... then I guess we're not best friends anymore. <i>[opens the door to his room and walks in. Stan looks, then turns towards the exit and walks out]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, next day. Cartman and Kyle walk down a sidewalk visiting houses. They approach a pink house.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hello, ma'am. My name is Kyle. And this is Cartman. We'd like to share our interest in David Blaine with you.
+</td></tr>
+<tr>
+<th>Elderly Woman:
+</th><td>Uh oh. My husband warned me about you Blainiacs. I'm sorry, but I'm a Catholic.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Uh it... doesn't matter, ma'am. Blaintology is for everyone. There are Blaintologists who are Catholics, Buddhists - why even Kyle here is a Goddamn Jew.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That's right.
+</td></tr>
+<tr>
+<th>Elderly Woman:
+</th><td>So you're not a cult?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[giggles]</i> Of course, no. David Blaine is a real person. You may have seen his television specials on ABC. He also wrote a book, and we'd like to share it with you.
+</td></tr>
+<tr>
+<th>Elderly Woman:
+</th><td>Well, alright, come on in.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Cool. <i>[the woman shows the boys in]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Elderly woman's house, living room, moments later. The woman and the two boys sit on the sofa. Kyle has his book open.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...And if you look here, you can see how David Blaine performed the miracle of being frozen in ice at Times Square.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ma'am, have you ever wondered what David Blaine's plan is for you?
+</td></tr>
+<tr>
+<th>Elderly Woman:
+</th><td>No, not really.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, you see, that, that's interesting because... I'm so thankful for David Blaine's book, and, I'm so thankful that he showed me the way to true happiness but, I think about his plan often.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>David Blaine is doing a big performance in Denver tomorrow night. <i>[closes his book]</i> We're sure his magic will entertain and astound you!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>He's going to eat his own head.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>How many tickets can we put you down for?
+</td></tr>
+<tr>
+<th>Elderly Woman:
+</th><td>Oh, I can't go.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, come on, it'll make you a happy person.
+</td></tr>
+<tr>
+<th>Elderly Woman:
+</th><td>I <i>am</i> happy.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No you're not.
+</td></tr>
+<tr>
+<th>Elderly Woman:
+</th><td>Yes I am.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No you're not.
+</td></tr>
+<tr>
+<th>Elderly Woman:
+</th><td>I really am.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No you're not.
+</td></tr>
+<tr>
+<th>Elderly Woman:
+</th><td>But I am.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No you're not.
+</td></tr>
+<tr>
+<th>Elderly Woman:
+</th><td>Alright, two tickets
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Great!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Sidewalk. Kyle and Cartman exit the elderly woman's house]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That's 15 people we got to agree to come see David Blaine perform in Denver.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yes, Brother Kyle hmm, but our work is not over. We must still recruit ten more audience members in order to get the prize.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I think if we try Kenny's neighborhood, we might find a- <i>[they reach the corner. Facing them on the opposite corner is Stan, standing by his bike]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Come, Brother Kyle, we have no time for him. <i>[turns right and walks down the street. Kyle looks back at Stan for a few seconds, then follows Cartman. Stan turns and walks down the street in the same direction Kyle and Cartman were walking, but stops when a car appears in front of him. He sees some adult Blaintologists inside. The driver starts the car and moves towards Stan, who turns about face and begins to run with his bike. The car looms behind him and he lets go of his bike.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>HaaAAAA! <i>[the car totals the bike, bumps Stan onto the sidewalk, and peels away.]</i>
+</td></tr>
+<tr>
+<th>Driver:
+</th><td>You'd better watch yourself next time, abandoner! <i>[Stan looks at the car, scared.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Jesus' house, next day. Stan walks up and rings the doorbell]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hi, Jesus. It's me,
+</td></tr>
+<tr>
+<th>Stan, Jesus:
+</th><td>Stan Marsh.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Of course. I know you, my child. Come in.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Jesus' house, living room. A pitcher of water sits on the coffee table]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>This guy is going around doing magic tricks and saying they're miracles! My friend Kyle thinks he's totally awesome!
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>You're good to bring this to my attention, Stan. Cults are a very dangerous thing.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I read in the Bible that you did miracles, too. If you could go in front of these people and do your miracles, then, they'll all see that David Blaine isn't so special.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>The miracle I'm most famous for is turning water into wine.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Can you do it again?
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Very well. I shall perform the miracle. Behold. Here you can see ordinary water, clear, clean. Okay now, turn around. <i>[Stan looks at Jesus quizzically. Jesus is now holding the pitcher]</i> Er, nuh, tur- turn around. <i>[Stan turns away and Jesus quickly switches pitchers]</i> Uh, okay now, turn back. <i>[Stan turns back]</i> It is now wine!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That's it? That's how you did that trick?
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Wuh well, yeah.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That trick sucks, Jesus.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Oh. Well, I guess it worked a little better on people 2000 years ago.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, we have to do something. This guy is performing more miracles in Denver tonight. He's gonna get more followers, and it'll be impossible for me to get Kyle out.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Then let's go.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>But dude, I'd I don't think you should do that lame water-to-wine trick.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Oh,don't worry <i>[rises and joins Stan out the door]</i> I have a few more miracles up my sleeve.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Denver, night. An arena is shown, and the place is packed. Kyle and Cartman are seated in the third row, with around Blaintologists around them]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>This is a really good turnout.
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>And now, ladies and gentlemen, David Blaine. <i>[pyrotechnics go off all around, three spotlights shine on Blaine, and the crowd cheers]</i>
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Hello, my children.
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Ladies and gentlemen, may we have silence, please, as magician David Blaine will now eat... his... own... head. <i>[Blaine looks around, and a drumroll begins. Blaine then proceeds to eat his own head, then falls over. A few moments later the crowd roars with approval]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, no way! <i>[two female Blaintology assistants rush up and help Blaine stand. One has a little cage, another has a small curtain and rod. The one to his right places the cage where the head would be, while the one on the left places the curtain in front. A few seconds later, Blaine's head is back on his shoulders. The audience cheers]</i>
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Thank you, everyone. <i>[the audience quiets down]</i> Our organization grows larger every day. Soon, the government will even have to give us tax-exempt status as a bona fide religion.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td><i>[walking down the steps towards the stage]</i> Hold!
+</td></tr>
+<tr>
+<th>Man:
+</th><td>It's Jesus! <i>[more murmurs]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What's he doin' here? <i>[Jesus goes on stage]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>My children, it is time for you to go home and stop following this false prophet. You should be using your money and time for other things. These are simple magic tricks. His magic is interesting, but will it put food on your table? Feeding the hungry - now <i>that</i> is a miracle! <i>[a cart with loaves and fishes is wheeled in by Stan.]</i> Behold! I have here fives loaves of bread and three fish. Certainly not enough to feed this entire crowd, but now - turn around <i>[the crowd stares back blankly]</i> Ya need tuh- turn around. <i>[Stan slaps his hand to his forehead, but the crowd turns around. Jesus proceeds to pull bread and fish from behind the cart and pour it over the original bread and fish. Soon the cart is hidden under the food]</i> Okay, now turn back. <i>[the crowd turns back and just looks]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Now how the hell did he do that? <i>[Blaine simply extends his right arm, lifts the bread and fish mentally from the cart and drops them over by Stan]</i>
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>Wow!
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Your magic is old and outdated, Jesus! Twah. Just like you are.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Oh, really. Then what's this <i>[reaches behind Blaine's ear and pulls out a card]</i> Ace of Spades doing behind your ear?
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>Whoa. <i>[some chatter. Blaine then levitates, goes into a spin and disappears into a deck of cards, which then splits in two. Each half traces a circle and then both halves combine to make a larger circle. This circle then becomes a tornado of cards, and David Blaine emerges from the tornado triumphant.]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td><i>[overwhelmed]</i> Jesus Christ!
+</td></tr>
+<tr>
+<th>Elderly Woman:
+</th><td><i>[seated with her husband]</i> He's incredible!
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>The old religions have failed you! Twah. What have they offered except for war, poverty, and sadness? Blaintology offers you the key to living your life to the fullest! Will you join us?
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>Yes!!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The arena, outside. Jesus and Stan exit the arena]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>His magic is too powerful, Stanley. I've never seen anything like it.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Then what are we going to do.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>I cannot face him alone. We must get the help of all the super best friends. <i>[speaks into his left wrist]</i> Buddha. Buddha, come in!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Super best friends?
+</td></tr>
+<tr>
+<th>Buddha:
+</th><td><i>[on a little screen on Jesus' unique watch]</i> This is Buddha, Jesus. Go ahead.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A futuristic headquarters, somewhere... Jesus appears on a giant screen as Buddha awaits Jesus' answer]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Buddha, we may have a problem. I've just encountered a magic I've never seen before.
+</td></tr>
+<tr>
+<th>Buddha:
+</th><td>I'll call everyone together. Come as fast as you can.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Come, Stanley. We must travel far and long.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>To where?
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Distances unfathomable to man. Yea, take hold of my robe, Stanley, and do not open your eyes.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[shuts his eyes]</i> I am ready.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Inside an airplane. Jesus and Stan have center seats, and Stan's eyes are still shut]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Are you still keeping your eyes closed?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Good. Want some peanuts?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The David Blaine Complex, night. Blaintologists gather in the main room, and a new member is having his hair shaved off]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Congratulations, sister. You have heard the noble truth and are now a Blaintologist.
+</td></tr>
+<tr>
+<th>Steven:
+</th><td><i>[rushes up to the podium]</i> Everyone! Everyone, gather 'round! I have great news for all Blaintologists, and for our new members as well. We've just gotten word from Mr. Blaine himself: The government has denied our church's request for tax-exempt status!
+</td></tr>
+<tr>
+<th>Member:
+</th><td>But... we <i>want</i> tax-exempt status.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah. Why is <i>that</i> good news?
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>Be-cause! Mr. Blaine has arranged for all Blaintologists members from every city and state to march into Washington and de<i>mand</i> our right for tax-exempt status by committing a mass suicide!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Mass suicide?
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>Mr. Blaine has said that by killing ourselves in Washington, we are guaranteed everlasting happiness in the afterlife!
+</td></tr>
+<tr>
+<th>Member:
+</th><td>Hehehe, that sounds good. <i>[other members echo the sentiment]</i>
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>Get your things ready. We leave for Washington at dawn!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[jubilant]</i> Did you hear that, guys? We're finally gonna die!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A blue sky in a big city. The camera pans down to show Jesus and Stan in a park-like setting]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Alright, Stanley. You can open your eyes now. <i>[before them is a stone-and-glass building]</i> This is the hall of the super best friends, Stanley, the headquarters for those who stand for what's right.
+</td></tr>
+<tr>
+<th>Mohammad:
+</th><td>Jesus, we've been working hard since we got your distress call!
+</td></tr>
+<tr>
+<th>Loa Tse:
+</th><td>Who the kid?
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Stanley, I want you to meet some of the super best friends <i>[they are shown when mentioned]</i>: Buddha, with the powers of invisibility; Mohammad, the Muslim prophet with the powers of flame <i>[he raises his hands palm up and a blast of flame emerges from each hand]</i>; Krishna, the Hindu deity; Joseph Smith, the Mormon prophet; Lao Tse, the found of Taoism <i>[performs some martial arts moves with his cane]</i>; and Seaman, with the ability to breathe underwater and link mentally with fish.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>So you mean to tell me that even though people fight and argue over different religions, you guys are all actually friends?
+</td></tr>
+<tr>
+<th>Mohammad:
+</th><td>More than friends, young boy, we are super best friends, with the desire to fight for justice.
+</td></tr>
+<tr>
+<th>Joseph Smith:
+</th><td>We all believe in the power of good over evil. Except for Buddha, of course, who doesn't believe in evil. <i>[Buddha shrugs and grins]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wow.
+</td></tr>
+<tr>
+<th>Mohammad:
+</th><td>Jesus, come look at this. <i>[they walk to the monitor console with Stan following]</i> After your distress call, we entered David Blaine in the super best friends' computer.
+</td></tr>
+<tr>
+<th>Seaman:
+</th><td><i>[operating the console]</i> Many interesting things showed up. He was raised in New York city by a decent family, but a freak washing-machine accident at the age of 12 made him learn the ways of the black arts.
+</td></tr>
+<tr>
+<th>Buddha:
+</th><td>That's right, Seamen. <i>[the other super best friends laugh at how Buddha said Seaman's name]</i>
+</td></tr>
+<tr>
+<th>Seaman:
+</th><td><i>[insulted]</i> Sea Man!
+</td></tr>
+<tr>
+<th>Buddha:
+</th><td>Uh that's what I said. Seamen. <i>[the others laugh some more]</i>
+</td></tr>
+<tr>
+<th>Seaman:
+</th><td>Stop it!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The David Blaine Complex, dorm, night. Kyle walks up to Cartman's bunk.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[whispering]</i> Cartman! Cartman, wake up! Cartman!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[sits up abruptly, knocking Kyle off the bed]</i> No, Paula Poundstone! Leave me alone! Eyuh! Uh? <i>[now alert, if confused, and Kyle stands up]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's just me.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[sighs silently]</i> Brother Kyle? Why do you disturb my rest?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude. I don't think I wanna be a part of this anymore.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I think Stan might've been right. Anyway, I think it's going too far. I mean, if I kill myself, it's gonna make my family really sad.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, I know what you mean. I don't wanna die either. <i>[points to his groin]</i> I haven't even gotten my pubes yet.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I think we should bail. If we leave the group, maybe other people will get the courage to leave, too.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That co- ugh. <i>[drops to a whisper]</i> That could be difficult, Brother Kyle. But alright, listen: Why don't we sleep on it? If we decide to leave the faction, we can... do it in the morning.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Okay. Okay, you're right. <i>[goes down the ladder to his own bunk, underneath Cartman's, and Cartman turns over to sleep]</i> Oh uh Cartman: thanks. <i>[goes to sleep. Later, he wakes up inside a large domed platform. Reflections of five adult Blaintologists and Cartman can be seen on the glass dome. He sits up and blinks]</i> Cartman? <i>[He tries to move, but encounters the glass. He taps to make sure]</i> What the hell? <i>[Camera pulls back to reveal...]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The David Blaine Complex, main room. The Blaintologists and Cartman look on.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I told on yoo-ou. I told on yoo-ou.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What have you done, Cartman?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>This is for your own good, Brother Kyle.
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>You must understand, brother Kyle, twah, you know too much about the Church. If you left now, you'd become a danger to our cause.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ah, and you know what else Kyle said? Um Kyyyle, he said that if we were all gonna commit suicide, that he wouldn't do iiit.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[knocking on the dome]</i> Cartman, you fatass tattle-tale!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>At least I'm not the boy in the plastic bubble!
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>The suicide pact will go as planned. If we die, we all die together. <i>[Cartman and the Blaintologists exit and leave Kyle alone, afraid]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[the Hall of the Super Best Friends, day.]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td><i>[speaks for the fist time]</i> Meanwhile, at the Hall of Super Best Friends...
+</td></tr>
+<tr>
+<th>Joseph Smith:
+</th><td>Look at that, Jesus. His followers are growing at a rate even faster than mine! It appears this David Blaine is as dangerous as you and your young friend had feared.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I knew it.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Here. I have a videotape of his performance the other night.
+</td></tr>
+<tr>
+<th>Joseph Smith:
+</th><td>Perhaps we should have Moses look at the tape and see what <i>he</i> comes up with. <i>[Mohammad takes the tape to Moses]</i>
+</td></tr>
+<tr>
+<th>Mohammad:
+</th><td>Moses, scan this tape. Can you tell us the source of Blaine's power?
+</td></tr>
+<tr>
+<th>Moses:
+</th><td><i>[just as he appeared in "Jewbilee"]</i> Give me the information. <i>[Mohammad slips the tape into a slot near Moses' tip. Stan smiles]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wow, the Moses.
+</td></tr>
+<tr>
+<th>Moses:
+</th><td>His magic is a combination of centrifugal line and sleight of hand. Wait a minute: I'm picking up movement from Blaintologists from all over the country.
+</td></tr>
+<tr>
+<th>Lao Tse:
+</th><td>The Blaintologists are heading to Washington. But why?
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Wait a minute. At his performance David Blaine said something about trying to get tax-exempt status.
+</td></tr>
+<tr>
+<th>Joseph Smith:
+</th><td>Omigod!
+</td></tr>
+<tr>
+<th>Lao Tse:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Joseph Smith:
+</th><td>If he gets tax-exempt status, then he'll become a real religion.
+</td></tr>
+<tr>
+<th>Krishna:
+</th><td>He would become unstoppable
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Washington D.C., day. The Blaintologists have gathered around the Reflecting Pool in front of the Lincoln Memorial]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Meanwhile, in the nation's capital, Blaintologists from all over the country have gathered to commit mass suicide!
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td><i>[facing the audience, with the Washington Monument in the distance]</i> If the government will not give us tax-exempt status, then we must <i>prove</i> that we are willing to die for our beliefs, twah.
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>Alright, brothers and sisters, gather around. <i>[they do so]</i> It's time to drown ourselves in the Reflecting Pool! <i>[he steps down into the pool]</i> However, the-ah Reflecting Pool is a little more <i>shallow</i> than we originally thought, so to drown ourselves, you will need to lie on your stomach, face down, until you die, as such. <i>[drops down into the water and floats on his stomach, expelling air for a few seconds, then groans to death as water fills his lungs. The corpse begins to float away]</i>
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Next! <i>[A woman drops in, than a man...]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The White House, day. The White House staff gathers at one of the windows to watch. Shown are Princess, Laura and George W. Bush, Karl Rove, and Maggie]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Meanwhile, at the White House...
+</td></tr>
+<tr>
+<th>Karl Rove:
+</th><td>Mr. President, we <i>can't</i> let them all <i>kill</i> themselves!
+</td></tr>
+<tr>
+<th>George Bush:
+</th><td>Well we <i>can't</i> give them tax-exempt status either, Karl!
+</td></tr>
+<tr>
+<th>Larry:
+</th><td><i>[walks in]</i> He-e-ey George! What's gon' on?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Washington D.C., day. Cartman gets ready to flood Kyle, who's still in the glass dome, with a fire hose. More corpses float in the Reflecting Pool]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Alright, Brother Kyle, it is time for us to die! <i>[pushes the dome into the pool]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman! We've been brainwashed, don't you see? We don't have to do this!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[brings the hose over]</i> But it's the only way for us to be happy. <i>[plugs the hose into the dome and releases the water]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman, no!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Reflecting Pool, later]</i>
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Give us what we want or we will continue to die
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Not so fast, David Blaine!
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Jesus! Not again.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Yes! But this time, I've brought some help! Super Best Friends! <i>[they fly down as they are announced]</i>
+</td></tr>
+<tr>
+<th>Buddha:
+</th><td>Buddha!
+</td></tr>
+<tr>
+<th>Mohammad:
+</th><td>Mohammad!
+</td></tr>
+<tr>
+<th>Joseph Smith:
+</th><td>Joseph Smith!
+</td></tr>
+<tr>
+<th>Krishna:
+</th><td>Krishna!
+</td></tr>
+<tr>
+<th>Lao Tse:
+</th><td>Lao Tse!
+</td></tr>
+<tr>
+<th>Seaman:
+</th><td>Sea-Man!
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>The mass suicide is <i>over</i>, Blaine! And so are you!
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>I don't think so. Get them! [Blaintologists go on the attack. Two of them go for Mohammad, who shoots flames at them. They scream.]
+</td></tr>
+<tr>
+<th>Joseph Smith:
+</th><td>My ice breath should take care of you. <i>[blasts some air at an oncoming Blaintologist, who freezes in place]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[emerges from the crowd and looks around the Reflecting Pool]</i> Kyle! Kyle!
+</td></tr>
+<tr>
+<th>Blaintologist:
+</th><td>Sweet Salvation! <i>[Stan sees the man drown, then notices a boy in the pool]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kyle?? <i>[frantically, he goes into the pool and reaches the boy, turning him over. A few seconds of observation and... gasp]</i> Oh my God, they've killed Kenny!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[off-screen]</i> You bastards!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kyle? <i>[looks to his left and calls out]</i> Oh my God, they've killed Kenny!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[off-screen]</i> You bastards! <i>[Stan looks up and follows Kyle's voice]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh my God, they've killed Kenny!
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>That takes care of them.
+</td></tr>
+<tr>
+<th>Joseph Smith:
+</th><td>Now it's your turn, Blaine!
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Perhaps you need to see some <i>real</i> magic. <i>[floats up to Lincoln's left foot and touches it. His magic infuses the statue with life, and Lincoln breaks free from his chair]</i>
+</td></tr>
+<tr>
+<th>Lincoln:
+</th><td>Raaargh! <i>[steps down towards the crowd]</i>
+</td></tr>
+<tr>
+<th>Buddha:
+</th><td>Oh this looks like trouble.
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td><i>[floating high above the crowd]</i> So long, Super Best Fools!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[reaches Kyle]</i> Kyle!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Stan!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kyle, you can't kill yourself!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I don't want to kill myself. They rigged this thing to fill with water! <i>[tremulous footsteps are felt, and Lincoln is shown walking among the crowd of Blaintologists]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>We've gotta stop that oversized Abraham Lincoln! Mohammad! <i>[Mohammad rises into the air and blasts Lincoln with flames. Lincoln growls and swats Mohammad away with ease]</i> Great Scott!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[trying to drown himself from the edge of the Reflecting Pool]</i> Bliegh! <i>[rises. His body is on land]</i> Yugh. Uh, okay, try again. Hep <i>[dunks his head in the water again]</i>.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Shot of Washington D.C. from the Vietnam Memorial. Lincoln is taking buildings off their foundations and tossing them aside. Krishna, in the form of an eagle, flies over the scene. Flames are everywhere.]</i>
+</td></tr>
+<tr>
+<th>Mohammad:
+</th><td>It is too powerful, Jesus!
+</td></tr>
+<tr>
+<th>Krishna:
+</th><td><i>[lands]</i> It seems to have no weakness!
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>There has to be a way to destroy it. <i>[raises his left wrist to speak into the watch]</i> Jesus to Moses!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Hall of Super Best Friends, day, at that moment]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Meanwhile, at the Super Best Friends League...
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Come in, Moses!
+</td></tr>
+<tr>
+<th>Moses:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>We need to know how to kill a giant stone Abraham Lincoln.
+</td></tr>
+<tr>
+<th>Moses:
+</th><td>...Um... Let me think, um... a giant stone John Wilkes Booth?
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td><i>[thinks for a moment]</i> You heard him, Super Best Friends! We've got to make a giant stone John Wilkes Booth!
+</td></tr>
+<tr>
+<th>Mohammad:
+</th><td>Krishna, we're going to need wood for a mold!
+</td></tr>
+<tr>
+<th>Krishna:
+</th><td>Form of... a beaver! <i>[transforms into a beaver and runs off to chop down trees]</i>
+</td></tr>
+<tr>
+<th>Mohammad:
+</th><td>I will find sources to concrete. <i>[points to Seaman]</i> You, get the water to mix it with, Seaman. <i>[the other friends laugh]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Using the wood that Krishna cut down as a beaver, Jesus uses his master carpentry skills to make a giant mold.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>That should do the trick. Now for some concrete.
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Meanwhile, in the ocean depths, Seaman seeks out water to mix with the concrete.
+</td></tr>
+<tr>
+<th>Seaman:
+</th><td>Sea-Man! <i>[lands on the ocean bottom]</i> Look, Swallow, we should be able to divert the water with that pipe.
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>And so, Seaman and Swallow get to... get to work <i>[laughs]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Reflecting Pool, later. Water fills the bubble Kyle is in, and he struggles to breathe]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kyle, you have to hold your breath! <i>[a giant stone hand comes down and grabs the bubble as Stan looks on helplessly. Everyone backs away from the stone Lincoln as it holds Kyle in its left hand. Lincoln shakes Kyle around like a snow globe, and Stan gets mad]</i> Oh, very funny! <i>[Seaman and Joseph Smith pour the raw materials needed for a statue into Jesus' mold, and Mohammad fires the statue like a piece of clay. The likeness of John Wilkes Booth appears on the statue]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Lao Tse, bring it to life. <i>[Lao Tse puts index fingers to temples and shuts his eyes to concentrate on the task at hand]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Using his power of Taoism, Lao Tse becomes one with the giant stone John Wilkes Booth. <i>[the Booth statue begins to move. It breaks out of its mold, walks up behind the Lincoln statue, and fires one stone bullet into the back of Lincoln's head. Lincoln's head jerks back, and he falls forward, ending up face down. The bubble falls out of his hand and breaks up on the ground. Kyle is washed out]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Wagh. <i>[sits up]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>It worked. Now freeze over the pool so no one else can drown themselves! <i>[Quickly, Joseph Smith reaches the Reflecting Pool and blows ice-cold air over it. The water turns to white ice as other Blaintologists try to drown themselves. Cartman tries once more, but looks up quickly]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey, I was just about to do it.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Reflecting Pool, later. The crowd of Blaintologists is still there, and the water has melted]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Later, at exactly the same location...
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td><i>[now in his escape vehicle, on its own launcher]</i> Damn you, Super Best Friends!
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Your magic is no match for our powers combined, Blaine!
+</td></tr>
+<tr>
+<th>Blaine:
+</th><td>Then I guess you win this time, Super Best Fools! But I'll be back! <i>[he fires up the little rocket ship and takes off into the sky]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Goddamnit! <i>[behind him and the other Super Best Friends is a city in ruins]</i>
+</td></tr>
+<tr>
+<th>Buddha:
+</th><td>It's alright. Everything is as it should be.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Oh, shut up, Buddha!
+</td></tr>
+<tr>
+<th>Steven:
+</th><td>Our leader, he... he's <i>leaving</i> us! <i>[a Blaintologist, about to drown himself, looks up and sees the ship fly away]</i>
+</td></tr>
+<tr>
+<th>Blaintologist:
+</th><td>Don't leave us, David Blaine!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[with mic. Kyle and Cartman stand some distance to his left]</i> Listen up, everyone! <i>[the Super Best Friends gather behind him]</i> You don't need David Blaine to tell you how to live. See, cults are dangerous because they promise you hope, happiness and, maybe even an afterlife. But in return, they demand you pay money. Any religion that requires you to pay money in order to move up and... learn its tenets is wrong. See, all religions have something valuable to teach, but, just like the Super Best Friends learned, it requires a little bit of them all.
+</td></tr>
+<tr>
+<th>Blaintologist:
+</th><td>He's right. He... he's right! <i>[the crowd cheers, and Stan walks over to Kyle]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Thanks for saving us Stan. You're <i>my</i> Super Best Friend.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Your my Super Best Friend too, Kyle.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, that's so sweet you guys. <i>[Stan and Kyle are not amused]</i> You wanna go get a room so you can make out for a while? Heheheheheh <i>[Kyle turns and kicks Cartman in the groin, knocking him down]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[moves away so Stan can have a turn]</i> Haha, hehahaha.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[Stan kicks him]</i> Ah! <i>[Kyle's turn]</i> Ow, stop it! <i>[Stan's turn]</i> Ah! <i>[they continue taking turns kicking Cartman in the groin — Roshambo!]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Well, it looks like everything worked out. <i>[the Super Best Friends take off into the air]</i>
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>And so, Jesus and his companions leave Washington. But their return is assured, for there will always be a need for... the Super Best Friends!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>The Super Best Friends</b>.]</i>
+</td></tr></table>
+<p><br />
+</p><p><br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">504: "<a href="/wiki/Super_Best_Friends" title="Super Best Friends"><span style="color:white">Super Best Friends</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:504&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/David_Blaine" title="David Blaine">David Blaine</a> • 
+<a href="/wiki/Jesus" title="Jesus" class="mw-redirect">Jesus</a> • 
+<a href="/wiki/Krishna" title="Krishna">Krishna</a> • 
+<a href="/wiki/Joseph_Smith" title="Joseph Smith">Joseph Smith</a> • 
+<a href="/wiki/Lao_Tse" title="Lao Tse">Lao Tse</a> • 
+<a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> • 
+<a href="/wiki/Buddha" title="Buddha">Buddha</a> • 
+<a href="/wiki/Moses" title="Moses">Moses</a> • 
+<a href="/wiki/Seaman" title="Seaman">Seaman</a> • 
+<a href="/wiki/Super_Best_Friends_(Group)" title="Super Best Friends (Group)">Super Best Friends</a> • 
+<a href="/wiki/Hall_of_Super_Best_Friends" title="Hall of Super Best Friends">Hall of Super Best Friends</a> •
+<a href="/wiki/Blaintology" title="Blaintology">Blaintology</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Super_Best_Friends/Images" title="Super Best Friends/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s05e04-super-best-friends">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Fifth_Season" title="South Park: The Complete Fifth Season">South Park: The Complete Fifth Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 103/300000
+Post‐expand include size: 5443/2097152 bytes
+Template argument size: 89/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:25587-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Super_Best_Friends/Script?oldid=243405">http://southpark.wikia.com/wiki/Super_Best_Friends/Script?oldid=243405</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Five" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Five" title="Category:Scripts from Season Five">Scripts from Season Five</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":25587,"kv_wpage":"Super_Best_Friends\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Super_Best_Friends/Script","wgTitle":"Super Best Friends/Script","wgCurRevisionId":243405,"wgArticleId":25587,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Five"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Super_Best_Friends/Script","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":243405,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Super_Best_Friends/Script","fbReturnToTitle":"Super_Best_Friends/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Super_Best_Friends/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Super_Best_Friends/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Super Best Friends/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

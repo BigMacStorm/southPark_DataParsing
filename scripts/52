@@ -1,0 +1,2655 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Timmy 2000/Script,Timmy 2000,Timmy 2000/Trivia,South Park Studios,Official Scripts,Timmy,Skyler,Phil Collins,Ritalin,The Lords of The Underworld,Spilled Blood on the Footsteps of My Mind (Revisited)" />
+<meta name="description" content="General Trivia Images Script Watch Episode The official script for &amp;quot;Timmy 2000&amp;quot; was released by..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Timmy_2000/Script" />
+<meta name="twitter:title" content="Timmy 2000/Script" />
+<meta name="twitter:description" content="General Trivia Images Script Watch Episode The official script for &quot;Timmy 2000&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Eric Cartman Kenny McCormick Wen" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Timmy_2000/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Timmy 2000/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":13778,"pageIsArticle":true,"pageName":"Timmy_2000/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=13778,
+wgCategories=["Scripts","Scripts from Season Four"],
+wgPageName="Timmy_2000/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s16","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=13778&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=13778&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Timmy 2000/Script" />
+	<meta property="og:description" content="General Trivia Images Script Watch Episode The official script for &quot;Timmy 2000&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Eric Cartman Kenny McCormick Wendy Testaburger Principal Victoria Mr. Mackey Clinic Doctor Chef Pharmacist Timmy Burch Richard Burch Helen Burch Lords of the Underworld Skyler Jonesy Mark Mrs. McCormick Sharon Marsh Randy Marsh Sheila Broflovski Gerald Broflovski Liane Cartman M.C. Sisters of Mercy Hold No Pain Against the..." />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Timmy_2000/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Timmy_2000_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FTimmy_2000%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Timmy_2000/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Timmy_2000/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Timmy 2000/Script</h1>
+											<h2>&lt; <a href="/wiki/Timmy_2000" title="Timmy 2000">Timmy 2000</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Timmy_2000/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Timmy_2000/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Timmy_2000" title="Timmy 2000">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Timmy_2000/Trivia" title="Timmy 2000/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Timmy_2000/Images" title="Timmy 2000/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s04e04-Timmy-2000">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Timmy_2000" title="Timmy 2000">Timmy 2000</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Four" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan Marsh
+</li><li> Kyle Broflovski
+</li><li> Eric Cartman
+</li><li> Kenny McCormick
+</li><li> Wendy Testaburger 
+</li><li> Principal Victoria
+</li><li> Mr. Mackey
+</li><li> Clinic Doctor
+</li><li> Chef
+</li><li> Pharmacist
+</li><li> Timmy Burch
+</li><li> Richard Burch
+</li><li> Helen Burch
+</li><li> Lords of the Underworld
+<ul><li> Skyler
+</li><li> Jonesy
+</li><li> Mark
+</li></ul>
+</li><li> Mrs. McCormick
+</li><li> Sharon Marsh
+</li><li> Randy Marsh
+</li><li> Sheila Broflovski
+</li><li> Gerald Broflovski
+</li><li> Liane Cartman
+</li><li> M.C.
+</li><li> Sisters of Mercy Hold No Pain Against the Dark Lord
+</li><li> Charlie Rose
+</li><li> Phil Collins
+</li><li> Christina Aguilera monsters
+</li><li> Kurt Loder, host of MTV News
+</li><li> Dr. Shay
+</li><li> Announcers for MTV and VH1
+</li><li> Terrance and Phillip
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-13778-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13778-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13778-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13778-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13778-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic mon_hub_tv mon_sl_ic" data-ad-type="text"  data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td style="background:#709C22;"><i>[South Park Elementary, day. Mr. Garrison's classroom. The student stream in and take their seats]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, did you do all your homework last night?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah. But there was so much of it. I was up until two in the morning.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I know!
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Okay, children, I hope you all did your homework last night, because we're goin' to talk about pages 42 through 612. First of all, who can tell me what year the Founding Fathers got together? <i>[the class sits silently]</i> Let's see, how about...
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[praying softly at his desk]</i> Please don't call on me. Please, Jesus, don't let him call on me.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Wendy?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Phew!
+</td></tr>
+<tr>
+<th>Wendy:
+</th><td>1776.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Good job, Wendy. And what was that document called?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[praying]</i> Oh, please, God, don't let him call on me. Father in heaven, I beg of you-
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td><i>[points to]</i> Kyle?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, thank you Low-ord! Praise Jesus!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>The Declaration of Independence?
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Very good, Kyle. Now, who can tell me what famous person <i>wrote</i> the Declaration of Independence? <i>[Cartman drops low in his seat so as to hide behind Butters, seated in front of him]</i> Let's see. Oh, I know. How about the new student, Timmy? <i>[the camera and the class's eyes move to Timmy, who's grinning]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmiihh!
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>No, it wasn't you, Timmy. Try again.
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Heh-aaaaaah!
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Timmy, did you not do your homework?!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Erh Timmiihh!!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uh, Mr. Garrison, haven't you figured it out? Timmys' retarded.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Don't call people names, Stanley!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>But he <i>is</i>-
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Now, Timmy,—
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Haaaaah.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>—You need to work on your study skills!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Doo-uhh.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Are you mocking me?! Because if you are, I have no problem sending your butt to the principal's office!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>G'oh livin' a lie, livin' a lie, Timmawh!
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>THAT DOES IT!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The principal's office. Principal Victoria and Mr. Mackey talk to Timmy]</i>
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Well, Timmy. I just don't know what to do with you. You're getting very poor marks in school and the teachers are complaining that you aren't paying attention.
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Heh-aaaaaah!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uh young man, if you don't wanna be held back a grade, I suggest you start cooperating, m'kay?!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmiihh!
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Well, that does it! I'm suspending you, Timmy, until you can learn to respect your elders! <i>[pulls out a suspension form and starts filling it out]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Ehhha-a-a-ah.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Huh- hold on just a second there, Principal Victoria. <i>[she stops writing]</i> I think I may know what the problem is. <i>[walks to Timmy and stands behind him, checking him out ]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[softly]</i> Timmiihh.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Yes, of course.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>What??
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td><i>[Timmy is grinning, enjoying himself]</i> I think maybe Timmy is suffering from something called, "Attention Deficit Disorder," or ADD. It's very common in kids his age.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Oh!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[turns right and zooms away]</i> Timmiihh!
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Well, that certainly would explain it.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>It should be easy enough to find out. They have tests for that kind of thing now, m'kay?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[zooms across the room in the other direction]</i> Oolih oo livin' a lie, Timmehuh!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A clinic. Principal Victoria and Mr. Mackey have taken Timmy there to see a doctor]</i>
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>Alright, this is a very simple test which should determine without a doubt whether or not Timmy has Attention Deficit Disorder.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Good.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>M'kay.
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih.
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>Egh. Now, Timmy, I'm going to read you a book called, "The Great Gatsby," by F. Scott Fitzgerald. At the end of the novel I'll ask you a few questions. Are you ready?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Tim<i>mih.</i>
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td><i>[sits]</i> Okay, here we go. <i>[opens the book and clear his throat]</i> "In my younger and more vulnerable years, my father gave me some advice that I've been turning over in my mind ever since" <i>["since since since since..." The clock reads 2:01, but the hours begin to roll by: 3:24, 5:55, 9:09...]</i> "so we beat on, boats against the current, borne back ceaselessly into the past." <i>[closes the book. Both Mr. Mackey and Principal Victoria are asleep, his head resting on hers.]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Ha-a-a-a-a-h.
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>Okay now, Timmy. Can you tell me: In Chapter 7, what kind of car did Gatsby drive?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[fiddles around some, then turns aside]</i> Timmih!
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td><i>[rises and slams the book on the floor]</i> Well, that settles it!
+</td></tr>
+<tr>
+<th>Mr. Mackey, Principal Victoria:
+</th><td><i>[sit up]</i> Huh??
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>This young man definitely has Attention Deficit Disorder!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td><i>[rubs his eyes]</i> Oh oh, I nuh-I knew it.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>What can we do for him, doctor?
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>Well, ADD is fairly common in kids today. I'm gonna prescribe some Ritalin, and we'll see how that goes for little Timmy.
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[softly]</i> Timmih.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, next day. Mr. Garrison's classroom]</i>
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Hurry up, children, let's take our seats. <i>[Timmy rolls up with a note attached to his head]</i> You'd better have done your homework <i>last</i> night, Timmy. <i>[sees the note]</i> What's this? <i>[peels it off and reads it]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Tim-mih.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>A note from the principal? "Please excuse Timmy from all questions and all homework, as he has been diagnosed with Attention Deficit Disorder." <i>[puts the note down]</i> Oh, brother!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He doesn't have to do homework?
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>That's just swell, Timmy! Looks like you've outsmarted the principal and the counselor!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Very well, I guess you're excused from homework.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey wait. I think maybe <i>I</i> have Attention Diffunction Disorder.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, me too.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I've got ADD.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Me too.)
+</td></tr>
+<tr>
+<th>Other classmates:
+</th><td>Yeah, I've got it. Me too. Yeah. It's gay.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The clinic, later. The doctor is reading "A Farewell To Arms," by Ernest Hemingway, to the class now]</i>
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>"After a while I went out and left the hospital, and walked back to the hotel in the rain." <i>[sighs and closes the book. Kenny bangs his head against the wall cabinet. Tweek, Kyle, and Bebe sleep where they sit. Cartman is asleep on his back. Token, Stan, Wendy, Clyde, and Kevin are drowsy.]</i> Alright now, in Chapter 12, what kind of bottles did Miss Van Campen talk about? <i>[Kenny bangs head head again]</i> Anybody? <i>[Kenny bangs head head again]</i> Anybody?? My God, these children all have ADD! <i>[scribbles onto his notepad quickly]</i>
+</td></tr>
+<tr>
+<th>All the kids:
+</th><td><i>[sleepily]</i> Hooray.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[sleepily]</i> Hoo-ray.
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>It's Ritalin for all of you! <i>[writes out prescriptions]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A house. Rock music is heard. Next, Skyler and his band are shown practicing. They now have a name: Lords of the Underworld. They play, but don't sing, and thrust their heads down from time to time.]</i>
+</td></tr>
+<tr>
+<th>Drummer:
+</th><td>Dude, we suck!
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>Hey, that's not the right attitude, Jonesy! The Battle of the Bands is tomorrow night!
+</td></tr>
+<tr>
+<th>Jonesy:
+</th><td>Dude, we <i>never</i> win the Battle of the Bands! It's no big deal.
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td><i>[disbelieving]</i> Not a big deal! This year's winner gets to open for Phil Collins at Lalapalooblaza, and that's no big deal?!
+</td></tr>
+<tr>
+<th>Mark:
+</th><td>Hey, you guys, you'd better stop fighting.
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>We've just gotta practice more.
+</td></tr>
+<tr>
+<th>Jonesy:
+</th><td>Dude, we've been practicing for eight years, Skyler.
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>Hey, am I the leader of this band or not?! Huh, let's do it from the top! <i>[the band starts up again, then pause]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[outside]</i> Timmuuhh! <i>[the band riffs]</i> Coodalah Timmuh!
+</td></tr>
+<tr>
+<th>Jonesy:
+</th><td><i>[stops]</i> What was that?
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>Huh-I don't know, man. <i>[picks up the garage door opener and presses the button. The door rises to the sound of an angelic choir and orchestra and reveals the bright light outside. And in that light is Timmy.]</i> Whoaaa!
+</td></tr>
+<tr>
+<th>Mark:
+</th><td>Who is that?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmiihh!
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>You a singer, man?
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Rrrrr-laurlaurlah Timmehah! <i>[no reaction, but later, the band practices again. Timmy is with them now.]</i> Timmehuh! <i>[the band plays on, then stops]</i> Timmehh.
+</td></tr>
+<tr>
+<th>Jonesy:
+</th><td>Dude, that's hot!
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Pharmacy, day. Ms. McCormick receives her son's prescription.]</i>
+</td></tr>
+<tr>
+<th>Pharmacist:
+</th><td>There is your prescription, Ms. McCormick. A hundred dollars' worth of Ritalin.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>And he won't have Attention Deficit Disorder anymore?
+</td></tr>
+<tr>
+<th>Pharmacist:
+</th><td>We can only hope so. Next? <i>[the camera pulls back to show a line of kids with their moms. Kenny and his mom leave, and Stan arrives with his mom]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Oh, hi, Sheila.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Sharon, your son has Attention Deficit Disorder too?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Yes. I should have known. It all makes sense now. I could never get Stanley to pay attention when his grandfather told him stories about the '30s.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>I know what you mean. Kyle gets so hyper, sometimes he runs around and screams like a little eight-year-old.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...I <i>am</i> eight.
+</td></tr>
+<tr>
+<th>Pharmacist:
+</th><td>Next, please? <i>[Liane hands him the prescription]</i> What do we have here- ah! The Ritalin!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Yes.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's right. I got a bad case of ADD. No homework for me.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Mr. Pharmacist, this Ritalin doesn't have any side effects, does it?
+</td></tr>
+<tr>
+<th>Pharmacist:
+</th><td>Oh, no no, your son may experience a small lack of energy, but that's all.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Alright.
+</td></tr>
+<tr>
+<th>Pharmacist:
+</th><td>Oh, and he might start seeing little pink Christina Aguilera monsters, but that's to be expected.
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Oh my.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Battle Of The Bands. A four-member band is onstage. One member is on keyboards, a second is on drums, a third on guitar, and the fourth has the mic. The first and third have flaming hairdos]</i>
+</td></tr>
+<tr>
+<th>Band:
+</th><td>Look alive, lettin' it feel (so light). Lettin' it feel so light.
+</td></tr>
+<tr>
+<th>People in Audience:
+</th><td>Boooo!
+</td></tr>
+<tr>
+<th>Guy in flat top:
+</th><td>You suck! <i>[others laugh. The band clears out as the M.C. approaches the mic]</i>
+</td></tr>
+<tr>
+<th>M.C.:
+</th><td>Alright, that was "Sisters of Mercy Hold No Pain Against the Dark Lord," with their song, "Silk Blood On The Footsteps Of My Mind (Revisited)"
+</td></tr>
+<tr>
+<th>Singer:
+</th><td>We got the best response. We'll be opening for Phil Collins for sure.
+</td></tr>
+<tr>
+<th>M.C.:
+</th><td>And now it's time for our final band.
+</td></tr>
+<tr>
+<th>Guy in Audience:
+</th><td>Thank God! <i>[others laugh]</i>
+</td></tr>
+<tr>
+<th>M.C.:
+</th><td>Give it up for "Timmy and the Lords of the Underworld!" <i>[the curtains part amid a smattering of applause to reveal the Lords of the Underworld and Timmy rolls up to the mic. The audience is stunned]</i>
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>1 2 3 4 <i>[the Lords launch into their song]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih! <i>[a riff]</i> Timmih! Lehmeheuh! <i>[confused looks on people's faces]</i> Timmih!
+</td></tr>
+<tr>
+<th>Man 1:
+</th><td>Duhude, that handicapped dude ruhules!
+</td></tr>
+<tr>
+<th>Man 2:
+</th><td>Oo-yee-hee-yeh-hah!
+</td></tr>
+<tr>
+<th>Man 3:
+</th><td>You guys are terrible! How could you laugh at that poor kid?!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih Timmiihh! Timmehuh Timmih Timmiihh!
+</td></tr>
+<tr>
+<th>The Lords:
+</th><td><i>Lords of the Underworld.</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih, Timmiih!
+</td></tr>
+<tr>
+<th>The Lords:
+</th><td><i>Darkness fills my heart with pain.</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih oo livin' a lie! <i>[the four boys arrive]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, it's Timmy.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No way! <i>[Timmy says something incomprehensible]</i>
+</td></tr>
+<tr>
+<th>Man 3:
+</th><td>They're ridiculing that singer! <i>["habah kulaa!"]</i>Come on, let's get outta here! <i>[leaves with two others]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Sibilah Sibinlaahh! <i>[keeps babbling]</i>
+</td></tr>
+<tr>
+<th>The Lords:
+</th><td><i>The Lords of the Underworld.</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih, Timmih Timmitimmi Timmiih!
+</td></tr>
+<tr>
+<th>The Lords:
+</th><td><i>Darkness fills my heart with pain. [the song ends. Someone is carried across the field by the crowd]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmehahh! Timmeh Timmeh Sibinlah Timmih Sibinlah Timmih. Timmuh Timmuh Timmuh. <i>[one last power chord]</i> Timmeh!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That was awesuhome!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, Timmy ruhules!
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Boys! You shouldn't laugh at him! He's <i>handicapped!</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>But he's funny.
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>How would <i>you</i> like to be handicapped?! Do you think that would be funny?! You're making him feel bad!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[basking in the applause]</i> Hehaahh!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He looks pretty happy to me.
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Oh, you people make me sick! <i>[walks away]</i>
+</td></tr>
+<tr>
+<th>M.C.:
+</th><td>Dude, this is a no-brainer. This year's Battle of the Bands winner and the band that gets to open for Phil Collins at Lalapalablala is... TIMMY!
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td><i>[roars in approval]</i> Wooo!
+</td></tr>
+<tr>
+<th>Jonesy:
+</th><td><i>[flexes his arms]</i> We did it, dude!
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td><i>[moves forward]</i> Listen to them. They really love me. <i>[bows]</i> Wooo!!
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td><i>[responds]</i> Wooo!!
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>Yes! I'm a rocker! <i>[he and Jonesy throw their arms up in victory]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[PSB presents Charlie Rose]</i>
+</td></tr>
+<tr>
+<th>Charlie Rose:
+</th><td>Tonight, we analyze the new rock sensation, Timmeo <i>[a clip of it at the Battle of the Bands]</i>, the controversial new band that has taken the country by storm. <i>[the crowd cheers and holds up "TIMMY" signs. A woman lifts up her blouse to reveal her bra]</i> Already playing at several large venues this month <i>[the band is shown coming off a plane. Cameras flash at Timmy with the Lords of the Underworld behind him]</i>, the band prepares for its biggest gig, Lolapalooblaza, where they will open for Phil Collins. But Phil Collins is not happy.
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td><i>[in the middle of a street holding his Oscar]</i> Well, I thinks it's a horrible tragedy, idn't it? I mean, people aren't gonna see Timmy for his musical skills. They're laughin' at 'im, and I think you shouldn't laugh at people with disabilities!
+</td></tr>
+<tr>
+<th>Man:
+</th><td><i>[appears in the background and points at Phil]</i> Hah haha.
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td>Society has to learn how to be more compassionate! This is gonna stop if I have to stop it myself!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Bus stop, next day. Stan and Kyle await the bus]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, did you see that stuff Phil Collins was saying about Timmy?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, what a dick. Timmy's five times more talented than he is.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[arrives with Kenny and speaks mellowly]</i> Hey guys, have you been takin' your Ritalin?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Huh? No, we're not actually gonna take that stuff.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No, dude, you gotta try it. <i>[hands a bottle to Kyle]</i> It makes you feel good.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[also mellow]</i> (Good.) <i>[Kyle takes a couple of pills, then tosses the bottle to Stan]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, day, kitchen]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Hello there, children.
+</td></tr>
+<tr>
+<th>Stan, Kyle, Cartman:
+</th><td>Hello, Chef.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Hello, Chef.)
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>How's it goin'?
+</td></tr>
+<tr>
+<th>Stan, Kyle, Cartman:
+</th><td>Very well, thank you.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Very well, thank you.)
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[incredulous]</i> Everything's fine?? Why??
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Because we're on Ritalin.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>What??
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We all have Attention Deficit Disorder. So we all started taking Ritalin.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>It really takes the edge off, man. You should try it. <i>[shakes two pills out of his bottle and swallows them]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>So <i>that's</i> why all you children are acting so damned boring!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That's correct, Chef.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Damnit, children, you don't need drugs to make you pay attention in school! In my day, if we didn't pay attention we got a belt to the bottom! Now they're tryin' to cure everything with drugs!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yes, but now we don't have any homework, so we can go see Timmy play downtown at Mile High Stadium
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh boy oh boy.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Oh boy.)
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oh, it makes me sick! Those damned psychologists prescribe all kinds of medicines to you children without even carin' about the side effects.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>But there are no side effects, Chef.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, not at all. <i>[Cartman looks away and a Christina Aguilera monster appears]</i>
+</td></tr>
+<tr>
+<th>Christina Aguilera monster:
+</th><td>Rown! <i>[Cartman rubs his eyes, and she's gone]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Did you guys see that?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>See what?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[MTV News. A satellite revolves around the logo]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>You're watching MTV, the cool, brainwashing, twelve-year-old-and-younger station that hides behind a slick image. We're so cool that we decide what's cool. And now, MTV News, the news that is singlehandedly dumbing down our country. Which is cool. Here's your host, Kurt Loder.
+</td></tr>
+<tr>
+<th>Kurt Loder:
+</th><td><i>[framed by seven monitors showing the following: the MTV logo, The Cure's Robert Smith, a rotating Earth, Ozzy Osbourne, KoRn, Elton John, and Rick James]</i> Why am I still doing this? I've got to be the oldest person in this network by at least 40 years.
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td><i>[the logo takes up the whole screen]</i> Kurt Loder didn't just say that. No way, he <i>did</i> just say it, but just to be cool. That's what makes him cool. You think Kurt Loder is cool. And now, the news that's cool.
+</td></tr>
+<tr>
+<th>Kurt Loder:
+</th><td>Well, it's only two weeks until Lalapalalababa, and the headlining band has changed. Now headlining the event is Timmy <i>[a shot of him]</i>, the new hit sensation out of Colorado. This news came as a shock to the performer that <i>was</i> going to headline Lalapalabala, Phil Collins.
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td><i>[now in South Park with his Oscar]</i> Well, I think the sad question is, "Where are the parents in all this?" I mean, that kid's parents are lettin' him be exploited, and they don't even seem to care.
+</td></tr>
+<tr>
+<th>Kurt Loder:
+</th><td><i>[A limo with police escort pulls up to a house]</i> And so, Phil Collins decided to travel to South Park and personally pay Timmy's parents a visit. <i>[Phil gets out of the limo and goes to the front door]</i>
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td><i>[in the living room]</i> Well, I mean, why are you lettin' 'em do this to your son? Don't you see that everyone's just laughin' at him?
+</td></tr>
+<tr>
+<th>Richard:
+</th><td>Richarrrrd!
+</td></tr>
+<tr>
+<th>Helen:
+</th><td>Helennnn!
+</td></tr>
+<tr>
+<th>Richard:
+</th><td>'Oodleahah.
+</td></tr>
+<tr>
+<th>Kurt Loder:
+</th><td>Phil Collins warns that a novelty band that makes fun of the handicapped should <i>not</i> be allowed to play Lalapalablalala, and vows to do everything in his power to stop it. Phil Collins, by the way, divorced his wife via fax and then married a 27-year-old. I'm Kurt Loder, and that's the news.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, day, Mr. Garrison's class. The school bell rings]</i>
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Okay, children, let's settle down! <i>[the class is seated and attentive]</i> Huhh I mean it; I want quiet! <i>[the class is already quiet]</i> My God, Mr. Hat, these children are so boring on Ritalin. <i>[Clyde rubs his nose]</i> Huh, ah! Alright, children, today we're gonna learn about human reproduction. What do you think about that?! <i>[draws the words out slowly, but the class remains silent]</i> Vaginas, and penises. Butt sex. <i>[no one moves]</i> Well, dammit, Eric, don't you have some smartass thing to say?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[Clyde is a bit shocked]</i> What kind of smartass thing would I say, Mr. Garrison?
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td><i>[grabs his head a few times]</i> This is driving me crazy!! I can't handle you little bastards being so mellow!!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Gee, you seem a little stressed, Mr. Garrison. Why don't you try some Ritalin? <i>[has the bottle out. Mr. Garrison thinks a bit, then goes for the bottle, opens it up, and chugs some pills down]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>There you go. <i>[smiles, then frowns]</i>
+</td></tr>
+<tr>
+<th>Christina Aguilera monster:
+</th><td><i>[comes out from behind Mr. Garrison's desk]</i> Rowr.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Whah!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Mile High Stadium: "Tonight Only. TIMMY!!! Sold Out."]</i>
+</td></tr>
+<tr>
+<th>A singer:
+</th><td>Thank you, South Park! Good night!
+</td></tr>
+<tr>
+<th>Jonesy:
+</th><td><i>[exits the dressing room with the other band members]</i> Alright, let's rock this house! Hello Miami!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmiihh! <i>[Skyler trails the others, and Phil Collins appears in a hallway intersection next to the dressing room]</i>
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td>Excuse me, Skyler Moles?
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td><i>[stops and turns]</i> Yeah?
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td>Nice to meet you. I'm Phil Collins.
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>Oh, yeah. You're opening for us as Lalapalazabla.
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td>I just wanted to tell you that, well, I think that you're a great guitar player and song writer.
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>Oh, thanks a lot. I appreciate that. Gotta run. <i>[turns and starts walking away]</i>
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td>It's too bad those other guys are holdin' you back.
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td><i>[stops and looks back]</i> Huh?
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td>Well, I mean, it's obvious all the talent and artistic vision in the band comes from you. Strange, how everyone focuses n Timmy, idn't it? I mean, even the name of the band is "Timmy,"
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>Nuh-nn, the name of the band is Timmy and the Lords of the Underworld.
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td>Look, I used to be in a band, too. Genesis. And all those bastards did was hold me back and hold me back. But then, finally, I went solo. And that's when I started writing really <i>great</i> songs. But look, if you happen to be on the sidelines, you know, bein' more of a cheerleader than a player, well, then I guess you should stay on as Timmy's shadow.
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td><i>[dejected, walks away and looks back]</i> Uh, thanks man. See ya.
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td>That should just about put an end to all this Timmy nonsense. <i>[kisses his Oscar]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Mile High Stadium, later.]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmuh! <i>[the Lords of the Underworld have finished their song]</i>
+</td></tr>
+<tr>
+<th>Jonesy:
+</th><td><i>[leads the others into the dressing room]</i> Another great show, man. There must have been a hundred thousand people out there.
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td><i>[tosses his guitar aside]</i> Yeah. All of them chanting "Timmy, Timmy."
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[rolls in]</i> Timmih!
+</td></tr>
+<tr>
+<th>Jonesy:
+</th><td>What's the matter, Skyler?
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>The name of the band is Timmy AND the Lords of the Underworld, not just Timmy.
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmiihh!
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>And the Lords of the Underworld!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmiihh!
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>It's always about you, isn't it?! I'm sick of it! Timmy gets all the applause! Timmy gets all the chicks! Well, you know what?! Forget you, man!
+</td></tr>
+<tr>
+<th>Mark:
+</th><td>Skyler, Timmy is what made our band famous.
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td><i>[spins around and points]</i> Shut up, Monsy! You can stay and deal with Mr. Egomaniac here, but I'm movin' on! <i>[heads for the door]</i> I don't need Timmy! <i>[grabs Monsy's guitar on the sofa]</i> I'm goin' solo!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmiihh!
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td><i>[at the door]</i> No! Don't try and stop me, man! <i>[turns to exit]</i> I'll see you on fame's backside. <i>[leaves]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Ooo livin' a lie!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22">
+</td></tr>
+<tr>
+<th>Phillip:
+</th><td>Terrance, what brand of pants am I wearing?
+</td></tr>
+<tr>
+<th>Terrance:
+</th><td><i>[bends to look]</i> Let me see. <i>[Phillip farts on him and they crack up]</i>
+</td></tr>
+<tr>
+<th>Phillip:
+</th><td>How do you like that, Terrance?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Let's watch something else.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yes, let's. <i>[Cartman starts channel-surfing, then stops]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>You're watching VH1.
+</td></tr>
+<tr>
+<th>The Boys:
+</th><td>Ahhhh.
+</td></tr>
+<tr>
+<th>Anchor:
+</th><td>Here's Lalapalalala's news. The hit group Timmy has broken up.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh dear. Timmy's band broke up?
+</td></tr>
+<tr>
+<th>Anchor:
+</th><td>And so, Phil Collins is back on as the headliner. The opening band now will be Timmy's guitarist Skyler's new solo project, Reach for the Skyler.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You know something? I think that's good. It was wrong to make Timmy a singer.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah. Phil Collins was right. People laughed at Timmy, and Timmy should be at home, where he's protected from laughter.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I agree. You know what, you guys? We should go to the concert anyways and see Phil Collins.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah. I think Phil Collins rocks the house.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Sounds good.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>So it's decided: Phil Collins concert for all of us. <i>[a Christina Aguilera bug is crawling all over Kenny]</i> Hooray. <i>[looks]</i> Oh oh. Hold still, Kenny. <i>[takes his pan and swings it at Kenny. It strikes, and Kenny's face is smashed in. Kenny falls forward, hits the floor, and a puddle of blood forms under him]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh my goodness, you killed Kenny.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Bastard.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house. Several parents are gathered in the living room. Chef speaks]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Parents, I called you all together because I think you might be making a mistake puttin' your children on Ritalin. <i>[Along with Stan's parents, Kyle's parents, Tweek's parents, Liane Cartman, Craig's parents, and another set of parents are present]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Uh, but our kids have Attention Deficit Disorder, Chef. They can't pay attention in school without it.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>I know you wanna help your kids, but I brought over a videotape to show you that there are alternative' to Ritalin. There's this doctor in Northern California who is doin' real amazing things with kids who have ADD. I want you to watch this tape. <i>[puts in the tape. The VCR does the rest]</i>
+</td></tr>
+<tr>
+<th>Dr. Shay:
+</th><td>Hello, I'm Dr. Richard Shay, here to tell you about my exciting new drug-free treatment for children with Attention Deficit Disorder. <i>[three kids are in a classroom setting, acting up. Dr. Shay enters]</i> This treatment is fast and effective and doesn't use harmful drugs. Watch closely as I apply treatment to the first child.
+</td></tr>
+<tr>
+<th>Girl:
+</th><td><i>[Dr. Shay walks up to her and listens as she rattles off]</i> I want a horse. I want a big brown horse with a brown-and-black tail, and a diamond tiara- <i>[he smacks her behind the ear]</i> Ah!
+</td></tr>
+<tr>
+<th>Dr. Shay:
+</th><td>Sit down and study! <i>[she looks at him scared, then picks up a book and opens it, looking at him all the while. He moves on to the boy in the middle desk]</i>
+</td></tr>
+<tr>
+<th>Boy 1:
+</th><td>Woohoo, let's go sledding, let's go race and race, let's go! <i>[Dr. Shay smacks him too, making him turn aside. He turns back]</i>
+</td></tr>
+<tr>
+<th>Dr. Shay:
+</th><td>Sit down and study!
+</td></tr>
+<tr>
+<th>Boy 1:
+</th><td><i>[looks at him, then starts crying]</i> Wwaaahahahahaaha <i>[Dr. Shay smacks him again. The other boy stops and looks]</i>
+</td></tr>
+<tr>
+<th>Dr. Shay:
+</th><td>Stop crying and do your schoolwork! <i>[the boy opens his book. He and the girl start reading. The Dr. moves over to the other boy, and he just cracks open his book and reads. The doctor address the camera]</i> If you would like more information on my bold new treatments, please send away for this free brochure, entitled, "You can either calm down, or I can pop you in the mouth again." Thank you. <i>[Chef turns the tape off]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Well, what do you think? I can have Dr. Shay come to South Park for a small fee.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>That video had pretty colors.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>It sure did.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>What the...? Dammit! Have you all been taking your children's Ritalin too?!
+</td></tr>
+<tr>
+<th>Parents:
+</th><td>Yes.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Awww, fudge it! <i>[throws the remote aside. The boys enter]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Chef, are you going to the Phil Collins concert tomorrow?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>The what?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Phil Collins is playing Lalapalala's, and because we're all doing so well in school now, our parents said they would take us.
+</td></tr>
+<tr>
+<th>Parents:
+</th><td>Yes.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Hold on a second: you children <i>want</i> to go see Phil Collins?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yes. His flowing melodies are really enjoyable to us.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oh my God!!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come, see him with us.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yes, come with us. Come with uusss. Haaa, it's Christina Aguilera again! <i>[runs around]</i> She's on my back! Hah! <i>[leaves]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>That does it! That Ritalin has affected your little cracker brains too deeply! I'm going to go see that damn pharmacist!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Pharmacy, after hours. The pharmacist and the clinic doctor are talking, and the doctor counts some money]</i>
+</td></tr>
+<tr>
+<th>Pharmacist:
+</th><td>Look at that. Ritalin stocks are up ten points.
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>That's easily another twenty grand apiece! <i>[the pharmacist laughs and Chef arrives]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[pounds on the door]</i> Hey, open this damn door. <i>[the doctor and pharmacist cover the money and go to the front door.]</i>
+</td></tr>
+<tr>
+<th>Pharmacist:
+</th><td>Can I help you?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Yes you can! What the hell are you two doin' prescribing all the children Ritalin?!
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>Well, they've all been diagnosed with ADD. That's Attention Deficit-
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>I know what it is! But now you've got a town full of zombie children from the planet Zandor.
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>Huh?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>All around the country, you bastard doctors are giving children Ritalin! And for every one child that actually needs it, you give it to 50,000 that don't!
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>Hey now, don't tell us our business, Mr. Chef. Why, we-
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>You're damn right I'll tell you yo' business, because you two have got your heads up your asses! Thanks to you, we have children in our town that like Phil Collins!
+</td></tr>
+<tr>
+<th>Pharmacist:
+</th><td>Eh wuh, what?? <i>[he and the doctor are shocked]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>That's right! You've made them so dull and boring that they're actually going to go to a Phil Collins concert!
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>Mm- my God. What have we done?? <i>[beings to weep]</i>
+</td></tr>
+<tr>
+<th>Pharmacist:
+</th><td>Well, if I had known... Phil Collins, uh, my God! <i>[beings to weep as well]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Well, how do we reverse the Ritalin?!
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>We uh... have to convince them not to take it, but, ahah ih it'll be hard to get it away from them.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Then we need an antidote!
+</td></tr>
+<tr>
+<th>Pharmacist:
+</th><td>Yes, of course.
+</td></tr>
+<tr>
+<th>Clinic Doctor:
+</th><td>Uh, what's the antidote for Ritalin?
+</td></tr>
+<tr>
+<th>Pharmacist:
+</th><td>I have some right here. <i>[takes a bottle from a medicine case]</i> It's a compound called "Ritalout."
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Alright. Come on, we've got to get the antidote to all the children. Quick! <i>[rushes out]</i>
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td><i>[the crowds clap to the rhythm]</i><br />Last night I went, "O!"<br />Bubudio<br />Last night I went "Bubudio"
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[leads the doctor and pharmacist to a lemonade stand.]</i> Here. We can put the Ritalin antidote in these drinks and hand them out to the children. <i>["Last night I went 'Bubudio.'" The pharmacist starts placing the Ritalout tablets in the drinks]</i>
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td><i>Last night I went, "O!"</i>Bububudio. [takes a bow. People clap a bit]
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Wasn't that great, son?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Sure was, Dad.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>It's so wonderful to be on the same wavelength as our kids.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[arrives with a tray of lemonade]</i> Here you go, Stan and Kyle. Free drinks on me. <i>[Kyle reaches for his drink and takes a sip]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh, thank you, Chef. How nice. <i>[takes a glass. He and Kyle drink at the same time as Chef leaves]</i>
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td>I know. I'd like to sing the complex and amazing song that won me the Oscar, a song entitled, "You'll Be In... Me." <i>[goes to the piano, sets the Oscar on the piano top and starts playing it]</i> Thanks.<i>You're inside of me.</i>Deep inside of me. [Chef hands drinks to more kids]So deep inside, I can feel you pushing against my heart.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Come on, drink it down. It's free.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>You'll be inside of me...</i>
+</td></tr>
+<tr>
+<th>Christina Aguilera monster:
+</th><td><i>[appears on his shoulder]</i> Rowr.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Huh? Oh no! Agh! <i>[tries to shake it off as it nibbles on his shoulder]</i> Get off me! Get off me! Somebody help!! Please?? Somebody get it off of me!! Get it off of me.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I feel... different.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah. <i>[the monster munches loudly on Cartman]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Get off of me, Christina Aguilera! Alright?! Please! Hegh, hegh<i>[the monster still munches on him as he rolls on the ground]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[arrives]</i> Drink this, Eric. <i>[pours the lemonade Ritalout into Cartman's mouth, and the Christina Aguilera monster dissolves]</i> God help me! Heh, get it... <i>[turns over on his stomach]</i> She's gone! Thank God!
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td><i>[looks at the audience]</i> Well, thanks! <i>[continues playing. The camera focuses n Stan and Kyle...]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wait a minute! Phil Collins sucks ass!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah! What the hell were we thinking?! Boooooo!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[returns to the doctor and pharmacist]</i> I think it's working.
+</td></tr>
+<tr>
+<th>Audience:
+</th><td>Booooo!!
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td><i>[stops the music]</i> Shut your filthy holes, you little bastards!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Get off the stage, Phil Collins! We want Timmy!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td>You just wanna laugh at him.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No! <i>[steps forward]</i> You see, we learned something today. Yeah, sure, we laughed at Timmy, but what's wrong with laughter? Just because we laugh at something doesn't mean we don't care about it. Timmy made us smile, and playing made Timmy smile, so where was the harm in that? The people that are wrong are the ones that think people like Timmy should be "protected" and kept out of the public's eye. The cool thing about Timmy being in a band was that he was in your face, and you <i>had</i> to deal with him, whether you laughed or cried, or felt nothing. That's why Timmy rules!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah! Tim-my! Tim-my!
+</td></tr>
+<tr>
+<th>Audience:
+</th><td>Tim-my! Tim-my! Tim-my! Tim-my!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A desert near town. Mark and Timmy stand outside, Jonesy sits on the running board]</i>
+</td></tr>
+<tr>
+<th>Jonesy:
+</th><td>Man, it sucks not being part of Lalapalabala. <i>[The cry begins to reach them: "Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>Mark:
+</th><td>Yeah. <i>["Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td><i>[returns to the band]</i> Hey dudes. <i>["Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>Jonesy:
+</th><td>Skyler, what are you doing here?! <i>["Tim-my! Tim-my!"]</i> Isn't Reach for the Skyler supposed to play soon? <i>["Tim-my! Tim-my! Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>They booed Phil Collins off the stage. Everyone's chanting for Timmy and the Lords of the Underworld. <i>["Tim-my! Tim-my! Tim-my! Tim-my! Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>Mark:
+</th><td><i>["Tim-my!"]</i> Oh, so now that they want us, you think you can waltz, um, back into our lives and be in the band again? <i>["Tim-my! Tim-my! Tim-my! Tim-my! Tim-my! Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>I don't expect anything. Timmy, I-gh... Well, I just wanted to say we had some pretty rockin' times, dude, and... maybe I let fame and Phil Collins go to my head... <i>["Tim-my! Tim-my! Tim-my! Tim-my! Tim-my! Tim-my! Tim-my! Tim-my! Tim-my! Tim-my! Tim-my! Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmih! <i>["Tim-my! Tim-my! Tim-my! Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>Jonesy:
+</th><td><i>[stands]</i> Wow. They really are chanting for us. <i>["Tim-my! Tim-my! Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>Mark:
+</th><td>Hn they want us back. <i>["Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>Skyler:
+</th><td>What do you say, Timmy? <i>["Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Rrr, rrr, uh, Timmih. <i>["Tim-my! Tim-my!"]</i>
+</td></tr>
+<tr>
+<th>The Lords:
+</th><td>Alright!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Lalapalalapaza concert.]</i>
+</td></tr>
+<tr>
+<th>Host:
+</th><td>Ladies and gentlemen, without further ado, it is my pleasure to introduce the reunion tour of Timmehuh!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td><i>[rolls up to the mic]</i> Timmiihh, and the Lords of the Underworld! <i>[Skyler looks over at Timmy with pride, then starts the band up]</i> Timmiihh! <i>[he's learned to move like the other band members do]</i> Timmih! Livin' a lie-ah! <i>[Stan and Kyle grin. Kyle then waves. Chef, the pharmacist and the doctor sway to the music]</i> Hidilah Timmy! <i>[his parents, Richard and Helen, are there]</i> Timmuh- Timmiihh! Timmehuh Timmih Timmiihh!
+</td></tr>
+<tr>
+<th>The Lords:
+</th><td><i>And the Lords of the Underworld.</i>
+</td></tr>
+<tr>
+<th>Phil Collins:
+</th><td><i>[being moved over the audience]</i> Put me down, you filthy bastards! <i>[he's turned face down, and his Oscar is sticking out of his ass]</i> Awwww!
+</td></tr>
+<tr>
+<th>Timmy:
+</th><td>Timmiihh uluh-livin' a lie!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End credits roll, and Timmy and the Lords of the Underworld play on. End of <b>Timmy 2000</b>.]</i>
+</td></tr></table>
+<p><br />
+<br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">404: "<a href="/wiki/Timmy_2000" title="Timmy 2000"><span style="color:white">Timmy 2000</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:404&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Timmy" title="Timmy" class="mw-redirect">Timmy</a> • 
+<a href="/wiki/Skyler" title="Skyler" class="mw-redirect">Skyler</a> • 
+<a href="/wiki/Phil_Collins" title="Phil Collins">Phil Collins</a> • 
+<a href="/wiki/Ritalout" title="Ritalout">Ritalout</a> •
+<a href="/wiki/Ritalin" title="Ritalin">Ritalin</a> •
+<a href="/wiki/The_Lords_of_The_Underworld" title="The Lords of The Underworld" class="mw-redirect">The Lords of The Underworld</a> •
+"<a href="/wiki/Spilled_Blood_on_the_Footsteps_of_My_Mind_(Revisited)" title="Spilled Blood on the Footsteps of My Mind (Revisited)">Spilled Blood on the Footsteps of My Mind (Revisited)</a>" •  
+"<a href="/wiki/Bu_Bu_Budio" title="Bu Bu Budio">Bu Bu Budio</a>" •  
+"<a href="/wiki/Timmy_and_the_Lords_of_the_Underworld_(song)" title="Timmy and the Lords of the Underworld (song)">Timmy and the Lord of the Underworld</a>"
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Timmy_2000/Images" title="Timmy 2000/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s04e04-timmy-2000">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Fourth_Season" title="South Park: The Complete Fourth Season">South Park: The Complete Fourth Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 98/300000
+Post‐expand include size: 5354/2097152 bytes
+Template argument size: 57/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:13778-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Timmy_2000/Script?oldid=244099">http://southpark.wikia.com/wiki/Timmy_2000/Script?oldid=244099</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Four" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Four" title="Category:Scripts from Season Four">Scripts from Season Four</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":13778,"kv_wpage":"Timmy_2000\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Timmy_2000/Script","wgTitle":"Timmy 2000/Script","wgCurRevisionId":244099,"wgArticleId":13778,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Four"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Timmy_2000/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":244099,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Timmy_2000/Script","fbReturnToTitle":"Timmy_2000/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Timmy_2000/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Timmy_2000/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Timmy 2000/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

@@ -1,0 +1,2753 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Ike's Wee Wee/Script,Ike's Wee Wee,South Park Studios,Ike Broflovski,Dr. Schwartz,Hava Nagila,Ike's Wee Wee/Images,Ike's Wee Wee/Trivia,Mr. Mackey,Official Scripts,South Park: The Complete Second Season" />
+<meta name="description" content="General Trivia Images Script Watch Episode The official script for &amp;quot;Ike&amp;amp;#39;s Wee Wee&amp;quot; was..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Ike%27s_Wee_Wee/Script" />
+<meta name="twitter:title" content="Ike's Wee Wee/Script" />
+<meta name="twitter:description" content="General Trivia Images Script Watch Episode The official script for &quot;Ike&amp;#39;s Wee Wee&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Eric Cartman Kenny McCorm" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Ike%27s_Wee_Wee/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Ike's Wee Wee/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":13825,"pageIsArticle":true,"pageName":"Ike\'s_Wee_Wee/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=13825,
+wgCategories=["Scripts","Scripts from Season Two"],
+wgPageName="Ike\'s_Wee_Wee/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s23","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=13825&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=13825&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Ike's Wee Wee/Script" />
+	<meta property="og:description" content="General Trivia Images Script Watch Episode The official script for &quot;Ike&amp;#39;s Wee Wee&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Eric Cartman Kenny McCormick Mr. Mackey Devil Mackey Angel Mackey Gerald Broflovski Sheila Broflovski Uncle Murray Dr. Schwartz Chef Mr. Garrison Mr. Hat Ike Broflovski Jimbo Kern Ned Gerblansky Principal Victoria Bartender Hap Mr. Freely Bum Train Station Clerk Sylvester The A-Team Mr. T Betty Ford Clinic Counselor..." />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Ike%27s_Wee_Wee/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Ike_s_Wee_Wee_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FIke%2527s_Wee_Wee%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Ike%27s_Wee_Wee/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Ike&#039;s_Wee_Wee/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Ike's Wee Wee/Script</h1>
+											<h2>&lt; <a href="/wiki/Ike%27s_Wee_Wee" title="Ike's Wee Wee">Ike's Wee Wee</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Ike%27s_Wee_Wee/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Ike%27s_Wee_Wee/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Ike%27s_Wee_Wee" title="Ike's Wee Wee">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Ike%27s_Wee_Wee/Trivia" title="Ike's Wee Wee/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Ike%27s_Wee_Wee/Images" title="Ike's Wee Wee/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s02e04-Ikes-Wee-Wee">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Ike%27s_Wee_Wee" title="Ike's Wee Wee">Ike&#39;s Wee Wee</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Two" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan Marsh
+</li><li> Kyle Broflovski
+</li><li> Eric Cartman
+</li><li> Kenny McCormick
+</li><li> Mr. Mackey
+<ul><li> Devil Mackey
+</li><li> Angel Mackey
+</li></ul>
+</li><li> Gerald Broflovski
+</li><li> Sheila Broflovski
+</li><li> Uncle Murray
+</li><li> Dr. Schwartz
+</li><li> Chef
+</li><li> Mr. Garrison
+</li><li> Mr. Hat
+</li><li> Ike Broflovski
+</li><li> Jimbo Kern
+</li><li> Ned Gerblansky
+</li><li> Principal Victoria
+</li><li> Bartender
+</li><li> Hap
+</li><li> Mr. Freely
+</li><li> Bum
+</li><li> Train Station Clerk
+</li><li> Sylvester
+</li><li> The A-Team
+<ul><li> Mr. T
+</li></ul>
+</li><li> Betty Ford Clinic Counselor
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-13825-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13825-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13825-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13825-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-13825-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsm_ffv mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="medium"data-font-face="veranda" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td style="background:#709C22;"><i>[South Park Elementary, Garrison's classroom]</i>
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Okay, children, let's take our seats. This morning we're going to have a special lecture by your school counselor, Mr. Mackey. <i>[who passes in front of Garrison and gets ready to speak]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[imitating the counselor]</i> Booooo!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Nuh-now, who was that? <i>[no one speaks]</i> That is <i>not</i> appropriate behavior, m'kay?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[mimicking]</i> I'm sorry, Mr. Mackey, m'kay?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uh... That's okay, just don't let it happen again.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[following Stan's lead]</i> We won't let it happen again, Mr. Mackey, m'kay? <i>[the others laugh]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uh, okay, okay, that's fine.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Okay?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Okay. <i>[more laughs]</i> Now, uh, as your counselor, I'm here to tell you about drugs and alcohol and why they're bad, m'kay? Uh, so, first of all, uh, smokin's bad. <i>[writes "smoking" on the board]</i> You shouldn't smoke. And-uh, alcohol is bad. <i>[writes "alcohol" on the board]</i> You shouldn't drink alcohol. And-uh, as for drugs, well, drugs are bad. You shouldn't do drugs. Okay, that about wraps up my introduction, now uh, are there any questions? <i>[Stan's hand is up]</i> Yes, Stan?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Why do dogs have cold noses?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uhhh, well, I'm not sure.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Now-uh, let's focus our discussion first on marijawana. <i>[marijuana - writes it on the board]</i> Marijawana's bad, and it also has a very distinct smell, okay? I'm gonna pass around just a little tiny bit. Now, I want you all to take a smell, <i>[Pip takes the Petri dish with the marijuana leaf in it and just looks at it. The others look at him]</i> so you know when someone is smoking marijawana near you. M'kay, just take a smell, pass it on, <i>[Pip sniffs at it, then passes it back to Bill]</i> and when it gets back up to me, <i>[Bill sniffs at it]</i> we'll finish talking about it. In the meantime, I want to get into alcohol a little, okay? Uh, alcohol is bad. Uh, if you drink alcohol you…
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, are you guys gonna come to Ike's party this weekend?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Your little brother's having a party? Why, is it his birthday?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, it's his bris.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What the hell is a "bris"?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I don't know. But there's gonna be lots of food, and a band.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, kick ass! I wanna have a bris!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>…and so uh, that's why alcohol is bad. Uh, ha-has that marijawana made it back up here yet? <i>[no answer from the class]</i> No? O-okay. Let's talk about LSD. <i>[writes it on the board]</i> Uh, children, LSD i-is bad. It's a drug made famous by John Lennon and Paul McCartney…
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, are we supposed to get your little brother <i>presents</i> for a bris?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Uhhh... I'm not sure.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Well, dude, you better find out!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Boys, are you paying attention?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Sorry, Mr. Mackey, m'kay?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Okay. Now, children, has that marijawana made it around yet? <i>[no response]</i> Uhh, who-who has the marijawana now? <i>[Stan blinks]</i> Ummm okay, whoe-whoever has the marijawana, just pass it up to the front row, m'kay? <i>[not a thing]</i> Uh-oh.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Principal Victoria's office. Somebody's gonna get it]</i>
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>I am <i>very</i> disappointed in <i>you</i>, young man. You should be ashamed of yourself. What could have possessed you to be so stupid? <i>[thumps the desk]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>I'm sorry, Prinshipal Victoria.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>We-hell, "sorry" isn't going to cut the cheese this time, mister! I'm afraid I'm going to have to suspend you from school.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>You mean I'm <i>fired</i>?
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Well, I guess that's the grown-up way to put it, yes.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>But-but it was an honest error of judgment, m'kay? I-I really thought it was important for the kids to know the smell of marijawana--
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>It was an error of judgment, Mr. Mackey, but <i>I'm</i> afraid I have to let you go for it. We searched each one of those kids, but came up empty.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>But--
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>We had to let them go home, and one of them now has half a lid of Jamaican grass because of <i>you!</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Huh, how am I going to make ends meet...m-<i>[sniff]</i>m'kay? Wha-what will I <i>do</i> for money??
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>There, there, now. Maybe this will all blow over someday and we can give you a job as a janitor cleaning up vomit with that pink sawdust stuff.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td><i>[sobbing] No-uho-uho-uho! [sniff]</i> Not o-uho-uhokay!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Bus stop. The kids leave the bus and Mrs. Crabtree peels away screaming]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Man! That sucked, getting searched. <i>[walks off. The others follow]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, my ass is <i>killing</i> me.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Why did they search <i>us</i>? That marijawana never even <i>made</i> it to us.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I wonder who took it.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Garrison's house. He's looking drowsy watching </i>Teletubbies<i>]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td><i>And now it's almost time for </i>BoBo's<i>. [The Teletubbies move around whirring all the while. Garrison laughs softly]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The boys are walking home when Chef drives up to them]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Hello there, children.
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Hey, Chef.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>How's it going?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Bad.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Why bad?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Children, I heard about what happened at school today. Now, none of <i>you</i> took that nasty marijuana, did you?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, dude, we never even saw it!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Okay. Because I just want to tell you that drugs are <i>bad</i>!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We know, we know, that's what <i>everybody</i> says.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Right. But do you know <i>why</i> they're bad?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Because they're an addictive solution to a greater problem, causing disease of both body and mind with consequences far outweighing their supposed benefits.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>And do you have <i>any idea</i> what that means?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I know. Drugs are bad because if you do drugs, you're a hippie, and hippies suck.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Look, children. This is all I'm goin' to say about drugs: stay away from them. There's a time and place for everything, and it's called college. Do you understand?
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Dude!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Okay. <i>[starts to move]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, are you going to come to Ike's bris this weekend?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[stops]</i> Oh, hell no! I can't bear to see that!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What do ya mean?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Don't you boys know what a bris is? They're going to circumcise him.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Wo-what's that?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oh boy. Here we go again. <i>[the boys wait]</i> Children... Uhh... What's the one thing that's more sacred to a man than anything else in the world?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Ahhh, bicycles?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ham?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, not ham, you fat fuck!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Screw you! It's ham, isn't it?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>No, no, no, children, I'm talkin' about the most important part of a man's body.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Your heart?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Your eyes? <i>[Chef slaps his hand to his forehead in disbelief]</i>
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Ooh, the <i>penis</i>!)
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>That's right.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey! My mom says you're not supposed to call it a penis, Kenny! You're supposed to call it a fireman.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>A "fireman"?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's the <i>proper</i> way to say it, or else you get a spanking.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Dammit, children! Why do I always have to be the one to explain all this stuff to you? <i>[starts up the wagon. The radio comes on]</i> Ask your parents for once!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, wait! <i>[Chef drives away]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, something tells me this bris thing isn't good.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Mr. Mackey is walking the streets of South Park, quite depressed. A car pulls up and the driver honks twice. Mr. Mackey looks to see who it is]</i>
+</td></tr>
+<tr>
+<th>Female passenger:
+</th><td>Hey, Mackey, you got any more pot? My four-year-old needs a fix! Yehahahahaha! <i>[they drive off. A small truck pulls up]</i>
+</td></tr>
+<tr>
+<th>Driver 1:
+</th><td><i>[looks like Bill]</i> Hey, Mackey! Now we see what you and Homer Simpson have in common, d'oh-pe! <i>[peels away]</i> Ha ha ha ha! <i>[Mackey resumes his sorrowful walk. A blue car pulls up]</i>
+</td></tr>
+<tr>
+<th>Driver 2:
+</th><td>Heeey, Mac<i>key!</i>
+</td></tr>
+<tr>
+<th>Driver 3:
+</th><td>Hey, Mackey! Why did the drug user cross the road?
+</td></tr>
+<tr>
+<th>Driver 3's Passenger:
+</th><td>Who do you think you are, you stupid drug-taking hippie?! You damn hippies are all alike!
+</td></tr>
+<tr>
+<th>Driver 4:
+</th><td>Won't you leave the guy alone? <i>[traffic is building up. Horns blow]</i>
+</td></tr>
+<tr>
+<th>Driver 5:
+</th><td>Hey, hippie, are you gonna do some drugs?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uuuuuugh! <i>[quickly drops into a bar and takes a seat]</i>
+</td></tr>
+<tr>
+<th>Bartender:
+</th><td>Hey, I don't think I've seen you around here before.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Naw, I just-- I had to get away, m-m'kay? I just lost my job.
+</td></tr>
+<tr>
+<th>Bartender:
+</th><td>Oh that's <i>weak</i>, man. You know what you need? You need a <i>good, stiff drink. [just happens to have one handy]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Oh-uh-uh, I don't drink, m'kay?
+</td></tr>
+<tr>
+<th>Bartender:
+</th><td>Trust me, man! It'll make you <i>feel</i> better. <i>[places the mug before him]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Ughuh... <i>[to himself]</i> Drinkin's bad.
+</td></tr>
+<tr>
+<th>Devil:
+</th><td><i>[poof]</i> Go ahead. Drink the beer. It'll calm you down.
+</td></tr>
+<tr>
+<th>Angel:
+</th><td><i>[poof]</i> Yeah, why the hell not? It's just a beer. Don't be such a pussy, m'kay? <i>[Mackey takes the beer and drinks most of it]</i>
+</td></tr>
+<tr>
+<th>Bartender:
+</th><td><i>[poof. The angel and devil are gone]</i> So how do you feel?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td><i>[burp]</i> Woah, about the same.
+</td></tr>
+<tr>
+<th>Bartender:
+</th><td>Oh, you just need something a little stronger. <i>[serves up some Scotch whiskey]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The boys minus Stan are at the curb working on an ice sculpture of South Park]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[rushing up]</i> Kyle! You have to stop them!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Stop who?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude! I found out what a bris is! I found out what they're gonna do to Ike!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>They're gonna chop off his wee wee! <i>[Kyle's jaw drops. For a moment he's dumbstruck]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Chop off his wee wee?! Are you sure?!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, dude! It's a Jewish tradition! It's called a circumstision!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Dude! That is <i>not</i> cool! Choppin' off wee wees is <i>not cool!</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That can't be true! My parents wouldn't do that!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, I asked five different people. They said all Jewish boys have circumstisions, an-and they make it into a party called a bris.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Dude, yuh-eh-you just don't...chop off somebody's fireman!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I won't believe it! I <i>won't</i>! I have to ask my mom and dad! <i>[leaves for home. The others follow]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Mr. Mackey is walking down the street, drunk after several lagers]</i>
+</td></tr>
+<tr>
+<th>Mr Mackey:
+</th><td><i>[singing] We are young, m'kay?<br />Heartache to heartache we stand, m'kay?<br />No promises, no demands, m-m'kay..? [approaches front door of his house; he places his key into the lock but fails to fit]</i> Whoa... Is this my house?
+</td></tr>
+<tr>
+<th>Landlord:
+</th><td><i>[smoking a cigar]</i> Your key ain't gonna work, Mackey! I changed the locks!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Why, Mr. Freely?
+</td></tr>
+<tr>
+<th>Mr. Freely:
+</th><td>I'm not rentin' to you anymore! I heard that you got fired from your job for selling drugs to children!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>No, no, no, m'kay? I-it wasn't like that.
+</td></tr>
+<tr>
+<th>Mr. Freely:
+</th><td>Drugs are an illegal narcotic! And having never taken drugs, I can say that they have nothing to offer!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>But I've never taken drugs <i>either</i>.
+</td></tr>
+<tr>
+<th>Mr. Freely:
+</th><td>I've never taken drugs, and look at me! I'm totally fine! Now get off my property before I lose control and <i>kill</i> you! <i>[takes out his cigar and throws it away]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Huuhh? <i>[Freeley throws a rock at Mackey, which strikes him on the left side of the head, and Mackey falls]</i> <i>Ow</i>, m'kay?!
+</td></tr>
+<tr>
+<th>Mr. Freely:
+</th><td>Drug user! Druuug user!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td><i>[struggles to get up]</i> Uh, uh-- <i>[tries to dodge the rocks Freeley is chucking at him]</i>
+</td></tr>
+<tr>
+<th>Mr. Freely:
+</th><td>Come back here, dammit!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Whoa, wait! <i>[ends up running away]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's home. Decorations for the bris are going up]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Just a little higher. <i>[the boys arrive]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Mom! Dad!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh, hi, <i>bubele</i>. I'm glad you're here; you can help decorate for the party.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Your mother's made gahekgafuga.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What the hell is gahekgafuga?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Mom, Dad, what exactly are this party for?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>To celebrate your little brother's <i>[Ike claps]</i> passage into life.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Meaning what?
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Meaning we're going to circumcise him. <i>[Kyle gasps]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>They <i>are</i> gonna cut off his fireman!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>It's Jewish tradition, <i>bubbe</i>.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Normally, we do it right after the baby is born, but we had to do it later for Ike because he's a--
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>AAAAAGGGGGHHHHH!!!!! <i>[rushes into his room. The boys stare at Kyle's parents agape with their jaws dropped for a moment]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Oh, now what's gotten into him? Stan, will you go talk to him? <i>[Stan is stiff. In his vision, the parents become daemons with Gerald holding shears]</i>
+</td></tr>
+<tr>
+<th>Sheila, Gerald:
+</th><td>Let us cut off you pee pee, Stan!
+</td></tr>
+<tr>
+<th>Stan, Cartman:
+</th><td>AAAAGGGGHHHH!!!! Aaagg-that's the sickest friggin' thing-run, ruuun!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[pull his parka tight]</i> (Run, dude!) <i>[all three run into Kyle's room]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oy, what is the matter with them?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's bedroom]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I can't believe my parents are cannibals!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What are you goin' to do, dude?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I have to save my little brother! I have to send him away until my parents come to their senses! <i>[jumps out the window]</i> Come on, Ike! <i>[Ike jumps off and into Kyle's arms]</i> Cover me for a while. I'll find a place to hide him and come back.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No way, dude! We're not staying alone in your house with your wee-wee-choppin' parents!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Just give me 30 minutes. Come on, Ike! <i>[Cartman and Stan look at each other, scared]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[a dark alley. Mackey is sleeping under some pages from a newspaper]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Hoh! I can't sleep; it's too cold, m'kay?
+</td></tr>
+<tr>
+<th>Hobo:
+</th><td>Hey, you want somethin' to warm you up?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td><i>[startled]</i> Oh, I didn't know this dark alley was taken.
+</td></tr>
+<tr>
+<th>Hobo:
+</th><td><i>[holds a spliff]</i> Here, try this; it'll warm you up.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Marijuwana's bad.
+</td></tr>
+<tr>
+<th>Hobo:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Ma-marijuwana makes you feel depressed and low, m'kay?
+</td></tr>
+<tr>
+<th>Hobo:
+</th><td>And you don't fell that way now?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Oh, good point. <i>[takes the spliff, and inhales it deeply, then holds his breath a bit, then relaxes]</i> No, I don't feel any d-oooohh... <i>[psychedelic music plays in the background]</i> Oh, baby, get down, m'kay?
+</td></tr>
+<tr>
+<th>Hobo:
+</th><td>Uh-huh. <i>[the alley brightens up and takes on neon hues]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Man, this alley is cool! It's so alive and beautiful! <i>[drops spliff]</i>
+</td></tr>
+<tr>
+<th>Hobo:
+</th><td>Ohh, boy.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Train Station]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on, Ike, hurry up! <i>[Ike babbles]</i> Where is the next train going?
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Lincoln, Nebraska; train leaves in five minutes.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You wanna go to Nebraska, Ike?
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>No!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I need one ticket for my little brother.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>That's a little brother? I thought it was a trash can or something. What's wrong with his head?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Huh?
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>I'm sorry, but we just can't throw Caucasian babies on an outbound train.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But my parents are gonna cut off his ding-dong!
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>What?! Why the hell would they do that?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>They've just gone crazy for a while. Please, mister, I have to hide my brother until they come to their senses.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>No can do, sonny.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dammit! <i>[walks away with Ike to the train and spots an open door from a frieght car. The parting bells sound]</i> Ike, if you wanna keep your penis, you have to get on this train. <i>[the train whistle blow and starts to pull away]</i> Ready, Ike? Kick the baby!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Don't kick the-- <i>[Kyle kick him into the car]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Goodbye, Ike! Be safe! I'll come find you in Nebraska when Mom and Dad are back to normal!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Bye-bye.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Some woods near the town, daytime. Mr. Mackey is dazed and confused. A </i>Seinfeld<i>-esque riff plays]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Oh, man, where am I?
+</td></tr>
+<tr>
+<th>Teen 1:
+</th><td>Hey, wow, it's that counselor from elementary school, Mr. Mackey.
+</td></tr>
+<tr>
+<th>Teen 2:
+</th><td>Wow, dude.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uh, hi, boys, how are you today?
+</td></tr>
+<tr>
+<th>Teen 1:
+</th><td>Pretty good, man. How are you?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Oh, I've been better. I've been kicked out of town for doing drugs.
+</td></tr>
+<tr>
+<th>Teen 1:
+</th><td>Hey! Us, too!
+</td></tr>
+<tr>
+<th>Teen 2:
+</th><td>Yeah, remember? You caught us smoking weed in the bathroom and got us suspended.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Oh. O Fortune, how you mock me?
+</td></tr>
+<tr>
+<th>Teen 1:
+</th><td>Oh, cheer up, bro; all you need is some clear liquid to get your head straight.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uh-uh, boys, LSD is bad. Hmmm... <i>[opens the bottle and lets a drop go into his mouth. The boys watch. Mackey's voice becomes distorted]</i> Man, who put all this cotton in my mouth? <i>[psychedelic music begins to play as his head inflates]</i> Yeah, baby... The world is so small. <i>[his head pops off his body and floats away]</i> I'm free... I'm free...
+</td></tr>
+<tr>
+<th>Teen 2:
+</th><td>Sweet dude, totally killer.
+</td></tr>
+<tr>
+<th>Teen 1:
+</th><td>That guy's totally trippin'. <i>[Mackey's head floats on, smiling]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Bus Stop. Kyle has met the boys there and is working on a doll]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>There, what do you think?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What the hell is <i>that</i> supposed to be?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I'm making a dummy Ike doll. My parents think he's out with me right now, and I have to bring him back for dinner.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, I think you mom's gonna notice that isn't Ike.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Not when  if I say he's sick and put him to bed right away. <i>[Sylvester runs up, having smelled the doll's contents]</i> No, go away! Bad dog!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, what did you make that doll out of?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I used a bunch of bones from the butcher shop.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Is that why it stinks so bad? <i>[Mackey's head flies past]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Hi, boys.
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Hi, Mr. Mackey.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Are you boys stayin' out of trouble?
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Yes.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Okay, I-I'm just gonna go over here for a while. <i>[floats away]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Anyways, I need you guys to help me so that my parents don't realize Ike is gone. <i>[Sylvester returns, growling as he sniffs the doll]</i> Knock it off, asshole!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No way! I'm never going back to your parents' house!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Come on, dude. If it were your little brother, we'd help you. <i>[Stan, Kyle, and Kenny leave]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Eech. <i>[starts to walk, but then stops]</i> Wait a minute! No, you wouldn't!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Train Station. The train comes to a stop. A door opens, and Ike is booted out]</i>
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Oh. <i>[lands on his head, then flips upright]</i> Oooh. <i>[a couple stops by]</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Oh, would you look at that, honey? Somebody dropped off a perfectly good trash can. <i>[the couple leaves]</i>
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Yeah. No more walbolching! <i>[skips into the corn fields nearby]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's house. The boys return from the bus stop]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>Bubbe</i>, where have you been? Dinner's been ready for five minutes.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Sorry, Mom. I just had to deal with Ike. He-he's been cranky. <i>[rustles the doll a bit]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>How <i>is</i> my little jellybean?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[doing Ike]</i> Bye-bye seeme mama. <i>[as himself]</i> Ah, I'm gonna take him up to the bathroom to get washed up. <i>[Sylvester has found the house, and is seen looking from behind two pine trees]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Okay, but first let Mommy give you a kiss. <i>[the boys flinch]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, Mom-uh, he, he doesn't want you kissing him. <i>[Sheila withdraws as Sylvester leaps in and eats the doll from Kyle's hands]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Aaaaargh! Omigod, make him stop!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>AAAGGGHH!!!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Put him down, you stupid dog!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>My baby!</i> Oh, God, the horror! <i>[Sylvester is chewing the doll's head to pieces]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Get out of here, you mutt! Let him go! <i>[he moves to chase Sylvester away. Sylvester bites into the doll and runs off with it. The boys can only stand with jaws dropped]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[frantically]</i> Ooooohhhhhhooh-ho! Oooh, my baby! Bubbeleh mine! <i>[all of them gather at the front porch. Sylvester is munching away on the doll in the middle of the street]</i> Waagghh!! <i>[a truck driver is sleepily driving down the road, but he does see Sylvester]</i> My baby!!
+</td></tr>
+<tr>
+<th>Driver:
+</th><td>Huuh? <i>[steps on the brakes, but hits the dog]</i>
+</td></tr>
+<tr>
+<th>Gerald, Sheila:
+</th><td>Aaaggghhh! Aaagh aaagghh! <i>[the gas tank behind the cab cracks open like an egg, then explodes, killing the driver and Sylvester]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[tearful]</i> Oh, he's dead, he's <i>dead!</i> My little <i>bubbeleh'</i>s dead!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>There, there, Shei-hla. There's nothing we can do. <i>[Stan and Cartman look at Kyle, who puts his hands behind his back. Cartman's mad at him]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cemetery. Ike's casket is being lowered into the plot. Present at the funeral are the Marshes and the Broflovskis, Jimbo, Ned, Barbrady, a piper, and the priest, with a kippah on his head and a scarf on his shoulders]</i>
+</td></tr>
+<tr>
+<th>Priest:
+</th><td>"Yea, usher us unto the Lord", sayeth some Jewish guy once. Ashes to ashes, dust to dust. <i>[he throws some ashes into the grave. As the piper plays Hava Nagila, everyone covers their ears. They go their separate ways]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, wait a minute. How come Ike's tombstone has the Canadian flag on it?
+</td></tr>
+<tr>
+<th>
+</th><td><i>[Headstone reads: "Ike Moisha Broflovski 1996-1998, Born a Canadian, died an American"]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Well, <i>bubbe</i>, there's something you have to know. Ike wasn't really your brother, he was adopted.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What??
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>He was not really a Broflovski, he was Canadian. But we loved him all the same. <i>[he starts to sob]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You mean to tell me that all this time I've been trying to protect Ike from having his fireman cut off, and he's not even my real brother?!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>What are you talking about?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, Ike isn't dead. He's in Nebraska! <i>[the boys turn right and walk away]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>What-what-whaaat?!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, you shouldn't have told them that. Now they're gonna find him and cut off his penis!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Fireman!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ooh, who the hell cares? He's not even my responsibility.
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td><i>[falling into an open grave]</i> (Hey!) <i>[the spiked tombstone falls in]</i> (Hey, you guys! I'm dy--) <i>[the tombstone hits its mark. The grave is deep]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[hears the impact and turns]</i> Oh my God, they've killed Kenny!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[flatly]</i> You bastards! <i>[keeps walking. The crowds reconvenes, this time for Kenny's funeral]</i>
+</td></tr>
+<tr>
+<th>Priest:
+</th><td><i>[removes kippah and scarf]</i> "Yea, let us ponder the Lord's mercy. Ashes to ashes, dust to dust." <i>[the piper plays Hava Nagila again]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[somewhere in South Park, after the funeral. Jimbo and Ned pass Mackey on the sidewalk. Mackey's eyes are bloodshot. Jimbo and Mackey bump shoulders.]</i>
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td>Get outta the way, you damn hippie!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td><i>[annoyed]</i> I don't need to take you right-wing authoritative bullshit!
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Aw, you're just like the government, man! Trying to prosecute outta one side of your mouth, m'kay, while supporting guns outta the other, m'kay?
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td>Aw, why don't you go to a Grateful Dead concert? <i>[he and Ned leave]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>I can't, man. Jerry Bear's dead, m'kay?
+</td></tr>
+<tr>
+<th>Blonde:
+</th><td>He-e-ey, man, I overheard what you said; that was coool!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>What? Oh, thanks, man.
+</td></tr>
+<tr>
+<th>Blonde:
+</th><td>Would you like to come over to my place and finger-paint?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td><i>[getting mellow]</i> Sure, man. Finger-paintin's cool, m'kay? <i>[they walk off]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Lincoln, Nebraska, train station. The Broflovskis get off the train, Kyle first]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Now, where did you leave him, young man?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Aw, how the hell should I know?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Gerald! Do something about your smart-ass son!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Uhhh... Mind your... mother, smart-ass.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>If we don't find him, so help me, you're gonna be grounded for a month! <i>[Gerald peeks into a trashcan]</i> Ike, love?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[grousing]</i> All the time: "Look out for your little brother, Kyle!", "Take care of your little brother, Kyle", and he wasn't even really my little brother.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Kyle, just because Ike is adopted doesn't make him any less your brother.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, right.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[puts down a bench she was looking under as a clerk approaches]</i> Excuse me, we're looking for a two-year-old Canadian boy.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Two-year-old Canadian boy, two-year-old Canadian boy... Oh, I think they might have one of those down at Haps Bar.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[gasps]</i> Come on!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Haps Bar. The Broflovskis enter and scan the room, Ike is being used as a base at one table. The camera pans back to him]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[rushes over to him and throws the table top off to get him]</i> Ike!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Mamatoedoe.
+</td></tr>
+<tr>
+<th>Barkeep:
+</th><td>Hey, lady, that's my table post! You can't have that!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Mr. Mackey and the blonde are in bed admiring the finger-painting they have done all over the room, including the ceiling]</i>
+</td></tr>
+<tr>
+<th>Mackey:
+</th><td>Wow, man. You know, it's like… You go through life thinking that you're an individual, m'kay? And then you realize that you're more than that, m'kay. We're all just one <i>big</i> individual, m'kay?
+</td></tr>
+<tr>
+<th>Blonde:
+</th><td>Let's get married and have a honeymoon in India.
+</td></tr>
+<tr>
+<th>Mackey:
+</th><td><i>[gives it some thought]</i> M'kay. <i>[he removes his tie and his head deflates to a normal state]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's house. Home sweet cell]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Now you march to your room, and you think about what you've done!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>But first, apologize to your brother!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[pointing at Ike]</i> He's <i>not</i> my brother!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td><i>Apologize to him!</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[angrily]</i> I'm sorry, Ike. <i>[turns around and walks off]</i>
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Uh oh, stufid. <i>[Kyle goes into his room and closes the door. Ike is saddened]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Somewhere in India, Mackey and the blonde are hiking. Elephants bathe in the river below them]</i>
+</td></tr>
+<tr>
+<th>Blonde:
+</th><td>Wooow, this is sooo beautiful!
+</td></tr>
+<tr>
+<th>Mackey:
+</th><td><i>[a dove alights on his right arm]</i> I am one with the animals. And the trees.
+</td></tr>
+<tr>
+<th>Blonde:
+</th><td>And I am one with you. <i>[they reach for each other]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td><i>At long last I have found<br />A true reason to be<br />Now I feel I can start anew-- [Mr. T flies onto him and pins him. Hannibal and Face come and pick him up, then all three rough him up]</i> Woo, whoa! Ow! Hey! <i>[they carry him away]</i> Uh oh hel-m. Hey!
+</td></tr>
+<tr>
+<th>Blonde:
+</th><td><i>[subdued]</i> Whoa...
+</td></tr>
+<tr>
+<th>Mackey:
+</th><td><i>[as Mr. T tosses him into the A-Team van]</i> Yeah I got, m'kay?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Inside the van. Jimbo is driving, with Ned sitting next to him. Mr. Mackey sits between Mr, T and Mr. Garrison]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uh-- What the hell is going on?!
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td>Tough love, Mr. Mackey. We're taking you to rehab.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>I don't want to go to rehab! I haven't even done drugs in weeks!
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>We were wrong for shunning you, Mr. Mackey, and we apologize. We should have realized that you needed help.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Yeah, and now we're gonna make sure you get the help you need.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>I don't want help!
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>You'll thank us later. <i>[they drive off into the distance]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The big day is here. Guests are arriving]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Hello, Tom. Hello, Patty. Thanks for coming to Ike's bris.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Uh oh.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Look Ike, It's Uncle Murray!
+</td></tr>
+<tr>
+<th>Uncle Murray:
+</th><td>Hello, Ike! Say, where's little Kyle?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>He's been sent to his room for being a bastard. He's decided that Ike isn't his brother, since he's adopted. <i>[Uncle Murray moves off]</i>
+</td></tr>
+<tr>
+<th>Guest:
+</th><td>Hi there!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Hello. Do I know you?
+</td></tr>
+<tr>
+<th>Guest:
+</th><td>Uh-no, but I never miss a bris. Here, I brought some dip. <i>[gives it to her]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Ohhh, thanks.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's room. The boys are gathered there]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, I guess the chopping is about to commence.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td><i>[enters the room with a photo album]</i> Oh deh family nrr.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What do you want?!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>I wumuh trecompr. Com. Tebruhnerr. <i>[he opens the album, which reveals pictures of Kyle and Ike. Tender music plays. Kyle looks. The first one has Kyle holding Ike, while the second one has Ike riding on Kyle's elephant]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ohhh, no you don't. That isn't gonna work on <i>me</i>, Canadian!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Maybe you're being too hard on him, dude.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No way! There's no real connection between us. It was all a big lie.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td><i>[pulling the album down a bit]</i> Cookie Monster, <i>[flips some pages]</i> two, three, four, five. <i>[The third one: Kyle and Ike tossing a football. The fourth one: a family portrait. The fifth one: Kyle, with Ike in his walker. The sixth one: Kyle giving Ike a bath]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Go on, Canadian! Beat it! I'm through getting in trouble for you!
+</td></tr>
+<tr>
+<th>Ike:
+</th><td><i>[now sporting one of Kyle's caps]</i> Baraterndr nfard fy. <i>[Kyle looks pause]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Betty Ford Clinic. Inside...]</i>
+</td></tr>
+<tr>
+<th>Social Worker:
+</th><td>You have to admit you have a problem before anyone can help you.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>But I don't think I really have a problem.
+</td></tr>
+<tr>
+<th>Social Worker:
+</th><td>Nonsense! You did drugs! I suppose you forgot all about your family.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>I don't really have a family.
+</td></tr>
+<tr>
+<th>Social Worker:
+</th><td>And you lost your job.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>No, I lost my job before that.
+</td></tr>
+<tr>
+<th>Social Worker:
+</th><td>Mr. Mackey, you're supposed to be an adult. <i>[nearby, the two teens are on a sofa watching the Teletubbies]</i> The problem with drugs is that people forget to stop doing them. There's a time and a place for everything, Mr. Mackey, and it's called college! Now, I want you to repeat after me: Drugs are bad.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Drugs are baad.
+</td></tr>
+<tr>
+<th>Social Worker:
+</th><td>Drugs are bad.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uhh... Dru-drugs are baad.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[More guests arrive for Ike's bris. Ding-dong]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Hello, Dr. Schwartz! Thank you so much for coming all this way to perform Ike's bris.
+</td></tr>
+<tr>
+<th>Dr. Schwartz:
+</th><td>Oh, my pleasure, Sheila. I brought the normal cutting device, but then I remembered that Ike was Canadian, so I brought the right one. <i>[the incisive hole is maple leaf-shaped]</i> Where is the little rug rat?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Right over here. <i>[takes him over to Ike]</i>
+</td></tr>
+<tr>
+<th>Dr. Schwartz:
+</th><td>Come 'ere, you.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Oowwww! <i>[skips away into Kyle's room]</i> Oh deh faminrr. <i>[hops over to Kyle. They look at each other as the doctor calls]</i>
+</td></tr>
+<tr>
+<th>Dr. Schwartz:
+</th><td>Ike? Ike?
+</td></tr>
+<tr>
+<th>Ike:
+</th><td><i>[jumps up and hugs Kyle]</i> Heh cohcoh mondefern menurr. <i>[hugs him tighter, and Kyle is moved]</i>
+</td></tr>
+<tr>
+<th>Dr. Schwartz:
+</th><td>There you are. Come on Ike, it's time.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[recovers and gets angry]</i> You stay away from my little brother!
+</td></tr>
+<tr>
+<th>Dr. Schwartz:
+</th><td><i>[stammers]</i> Bu-bu-but, son, I just--
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>You</i> aren't gonna cut off his wee wee. <i>Not today</i>, you sick-ass weirdo!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[now in the room]</i> Kyle, what are you talking about?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>And <i>you!</i> You should be ashamed of yourself! Don't you understand that us males are defined by our firemen?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[a bit solemnly]</i> Yes. The fireman is very magical. If you rub his helmet, he spits in your eye. <i>[Stan draws a blank]</i>
+</td></tr>
+<tr>
+<th>Dr. Schwartz:
+</th><td>Kyle... a-a circumcision is a very common thing for Ike to have. His father had it, his grandfather had it, and... <i>[pointing at him]</i> his <i>brother</i> had it.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No! <i>[Cartman and Stan gape]</i> No, it isn't true!
+</td></tr>
+<tr>
+<th>Dr. Schwartz:
+</th><td>We're <i>not</i> going to cut it off! We're just goin' to snip it, so it looks <i>bigger</i>.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[after he and Cartman wonder]</i> Oh, hey, that doesn't sound like a bad idea!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Heyeah, I want to get a circumstision, too. <i>[Kyle looks up]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Betty Ford Clinic. Mr. Mackey and the social worker exit the main building]</i>
+</td></tr>
+<tr>
+<th>Social Worker:
+</th><td>Congratulations, Mr. Mackey. You are fully recovered.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>I can't thank you enough for everything, m'kay? I feel like my old self again.
+</td></tr>
+<tr>
+<th>Social Worker:
+</th><td>Just one more thing. <i>[she sets his tie in place, and his head inflates to its original state]</i> Remember that you <i>can</i> stay sober.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>I will, Ms. Social Worker. I will. <i>[they embrace one last time]</i> M'kay?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's house. Everyone is gathered for the bris]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's okay, Ike. I'm here.
+</td></tr>
+<tr>
+<th>Dr. Schwartz:
+</th><td>And-a one and-a two and-a… <i>bris. [snip]</i>
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Ouch. Amuhbuhbuhbuh. <i>[The boys faint. The adults clap. He skips over to Kyle]</i> Cookie Monster.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[gets up]</i> Ike, you're okay. <i>[Cartman and Stan get up]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Whoa, dude, I guess having a bris isn't all that bad.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah. You know, I've learned something today. Family isn't about whose blood you have, it's about who you care about.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>And that's why I feel like <i>you</i> guys are <i>more</i> than just friends. You're my family. <i>[tugs on Ike and moves away]</i> Except for Cartman.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[follows]</i> Naturally.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Eah, screw you guys! I don't wanna be in your penis-choppin' family anyway!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Monday morning, Mr. Garrison's class]</i>
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>And so <i>now</i>, children, your school counselor is back, to tell you firsthand about his nasty experience with drugs and alcohol. <i>[makes way for Mr. Mackey]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Okay, kids? Uh, you shouldn't do drugs, m'kay? Drugs are bad. You see, I was at the bottom of the barrel. I was a wreck; why, I didn't even care about money. I was-I was wasting my life... <i>[Garrison slowly shakes his head]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey, you guys wanna come to my bris tomorrow?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You can't have your bris tomorrow, Cartman, that's when I'm having mine.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No way, I set up mine first, hippie!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Now boys, you need to listen up, m'kay? Wha-what I'm talkin' about might save your <i>life</i> someday, m'kay?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[mimicking]</i> Okay, Mr. Mackey, okay?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>M'kay.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>M'kay?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>M'kay.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Okay?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Okay. <i>[the camera slowly pulls away]</i> Now, as I was sayin, uh... drugs are bad. You shouldn't do drugs. Eh, uh if you do them, you're bad. Because drugs are bad, m'kay? It's a bad thing to do drugs. So-uh so don't be bad, by doing drugs, unkay? That'd be bad, 'cause drugs are bad. M'kay?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Ike's Wee Wee</b>.]</i>
+</td></tr></table>
+<p><br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">204: "<a href="/wiki/Ike%27s_Wee_Wee" title="Ike's Wee Wee"><span style="color:white">Ike's Wee Wee</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:204&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Ike_Broflovski" title="Ike Broflovski">Ike Broflovski</a> • 
+<a href="/wiki/Dr._Schwartz" title="Dr. Schwartz">Dr. Schwartz</a> •
+<a href="/wiki/Mr._Mackey" title="Mr. Mackey">Mr. Mackey</a> • 
+"<a href="/wiki/Hava_Nagila" title="Hava Nagila">Hava Nagila</a>"
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Ike%27s_Wee_Wee/Images" title="Ike's Wee Wee/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s02e04-ikes-wee-wee">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Second_Season" title="South Park: The Complete Second Season">South Park: The Complete Second Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 109/300000
+Post‐expand include size: 4829/2097152 bytes
+Template argument size: 67/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:13825-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Ike%27s_Wee_Wee/Script?oldid=243346">http://southpark.wikia.com/wiki/Ike%27s_Wee_Wee/Script?oldid=243346</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Two" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Two" title="Category:Scripts from Season Two">Scripts from Season Two</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":13825,"kv_wpage":"Ike%27s_Wee_Wee\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Ike\'s_Wee_Wee/Script","wgTitle":"Ike\'s Wee Wee/Script","wgCurRevisionId":243346,"wgArticleId":13825,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Two"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Ike\'s_Wee_Wee/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":243346,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Ike%27s_Wee_Wee/Script","fbReturnToTitle":"Ike\'s_Wee_Wee/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Ike%27s_Wee_Wee/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Ike%27s_Wee_Wee/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Ike\'s Wee Wee/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

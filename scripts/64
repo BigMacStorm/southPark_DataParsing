@@ -1,0 +1,2771 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,A Very Crappy Christmas/Script,A Very Crappy Christmas,South Park Studios,Mr. Hankey,South Park: The Complete Fourth Season,A Very Crappy Christmas/Images,A Very Crappy Christmas/Trivia,Dilapidated Drive-in,Even A Miracle Needs A Hand,Official Scripts,The Circle of Poo" />
+<meta name="description" content="General Trivia Images Script Watch Episode The official script for &amp;quot;A Very Crappy Christmas&amp;quot; was..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/A_Very_Crappy_Christmas/Script" />
+<meta name="twitter:title" content="A Very Crappy Christmas/Script" />
+<meta name="twitter:description" content="General Trivia Images Script Watch Episode The official script for &quot;A Very Crappy Christmas&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Kenny McCormick Eri" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/A_Very_Crappy_Christmas/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>A Very Crappy Christmas/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":24954,"pageIsArticle":true,"pageName":"A_Very_Crappy_Christmas/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=24954,
+wgCategories=["Scripts","Scripts from Season Four"],
+wgPageName="A_Very_Crappy_Christmas/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="movie",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s14","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=24954&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=24954&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="A Very Crappy Christmas/Script" />
+	<meta property="og:description" content="General Trivia Images Script Watch Episode The official script for &quot;A Very Crappy Christmas&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Kenny McCormick Eric Cartman Ike Broflovski Sheila Broflovski Gerald Broflovski Mr. Hankey Autumn Cornwallis Amber Simon Red Harris Mayor McDaniels Johnson Charlie Brown Lucy Linus Snoopy Butters Stotch Sound Man Sharon Marsh Randy Marsh Grandpa Marvin Marsh Mr. Mackey Ms. Choksondik News Anchor Various Townfolk..." />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/A_Very_Crappy_Christmas/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-A_Very_Crappy_Christmas_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FA_Very_Crappy_Christmas%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=A_Very_Crappy_Christmas/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="A_Very_Crappy_Christmas/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>A Very Crappy Christmas/Script</h1>
+											<h2>&lt; <a href="/wiki/A_Very_Crappy_Christmas" title="A Very Crappy Christmas">A Very Crappy Christmas</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/A_Very_Crappy_Christmas/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/A_Very_Crappy_Christmas/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/A_Very_Crappy_Christmas" title="A Very Crappy Christmas">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/A_Very_Crappy_Christmas/Trivia" title="A Very Crappy Christmas/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/A_Very_Crappy_Christmas/Images" title="A Very Crappy Christmas/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s04e17-A-Very-Crappy-Christmas">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/A_Very_Crappy_Christmas" title="A Very Crappy Christmas">A Very Crappy Christmas</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Four" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan Marsh
+</li><li> Kyle Broflovski
+</li><li> Kenny McCormick
+</li><li> Eric Cartman
+</li><li> Ike Broflovski
+</li><li> Sheila Broflovski
+</li><li> Gerald Broflovski
+</li><li> Mr. Hankey
+</li><li> Autumn
+</li><li> Cornwallis
+</li><li> Amber
+</li><li> Simon
+</li><li> Red Harris
+</li><li> Mayor McDaniels
+</li><li> Johnson
+</li><li> Charlie Brown
+<ul><li> Lucy
+</li><li> Linus
+</li><li> Snoopy
+</li></ul>
+</li><li> Butters Stotch
+</li><li> Sound Man
+</li><li> Sharon Marsh
+</li><li> Randy Marsh
+</li><li> Grandpa Marvin Marsh
+</li><li> Mr. Mackey
+</li><li> Ms. Choksondik
+</li><li> News Anchor
+</li><li> Various Townfolk
+</li></ul>
+<h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td style="background:#709C22;"><i>[Kyle's house, night. The Happy Chanukah sign is up and it is snowing.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's house, night, bathroom. The toilet is seen and on it are a glass and a plate of chocolate-chip cookies. Kyle sits in his pajamas underneath a window and next to a night stand and candle opposite the toilet bowl, and holding a small flag which reads: WELCOME MR. HANKEY. Ike walks in and towards the food]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>He's gonna be here any minute, Ike.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td><i>[pulls himself onto the seat and looks in]</i> Oooh nooo, poopies.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Heee might not come if you're too close to the toilet bowl, Ike. <i>[lifts him off the seat and takes him back to the night stand]</i> Come sit by me. <i>[they sit down and face the toilet bowl, and wait. Nothing happens.]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[at the door with Gerald]</i> It's getting late, boys. Why don't you come on up to bed.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Just let us stay up a little longer, mom. Mr. Hankey's gotta show up. He always does.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Alright, bubbe. <i>[leaves with Gerald, but returns]</i> Oh, and boys? Happy Chanukah.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Happy Chanukah, Mom. <i>[returns his sight to the toilet bowl and waits...]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kyle's house, night, bathroom. "Silent Night" plays]</i>
+</td></tr>
+<tr>
+<th>Ike:
+</th><td><i>[Waves the flag around]</i> Ayaaa ta. <i>[Kyle is getting drowsy]</i> Weee! Weee... <i>[soon, Ike is asleep on Kyle's shoulder as Kyle drifts into sleep, but checks on the plate once in a while. An ant is now on the toilet seat inching its way to the cookies. Kyle watches drowsily until the ant touches the cookies...]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Go away!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The ant scurries away. At length, the candle burns down to the plate and goes out. Kyle and Ike are both asleep. Sheila and Gerald look in once again and find the boys asleep. Sheila picks up Ike and Gerald picks up Kyle and take them to their respective rooms. Kyle is then seen asleep in his room. He opens and blinks his eyes, then gasps and sits up. He rushes out of bed and into the restroom, only to find an empty plate and glass. He thinks Mr. Hankey has been by, until he notices something on the floor to the left of the toilet. A look of dismay comes over his face. It's the ant he sees, now bloated and content. Kyle goes to make a phone call.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's house, night, bathroom. "Silent Night" continues]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[picks up the phone]</i> A-ah huh.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[barks. Music stops]</i> Stan! Go get the other guys and tell them to meet me at the bus stop in ten minutes!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Ho-o-oh.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, night, bus stop. Kyle, with flashlight and crow bar, is waiting as the others arrive. Kenny arrives in coat, hood, and undies. Cartman in pajamas, cap and coat, and Stan fully dressed, but with his cap askew. A lock of hair is seen]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Okay, good. You're all here.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What is this all about, Kyle?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's Mr. Hankey! He hasn't shown up yet.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Aw, Jesus Christ! I'm going back to bed. <i>[turns aside and walks off]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's only three days until Christmas, you guys! You know how bad things have been around here. I think it might be because Mr. Hankey hasn't come.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Kyle, I have a full day of watching TV tomorrow. I don't have time to go on a poo hunt right now, okay?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>If you guys want there to be a Christmas, you'd better come help me!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, night, city streets. Snow is still falling, but a manhole cover has been lifted and set aside. Down below, in the sewer, the boys walk in the muck looking for Mr. Hankey's home]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Heh-tchoo!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[turns and glares at Cartman]</i> Dude, you sneezed on my back!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, sorry, you might get some germs while you're walking around in human feces!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, look. <i>[before them is a small cottage in a collection basin. They walk to the end of the sewer line]</i> Hello?
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Hoowwddyy ho! <i>[behind him is a little cottage all glittered in light]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...Mr. Hankey! Hoh, we were so worried! I was waiting up for you and you didn't come, so I thought that-
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Oh, no I'm fine, Kyle.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But where have you been? Things aren't the same without you. Nobody seems to have the Christmas spirit.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>I know, Kyle. I've just been awfully busy with my family. <i>[calls into the house]</i> Honey!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Family?
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Boys, I want you to meet my wife. Autumn.
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td>Howdy-hey kids! <i>[waves in the same way Mr. Hankey does, holds a martini in her left hand]</i> Would you like a drink?
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>They're too young to drink, honey.
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td>Hey haa, it's Christmas!
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Come. You have to meet the little nuggets, too. Kids! <i>[they come one one by one]</i> This is our son, Cornwallis.
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td><i>[wearing glasses, a scarf and little blue beret]</i> Hoowwdy Ho! <i>[hops aside as another nugget enters]</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Our daughter Amber.
+</td></tr>
+<tr>
+<th>Amber:
+</th><td><i>[in pink dress and maroon bow]</i> Hoowwdy Ho! <i>[hops aside as another nugget enters]</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>And our son, Simon.
+</td></tr>
+<tr>
+<th>Simon:
+</th><td>Eee, hey! Hnhn.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>[aside]</i> Simon's not so smart. He was born with a peanut in his head.
+</td></tr>
+<tr>
+<th>Siimon:
+</th><td>Heh What? Dad? Huh?
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Nothin', Simon.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>A family! So THAT's why you haven't been able to spread Christmas cheer.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>It sure has been tough. Nobody seems that into Christmas out there.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I know, it's like it doesn't matter anymore.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>My mom<i>s barely bought me any presents so far.</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Well don't worry kids! I'm sending the nuggets up tomorrow to spread Christmas cheer! <i>[the nuggets grin]</i> And if you want, you can help them.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Sure we'll help! <i>[Stan grins]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Anything for more presents!
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td>"Hic" Weh-hell, it's a Christmas party! Hey! You boys! You boys wanna bet me I won't take off my clothes?
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Honey, pleh, you're- you're drunk. Onkay?
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td>But it's a <i>Christ</i>mas party!
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Honey, can we go inside for a second? <i>[they enter the little house and start arguing. The boys look on in shock while the nuggets keep their smiles. Abruptly the arguing stops and the two adult poos step out again]</i> Well, it's decided, kids. Tomorrow we're gonna bring back the spirit of Christmas!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, day, city streets. The boys and the nuggets stand on the sidewalk in front of Tele's and the toy store humming "Good King Wencelas" The nuggets soon hum their own tunes. Stan, Kyle, and Kenny wear nose clips and suits that suggest they are reindeer, while Cartman is dressed as Santa]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ho ho ho! Merry Christmas, you guys! Only three shopping days until- <i>[a couple walks past]</i> God-damnit! <i>[a man walks past in the other direction]</i> Hey! Merry Christmas, asshole! <i>[a woman walks by]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Nobody's paying any attention. <i>[Amber clears her throat as a foot comes down over Simon, and the foot pulls away]</i>
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Ew, I almost stepped in it.
+</td></tr>
+<tr>
+<th>Tele's Owner:
+</th><td><i>[exits and locks his door]</i> Well, it was a good effort, boys. But I'm gonna have to close shop. Nobody's buyin' anything an' I can't afford to keep this furnace runnin'! <i>[starts to leave, but notices the nuggets]</i> Oh. And, boys, there's some crap on the sidewalk there. Watch out. <i>[the nuggets look downcast. Red Harris leaves the toy store.]</i>
+</td></tr>
+<tr>
+<th>Red:
+</th><td><i>[locks the door]</i> Not one toy. I guess this yeear, everyone's content to celebrate with candles and love. <i>[starts sobbing, then walks away]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[emotionally]</i> This is hopeless. We're just gonna have to face that the commercialism has been sucked out of Christmas.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A special report. Behind the anchor is a "No Christmas Trees" sign]</i>
+</td></tr>
+<tr>
+<th>News Anchor:
+</th><td>And in other news tonight it appears that everyone is officially SICK OF CHRISTMAS! <i>[a chart appears]</i> In an SPC poll, 38% said they were fed up and tired of the holiday, 5% said they were indifferent to it, and a whopping 57% they would quick Bon Jovi square in the balls if given the opportunity. <i>[the field poll follows]</i>
+</td></tr>
+<tr>
+<th>Ms. Choksondik:
+</th><td>Well, I think people are just fed up with the crowded shopping and the credit-card bills, uh. <i>[the boys sit on Cartman's sofa watching the news]</i> I, I think that the holiday just has become a joke.
+</td></tr>
+<tr>
+<th>Man:
+</th><td><i>[with a son who waves at the camera]</i> You know, it's just that a lot of people don't really believe in the whole Jesus thing anymore, you know? So what's to celebrate?
+</td></tr>
+<tr>
+<th>Man 2:
+</th><td>Oh yeah. Right in the balls, man. Right square in the balls.
+</td></tr>
+<tr>
+<th>News Anchor:
+</th><td>Well, the holiday spirit may be gone from South Park, but at least our faith in each other remains strong.
+</td></tr>
+<tr>
+<th>Assistant:
+</th><td><i>[whispers into the anchor's ear]</i> In South Park.
+</td></tr>
+<tr>
+<th>News Anchor:
+</th><td>Oh really?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, Cartman's house, day. The report is over]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, change the channel. This is too depressing. <i>[Cartman clicks the remote, and "A Charlie Brown Christmas" pops up. Charlie, Lucy, and Snoopy are on screen]</i>
+</td></tr>
+<tr>
+<th>Charlie Brown:
+</th><td>Good Grief! We need a Christmas tree for our play.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, Jesus, not this thing again.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>How come everyone in cartoons has such big heads?
+</td></tr>
+<tr>
+<th>Charlie:
+</th><td><i>[as other kids dance around him]</i> Alright, everyone, we've got to get on with our play!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Jesus, this sucks! All they keep doin' is dancing around!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, this thing really falls apart in the second act.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[affecting a Peanuts accent]</i> And why is it that on Charlie Brown cartoons, everyone talks like this.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>My mom could make a better Christmas special than this!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, that's it. Oh, my God, that's totally it! <i>[drops down from the sofa and walks to the TV]</i> It's so simple!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What, dude?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[turns and faces the other boys]</i> We can get everyone back into the Christmas spirit by making our very own animated Christmas special, and showing it to everybody in town! <i>[Charlie and Linus talk onscreen]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We don't know anything about animation.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>How hard can it be? Look at it. <i>[Snoopy and Charlie walk in the woods]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey yeah! We can make a little animated Santa Claus and Jesus, and it can star us instead of these little round-headed guys!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah, right! Awesome!)
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah! And we can call it... "The Spirit of Christmas" <i>[onscreen, Snoopy is pummeling a naked Charlie Brown hard across the face with a 2-by-4]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, The Mayor's office, day. The report is over]</i>
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td><i>[worried]</i> Ogh! This is terrible, Johnson! Our whole town's economy is going right in the toilet! We've got to get everybody back in the Christmas spirit!
+</td></tr>
+<tr>
+<th>Aide 2:
+</th><td>Mayor, some adorable children are here to see you.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Meugh. Send them in.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[as the boys enter]</i>Mayor! We have the solution to your problem.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>You do?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We're gonna make a short animated Christmas card that everyone can watch and play it on the screen at the old drive-in.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>It'll have everything. Jesus, Santa. And when people see it, they'll just HAVE to get in the spirit. All we need is three hundred dollars for our budget.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td><i>[falsely enthusiastic]</i> An animated Christmas card. Kids, that just may be the dumbest idea I've ever heard, ever!
+</td></tr>
+<tr>
+<th>The Boys:
+</th><td>Awww.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>But at this point I'm willing to try anything. Johnson, cut them a check for three hundred dollars.
+</td></tr>
+<tr>
+<th>The Boys:
+</th><td>Alright!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[to the other three]</i> You guys go tell Butters to start making the cutoouts. I'm gonna go tell Mr. Hankey the good news!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Hankey home, day, exterior. Mr. Hankey and Autumn are in a heated argument inside. The argument is incomprehensible for a while, until a voice stands out.]</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Now you put that vase down! Put that vase down! That's a very expensive vase! <i>[now warning]</i> Don't you throw that vase! <i>[the vase is thrown and breaks.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[now facing the house from the sewer]</i> Ah, Mr. Hankey?
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>[exits the front door]</i> Oh, Kyle! Hoowwddy ho!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[excited]</i> We got the money, Mr. Hankey. We're gonna make our animated Christmas card.
+</td></tr>
+<tr>
+<th>
+</th><td>Oh, that's swell! Kids! <i>[the nuggets come out]</i> Christmas is back on! We've gotta all go get that old drive-in workin' again.
+</td></tr>
+<tr>
+<th>The Nuggets:
+</th><td>Okay!
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td>That's not the only thing we gotta get workin' again, <i>[pokes him]</i> if you know what I mean...
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>[concerned]</i> Wha- why do you, why do you have to say things like that in front of people?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, I've gotta go start our animation. We've only got two days. <i>[turns and walks away...]</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Good luck, Kyle. And we'll have that projector workin'! Don't you worry! <i>[Cornwallis sniffs at himself]</i>
+</td></tr>
+<tr>
+<th>Amber:
+</th><td>What's the matter, Cornwallis?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Butters' home, day. A gate is open by one side of the house. Inside, the four boys enter a room littered with cutouts]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Alright, Butters. Let's see what you've got.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[behind a desk]</i> Huh, well, okay. Now, don't expect too much with the budget you gave me.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[impatient]</i> Yeahyeahyeah. just let us see 'em!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Well, alright. Here's a little paper construction of Santa Claus. <i>[holds him up and moves him a bit]</i> "Ho ho ho, uh, there-a kid. Hu-uh, would you like some- t-hoys and stuff" Hah, and uh, here's a little Jesus. <i>[brings him forth]</i> "Hi there, Santa. I am the Light and the Way, and stuff." <i>[Santa]</i> "Uh, ho o-kay. That's good, I suppose." Huh, and here's the cutout versions of you guys. <i>[unfurls a large sheet which contains some mountains and spitting images of the four boys]</i>
+</td></tr>
+<tr>
+<th>The boys:
+</th><td>Whoa!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[points]</i> Heheh. Look, he made Stan all fat.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[retorts]</i> That's not me, that's you!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What?!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>They kind of look like us. <i>[the poster is shown again]</i> I mean, Stan's got blue eyes and I've got a sharper nose, but I mean, they <i>kinda</i> look like us.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I AM NOT THAT GODDAMNED FAT! <i>[Butters sets the poster on the desk, face up]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>God job, Butters.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Woh, ah, hey! I made a little cutout version of me, too! Ih in case you need it for your animated film.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[grabs the poster]</i> No, that's okay. <i>[walks away]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>See ya! <i>[grabs Santa, Cartman grabs Jesus, and they walk away with Kenny]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Uh-m, alright, alright then. <i>[the door closes, and a few second later, he reaches into a top drawer and pulls out a Barbie cutout. In falsetto...]</i> "Oh, uh, hello, good-lookin'? What's your name?" <i>[moves the Butters cutout]</i> "Huh, Butters, ma'am." <i>[moves the Barbie cutout while in falsetto]</i>  "Well, Butters, would you like to slap my- titties around?" <i>[moves the Butters cutout closer]</i> "Whoa! Well, uhuh" <i>[a smile of fantasy flashes across his face]</i> "Uh, no thanks, ma'am. Uh I, I'll get in trouble again." <i>[guiltily puts the cutout away.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Hankey home, day. Inside, Cornwallis is seated at a table with thumb tacks for legs. There are two 5-book stacks on the table, a third stack on the floor behind him, and two books on the floor in front of the table. Mr. Hankey enters, and soon seen are a spool of string for a bedstand and a pencil as a curtain rod. A locket hangs over Cornwallis' bed, and it contains pictures of his parents]</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Cornwallis, we've got to go fix up the drive-in.
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td>I don't want to, Dad. I'm too sad.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>[takes a seat at the table]</i> Hey, that's alright, Cornwallis. The boys' animated movie will being back the spirit of Christmas.
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td>It's not that, father. Its... Well, I don't feel like I'm really a part of Christmas.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>But son, you're a Hankey. We <i>love</i> Christmas!
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td><i>[drunk as ever, appears at the door]</i> Come on, it's time to sit around the tree!
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>[serious]</i> We're having a talk, honey.
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td>God-damnit it's Christmas and we're gonna be a happy family around the tree!
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Autumn, you're drunk. Alright, now, just go help the other kids; they can't get their stockings up.
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td>That's not the only thing that can't get up around here. <i>[rushes away]</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>...Now come on, son. Don't be so down.
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td>Why? We're just pieces of crap. Christmas isn't for us.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Christmas is about feeling good. That's for everybody!
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td>I see the Nativity. There's angels, shepherds and sheep. But no poo. All the Christmas movies: Santa, elves, reindeer. No poo. I'm not a part of it.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>No, you're <i>not</i> a part of it, Cornwallis. You're all of it. Don't you see?
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td>I'm nothing but crap!
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><div class="poem">
+<p>But crap is everything. <i>[begins to sing]</i><br />
+<i>Everything that lives on earth poos in some way</i><br />
+<i>And that's how the cycle happens, each and every day</i><br />
+<i>[Takes Cornwallis out and up to the street]</i><br />
+<i>Just look at the green green grass and the birds up in the sky</i><br />
+<i>[cows graze on the some exposed grass while large birds fly lazily above]</i><br />
+<i>It's all here because of poo, and now I'll tell you why</i><br />
+<br />
+<i>Grass it's eaten by cattle, which is eaten by women and men</i><br />
+<i>[A cow poops as it eats, then Butters' family is shown eating burgers at table]</i><br />
+<i>It fuses with their bodies and becomes poo again</i><br />
+<i>[Mr. Hankey sings to Cornwallis, then Butters' father is shown straining on the toilet]</i><br />
+<i>And that poo goes through the sewer, where it's dumped into the sea.</i><br />
+<i>[some poo descends through the pipe, and Mr. Hankey soon follows. A raw sewage outlet is then shown with Mr. Hankey exiting]</i><br />
+<i>And it's eaten by the plankton, and becomes the fishes' meal.</i><br />
+<i>[plankton swarm the poo and devour it; a small fish eats the plankton]</i><br />
+<br />
+<i>And then that bigger fish with the poo still inside</i><br />
+<i>[a bigger fish eats the small fish, but an even bigger one approaches]</i><br />
+<i>Swims up near the shore and gets eaten alive</i><br />
+<i>[the bigger fish swallows the medium-sized one and swims up to the surface, only to be snatched up by a bear]</i><br />
+<i>By the grizzly bear that poos on a dead piece of sand</i><br />
+<i>[the bear walks off with the fish in its mouth and poos as he leaves]</i><br />
+<i>So it can spring to life and become food for the land!</i><br />
+<i>[flowers and grass spring up through and around it. The camera pulls back to reveal an African savannah around the flowers, with all sorts of animals in it]</i><br />
+<br />
+<i>It's the poo of the antelope, the poo of the giraffe</i><br />
+<i>[soft backup vocals come on, lending the song an African feel. antelope run in the background as a giraffe appears and stops]</i><br />
+<i>It falls onto the earth and becomes the blades of grass</i><br />
+<i>[The camera looks at Mr. Hankey and Cornwallis atop Poo Rock, first from the back, then from the front]<br /></i>
+''<i>The grass is eaten by the cattle, which comes out the other end</i><br />
+<i>[more cattle are shown grazing and pooing]</i><br />
+<i>To make food for the humans and start all over again</i><br />
+<i>[a man scoops the poo into a small bag and walks off; Butters and family eat more burgers; his mom sits on the toilet]</i><br />
+<i>[back on Poo Rock, before which animals poo freely]</i><br />
+<br />
+You see, son? You're not an insignificant part of life. You <i>are</i> life.
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td>But how can I be that giraffe and blade of grass, and a human? I don't control what they do.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>[sits next to Cornwallis]</i> Just like your heart beats without you thinking about it, so, too, your giraffes and your humans do what they do without you even thinkin' about it. But it is all one life form. It is all... <i>[points to him]</i> you.
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td><div class="poem">
+<p><i>[smiles]</i> I think I see now.<br />
+<i>I'm the poo of the antelope, that flows down to the ground</i><br />
+<i>[steps forward]</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>Becomes the grass of tomorrow</i>
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td><i>Yeah</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>Which the grazers turn around</i> <br />
+<p><i>[An antelope stops to poo a little, then runs off to join the others]</i>
+</p>
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td><i>So I'm the leg of a leopard and the wings of a hen</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey, Cornwallis:
+</th><td><div class="poem">
+<p><i>Which becomes dinner for the human and turns back to poo again.</i><br />
+<i>[Mr. Hankey holds Cornwallis high in the air on Poo Rock with the sky behind them. Cornwallis hums a bit]</i><br />
+<i>That's the Circle, the Circle of Poo!</i><br />
+<i>[Cut to black]</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's house, basement, day. He hands out scripts to the other three boys]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Okay, here's the script. But it doesn't have an ending.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No ending? Well, we can't animate until we have our voices recorded, so we'd better just record what we have and figure out the ending later. <i>[they walk over to some microphones.]</i>
+</td></tr>
+<tr>
+<th>Sound man:
+</th><td><i>[instructing]</i> Okay, talk directly in the mike and don't hit any hard p's.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What's a hard p?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You know, first thing in the morning when it just won't come out?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh, yeah.
+</td></tr>
+<tr>
+<th>Sound man:
+</th><td>Uumm, okay, sound is speeding, and...  <i>[cues the boys by raising his hand]</i>
+</td></tr>
+<tr>
+<th>The boys:
+</th><td><i>We wish you a Merry Christmas</i>
+</td></tr>
+<tr>
+<th>Sound man:
+</th><td>Hold on.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>We wish- </i>[the sound man presses a few buttons, and some white noise blasts through the boys' headphones]
+</td></tr>
+<tr>
+<th>The boys:
+</th><td><i>[twisting in pain]</i> AAAAAAAAAAAAAA!!!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>...deh..OOOWW!!!
+</td></tr>
+<tr>
+<th>Sound man:
+</th><td>Uh, <i>[makes more changes to the sound settings]</i> mmm. Okay, and? <i>[cues the boys]</i>
+</td></tr>
+<tr>
+<th>Boys:
+</th><td><div class="poem">
+<p><i>We wish you a merry Christmas,</i><br />
+<i>We wish you a merry Christmas,</i><br />
+<i>We wish you a merry Christmas--</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey!  Wait a minute!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Aren't you Jewish, Kyle?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well, yes, I think so.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[calmly]</i> Dude, Jewish people don't celebrate Christmas. You're supposed to sing Chanukah songs. <i>[Kyle cues the piano player, who begins playing]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><div class="poem">
+<p><i>Dreidel dreidel dreidel,</i><br />
+<i>I made you out of clay,</i><br />
+<i>Dreidel dreidel dreidel--</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[grins]</i> Heheheheh, Chanukah sucks.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[throws his headphones off and faces Cartman angrily]</i> Don't you oppress me, fat boy.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[throws his headphones off]</i> Don't call me fat, buttfucker.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Then don't belittle my people you fuckin' fatass!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You guys, knock it off! We have to record this! <i>[the sound man begins to laugh heartily]</i>
+</td></tr>
+<tr>
+<th>Sound man:
+</th><td><i>[composes himself]</i> Dude, that was awesome.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What's awesome?
+</td></tr>
+<tr>
+<th>Sound man:
+</th><td>The script. It's sweet.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That's not <i>in</i> the script  They do this all the time.
+</td></tr>
+<tr>
+<th>Sound man:
+</th><td>Well, it <i>should</i> be in the script. All that "you're fat" and "you're a Jew" and stuff. It's great. <i>[the boys look at each other]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, Photo Dojo, day. The boys are gathered round a camera, which is pointing straight down onto the poster Butters made for them. Two lights shine on the poster, and the cutouts are in place. Some other heads are at the top end of the poster]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Check it out, dude. The camera shoots one frame at a time. So, all we gotta do, is put the right mouth on, according to what syllable they're pronouncing at that frame.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Easy.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah. So what's the first syllable?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uhd- W, <i>WW-e</i> wish you a Merry Christmas
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Okay. So we put little "woo" mouths on all our heads. <i>[sets the "woo" mouths in place]</i> And then we shoot that for one frame.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Okay. <i>[snaps the shot]</i> One.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>That's one twenty-fourth of a second of our movie already shot! <i>[exults]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kickass!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Now, the next mouth.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uuhh, E. W-EE wish you a Merry Christmas. <i>[both turn aside to look around]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Okay, where are the E-mouths?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[softly]</i> E mouths...
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, Photo Dojo, three hours later. The boys' eyelids are drooping and they're tired]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Okay. "Woo" mouths again?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[snap]</i> 1 <i>[snap]</i> 2.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>So how much done is that?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>"We wish you a m- Merry"
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[softly]</i> Aw, <i>[loudly]</i> Jesus Christ!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Drive-In, night. The boys' eyelids are drooping and they're tired]</i>
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td><i>[enters the drive-in with her aides]</i> This kids better make a good Christmas movie, Johnson. If people in this town don't start shopping again, we're <i>all</i> gonna be out of jobs next year.
+</td></tr>
+<tr>
+<th>Johnson:
+</th><td>This... place is pretty run-down.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>It's alright, we've got a clean-up crew coming.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>[off-screen]</i> Hoowwddy ho! <i>[the Mayor and Johnson look around]</i> Down here!
+</td></tr>
+<tr>
+<th>Johnson:
+</th><td><i>[jumps back]</i> WAAGGH!
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td><i>[displeased]</i> Oh. Mr. Hankey, it's you. How wonderful.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>My family and I are here to get the drive-in ready for the biig movie.
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td><i>[drunk and still holding a martini, to Johnson]</i> Hi there, Mr. Important Political Person. *hic* <i>[Johnson looks disturbed]</i> You wanna bet me I won't take off my clothes and run naked through this parkin' lot?
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>[softly blocking]</i> Uh-uh, honey, please don't start!
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td>I didn't start it! He was looking at my <i>breasts!</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>They're not real, you know.
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td>Don't you say that! <i>[hugs him, but he pushes her off]</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Oh, big secret! Everyone can tell they're made of silicorn!
+</td></tr>
+<tr>
+<th>Johnson:
+</th><td>Uhhh, we'll just leave you to your cleanup. <i>[leads the Mayor and the other aide away]</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Okay! Boy, oh boy, this place suuure needs a lot of work.
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td>We can fix it up, Dad.
+</td></tr>
+<tr>
+<th>Amber:
+</th><td>Oh, look! A homeless person. <i>[the man is seen sleeping on the ground covered in papers and cardboard]</i> Oh. He looks sad, Papa. <i>[hops over to him and leaves a poo smile on his lips]</i> There. That's better.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Good job, Amber. Now this place is starting to look Christmasy <i>[the man continues to sleep...]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, Photo Dojo, next day. The boys are back at the animatic further along in the project]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Okay. Okay, the shot is finally set up. Now shoot the O mouth for two frames. <i>[Cartman sneezes and immediately realizes what he just did]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>AAAAAAAA!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, I'm sorry! I have a cold!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That took us half an hour to set up, fatass!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Alright! You know what? I have been here TOO LONG! I'm sick of making this stupid cartoon, and we're never goin' to finish it anyways! <i>[walks off and stops at the door]</i> Screw you guys, I'm goin' home!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[rushing to the door]</i> Fine! We'll do it with out you!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We can't do it without him, Kyle. We've already animated him in it!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We'll dub his voice over.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Kyle, it's hopeless. We've only got 20 seconds of animation done, and we still have Jesus' and Santa's voices to record, and we don't even have a third act. Dude, it would take a <i>miracle</i> to finish this thing!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><div class="poem">
+<p>Now, don't go saying that. There's always hope. Miracles happen most every day.<br />
+<br />
+<i>To people like you, and me.</i><br />
+<i>But don't expect a miracle.</i><br />
+<i>Unless you help make it to be.</i><br />
+<br />
+<i>You hope, and I'll hurry.</i><br />
+<i>[takes the poster and rolls it up.]</i><br />
+<i>You pray, and I'll plan</i><br />
+<i>[The boys exit the Photo Dojo with it]</i><br />
+<i>We'll do what's necessary, 'cause</i><br />
+<i>[now in Stan's room, works on a Brian Boitano cutout]</i><br />
+<i>Even a miracle needs a hand!</i><br />
+<i>[walks up to the wall and adds a scene to Act II]</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>You love-</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>We love</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>-And I'll labor. [takes down the scene]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Tralala</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>You sit- [puts it up again]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>We sit.</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>-And I'll stand. [a funny look appears on his face]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Tralalalala</i>
+</td></tr>
+<tr>
+<th>Boys:
+</th><td><i>Get help from our next-door neighbor, 'cause</i> <br />
+<p><i>[Kenny begins to hum as the Hankey family is shown cleaning up the drive-in]</i>
+</p>
+</td></tr>
+<tr>
+<th>Boys, Hankeys:
+</th><td><i>Even a miracle needs a hand!</i> <br />
+<p><i>[Autumn is passed out to one side of the film projector as Mr. Hankey cleans up]</i>
+</p>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's house, basement, day. Stan and Kyle have to work without Cartman, so they stand wearing headphones and reading the script aloud]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You could do Cartman's voice, can't you?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>"Awgh! I'm so fat!"
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Nuh, you've gotta sound fatter.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[with tongue filling his mouth]</i> "Hey, you guys! Seriouslih! I'm so fat! Help me out over hmyah!"
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>Cool!</i> Now let's try the script!
+</td></tr>
+<tr>
+<th>Sound Man:
+</th><td>Rolling...
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><div class="poem">
+<p><i>[Doing his and Cartman's parts]</i><br />
+<b>Stan:</b> I don't know what to do, dude. Who should we help?<br />
+<b>Cartman:</b> I say we help Santa Claus!
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh, you're just saying that because he brings you candy.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Cartman:'</i> Ey! I don't need to take that kind of shit from a Jew! <i>[both boys grin, and the sound man signals his approval with a thumbs-up]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's house, living room, day. Kyle and Stan resume singing as Kyle packs the cutouts into a box headed for Korea]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>You wish-</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>We wish</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>-And I'll whittle.</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Tralalalala</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>You sit- [closes the box and tosses it up]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>We sit.</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>-And I'll stand. [displays the box's destination and walks out with it]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>Tralalalala</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[with Kenny humming] Let's all try to help a little, 'cause</i> <br />
+<p><i>[A group of 20 Korean inbetweeners are shown working hard on the short]</i>
+</p>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, Potter's Art Store, day. Stan, Kyle, and Kenny walk out with construction paper]</i>
+</td></tr>
+<tr>
+<th>Boys:
+</th><td><i>Even a miracle- [a car comes in and runs over Kenny as the driver honks, leaving Kenny flat as a pancake. The boys just look in wonder]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>...It's okay. We'll just have his character die in the film. <i>[they resume singing and walk away]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Stan's house, living room, day. Stan and Kyle are there. A large box has come for Stan and he's about to open it]</i>
+</td></tr>
+<tr>
+<th>Stan, Kyle:
+</th><td><i>Even a miracle needs a hand!!</i> <br />
+<p><i>[Stan opens the box and both boys lift the finished reel out of it: "FROM KOREA: FINAL PRINT"]</i>
+</p>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Drive-In, night. The drive-in is cleaned up now. The entire town shows up to see the short film. To the left, two klieg lights shine on a high platform on which stand the Mayor and her aides; Stan, Kyle, and Cartman. A decorated Christmas tree stands behind them. On close-up, though, Cartman is missing]</i>
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Citizens of South Park, the Colorado Film Commission is pleased to present to you a work by some of our very own South Park children. <i>[the crowd erupts in applause]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[enters victoriously]</i> Thank you, thank you. <i>[Stan and Kyle look at him annoyed]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman, what the hell are you doing here?! You quit!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What are you talkin' about, "quit"? Huh! I don't remember that.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>We know that after you see this darling short film, <i>[the crowd is shown]</i> you will all feel the mighty glow of the Christmas spirit once again. Boys?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Okay, Mr. Hankey!
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>[in the booth]</i> O-kay! <i>[starts the projector. The opening screen of "The Spirit of Christmas" is shown as music plays.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Scene: a snowy hill. South Park comes into view.  A squirrel pops up to see the camera, then drops away next to the town sign.  Kids can be heard singing a Christmas carol.  The camera pans to the right]</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td><i>We wish you a merry Christmas,<br />We wish you a merry Christmas,<br />We wish you a merry Christmas--</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey!  Wait a minute!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Aren't you Jewish, Kyle?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, I think so.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>(voice rising)</i> Dude, Jewish people don't celebrate Christmas!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td> What?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You're supposed to sing Chanukah songs!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>Dreidel dreidel dreidel-</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[the film snaps in two and grinds to a halt. Fear strikes the boys' faces, then the Mayor's face. The film spools out of the reels and Mr. Hankey holds the unwound film in his hands]</i>
+</td></tr>
+<tr>
+<th>Simon:
+</th><td>Eehhhh, pretty! <i>[the crowd begins to disperse and grumble]</i>
+</td></tr>
+<tr>
+<th>Man:
+</th><td>Oh, that's Christmas for ya.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Uhuh, just hang on folks. We seem to be having some technical difficulties.
+</td></tr>
+<tr>
+<th>Man 2:
+</th><td>Boring.
+</td></tr>
+<tr>
+<th>Man 3:
+</th><td>I've gotta go.
+</td></tr>
+<tr>
+<th>Man 4:
+</th><td>Stupid.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td><i>[as the boys enter the projection booth]</i> It's completely destroyed! There's nothin' I can do!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>All that hard work.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Well, thanks a lot, kids. Great idea you had there. Now everyone is more disenfranchised with Christmas than ever. We want our three hundred bucks back!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But we spent it!
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Fine. Then we'll sue you. <i>[leaves with the aides]</i> Johnson? <i>[the other aide stays behind]</i>
+</td></tr>
+<tr>
+<th>Aide:
+</th><td>I... used to believe in miracles. <i>[leaves]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>All that work!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>For nothing.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Boys, I uh, I'm s-, I'm sorry.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Sure. Sh-sure, Mr. Hankey.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I guess- we might as well- go home now. <i>[the boys leave and Mr. Hankey wilts]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Hankey home, night. Inside, Mr. Hankey sits on the little sofa. Cornwallis hops up to him and joins him on the sofa]</i>
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>It's my fault. All my fault. I got everyone's hopes up.
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td>But Dad, we can fix the projector.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Aw, it's too late for that, son. everyone' gone home. And I don't know nothin' about projectors. I'm just a stupid piece of crap.
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td>Dad, you taught me an important lesson: That crap is the cycle of everything.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Aw, that was just a stupid song, Cornwallis! I was jus' tryin' to get you to stop your bitchin'
+</td></tr>
+<tr>
+<th>Cornwallis:
+</th><td>No, it wasn't a stupid song. Because you showed me that I have the power and the strength to do anything I want. You made me believe in myself, Dad! Now I'm asking you to do the same.
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>Son... <i>[reflects for a moment]</i> You're the smartest piece of crap since Albert Poodinger! Come on! <i>[the two of them leave the house]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Marsh house, living room, night. The immediate family is gathered]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Isn't this a nice Christmas, Stanley? No commercialism and shopping, just a nice fire and family.
+</td></tr>
+<tr>
+<th>Grandpa:
+</th><td>I wanna die. <i>[sleigh music is heard and a light soon fills the air outside. All the Marshes look]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A view of the suburbs. Lights come on all over the neighborhood, and families begin to come out of their houses. one girl and her parents, another girl and her parents, a boy and girl and their parents, etc. The light everyone sees is the drive-in screen. The short has been repaired and is airing the scene where the boys first meet Jesus. The drive-in soon fills up]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[On screen, Jesus floats down from the sky.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What the--
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Nooo!!) <i>[tightens his hood]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Broflovski house, night. The front door opens and Gerald and Sheila step out with Ike. Kyle follows them out.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>They did it! They got it working! <i>[closes the door behind him]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[On screen.]</i>
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>You have blemished the meaning of Christmas for the last time, Kringle!
+</td></tr>
+<tr>
+<th>Santa:
+</th><td>I bring happiness and love to children all over the world.
+</td></tr>
+<tr>
+<th>Jesus:
+</th><td>Christmas is for celebrating my birth!
+</td></tr>
+<tr>
+<th>Santa:
+</th><td>Christmas is for giving!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A shot of the audience]</i>
+</td></tr>
+<tr>
+<th>Crowd:
+</th><td>Oh, wow!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Hankey house. Amber and Simon stand outside]</i>
+</td></tr>
+<tr>
+<th>Amber:
+</th><td>Mom! They got it working!
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td><i>[opens the front door and exits without closing it]</i> What's that? They got your father's penis workin' again? <i>[the three of them leave]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A shot of Stan, Kyle, and Cartman smiling. On screen...]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...We actually spoke—to <i><b>the</b></i> Brian Boitano.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah. And you know? I think I've learned something today, it doesn't matter if you're Christian or Jewish or Atheist or Hindu.  Christmas still is about one very important thing.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, ham.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[angrily]</i> No not ham!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The audience. The boys laugh]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ey! Why the hell did you have me say that?!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Heheh, we could make you say whatever we wanted.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[On screen...]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>...Christmas is about something much more important!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[voice softens]</i> Presents.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[softly]</i> Ah.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Don't you see, Kyle?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Presents.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The audience...]</i>
+</td></tr>
+<tr>
+<th>Various Folk:
+</th><td>...Presents.
+</td></tr>
+<tr>
+<th>Man 5:
+</th><td>My God, they're right!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Christmas <i>is</i> about presents. If we all buy presents, everyone benefits. M'kay?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>That</i> is the spirit of Christmas. Commercialism. Because it's what makes our country work!
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>They're starting to understand, Johnson.
+</td></tr>
+<tr>
+<th>Ms. Choksondik:
+</th><td>We got so caught up in the little things of Christmas, like love and family that... we almost forgot it's buying things that makes our economy thrive.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td><i>[wearing a handlebar mustache, in falsetto]</i> Hey, the shops are still open. We still have time to shop. <i>[the crowd starts to clamor in agreement, and soon the shops around South Park turn their lights on. Red Harris opens his toy shop up, and the crowd fills the streets, first cheering, then chatting]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You did it, Mr. Hankey. You brought back the spirit of Christmas!
+</td></tr>
+<tr>
+<th>Mr. Hankey:
+</th><td>No, you did it, boys!
+</td></tr>
+<tr>
+<th>Autumn:
+</th><td>Aw, hell, we <i>all</i> did it!
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Kids, that cartoon was fabulous. How would you like to have your own show and make 100 more of them?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Are you kidding? I think we'd rather stab ourselves in the head.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah. Let's just go home and open our presents.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[to Stan]</i> Hey man, if you're Jewish you get presents for eight days.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wow! Count me in!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah! I'll be a Jew too.
+</td></tr>
+<tr>
+<th>Boys:
+</th><td><div class="poem">
+<p><i>[leaving with the Mayor]</i><br />
+<i>Dreidel dreidel dreidel</i><br />
+<i>I made you out of clay</i><br />
+<i>Dreidel dreidel dreidel</i><br />
+<i>With dreidel I will play!</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>A Very Crappy Christmas</b>. Rats rush in from all sides and nibble on Kenny's body.]</i>
+</td></tr></table>
+<p><br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">417: "<a href="/wiki/A_Very_Crappy_Christmas" title="A Very Crappy Christmas"><span style="color:white">A Very Crappy Christmas</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:417&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Mr._Hankey" title="Mr. Hankey">Mr. Hankey</a> •  
+"<a href="/wiki/The_Circle_of_Poo" title="The Circle of Poo">The Circle of Poo</a>" • 
+"<a href="/wiki/Even_A_Miracle_Needs_A_Hand" title="Even A Miracle Needs A Hand">Even A Miracle Needs A Hand</a>" • 
+<a href="/wiki/Dilapidated_Drive-in" title="Dilapidated Drive-in">Dilapidated Drive-in</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/A_Very_Crappy_Christmas/Images" title="A Very Crappy Christmas/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s04e17-a-very-crappy-christmas">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Fourth_Season" title="South Park: The Complete Fourth Season">South Park: The Complete Fourth Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 192/300000
+Post‐expand include size: 5151/2097152 bytes
+Template argument size: 109/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:24954-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/A_Very_Crappy_Christmas/Script?oldid=243390">http://southpark.wikia.com/wiki/A_Very_Crappy_Christmas/Script?oldid=243390</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Four" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Four" title="Category:Scripts from Season Four">Scripts from Season Four</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-below_category" class="monetization-module amazon-video hide-for-edit below-category amazon-video-full" data-mon-type="amazon_video" data-mon-slot="below_category"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-24954-B00NY4UD92-piv-fl-npr-bc-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-24954-B00NY4UD92-piv-fl-npr-bc-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-24954-B00NY4UD92-piv-fl-npr-bc-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-24954-B00NY4UD92-piv-fl-npr-bc-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-bc-pvn-20&ascsubtag=southpark-script-835-24954-B00NY4UD92-piv-fl-npr-bc-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-below_category" class="monetization-module adunit hide-for-edit below-category" data-mon-type="adunit" data-mon-slot="below_category"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_bc mon_hub_tv mon_sl_bc" data-ad-type="text"  data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":24954,"kv_wpage":"A_Very_Crappy_Christmas\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"A_Very_Crappy_Christmas/Script","wgTitle":"A Very Crappy Christmas/Script","wgCurRevisionId":243390,"wgArticleId":24954,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Four"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"A_Very_Crappy_Christmas/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":243390,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=A_Very_Crappy_Christmas/Script","fbReturnToTitle":"A_Very_Crappy_Christmas/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/A_Very_Crappy_Christmas/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/A_Very_Crappy_Christmas/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"A Very Crappy Christmas/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

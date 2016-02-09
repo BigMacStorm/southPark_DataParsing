@@ -1,0 +1,2220 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Le Petit Tourette/Script,Le Petit Tourette,Le Petit Tourette/Images,Le Petit Tourette/Trivia" />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Le_Petit_Tourette/Script" />
+<meta name="twitter:title" content="Le Petit Tourette/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Le_Petit_Tourette/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Le Petit Tourette/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":25226,"pageIsArticle":true,"pageName":"Le_Petit_Tourette/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=25226,
+wgCategories=["Scripts","Scripts from Season Eleven"],
+wgPageName="Le_Petit_Tourette/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s48","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25226&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25226&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Le Petit Tourette/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Le_Petit_Tourette/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Le_Petit_Tourette_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FLe_Petit_Tourette%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Le_Petit_Tourette/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Le_Petit_Tourette/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Le Petit Tourette/Script</h1>
+											<h2>&lt; <a href="/wiki/Le_Petit_Tourette" title="Le Petit Tourette">Le Petit Tourette</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Le_Petit_Tourette/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Le_Petit_Tourette/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Le_Petit_Tourette" title="Le Petit Tourette">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Le_Petit_Tourette/Trivia" title="Le Petit Tourette/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Le_Petit_Tourette/Images" title="Le Petit Tourette/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s11e08-Le-Petit-Tourette">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li>Kyle Broflovski
+</li><li>Eric Cartman
+</li><li>Craig Tucker
+</li><li>Butters Stotch
+</li><li>Patty Nelson
+</li><li>Gerald Broflovski
+</li><li>Sheila Broflovski
+</li><li>Liane Cartman
+</li><li>Mr. Mackey
+</li><li>Mrs. Garrison
+</li><li>Principal Victoria
+</li><li>Mr. Donaldson
+</li><li>Blonde Girl
+</li><li>Brunette
+</li><li>Teen Boy
+</li><li>Thomas and his mom
+</li><li>Clerk, and a man at Toy Safari
+</li><li>Doctor
+</li><li>Chris Hansen
+</li><li>HotForBoys219 and other pedophiles
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-25226-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25226-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25226-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25226-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25226-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fsl_ffv mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="large"data-font-face="veranda" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Toy Safari, day. Shoppers walk by, enter, leave, browse, etc. Inside, in Aisle 3: Action Figures. Cartman browses one set of shelves. Another boy is shown behind him, browsing the facing shelves.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[picks out a figure]</i> Big Ring Slammer. Comes with posable neck-smash grip. <i>[moves the package around with his left hand and strokes his chin with his right]</i> That's pretty kewl. Let's see...
+</td></tr>
+<tr>
+<th>Boy:
+</th><td>Cock! <i>[Cartman is startled.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[puts the Slammer back on the rack and selects another figure.]</i> The Black Jackal. Karate Kick Panel Force and bendable neck-
+</td></tr>
+<tr>
+<th>Boy:
+</th><td>Asshole! Cock! Asshole, shit, shit cock! <i>[his neck and face get taut as he blurts this out]</i>
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td><i>[nearby]</i> Ma'am, is that your son over there?
+</td></tr>
+<tr>
+<th>Mom:
+</th><td>Yes, I'm sorry. My son has Tourette's Syndrome.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Tourette's Syndrome?
+</td></tr>
+<tr>
+<th>Mom:
+</th><td>It's a neurological disorder. He-he can't control what he says.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Oh...
+</td></tr>
+<tr>
+<th>Boy:
+</th><td><i>[turns his head hard to the left, his eyes shut]</i> Shiit! <i>[turns his head back to face forward]</i> Dumb shiiit!
+</td></tr>
+<tr>
+<th>Mom:
+</th><td><i>[goes to take her son home]</i> A-alright Thomas, maybe we should go?
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>All right Mom- Bitch! Ass bitch!
+</td></tr>
+<tr>
+<th>Mom:
+</th><td>Here, let's buy you a nice toy to take home. <i>[selects a figure and hands it to Thomas, who walks away with her, smiling. Cartman watches as they leave]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[turns around and walks off, saying softly]</i> Dude, that mom is kewl. <i>[he arrives at the checkout line with his action figure]</i>
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td><i>[stands in line behind Cartman]</i> Cocknut! Augh... Stupid shit!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[turns around and glares at Thomas]</i> Are you talkin' to me?!
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>No. Cocknose!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What's your problem, kid?!
+</td></tr>
+<tr>
+<th>Mom:
+</th><td>Oh, a-I'm sorry. <i>[Thomas backs away a bit]</i> My... son Thomas has Tourette's Syndrome. <i>[a crowd begins to gather around them]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>Mom, let's just go. <i>Shhhit!</i>
+</td></tr>
+<tr>
+<th>Mom:
+</th><td>People with Tourette's can't control certain tics. It's it's like a sneeze.
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>Asshole ASSHOLE.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[waves his arms around]</i> Wait waitwait whoa whoa whoa. You're telling me there's an illness that makes you blurt out obscenities?
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>Mom, can we just go home, <i>please</i>?
+</td></tr>
+<tr>
+<th>Mom:
+</th><td>It's okay, Thomas. They understand.
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>I want tuh go! <i>[throws down his action figure and walks off, his hands over his mouth]</i> Shitfag!
+</td></tr>
+<tr>
+<th>Man 1:
+</th><td>Poor kid.
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[turns around and faces the crowd]</i> All right, hold on just a second here: Are you telling me that if you have this Tourette's Syndrome you can say whatever you want, all the time, and never get in trouble?
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>It's a neurological disorder; he can't help it.
+</td></tr>
+<tr>
+<th>Man 1:
+</th><td>Yeah! <i>[Cartman blinks - CHING! He begins to think: "I've got a golden ticket... I've got a golden"]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>Twinkle in my eye. [turns and heads for the entrance]</i> haha. HahaHAAhahahaha. <i>[throws his action figure into the air and runs out the door]</i>
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Hey don't you wanna buy that toy?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I don't need the toy! I've found something better! <i>[dances away] 'Cause I've got a golden ticket! I've got a golden chance to make my way!</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Colorado Neurology Center, some days later. A doctor checks Cartman out as Liane watches]</i>
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>It started about four days ago, Doctor, and every day he seems to get worse.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Puh- pussy!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Oh...
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Pussy! Cock! Shit! <i>[covers his mouth in faking embarrassment]</i>
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Oh dear... I was checking out the Internet and ih, it almost seems like his symptoms are like those in something called "Tour, Tourette's Syndrome"?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Tourette's Syndrome? What is that, Mommy. Butthole! Titties! Balls! <i>[covers his mouth immediately]</i>
+</td></tr>
+<tr>
+<th>Doctor:
+</th><td>That doesn't seem likely. Tourette's is a hereditary disease; it doesn't just suddenly start.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>...Cocksucker!
+</td></tr>
+<tr>
+<th>Doctor:
+</th><td><i>[begins to think and walks off a bit]</i> ...On the other hand, Tourette's does often develop later in a child's life, getting progressively worse.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh wuh, well that's it! Shithead! Asshole! Mexican sticky balls!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Oh Doctor, can you help him?
+</td></tr>
+<tr>
+<th>Doctor:
+</th><td><i>[turns around and walks back to them]</i> We don't know very much about Tourette's I'm afraid. But we will give your son all the help we can.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>But what about school, Doctor? The teachers and the principal, they won't understand that I can't control what I say.
+</td></tr>
+<tr>
+<th>Doctor:
+</th><td>Don't worry, young man. We'll make sure everyone understands your disease and gives you the compassion you deserve.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ohohh, that's awesome. Thank you. <i>Faggot! [gives him a mischievous look]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, day. Cartman walks into view as the kids are at their lockers]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Shit! Butthole! <i>[walks up to Wendy]</i> Hey Wendy. DUMB BITCH! Uh, sorry. <i>[smiles and moves on]</i> Titties! Cock! <i>[he's relishing this. He points to a redhead]</i> Ginger retard! Asslicker dickface!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, you'd better watch it. The principal's right over there. <i>[she walks up to them]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Uh, Good morning, Principal Victoria. Shitballs!
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Good morning, Eric. <i>[turns right and walks away. Cartman walks off in the opposite direction]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Did Cartman just say "shitballs" to the principal?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Huhyou didn't hear? Well Cartman has some, mental disease called Tourette's Syndrome or somethin'.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Craig:
+</th><td><i>[in admiration]</i> He's the luckiest kid in the world. If I could say "shitballs" to the principal I'd be sooo happy.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[deciding to explain things. Mr. Mackey is in the background]</i> Uh excuse me, excuse me everyone I, I guess you might have noticed my awkward tics. Asshole! Pussy asshole! <i>[the other kids lean away]</i> Ach, augh, I just want you to know that I can't control it.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>It's okay, Eric. We all understand and we think you're very brave.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[after some thought, points and says]</i> He's faking.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[his thunder is stolen and he covers for it]</i> Ahahahaha, ayah- Excuse me everyone, I need to have a moment alone with my good friend Kyle? <i>[walks to Kyle]</i> Asscheeks! <i>[hauls Kyle off to a clearing]</i> Kyle, apparently you missed the school assembly yesterday, but I've been diagnosed with a very serious mental condition.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You do not have Tourette's Syndrome, fatass!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>...Oh, okay, you figured me out. <i>[claps]</i> Bravo, Kyle, bravo. Don't you see how awesome this is? It's like, a magic cloak that makes me impervious to getting in trouble.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Who cares about saying whatever you-?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Of course, if you want to be Sergeant Buzzkill once again, and spoil my fun because you're jealous you didn't think of it first, well go right ahead, Kyle.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Grrhh, whatever. <i>[walks off in a huff. Mr. Mackey walks by]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Good morning, Mr. Mackey. Asspussy! <i>[Mr. Mackey does nothing but walk away]</i>
+</td></tr>
+<tr>
+<th>Craig:
+</th><td>If I could say "asspussy" to the counselor I would be sooo happy.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Mrs. Garrison's class, later. Mrs. Garrison writes a math problem on the board: (-7)X(-2)]</i>
+</td></tr>
+<tr>
+<th>Mrs. Garrison:
+</th><td>Okay, so what do we get when we multiply a negative number-?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Dicktits!
+</td></tr>
+<tr>
+<th>Mrs. Garrison:
+</th><td><i>[glances back at Cartman, then finishes writing]</i> -when we multiply a negative number by another negative-?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Shit! Asshole! <i>[Mrs. Garrison looks at Cartman with a bit of shock, then turns to the board.]</i> 'Scuse me. <i>[Cartman smiles]</i>
+</td></tr>
+<tr>
+<th>Mrs. Garrison:
+</th><td>Ih if we apply what we've just learned, we see that all negatives can-
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Spooge, balls, bloody... vaginal... belch! <i>[the class laughs. Cartman pretends to be hurt]</i> You guys, don't laugh. It makes me feel insecure about my illness.
+</td></tr>
+<tr>
+<th>Mrs. Garrison:
+</th><td><i>[facing the class]</i> All right kids, let's just try to focus on learning, okay? <i>[turns to the board]</i> Now all you need to remember here is that negative numbers
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Tampon! Tampon DICKshit!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Will you knock it off already?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Kyle, don't you think I wish I could? I'd give anything to be normal like you. KIKE.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Don't push me, asshole!
+</td></tr>
+<tr>
+<th>Mrs. Garrison:
+</th><td>Kyle, watch your language! <i>[Cartman lets out a hearty laugh]</i>
+</td></tr>
+<tr>
+<th>Craig:
+</th><td><i>[getting miserable]</i> If I could yell "tampon dickshit" in the classroom I'd be sooo happy.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The principal's office, later. Mrs. Garrison is inside talking with her.]</i>
+</td></tr>
+<tr>
+<th>Mrs. Garrison:
+</th><td>Principal Victoria, it's just that Eric has become such a distraction I, I don't think I can teach my class anymore.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>I understand it's been difficult, Mrs. Garrison, and so, Mr. Donaldson has come from the Tourette's Tolerance and Understanding Foundation. <i>[Mr. Donaldson walks into view]</i>
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>Hello Mrs. Garrison- <i>[turns his head to the left]</i> Ass. ASS. <i>[recovers]</i> I want to help your class better understand this illness. <i>[turns his head to the left]</i> Piss!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[walks into the office, with Cartman following]</i> No! Up yours, fatboy!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Kyle please! I'm sorry!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Principal Victoria, there's something you need to know! Cartman's Tourette's isn't real! He's faking!
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>Faking? <i>[Kyle is sure he's got Cartman on the hook]</i> You think people with Tourette's are faking?!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[his certainty gone]</i> N-no, I'm just saying that I think-
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>Do you have any idea how horrible that is to say? <i>[turns his head to the left]</i> Ass! ASS! <i>[recovers]</i> We aren't "faking", young man. Trust me, nobody wants this illness, ass. <i>[turns his head to the left]</i> PISS! PIIISS!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's right, Kyle. <i>[turns his head to the left, where Kyle happens to be]</i> Crap-filled vagina!
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>This is the kind of intolerance you teach at this school, Principal Victoria?!
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>No.
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>This if you wouldn't mind, I'd like to take this "bully" to see that Tourette's is very real. <i>[turns his head to the left]</i> Piiiss.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Children's Therapy Center, day. Mr. Donaldson is seated with seven kids on chairs in a circle in the middle of the room. Two of them are Thomas and Kyle.]</i>
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>Kids, today during therapy class we have a special visitor. <i>[turns his head to the right, where Kyle happens to be. Kyle jumps in his chair]</i> ASS! <i>[recovers and clears his throat]</i> I, I wanted him to meet all of you so he could try to understand Tourette's
+</td></tr>
+<tr>
+<th>Teen Boy:
+</th><td>Tourette's is like a cough or a sneeze. <i>[shakes his head quickly]</i> Brrrrr! <i>[recovers]</i> It isn't contagious like some people think. <i>[shakes his head quickly]</i> Brrrrrrrrr!
+</td></tr>
+<tr>
+<th>Blonde Girl:
+</th><td>A lot of people with Tourette's have different tics. My tic <i>[leans her head to the left, straightens it out, and snaps her fingers]</i> is that I have to bend my neck and snap her fingers. But a lot of people don't even notice it. <i>[leans her head to the left, straightens it out, and snaps her fingers]</i>
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td><i>[turns his head to the right]</i> Aw shit! COCK!
+</td></tr>
+<tr>
+<th>Brunette:
+</th><td>Sometimes it can be embarrassing to have Tourette's, but I <i>[blinks and bobs her head]</i> Boop. I've learned I shouldn't be mad at myself.
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>You see? These kids can't control their actions. Ass! Piss in the ass!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>L-look, I was just suggesting that maybe this one person could control what he said, but just didn't, for fun.
+</td></tr>
+<tr>
+<th>Teen Boy:
+</th><td>Fun? <i>[shakes her head quickly]</i> Brrrrr! <i>[recovers]</i> This really isn't all that fun. <i>[shakes her head quickly]</i> Brrr, brrrrrr!
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>Aw shit!
+</td></tr>
+<tr>
+<th>Brunette:
+</th><td><i>[blinks and bobs her head]</i> Boop. <i>[The blonde girl leans her head to the left, straightens it out, and snaps her fingers]</i>
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td><i>[turns his head to the left]</i> Piiiss, coming from my aaass!
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>Yee-you wanna know about fun? Going to public places <i>knowing</i> you're going to make a fool of yourself. Embarrass your parents <i>[turns his head to the right]</i> Aw shit! <i>[recovers]</i> My dad... finally couldn't take it anymore. He... divorced my mom, s-said he'd still be around, but I only see him at Christmastime now. S-sh-shit! S-sh-shit! The worst part is I know how lonely my mom is. A lot of times I know she'd be better off if I was dead.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude...
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>Your mom would not be better off if you were dead, Thomas. Even if people like Kyle here think so.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Aw, come on!
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>So then you apologize for what you said before?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ah I was just trying to... just, just in one instance... No. No, I'm sorry. I'm sorry. <i>[The blonde girl leans her head to the left, straightens it out, and snaps her fingers]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Children's Therapy Center, outside. Mr. Donaldson takes Kyle to his waiting parents as the other kids look on.]</i>
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>Well, Mr. and Ms. Broflovski, I think your son has learned a lot, and he appears to be honestly remorseful for making fun of people with disabilities. <i>[turns his head to the left]</i> Piss! PISS!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Our son is a good kid. He just didn't understand Tourette's was a real disease.
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>Well, I think the only thing left now is for your son to apologize to his little classmate. <i>[Cartman walks into view and bats his eyes at Kyle sweetly. Kyle does not appreciate this]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Well Kyle?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[grudgingly]</i> I'm sorry.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, what was that? I I couldn't quite make that out, Kyle.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[grudgingly, louder]</i> I'm sorry.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You're starry? I I don't get what you mean by that, Kyle. You're starry because uh I don't want it?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I said I'm sorry, you piece of sh- <i>[stops himself]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, oh, no, don't worry about it, Kyle. Now I understand. I've learned to deal with intolerance. Dumbshit douche bag! And it means a lot that you're standing here apologizing with your dad and lovely mother. <i>[looks at Gerald and Sheila]</i> Fat Jew! Jew bitch!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh, thank you Eric.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Thank you. Big-nosed kike! <i>[Sheila laughs nervously]</i>
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>Well I think we can all put this behind us now. <i>[turns his head to the left]</i> Piiiss out my aaass!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah. Piss out your ass right onto Kyle's mom's fat fucking Jew face! <i>[thumps his chest and clears his throat]</i> Oh goodness, 'scuse me. Jeez, that was a bad one. <i>[starts to walk away]</i> Well, gotta run, everybody. Got some big things in the works. <i>[stops to whisper to Thomas]</i> Isn't having Tourette's awesome? <i>[leaves]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A Dateline commercial. Dateline graphics come up]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Next week on Dateline NBC: it's a Dateline special report.
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>I'm Chris Hansen. You probably know me from <i>To Catch A Predator</i>, where we bust men looking for sex with children.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[a clip from that show]</i>
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Go ahead and take a seat. Take a seat right over there.
+</td></tr>
+<tr>
+<th>Predator:
+</th><td>Oh God, Whoa no.
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>What are you doin' here?
+</td></tr>
+<tr>
+<th>Predator:
+</th><td>I'm just' bein' stupid, I guess.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[return to the current show, with graphics indicating the change of focus from pedophiles to Tourette's]</i>
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>But now we're switching our focus from pedophiles to Tourette's Syndrome. It all started when I received this touching letter from a brave little boy in Colorado.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[doing a voice-over]</i><div class="poem">
+<p>Dear Mr. Hansen, <br />
+I have Tourettes and I want the world to understand what it's like. Won't you do a special report on me so that the world can learn to ACCEPT us instead of just laugh? Donkey Boner!!! <br />
+Eric Cartman
+</p>
+</div>
+<p><i>[he doesn't say his name]</i>
+</p>
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>This Saturday on Dateline I'll be bringing you Eric's story, live and uncensored, from his home in Colorado.
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Living with Tourette's: The Eric Cartman Story. This Saturday on Dateline NBC.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[adding to the commercial]</i> Finally, my wish of going public with my illness can come true. <i>[jumps at the camera]</i> Goddamn Jews! Suck my ass barf! <i>[jumps back in shock, covers his mouth, then smiles at the camera sweetly, bending his head to the right]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A sleepy night, Cartman's house.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Cartman's room. Cartman makes himself a drink, adult-style: He has two liquor bottles, a bucket of ice, and two wine glasses. Why two? Hm... He serves himself some ice. A few seconds later, Kyle enters his room and slams the door shut]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hello, Kyle. Dickhead!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What's this about you going on live television on Saturday?!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[serves himself some liquid]</i> Yes. It's all finally come to fruition. <i>[gently swirls the ice around]</i> The final cog in my... master plan. <i>[turns around to face Kyle]</i> This Saturday I will go on national television, live. I will say ...horrible things on the air. <i>[turns back and prepares a drink for Kyle]</i> Despicable things. And people will call me brave.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Cartman, there are people in the world who really have Tourette's Syndrome. This isn't funny!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[takes the drink to Kyle]</i> Not funny? I have free rein to say anything I want and you get into trouble if you try and stop me. Care for a Scotch?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...Scotch?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[quickly gives him the drink in triumph]</i> Kyle I've won! No matter how you look at it! I've managed not only to get away with saying whatever I want at school, on the bus, at the dinner table, but this Saturday I will actually say anything I want... on national television. I'm going to blast the Jews, Kyle. I'm going to call them every name in the book, and people will call it brilliant television. They'll probably give me an Emmy.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You are not going to go on national television and spew a bunch of hate speech about Jewish people! I won't let you do it, Cartman!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Then the game is on, Kyle.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>It's not a game, you derelict! And this isn't Scotch! It's apple juice! <i>[Cartman looks at his drink]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[walks back to make another "Scotch"]</i> Do you have any idea how liberating it is to say whatever comes to mind? "Big titties! Buttmunch!" There's no walls anymore! "Shit!" Whatever enters my brain I can just say without thinking about it. "I wet my bed last night." <i>[realizes what just happened]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What did you say?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Uhh nuh-nothing...
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You aren't gonna get away with this you <i>stupid asshole</i>! <i>[runs out of the room and slams the door]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hm. That was... weird.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Whistlin' Willy's Pizza Gultch, day. Inside, a crowd has gathered to watch this Dateline special. A banner hanging from the ceiling says "WE'RE PROUD OF YOU ERIC!" On a low stage are Mr. Mackey, Liane Cartman and Eric, Mr. Donaldson, and Principal Victoria]</i>
+</td></tr>
+<tr>
+<th>Mr. Donaldson:
+</th><td>We are here today to congratulate a brave little boy. Tonight, Eric Cartman will go on television and become the spokesman for Tourette's Syndrome. <i>[turns his head to the left]</i> Piiiss out my aaass! <i>[applause rises from the crowd]</i>
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>The spokesman for Tourette's? Oh no... <i>[turns his head to the right]</i> Cock!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[Mr. Donaldson adjusts the mic to his height]</i> Thanks, everybody. Suck my balls! <i>[applause rises from the crowd]</i> You've all been so understanding and supportive of my illness. Jizz farmer dick sneeze. And it is because of you... that I have the courage to go on national television tonight. Titty sprinkles. <i>[applause rises from the crowd]</i>
+</td></tr>
+<tr>
+<th>Craig:
+</th><td>If I could say "titty sprinkles" on national television I would be sooo happy.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>And I also just want to say that... I'm making this all up! <i>[startled by his own words, then covers his mouth as the crowd falls silent.]</i> Uh, I... I...'m making this all up to you, for putting up with my mental disorder. I cry at night because I don't have a dad. <i>[turns away from the mic and mumbles]</i> What the hell is going on?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uhit's okay, Eric. We understand your illness, m'kay?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No hey ut what, what I <i>meant</i> to say was "asslicker cumballs." And uhh, <i>[helplessly]</i> I'm secretly in love with Patty Nelson. I fantasize about kissing Patty Nelson! <i>[covers his mouth]</i>
+</td></tr>
+<tr>
+<th>Patty:
+</th><td>Eewwww!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[clambors offstage]</i> Uhuh, excuse me I, I need a toilet! Bathroom! Bathroom! <i>[runs through the crowd]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The mens room. Cartman runs in and heads for the sink. Butters is pissing at the urinal and his pants are at his ankles. Cartman washes his face.]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td><i>[does a double take and smiles]</i> Uh hey Eric!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[finishes up and looks at Butters]</i> Butters, do you think it's possible that you can lose the ability to filter what you say? I mean, if somebody got used to saying whatever came to their mind, could they start saying things that they would normally never say?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Wuh who are you talking about?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Uh, my cousin. My cousin one time my cousin and I touched wieners. <i>[he covers his mouth in horror as Butters is stunned]</i> Wah! <i>[faces Butters]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>You... you and your cousin touched wieners?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I didn't say that YES I DID BUT WHY? Oh! Stop it! <i>[runs out of the restroom]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The dining area. Cartman runs through the crowd]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Excuse me! Excuse me, I need to go! I gotta run!
+</td></tr>
+<tr>
+<th>Liane:
+</th><td>Is there a problem, sweetie?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[turns around and faces her]</i> No, no problem. I just need to- my cousin and I touched each other's <i>[struggles to keep control]</i> AAAA no, NAAAA! <i>[he's got the crowd's attention]</i> I just... no I... I just want to thank everyone for coming- my cousin and I touched wiener- we wiener we, weenter! Winter is a cold time of year. <i>[now composed]</i> Ah, I need to be going now.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Well all right Eric. Well good luck on Dateline tonight.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[apprehensive]</i> Dateline. Right. <i>[backs away but can't control his statements]</i> I wet my b-AAA! I touched my cousin's WEE-NUH! This sure has been fun! G'bye! <i>[runs out the door with his hands firmly over his mouth]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[KSPC Channel 4, an HBC affiliate, day. In his own office, Hansen rehearses his lines as the staff listens. A cameraman preps his camera]</i>
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Tonight, an inside look at Tourette's Syndrooome. I'm Chris Hansen. Mmh. I'm Chris Hansen.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[rushes onto the set]</i> Ah, Mr. Hansen? I'm afraid I can't do the show.
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Why not?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>My uh, my grandma just died, so I have to go to Memphis- That's not true. My grandma's fine.
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td><i>[rolls up his notes and motions Cartman to a stool]</i> Why don't you have a seat?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No I just need to get home. I'm not doin' the show.
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Go ahead and take a seat.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[heads for the door]</i> But I'm not gonna do the-
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Take a seat, right over there. <i>[Cartman backs up and sits on the stool, then puts his cap on the bar]</i> What are you doing here?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I'm, I'm telling you that I'm not doing the show?
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>But you <i>are</i> doing the show.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You don't understand! All of a sudden, I can't control what I say.
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Well of <i>course</i> you can't control what you say. You have Tourehhtte's.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>No! My Tourette's has gotten worse! Before I just blurted out cool stuff about Jews being lame and stuff. But now it's gotten really bad. <i>[gets his cap and puts it on]</i> So ah I'm sorry, but I'm not doin' the show, that's it. Goodbye. <i>[hops off the stool and walks away]</i>
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Why don't you take a seat?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh, I don't wanna take a seat!
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Have a seat.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[begins backing up]</i> No, I'm just gonna go- <i>[wonders how this is happening]</i>
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Take a seat, right over there.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[gets back on the stool and whispers to himself]</i> How does he do that?
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>You know, one tiiime, I was doin' a show called "To Catch A Predator". We almost caught this pedophile, but then he raaan from us 'cause he didn't wanna <i>be</i> on Dateline. Se we tracked him down to his hoouuse. And you know what he did? He shot himself. <i>[Cartman is scared]</i> It'd be a shame if... you didn't wanna go on Dateline. Be a shame if we had to track you down and you "shot yourself". <i>[Cartman is more scared, and a series of expressions cross his face]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The program begins: "Dateline \living with tourette's syndrome."]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Live, from our satellite studio in Colorado. This! ...is Dateline.
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Tonight, an inside look at Tourette's Syndrome. I'm <i>[stretches his name out so it sounds like nails on a chalkboard]</i> Chris Hansen. In a few minutes, you will meet little Eric Cartman, who wants the world to understand his affliction.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The green room. Cartman paces back and forth. Someone knocks on the door]</i>
+</td></tr>
+<tr>
+<th>A Page:
+</th><td>Five minutes, kid.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Jesus Christ. How did I get myself into this? <i>[walks to a nearby table and begins to pray]</i> God? Please uh, I know I screwed up. I should have never pretended to have Tourette's Syndrome, but see, ah I get it now. You can't just walk around saying whatever you want. You gave us a filter because, people don't wanna hear things like "I touched penises with my cousin!" <i>[covers his mouth quickly]</i> Ahaab, ahaabuh. And, and I learned, you <i>especially</i> can't say whatever you want on national television, 'cause, there could be kids watching. Please, God, don't make me embarrass myself on national television. You... must see how this is all somewhat your fault, right? Please, I need a miracle.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[KSPC Channel 4, outside, night, moments after the program began. Kyle jumps into view wearing dark camouflage and a headset at the parking lot entrance]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Tango, this is Foxtrot. Are you in position?
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td><i>[using a walkie talkie]</i> Copy Foxtrot. Tango in position. Awww shit!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You sure you don't wanna back out?
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>Nono, you were right. The fat kid is faking it! If he goes on TV, more people will think that having Tourette's is fun. Asshole shit!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>All right, then we go with the plan. Just like "To Catch A Predator". <i>[a light brown car pulls in]</i> The first guy is here. This is probably HotForBoys219. <i>[the car stops and Thomas looks around]</i>
+</td></tr>
+<tr>
+<th>HotForBoys219:
+</th><td><i>[walks up to Thomas]</i> Hi, are you CuteBilly182?
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>Yeah. I was chatting with you online. SHIT!
+</td></tr>
+<tr>
+<th>HotForBoys219:
+</th><td><i>[shaking with excitement]</i> Oh God, I'm so turned on right now. This is your house? Your, your parents aren't home, are they?
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>N-no, it's cool. Go on inside. I made brownies. SHIT! I'm just gonna slip into something more comf'table. COCK!
+</td></tr>
+<tr>
+<th>HotForBoys219:
+</th><td><i>[dances by]</i> Okay. Cock! Don't take too long. <i>[laughs and prances into the studio]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The studio set. The opening segment is finished.]</i>
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>So now let's meet a child who haaas Tourette's Syndrooome, and who must fi- <i>[the audience doors open and HotForBoys219 prances down the aisle laughing]</i>
+</td></tr>
+<tr>
+<th>HotForBoys219:
+</th><td>Ho, whoa, wait a minute. This ain't no house.
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td><i>[stands up angrily]</i> What are you doing?!
+</td></tr>
+<tr>
+<th>HotForBoys219:
+</th><td><i>[gasps and hides his face]</i> Chris Hansen?! Oh no, it's a setup! I knew it!
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Sir, why don't you take a seat, right over there.
+</td></tr>
+<tr>
+<th>HotForBoys219:
+</th><td>Now everyone's gonna know I'm a perv! Whoa! <i>[takes out a gun and shoots himself in the head. Nearby audience members move away, and the audience gets restless]</i>
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Aw, not again.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The green room. Cartman paces back and forth. The door opens and Kyle walks in]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Kyle?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Surprise, fatass!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Kyle, what are you doing?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I went online posing as a boy who would have sex with older men, and told them to meet me here. My plan worked perfectly! <i>[car horns blare outside, and Kyle goes to take a look. The parking lot quickly fills up as drivers park and leave their cars.]</i> Whoa.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Outside. Thomas sees the pedophiles coming and motions them into the studio]</i>
+</td></tr>
+<tr>
+<th>Pedo 2:
+</th><td><i>[walks up to Thomas and waves a Wendy's bag in front of him]</i> Hey, I brought you some Wendy's.
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>Yeah yeah, go on in. There's a hot tub inside. STUPID SHIT!
+</td></tr>
+<tr>
+<th>Pedo 2:
+</th><td>Score! <i>[goes inside]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The studio set. The driver stops in his tracks]</i>
+</td></tr>
+<tr>
+<th>Pedo 2:
+</th><td>Oh no, it's Chris Hansen! <i>[drops his meal and shoots himself]</i>
+</td></tr>
+<tr>
+<th>Audience Members:
+</th><td>Whoa! Who is that? What's going on?
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>What the hell is going on?!
+</td></tr>
+<tr>
+<th>Pedo 3:
+</th><td>Wait a minute. Oh God, it's Chris Hansen! <i>[shoots himself]</i>
+</td></tr>
+<tr>
+<th>Pedo 4:
+</th><td>Chris Hansen! <i>[shoots himself]</i>
+</td></tr>
+<tr>
+<th>Pedo 5:
+</th><td>Dateline?! <i>[shoots himself]</i>
+</td></tr>
+<tr>
+<th>Pedo 6:
+</th><td>I knew it! <i>[shoots himself]</i>
+</td></tr>
+<tr>
+<th>Pedo 7:
+</th><td>There aren't really brownies! <i>[shoots himself. More pedophiles enter and kill themselves, and the audience begins rushing out of the studio]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Outside. Chris Hansen finds Thomas.]</i>
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Hey! Do you have something to do with this? Answer meee!
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>Stupid shit! Cock! <i>[more audience members rush by]</i>
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>What?! Nobody talks to me like that! Why don't you take a seat? Take a seat, right over there.
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>Suck it! Asshole licker dickfart!
+</td></tr>
+<tr>
+<th>Hansen:
+</th><td>Fine, you lil- I'll, I'll tell on you! <i>[leaves, and there are no other adults left]</i>
+</td></tr>
+<tr>
+<th>Craig:
+</th><td><i>[walks up to Thomas]</i> Wow, you're the coolest kid in the world. If I could call Chris Hansen an asshole-licking dickfart to his face, I would be sooo happy.
+</td></tr>
+<tr>
+<th>Thomas:
+</th><td>You would?
+</td></tr>
+<tr>
+<th>Craig:
+</th><td>Could I just like, hang out with you sometime? Like, do your laundry maybe?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The studio set. It's dim, and Cartman and Kyle walk onto the set.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[feeling triumphant]</i> Take a look, fatass! I beat you! You aren't going on Dateline; what have you got to say now?! <i>[Cartman is silent for a moment, then hugs Kyle and sobs. Kyle wasn't expecting this]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Oh thank you! Thank you Kyle!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I asked God to send someone to help me, and you came, Kyle! I love you man!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, I- I beat you!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You totally saved my ass, Kyle. You must... really care about me. See you Kyle! I gotta get to a psychiatrist and learn to control what I say! <i>[heads up the aisle and out of the studio] I got a golden ticket!</i> Thanks to Kyle! <i>I got a golden twinkle in my eye! [Kyle is alone on set, but Thomas comes up and stands next to him]</i>
+</td></tr>
+<tr>
+<th>Thomas, Kyle:
+</th><td>Aww shit!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Le Petit Tourette</b>.]</i>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 58/300000
+Post‐expand include size: 1152/2097152 bytes
+Template argument size: 75/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:25226-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Le_Petit_Tourette/Script?oldid=249882">http://southpark.wikia.com/wiki/Le_Petit_Tourette/Script?oldid=249882</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Eleven" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Eleven" title="Category:Scripts from Season Eleven">Scripts from Season Eleven</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":25226,"kv_wpage":"Le_Petit_Tourette\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Le_Petit_Tourette/Script","wgTitle":"Le Petit Tourette/Script","wgCurRevisionId":249882,"wgArticleId":25226,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Eleven"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Le_Petit_Tourette/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":249882,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Le_Petit_Tourette/Script","fbReturnToTitle":"Le_Petit_Tourette/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Le_Petit_Tourette/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Le_Petit_Tourette/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Le Petit Tourette/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

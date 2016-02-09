@@ -1,0 +1,2483 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Asspen/Script,Asspen,Asspen/Trivia,Asspen/Images,Montage,Stan Darsh,The Safety Dance,Take on Me,Don't You Forget About Me,Thumper,Phil and Josh" />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Asspen/Script" />
+<meta name="twitter:title" content="Asspen/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Asspen/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Asspen/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":25724,"pageIsArticle":true,"pageName":"Asspen/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=25724,
+wgCategories=["Scripts","Scripts from Season Six"],
+wgPageName="Asspen/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s14","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25724&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25724&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Asspen/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Asspen/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Asspen_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FAsspen%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Asspen/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Asspen/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Asspen/Script</h1>
+											<h2>&lt; <a href="/wiki/Asspen" title="Asspen">Asspen</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Asspen/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Asspen/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Asspen" title="Asspen">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Asspen/Trivia" title="Asspen/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Asspen/Images" title="Asspen/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s06e02-Asspen">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan Marsh
+</li><li> Kyle Broflovski
+</li><li> Eric Cartman
+</li><li> Butters Stotch
+</li><li> Sharon Marsh
+</li><li> Randy Marsh
+</li><li> Sheila Broflovski
+</li><li> Gerald Broflovski
+</li><li> Ike Broflovski
+</li><li> Linda Stotch
+</li><li> Stephen Stotch
+</li><li> Phil 
+</li><li> Josh
+</li><li> Thumper
+</li><li> Tad Mikowski and Two Friends
+</li><li> Heather
+</li><li> A Teenage Girl
+</li><li> Resort Announcer
+</li><li> Mechanic
+</li><li> Voguing Skiers
+</li><li> Police Officers
+</li><li> Creatures for Breasts
+</li><li> Singers
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-25724-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25724-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25724-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25724-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25724-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic mon_hub_tv mon_sl_ic" data-ad-type="text"  data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Butters' house, night, kitchen. Linda is serving drinks. The Marshes and the Broflovskis are at table. Sheila holds Ike on her lap]</i>
+</td></tr>
+<tr>
+<th>Sharon
+</th><td>Thanks for having us all over for dinner, Chris and Linda.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Yes, it was <i>fab</i>ulous!
+</td></tr>
+<tr>
+<th>Linda:
+</th><td>Oh, we're just really happy that your boys have become such good friends with our little Butters!
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>Yeah. We figure that if our boys are goona be great friends, we should all get to be friends, too.
+</td></tr>
+<tr>
+<th>Linda:
+</th><td>Friends, by default. <i>[giggles]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, our boys do seem to be spending a lot of time together lately. I think ever since their friend Kenny died they've been looking for someone to fill the void.
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>Well, our son is a perfect void-filler. It's nice that he finally has <i>your</i> sons to be his best buddies!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Butters' house, living room. The four boys sit on the sofa looking at television, except Butters is asleep at one end]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[alerting the other two]</i> Look you guys, Butters is asleep.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>He's such a douchebag
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Hey! Have you guys ever seen this trick? <i>[drops down]</i> When someone's sleeping, you can take a glass of warm water, <i>[takes a glass of water and brings it to Butters' hand]</i> and you put their hand in it... <i>[dunks Butters' hand in it]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[watches as Cartman climbs the sofa]</i> Yeah, and then what?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>And then, you pee on it! <i>[drops his pants and pees on Butters' hand]</i> heheh-heheheheheheheh.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No, dude, you're supposed to put their hand in warm water and it makes <i>them</i> pee.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[still peeing]</i> Oh, really? ...Oh well, heh, heheheheh, heh
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Butters' house, kitchen. Conversation goes on]</i>
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>And we were thinking, since they've all become such close friends, how great it would be for us to all go together to Aspen for a ski weekend.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>A-Aspen? Uuuh, we, we can't really afford that.
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>No, you see, Linda and I found this ad where you can get two night free at a condo in Aspen if you attend a time-share presentation..
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>They let you stay for free?
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>Yes! And all we have to do is attend a thirty-minute meeting!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Well that sounds like a good deal.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Sounds good to me; let's go this weekend!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh, boy! Skiing in Aspen! I can't wait! <i>[an '80s tune begins to play. A shot of the boys in the living room, then the adults pour in from the kitchen]</i>
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>Hey boys! We're all going to Aspen for the weekend!
+</td></tr>
+<tr>
+<th>Stan, Kyle, Cartman:
+</th><td>All right! <i>[Butters stirs awake]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Wow, a ski trip with my new best buddies! <i>[feels some tension as he stretches]</i> Oh, I'm all sticky. <i>[wipes his hands on the sofa and cushions]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Rocky Mountains, day. Chris Stotch drives all three families and Cartman off to Aspen]</i>
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>Here we are, everyone. <i>[Before them lies a valley with many buildings in it. Next to the station wagon is a sign reading "WELCOME TO <u>ASPEN</u>"]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[They proceed into town, a tourist mecca, passing all sorts of high-priced tony stores. The scene freezes, and the new title comes up:<center>&lt;img src="SouthParkInAspen.jpg" alt="SOUTH PARK IN ASPEN"&gt;</center>then the scene continues. The adults are in happy awe as a woman walks by with her two poodles in front of a jewelry store. The next shot is of the four boys looking out marveling at the sights. They pass a man snorting cocaine in plain view in front of Bernie's. Next shot is of a resort in which a skier finishes his ski run. The entrance is shown: "Aspen Heaven: A Time-Share Community." The station wagon stops in front of a condominium complex and everyone gets out, making their way to the entrance. Fade out.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Fade in, next morning. The adults sit around a coffee table while the kids sit at the dining table eating breakfast behnd them. The adults are getting dressed for the day]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh, this is gonna be so much fun; I haven't skied in years!
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>Where are Butters and Eric?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>They're still asleep.
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>Butters? Eric? Come on! We gotta get to the powder! <i>[a knock on the door, and Linda rises to answer it. Two men enter]</i>
+</td></tr>
+<tr>
+<th>Phil:
+</th><td><i>[brunet]</i> Hello, folks, I'm Phil and this is Josh <i>[a blond]</i>. We're with the Aspen Time-Share Company. <i>[the other parents gather 'round]</i>
+</td></tr>
+<tr>
+<th>The Parents:
+</th><td>Hello.
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>You folks enjoying the condo?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>It's lovely. Thank you.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The dining table]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You guys, you guys! You're not gonna believe this, this is <i>so</i> funny!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>So last night, while Butters was asleep, I gave him a Hitler.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What's a Hitler?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You know, when somebody is sleeping and you put your finger up your butt and then, wipe it on their upper lip to give them a little Hitler mustache? You've never Hitlered anyone?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, I never have.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Shh-shh, here he comes.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Goooood mornin', fellas! All set to go skiin'?! <i>[Cartman starts laughing]</i> A-huh, u-uh, uh what's so funny?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[knowingly]</i> Nothing, Butters. Right, guys?!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The front door]</i>
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Well, we can't wait to show you what Aspen Time-Share is offering investors. Shall we do our thirty-minute meeting?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oh, do we have to do it right now?
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>Well, best to do it and get it out of the way.
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>Okay. <i>[Phil and Josh leave, Sheila steps forward, and the adults begin to exit]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Boys, we have to go to this time-share presentation real quick, but you go meet your ski instructor on the bunny hill.
+</td></tr>
+<tr>
+<th>The Boys:
+</th><td>Okay.
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>We'll meet you boys on the slopes. <i>[exits and closes the door]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Hey, do you guys smell that?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Smell what?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Ehh, it kind of smells stinky in this condo. <i>[Cartman chuckles]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I don't smell anything. Do you guys? <i>[bursts out laughing. Stan and Kyle just look at him as Butters looks up, wondering...]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Music fades in. Exterior shots of the resort are shown .The bunny slope is shown. Lifts go up and down as kids practice skiing moves. The four boys and Ike are shown waiting for their instructor.]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Do you guys smell that? It smells bad out here, too. I'm starting to think this whole town smells like doodoo.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, well, that why they call is <i>Ass</i>pen. <i>[laughs at his cleverness. A skier skis up to them]</i>
+</td></tr>
+<tr>
+<th>Thumper:
+</th><td>All right, little dudes, <i>[sets his skis aside]</i> great to see you out here. My name is Thumper, and I'm gonna be your cool ski instructor. <i>[gives the boys two thumbs up]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[to Stan]</i> His name is Thumper?
+</td></tr>
+<tr>
+<th>Thumper:
+</th><td>We're gonna take it slow, take it easy, make sure everybody has a goood time. 'Cause what is skiing about? Having a good...? <i>[puts his left hand to his ear, hoping for an answer. The boys just look at him] Time</i>, that's right. Now, just a few safety things to keep in mind: First of all, look straight ahead when you ski. You look down, you're gonna fall, you're gonna have a bad time. Also, be aware of skiers around you. You run into another skier, your skis are gonna cross, gonna have a bad time.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>So where's the part where we have a <i>good</i> time?
+</td></tr>
+<tr>
+<th>Thumper:
+</th><td>Hey, little dude, you got some crap right here. <i>[motions to the nose, where Butters does indeed have crap]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Wuh, that's my face, sir.
+</td></tr>
+<tr>
+<th>Thumper:
+</th><td>Alright, we're gonna do this without any poles until we know our two primary feet positions. To go slow, we wedge our skis together <i>[he puts his indices and thumbs together; front ski tips touch]</i>, in the shape of a slice of pizza. Then to go faster, we put 'em parallel, like... French fries. <i>[begins to drift forward]</i> You see that? <i>[wedges the skis]</i> Pizza, <i>[lines up the skis]</i> French fries, <i>[wedges the skis]</i> Pizza, <i>[lines up the skis]</i> French fries. <i>[moves farther away each time]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Ah-hey, this is gonna be just like eatin' at Shakey's, huh fellas?
+</td></tr>
+<tr>
+<th>Thumper:
+</th><td>Okay, let's have the little dude at the end try first! What's your name?
+</td></tr>
+<tr>
+<th>Ike:
+</th><td>Iiiiike!
+</td></tr>
+<tr>
+<th>Thumper:
+</th><td>Okay, Mike, ski down to me! <i>[Ike looks down the hill, but doesn't move]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Go on, Ike.
+</td></tr>
+<tr>
+<th>Ike:
+</th><td><i>[begins to practice the positions]</i> Pee-za, Fron fries. Pee-za, Fron fries. Fron friiiies. <i>[skis out of control]</i> Peeee-zaaa <i>[skis for a lodge and right through its wall.]</i>
+</td></tr>
+<tr>
+<th>Thumper:
+</th><td>Okay, you see what he did?! He French-fried when he should've pizza'd. You French-fry when you pizza, you're gonna have a bad time!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The meeting, meanwhile. Phil and Josh are presenting the time-share plan]</i>
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>And so, we think we can convince you to buy one of our combos that's opening right here in Phase 4.
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>That sounds like a GREAT investment opportunity!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>I-I'm sorry, but none of us can really afford to own our own vacation condo.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Yeah, and to be honest, we're just doing this meeting because of the two nights free deal.
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Oh, I know, that's what everybody says - "Not me, I can't afford it." But what if I told you you could own one of our properties for only eight thousand dollars!
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>Wow!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>For only eight thousand dollars we can buy a condo here?
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Well you see, "time-share" means you buy the condo with about twenty other people like yourselves <i>[exits screen left and immediately enters screen right]</i> You <i>[puts his hands together]</i> "share" the condo with other investors and pick the <i>[points to his watch]</i> "time" you want to stay.
+</td></tr>
+<tr>
+<th>Josh:
+</th><td><i>[makes a fist with his right hand]</i> Share, <i>[makes a fist with his left hand]</i> time. <i>[joins his fists together]</i> Time share.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>So then it's not really ours.
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Sure it is, one twenty-fourth and a half yours! You see, time-share has made it possible for even working-class people like you to say, "I've got a little place in Aspen."
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>Try it. Try saying it. "I've got a little place in Aspen."
+</td></tr>
+<tr>
+<th>The Parents:
+</th><td>I've got a little place in Aspen.
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Rolls off the tongue, doesn't it? Say guys, how'd you like to tell that hot secretary "I've got a nice little place in Aspen?" Hahaha! Just kidding, wives.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[looks at his watch]</i> Listen uh, it's been thirty minutes. We'd like to go hit the slopes now?
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Woll uh, you still gotta come to the time-share luncheon. We did give you a free condo for the weekend.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Well your ad said we only had to attend a thirty-minute meeting.
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Right, but this isn't that meeting. The luncheon is that meeting. <i>[the parents just look at him]</i> Don't worry, you're gonna have a great free meal at  the luncheon.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Bunny slope, later.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[practicing his moves]</i> ...French fries... pizza... french fries... <i>[does the pizza moves and sees Cartman fallen on his back]</i> come on, Cartman.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Ugh, no more., <i>[Kyle skis on. Stan is skiing as well, and another skier comes up to him, showering him with snow]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Looks like <i>you</i> think you're a pretty good skier, huh, kid?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Well I'm... catchin' on pretty fast, I guess.
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>I've been skiing for twenty-two years. Think you could beat <i>me</i>?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uhh... no.
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>What's your name, hot shot? <i>[two of his friends join him]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Stan. Marsh.
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Stan Marsh <i>[laughs]</i> Stan DARSH is more like it.
+</td></tr>
+<tr>
+<th>Skier:
+</th><td>Haaaa, Darsh! <i>[his pole is slapped by the first skier's]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Alright, how about a race, then? You and me.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, I'm just learning.
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>OooooOOOOooo! <i>[starts moving and squawking like a chicken, ending up facing Stan]</i> Looks to me like you're not a "hot shot" after all.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I never said I was.
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Oooooooo!
+</td></tr>
+<tr>
+<th>Tad's friends:
+</th><td>Oooooooo!
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>You may think you've got what it takes, but as long as I'm around, you'll <i>always</i> be number two! <i>[the two other skiers left]</i> See ya later, Darsh! <i>[laughs, kicks some snow into Stan's face, and skis away]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The meeting at Aspen Heaven, later. Phil and Josh are still extolling the time-share plan]</i>
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>And THAT is why owning a piece of an Aspen condo is not only possible,...
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>It's downright smart!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Aha. <i>[waiters come in with platters of food]</i>
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Op, here it is! As promised, a fabulous free lunch!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Wow, filet mignon' and lobster!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[apreciatively]</i> Not bad. <i>[Sheila and the others begin to eat]</i>
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>It's nice to feel rich, isn't it.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh, you know, this <i>is</i> really great.
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>It sure it. <i>[the waiters whisk the plates away]</i>
+</td></tr>
+<tr>
+<th>Randy, Gerald:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Wait...
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>You see? That's the great thing about time-share. You get a little taste of luxuries you can't afford.
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>And then share it with the people who come tomorrow.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>All right, look, we've been here for over three hours
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Yeah. Can we go now, please?
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Of course you can. Go hit those slopes! <i>[softly]</i> If you could just please show me the backs of your table place cards real quick? <i>[the others pick up their cards and look]</i> Oh my God! You got the red sticker!
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>They got the red sticker?!
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>They got the red sticker!
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>What's the red sticker?
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>Uh, well, well, that means if you come up to the condo sales office you'll receive one of three great prizes.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>No, no-no-no-no. We, we did your meeting and we did your lunch, we're finished, okay.
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Okay, okay, fine, I mean... <i>[his voice gradually drops to a whisper]</i> It would only take a second, but, I mean, you know, what did we do for you except, give you a free condo for the weekend. Huh. Seems like you could just... could just come up... and see what prize you had... <i>[Josh begins to cry]</i>
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>O-all right!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The bunny slope, even later. Kyle and Stan are skiing down faster now, mastering the basic pizza-French fries technique]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>...pizza... french fries... french fries... pizza...
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...french fries...pizza...pizza...pizza-french fries...<i>[loses control and jerks forward, then flips over and lands next to Ike, who's half-buried in the snow. Kyle looks over and gets up quickly. He dusts himself off as Stan catches up]</i> I wonder where our parents are.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Who cares? I'm having more fun on my own.
+</td></tr>
+<tr>
+<th>Tad:
+</th><td><i>[arrives, with his friends close behind]</i> well well well, if it isn't Stan Darsh!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[winces and covers his face with his right hand]</i> Oh no.
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Say Darsh, you don't mind if I take Heather out for some fondue tonight, do ya?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Heather? <i>[a woman skis up and stands next to the skier]</i>
+</td></tr>
+<tr>
+<th>Heather:
+</th><td>Sorry, Stan, it's just that when it comes to skiing, Tad has all the right moves.
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>I just might show her my moves tonight, if you know what I mean. <i>[giggles]</i>
+</td></tr>
+<tr>
+<th>Heather:
+</th><td>You aren't mad, are you, Stan? I mean, a girl's gotta look out for her best interests.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[just looks at them]</i> ...who <i>are</i> you people?!
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Still don't wanna race me? I told you he was chicken, Heather. Stan Marsh the Darsh! <i>[laughs disdainfully]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>All right dude, if I race you will you leave me alone?
+</td></tr>
+<tr>
+<th>Tad and friends:
+</th><td>Oooooooo!
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Alright, fine. You and me at the summit, now!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Okay.
+</td></tr>
+<tr>
+<th>Tad's friends:
+</th><td>Race! Race!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Ski run, moments later. A view from the bottom shows a long run, and the resort's main buildings off to the right near the finish line]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Ladies and Gentlemen, Aspen Mountain presents another ex-TREME racing showdown. <i>[the gathering crowd cheers]</i> Seven-time World Aspen champion Tad Mikowski versus eight-year-old Stan Marsh!
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Hah! You're going down, little boy!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, prob'ly
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Do you think Stan has a chance? <i>[the countdown begins. The chutes open and Tad takes off. Stan moves along allowing, sticking to the basic moves]</i> Uh go Stan! <i>[Tad flies down the hill, banking and weaving throughout. Stan appears a few seconds later, going down carefully]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Fries... fries...
+</td></tr>
+<tr>
+<th>A skier:
+</th><td><i>[Tad zooms past him]</i> He's got it! Tad's gonna win it! <i>[as the crowd cheers, Tad clears the last few hills and then goes through the finish line. He comes to a stop and people gather around him]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td><i>[raising his arms in victory]</i> Yeah! Yeeah! Yeah! You lose, Darsh! <i>[kisses Heather, who reacts. They lock lips. Stan finally crosses the finish line, in the wedge position]</i> Yeah! <i>[Butters, Kyle and Ike walk up to Stan]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>U-u-uh, Stan, yo-you gave it your best shot, and that all Jesus asks of you.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[drops his poles]</i> Dude, I'm just happy this whole stupid thing is all over with. <i>[a group of young adults walk by carrying Tad high in the air. The group stops, the boys turn around to see]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td><i>[looking down at Stan]</i> No hard feelings, right Darsh?! <i>[starts laughing.. The group moves away. The boys turn left as their eyes follow the group]</i> Yeah!
+</td></tr>
+<tr>
+<th>Teen Girl:
+</th><td>Stan, <i>[theh boys turn to see her]</i> for what it's worth, I think you were really brave.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Thanks. Who are you?
+</td></tr>
+<tr>
+<th>Teen Girl:
+</th><td>Hey, all the cool teens are gonna be at the youth center tonight for a dance. I hope you'll come because you're just so... we-hell, you're just so.. well, that's all. <i>[turns around and walks off]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The valley, day. There are three long lines of people waiting to ski. The parents finally make it out of the meeting]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Finally, we get to go skiing!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oh my God, look how long the lift lines are.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Yeah, I guess these passes the time-share salesman gave us <i>will</i> come in handy.
+</td></tr>
+<tr>
+<th>Lift Operator:
+</th><td>Can I help you?
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>Yes, we have the special passes to use the exclusive lift from the time-share company?
+</td></tr>
+<tr>
+<th>Lift Operator:
+</th><td>Ooooh, go right on ahead, folks.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Thank you. <i>[the parents move forward and position themsleves for the lift, which comes down presently. The parents get on and the lift goes up the slope again]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, <i>this</i> certainly is nice.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Yeah, we may not have gotten to ski earlier, but with this lift we'll get more runs in than anybody.
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>Have fun waiting in line, suckers! Woohoohoo!
+</td></tr>
+<tr>
+<th>Linda:
+</th><td>Oh, Chris. <i>[Randy giggles, then looks up]</i>
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>Hey look, this trailer goes right into a building. <i>[the lift turns, drops them off, and moves back out.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Aspen Heaven meeting room, again.]</i>
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Welcome back, folks!
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>We've got a special offer we can't wait to tell you about!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oh, God-damnit!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Aspen Youth Center. Teens enter from all sides. The boys go in as well.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, it's been twelve hours. Where the hell are our parents?!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Aspen Youth Center, inside. The boys find themselves on a dance floor listening to a live band]</i>
+</td></tr>
+<tr>
+<th>Teen Girl:
+</th><td>I'm glad you guys came. Do you like our youth center?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I' seems fine.
+</td></tr>
+<tr>
+<th>Voguing Skier:
+</th><td>Yeah, too bad we're getting shut down. That hot-shot skier Tad's father is gonna bulldoze the building
+</td></tr>
+<tr>
+<th>Voguing Skier 2:
+</th><td>Where are all us kids supposed to go?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Don't care. <i>[the boys go further onto the dance floor]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What do you wanna do now?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I dunno.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Let's dance. <i>[begins to dance. Cartman watches with dismay. Butters does a bunch of dancve movies, including the Moonwalk and some break-dancing]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Butters, I hate you with every inch of my body. <i>[the music is stopped and a voice is heard]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Alright, Aspen-heh. As a special treat tonight we're proud to have the winner of today's race, Tad Mikowski. <i>[moves off and the crowd begins to cheer as Tad approaches the mic]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh,. God. <i>[buries his face in his hand again.]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Hey everyone. <i>[the crowd quiets down]</i> I'd like to sing a little song, if I may.
+</td></tr>
+<tr>
+<th>The Ladies:
+</th><td><i>[swooning]</i> Ooooooooo.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Gah, let's go you guys. <i>[turns around and leads the others towards the door...]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>This is a song I wrote about... Stan Marsh. <i>[Stan stops in his tracks]<br />Staaaaan... Daaaaarsh...<br />Stan. Darsh. Darshy Daaarsh<br />Stan Daaarsh<br />Stan Darsh, Stan-darsh<br />Stan Daaaaarsh Daaarsh<br />Stan Darsh...</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, what the hell is your problem?!
+</td></tr>
+<tr>
+<th>Tad and friends:
+</th><td>OooOOOOOOoooooo!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I raced you, You won!
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>A rematch? Oh, Darsh. You're even dumber than I thought.
+</td></tr>
+<tr>
+<th>Teen Boy:
+</th><td>He'll ski you anytime, anywhere
+</td></tr>
+<tr>
+<th>Teens:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Teen Girl:
+</th><td><i>[talking to Tad, referring to Stan]</i> But this time, if he wins, you get your dad to not close our youth center
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Alright then, let's make it interesting. Tomorrow afternoon. On the K-13. <i>[points at a window. The camera pans to the window, and a lone huge peak is shown. Tow teens look and are horrified]</i>
+</td></tr>
+<tr>
+<th>A Teen Boy:
+</th><td><i>[steps into view]</i> The K-13? But that's the most dangerous run in all of America. <i>[steps away]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Hell, I'm not chicken! Are <i>you</i>, Darsh?! [starts squawking like a chicken]
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I'll be there, you queen!
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Oh, <i>yeah</i>?!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Oh, Darsh, you're even dumber than I thought... Again! See ya tomorrow.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Youth Center, outside. The boys exit the center]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Uh you're not really gonna go down that K-13 run, are ya, Stan?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, I have to!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[shoves Stan a bit and faces him]</i> Stan, you can't let that Tad guy get to you. Screw him, dude.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, he's got Heather!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You don't even know Heather!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I know I know I-, ugh. Look I can't explain it but I have to do this. I'm not gonna die. I mean, how bad can the K-13 be?
+</td></tr>
+<tr>
+<th>Mechanic:
+</th><td><i>[appears out of nowhere]</i> The K-13? You don't wanna go down that run. That run has got a history. Thirty-five people have died goin' down it, and some say you can still see their ghosts up there. It was on that very ski run that a group of students were killed by a wolf-boy who escaped from a mental institution. You see, that ski run was once a burial ground to a tribe of vampire Wichicaw who ate the flesh of children with no eyes. Yah-, a lot of history on that ski run. <i>[the boys just look at him]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>...Thank you.
+</td></tr>
+<tr>
+<th>Mechanic:
+</th><td>Yah. <i>[moves off]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Look, Stan. When Kenny died I learned how important friends are. I'm not gonna lose <i>another</i> friend.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>This isn't about you, Kyle, I have to do this, okay? I have to!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Aspen Heaven, next day. The parents are still meeting with Phil and Josh]</i>
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>...And so you see it's the investment opportunity that keeps on giving.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>How many times do we have to tell you this? We don't want to buy shares in a condo!
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>And we certainly don't want to pressure you.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Pressure us?! You kept us all day yesterday and then had a chair lift bring us back!
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Heh-ey, you can leave anytime you want. Of course, that is, if you don't want the super-secret fun prize for attending the slide show.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[Rises from his chair angrily]</i> No, we don't want the super-secret fun prize alright?! We just wanna ski! Come on, everybody! <i>[leads the others towards the door]</i>
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>I know! Have you ever considered going <i>in</i> on a time share?
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>That's only a couple thousand each, Josh!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Don't listen to 'em, let's just go!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Aspen Heaven, the hallway. The parents walk down the hall]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>My God, can you believe those people?!
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>I hope you don't blame me for all that. I mean, the ad <i>...did...</i> just say a thirty-minute presentation.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Let's just get out of here. <i>[opens a door across the hall. The parents find themselves in a room exactly like the one they left across the hall]</i>
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Folks, I'm glad you're back, because we forgot to mention, time-share condos are <i>still</i> deeded properties!
+</td></tr>
+<tr>
+<th>Parents:
+</th><td>Aaagh!! <i>[they turn around and walk out... er, in]</i>
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Oooo, you folks <i>really</i> lucked out this time. You're visitor number one thousand!
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>That means you can listen to our special offer for privileged members only!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>That does it! I'm calling the police! <i>[takes out the cell phone and begins dialing. One of the salesmen groans softly]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Bunny slope, day. Beginners practice their moves. A girl stands next to Thumper; he sets her up and sends her on her way]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[approachs]</i> Mr. Ski Instructor, I need a lot of training, fast. I'm gonna race down the K-13.
+</td></tr>
+<tr>
+<th>Thumper:
+</th><td>K-13?! But you're just a beginner! You ski outta your league, you're gonna have a bad time.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I have to do this, okay? I have to!
+</td></tr>
+<tr>
+<th>Thumper:
+</th><td>Alright, well, if you gotta get good at somethin' really fast, there's only one way to do it. Come on!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A song begins to play. Thumper is giving Stan some quick instructions and then Stan starts skiing. Thumper looks on, encouraging]</i>
+</td></tr>
+<tr>
+<th>Singer (and backup singers):
+</th><td><div class="poem">
+<p><i>The day is approaching to give it your best</i><br />
+<i>You've got to reach your prime!</i><br />
+<br />
+<i>[Thumper and Stan do some Tai Chi on their skis, then Thumper has Stan ski down the hill blindfolded while he takes notes on technique and time]</i><br />
+<br />
+<i>That's when you need to put yourself to the test</i><br />
+<i>And show us the passage of time</i><br />
+<i>We're gonna need a montage (Montage)</i><br />
+<i>A sports-training montage (Montage)</i><br />
+<br />
+<i>[The teen girl is reading to Stan from a book: Skiing for "DUMBASSES." Then Thumper spots Stan as Stan does barbells, then has him do a few more runs. The times aren't satisfactory.]</i><br />
+<br />
+<i>And just show a lot of things happenin' at once.</i><br />
+<i>Remind everyone of what's goin' on. (What's goin' on?)</i><br />
+<br />
+<i>[Bulldozers show up at the youth center to knock it down, but a group of families shows up to protest the demolition. Next shot, the parents are still at those meeting, getting quite weary and tired]</i><br />
+<br />
+<i>And with every shot, show a little improvement</i><br />
+<i>To show it won't take too long</i><br />
+<i>That's called a montage (Montage)</i><br />
+<i>Even Rocky had a montage (Montage)</i><br />
+<br />
+<i>[Stan skis down a little faster, and Thumper shows him how much he's improved. Tad is then shown polishing his skills, landing after a ski jump and receiving Heather into his arms. The girl reads to Stan some more, but Stan's fallen asleep. She rouses him and resumes the lesson]</i><br />
+<br />
+<i>In any sport, if you want to go</i><br />
+<i>From just a beginner to a pro</i><br />
+<i>You'll need a montage (Montage)</i><br />
+<i>a simple little montage (Montage)</i><br />
+<br />
+<i>[she shows Stan a few pictures in her book. Next, Stan is skiing down the hill with bricks weighing his shoulders down. Kyle stands on a bluff with a picture of himself and Stan and looks wistfully at it and at K-13. Cartman rubs his finger into his ass and gives a sleeping Butters the Hitler again. Cartman stifles a laugh]</i><br />
+<br />
+<i>Always fade out (Montage) into a montage (Montage)</i><br />
+<br />
+<i>[Again, Stan skis down the hill with Thumper looking on. Now Thumper approves of the time. The instructor, the teen girl, and Stan look out at K-13 from a nearby hill, the camera at their backs]</i><br />
+<br />
+<i>If you fade out it seems like a long time (Montage) has passed in a montage (Montage)</i><br />
+<i>Montage (Montage)</i><br />
+<br />
+<i>[The camera faces the trio now and zooms out slowly. Stan sets his skis down and steps into them, then skis down the slope. Fade out]</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Aspen Heaven meeting room, day. Two officers are present with the two salesmen and the six parents]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>All the ad said was that we had to attend a thirty-minute meeting, right, and- and it's been a day and a half! These guys won't let us leave!
+</td></tr>
+<tr>
+<th>Phl:
+</th><td>That's not true, officers, we said they could leave at any time.
+</td></tr>
+<tr>
+<th>Thin Cop:
+</th><td>All right, let me see if I got this straight. You two gentlemen are offering part-time limited liability <i>[suddenly animated]</i> ownership in one of your fabulous condos for the one-time price of eight thousand dollars?!
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>That's right!
+</td></tr>
+<tr>
+<th>Fat Cop:
+</th><td>Sounds to me like if anybody should be arrested it should be <i>you</i> people for passin' up such a great deal!
+</td></tr>
+<tr>
+<th>Thin Cop:
+</th><td>That's right, you're practically stealing condos at <i>that</i> price. "Book 'em, Danno!" <i>[laughs. The parents look on, chagrined]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oh, Jesus.
+</td></tr>
+<tr>
+<th>Linda:
+</th><td>No! <i>No</i>!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>The police work for time-share, too? <i>[the police draw their guns and aim at the parents]</i>
+</td></tr>
+<tr>
+<th>Phil:
+</th><td><i>[somewhat menacing, moves forward]</i> The police, the mayor, the president of the United States. Perhaps now you see the severity of your situation. I think we shall all <i>sit down</i>... <i>[backs up]</i> and listen to the presentation.
+</td></tr>
+<tr>
+<th>Josh:
+</th><td><i>[draws his own gun and aims]</i> Sit! <i>[the parents go to the table and sit on the chair]</i>
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>Now, you're probably asking yourselves... "Can my time-share condo turn into a profit?"
+</td></tr>
+<tr>
+<th>Josh:
+</th><td>"What kind of cash flow can I realize from my investment?"
+</td></tr>
+<tr>
+<th>Phil:
+</th><td>The answer might astonish you. For over ten years investors have seen their-
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Aspen Heaven ski run, finish line area, day]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>The powder is fresh and the stage is set for Tad versus Stan on the K-13!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[K-13 peak. Tad and Stan are ready to ski]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>This time you're not just gonna lose, you're gonna die!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Finish line area. The other boys and Ike are presnt, with their instructor behind them]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I can't lose another friend. First Kenny and now Stan? All I'm gonna have left are <i>you</i> two douches. <i>[Cartman gives him an angry look]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Ready. Set. Go! <i>[the crowd cheers and Tad takes off. Stan begins to ski]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Pizza... pizza... pizza...
+</td></tr>
+<tr>
+<th>Man In Yellow Jacket:
+</th><td>Tad's got the lead.
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Come on, Stan! <i>[Tad is shown zipping down the hill, Stan is still at the summit making his way down]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td><i>[stops near a tree]</i> Haha. <i>[pulls out a small saw hidden in the back side of his jacket]</i> This should slow down Darsh a bit! <i>[goes to the tree and starts sawing it off at the base. Stan has gone down the mountain some more]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td><i>[the crowd cheers the skiers on]</i> And it looks like Tad is way out in front.
+</td></tr>
+<tr>
+<th>Tad:
+</th><td><i>[finishes sawing the tree in two and laughs]</i> Now, I'll win for sure!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Awgh, dude, I can't look. <i>[closes his eyes and covers them with his hands  Tad is shown zipping further down the hill, Stan has left the summit]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td><i>[stops and looks up the hill, then leaves. He returns with a bucket of sand and pours it out]</i><br />Let's see what some <i>sand</i> does to your speed, Darsh! <i>[leaves. Stan continues his run. Tad returns with more sand and pours it out]</i><br />He doesn't stand a chance, now! <i>[Stan reaches the fallen tree and climbs over it, then continues his run. Tad pours out even more sand]</i><br />I'm gonna beat 'em! <i>[tosses the bucket away and leaves]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td><i>[as the crowd cheers]</i> The race is half over and Tad is still out in the lead! <i>[Stan is moving along nicely. Tad stops further down and pushes a large cage of hamsters onto the slope]</i>
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>Heh, when Darsh skis by here, I'll let all these hamsters go. That should distract him just long enough for me to win the race!
+</td></tr>
+<tr>
+<th>Teen girl:
+</th><td><i>[walks in]</i> Oh, Tad.
+</td></tr>
+<tr>
+<th>Tad:
+</th><td>...What are <i>you</i> doing up here?
+</td></tr>
+<tr>
+<th>Teen girl:
+</th><td>Oh nothing. I just thought I could distract <i>you.</i> With these. <i>[lifts up her jacket and top. Tad look and is unable to move as he groans at what he sees. Stan moves along in the background and passes Tad, who remains spellbound. Stan reaches the finish line and breaks it. The boys and the crowd cheer the victory and approach Stan. Another song begins to play]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Good job, dude!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Thanks. <i>[Tad reaches the finish line to see the celebration start without him. He takes off his goggles and throws them to the ground in anger]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>You did it, Stan! <i>[Tad approaches Heather, who gives him the cold shoulder and walks away. Tad is crestfallen]</i>
+</td></tr>
+<tr>
+<th>Teen girl:
+</th><td>Thanks a lot, Stan. Now we're gonna be able to keep the youth center. <i>[the crowd cheers louder, and the mechanic stops by]</i>
+</td></tr>
+<tr>
+<th>Mechanic:
+</th><td>Well, that does it. Looks like the spirits of the Wakichaw Indians can finally rest in peace. <i>[three spirits rise from K-13 thanking Stan for setting them free.]</i>
+</td></tr>
+<tr>
+<th>Heather:
+</th><td><i>[walks up to Stan]</i> Stan, I was wrong about you. Would you like to go out again? <i>[Stan looks at her incredulously]</i>
+</td></tr>
+<tr>
+<th>Teen girl:
+</th><td>Go ahead, Stan. She's everything you ever wanted. <i>[the parents arrive]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>There you are, boys!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Mom, Dad!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Where the hell have you guys been?!
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>Uh, we got a little held up at the time-share sales office.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Yeah, but the good news is we finally came to our senses and bought some shares in a condo. So we all get to come to Aspen for two weeks every year!
+</td></tr>
+<tr>
+<th>The Boys:
+</th><td><i>[disappointed]</i> Awwwwww!
+</td></tr>
+<tr>
+<th>Stephen:
+</th><td>What's the matter? Didn't you boys like skiing? <i>[the song is stopped abruptly]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No! We can't keep track of when you pizza and when you French-fries and when the hot-shot asshole skier takes your girl or if you're supposed to race him the first time or train first to beat him on the really difficult mountain so you can save the dorky but hot girl's youth center. Skiing sucks! <i>[turns right and leads the other boys away]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, what a stupid sport! <i>[the parents turn left and follow the boys away]</i>
+</td></tr>
+<tr>
+<th>Thumper:
+</th><td><i>[looks at the teen girl]</i> I heard that you were the one responsible for making Tad lose the race. Thanks.
+</td></tr>
+<tr>
+<th>Teen Girl:
+</th><td>Yeah. Well he really <i>flipped</i> when he saw these. <i>[lifts up her jacket and top again and two creatures appear where her breasts should be]</i>
+</td></tr>
+<tr>
+<th>Left Creature:
+</th><td><i>[softly, slowly]</i> Quaid...
+</td></tr>
+<tr>
+<th>Right Creature:
+</th><td><i>[softly, slowly]</i> Start the reactor...
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Asspen</b>.]</i>
+</td></tr></table>
+<p><br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">603: "<a href="/wiki/Asspen" title="Asspen"><span style="color:white">Asspen</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:603&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p>"<a href="/wiki/Montage" title="Montage">Montage</a>" • 
+"<a href="/wiki/Stan_Darsh" title="Stan Darsh">Stan Darsh</a>" •  
+"<a href="/wiki/The_Safety_Dance" title="The Safety Dance">The Safety Dance</a>" •
+"<a href="/wiki/Take_on_Me" title="Take on Me">Take on Me</a>" •
+"<a href="/wiki/Don%27t_You_Forget_About_Me" title="Don't You Forget About Me">Don't You Forget About Me</a>" •
+<a href="/wiki/Thumper" title="Thumper">Thumper</a> • 
+<a href="/wiki/Phil_and_Josh" title="Phil and Josh">Phil and Josh</a> • 
+<a href="/wiki/Tad_Mikowski" title="Tad Mikowski">Tad Mikowski</a> • 
+<a href="/wiki/K-13" title="K-13">K-13</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Asspen/Images" title="Asspen/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s06e01-freak-strike">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Sixth_Season" title="South Park: The Complete Sixth Season">South Park: The Complete Sixth Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 95/300000
+Post‐expand include size: 4886/2097152 bytes
+Template argument size: 37/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:25724-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Asspen/Script?oldid=258626">http://southpark.wikia.com/wiki/Asspen/Script?oldid=258626</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Six" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Six" title="Category:Scripts from Season Six">Scripts from Season Six</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":25724,"kv_wpage":"Asspen\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Asspen/Script","wgTitle":"Asspen/Script","wgCurRevisionId":258626,"wgArticleId":25724,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Six"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Asspen/Script","wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":258626,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Asspen/Script","fbReturnToTitle":"Asspen/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Asspen/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Asspen/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Asspen/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

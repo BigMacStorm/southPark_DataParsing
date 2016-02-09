@@ -1,0 +1,2564 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Conjoined Fetus Lady/Script,Conjoined Fetus Lady,South Park Studios,Official Scripts,Nurse Gollum,Dodgeball Song,Conjoined Twin Song,Conjoined Fetus Lady/Images,Conjoined Fetus Lady/Trivia,South Park: The Complete Second Season" />
+<meta name="description" content="General Trivia Images Script Watch Episode The official script for &amp;quot;Conjoined Fetus Lady&amp;quot; was..." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Conjoined_Fetus_Lady/Script" />
+<meta name="twitter:title" content="Conjoined Fetus Lady/Script" />
+<meta name="twitter:description" content="General Trivia Images Script Watch Episode The official script for &quot;Conjoined Fetus Lady&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Eric Cartman Kenny McC" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Conjoined_Fetus_Lady/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Conjoined Fetus Lady/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":25744,"pageIsArticle":true,"pageName":"Conjoined_Fetus_Lady/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=25744,
+wgCategories=["Scripts from Season Two","Scripts"],
+wgPageName="Conjoined_Fetus_Lady/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s18","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25744&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=25744&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Conjoined Fetus Lady/Script" />
+	<meta property="og:description" content="General Trivia Images Script Watch Episode The official script for &quot;Conjoined Fetus Lady&quot; was released by South Park Studios. It is located here! Cast Stan Marsh Kyle Broflovski Eric Cartman Kenny McCormick Pip Pirrup Butters Stotch (referred to as Swanson) Bebe Stevens Clyde Donovan Mr. Mackey Sheila Broflovski Gerald Broflovski Sharon Marsh Randy Marsh Chef Ms. Crabtree Nurse Gollum Principal Victoria Officer Barbrady Jimbo Kern Bob Thomas The Denver Cougars Kevin Stoley Annie Faulk..." />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Conjoined_Fetus_Lady/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Conjoined_Fetus_Lady_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FConjoined_Fetus_Lady%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Conjoined_Fetus_Lady/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Conjoined_Fetus_Lady/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Conjoined Fetus Lady/Script</h1>
+											<h2>&lt; <a href="/wiki/Conjoined_Fetus_Lady" title="Conjoined Fetus Lady">Conjoined Fetus Lady</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Conjoined_Fetus_Lady/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Conjoined_Fetus_Lady/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Conjoined_Fetus_Lady" title="Conjoined Fetus Lady">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Conjoined_Fetus_Lady/Trivia" title="Conjoined Fetus Lady/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Conjoined_Fetus_Lady/Images" title="Conjoined Fetus Lady/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s02e05-conjoined-fetus-lady">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<dl><dd><i>The official script for "<a href="/wiki/Conjoined_Fetus_Lady" title="Conjoined Fetus Lady">Conjoined Fetus Lady</a>" was released by <a href="/wiki/South_Park_Studios" title="South Park Studios">South Park Studios</a>. It is located <a href="/wiki/Official_Scripts#Season_Two" title="Official Scripts">here</a>!</i>
+</dd></dl>
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li>Stan Marsh
+</li><li>Kyle Broflovski
+</li><li>Eric Cartman
+</li><li>Kenny McCormick
+</li><li>Pip Pirrup
+</li><li>Butters Stotch (referred to as Swanson)
+</li><li>Bebe Stevens
+</li><li>Clyde Donovan
+</li><li>Mr. Mackey
+</li><li>Sheila Broflovski
+</li><li>Gerald Broflovski
+</li><li>Sharon Marsh
+</li><li>Randy Marsh
+</li><li>Chef
+</li><li>Ms. Crabtree
+</li><li>Nurse Gollum
+</li><li>Principal Victoria
+</li><li>Officer Barbrady
+</li><li>Jimbo Kern
+</li><li>Bob Thomas
+</li><li>The Denver Cougars
+</li><li>Kevin Stoley
+</li><li>Annie Faulk (referred to as Jordan)
+</li><li>Chinese commentators
+</li><li>The Chinese Dodgeball Team
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-25744-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25744-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25744-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25744-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-25744-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fss_fft mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="small"data-font-face="times" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary Gym]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Okay, children, it's Friday, and you know what that means for PE class. We're gonna play dodgeball! <i>[the class groans]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>We don't wanna play dodgeball. It hurts.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>So let's have half the children on this side <i>[to his right]</i> and half the children on that side. <i>[to his left. Team 1 walks to one side]</i>
+</td></tr>
+<tr>
+<th>Pip:
+</th><td><i>[uncertain]</i> Uhh... Excuse me a moment, gentlemen. I don't believe I know how to play dodgeball.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[with Clyde and Stan looking on]</i> What? Don't you have dodgeball in France?
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>Well, no. And actually, I'm not from France--
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Look, Pip, the rules are simple. A kid from that team is gonna try to bean a kid on our team in the head with a big red ball.
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>Oh, dear.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>If the ball hits you, you're out, but if you catch the ball, he's out, and the last team to still have anybody standing wins.
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>Oh, what jolly good fun!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No it isn't, it hurts! I can't believe they let us play this in school.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The teams are as follows:<br />Team 1: Kyle, Clyde, Kenny, Stan, Cartman, Pip, Jordan (Annie), Swanson (Butters), and one other<br />Team 2: Bill, Fosse, Kevin, Bebe, and five others]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[blows his whistle]</i> Play ball! <i>[Kevin takes the ball and chucks it at Stan's team. It hits Clyde]</i>
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>Ow! Ahow-ow-ooooowww!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dammit, we lost one already!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Aheeheh, you're out, Clyde! Heheheh.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Jordan, Swanson, pull forward! We need backup! <i>[Kevin throws again, and it hits Jordan]</i>
+</td></tr>
+<tr>
+<th>Jordan:
+</th><td>Aagghhh!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We're losing men fast out here! <i>[he and Kyle jump out of the way as the ball sails towards the unnamed teammate. The guy falls and the ball returns to the opposing team]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[giggling]</i> Concentrate on your ge-hame! <i>Be</i> the buhaw-hall! <i>[Kevin serves again, and Kyle looks away as it comes towards him.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[finds the ball in his hands]</i> I caught it! I caught it!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Great catch, Kyle! Now your team's on offense!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Here, Pip, <i>you</i> throw. <i>[tosses the ball to him]</i>
+</td></tr>
+<tr>
+<th>Pip:
+</th><td><i>[catches it]</i> Ugh... Oh, no, I couldn't.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on, limey, don't be a wuss! Are you just gonna be a little French pig your whole life?
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>I'm not French--
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Throw the ball, you stupid frog! <i>[Pip sets up]</i> God-damn, maybe if you didn't eat all those croissants, <i>[angered, Pip throws the ball at him]</i> you'd be able to-- <i>Ow! [he falls]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Okay, that was pretty good, Pip, but you're supposed to hit the kids on the <i>other</i> team.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ow, my nose! You broke my nose!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Damn, Pip. I didn't know you had it in you.
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>Ogh! I'm dreadfully sorry!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>That nose is bleeding pretty bad, Kyle. I think you might have to go to the nurse's office. <i>[fear strikes the kids]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[gasp]</i> No. No, it'll be okay!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Sorry, son. You'll <i>have</i> to let the nurse look at it. Come on. <i>[takes him by the hand]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Oh-- Noooo!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[ominously]</i> Dude! He's going to the nurse's office.
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>I heard the school nurse is hideously deformed.
+</td></tr>
+<tr>
+<th>Bebe:
+</th><td>I heard she has tentacles and eats children for lunch.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Stan? Has anybody actually seen the nurse, and come back to tell about it?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[somberly]</i> No, Cartman. Nobody ever has.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Nurse's Office. Kyle's shadow is on the window. He waits with his hand on his nose. He sees a mouse nibble at some cheese and run away. He looks up, and a door opens. Kyle looks and shuts his eyes tight]</i>
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>Are you Kyle Broflovski? <i>[she sounds friendly, but her shadow falls on him]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ye-yes.
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>I'm the school nurse. Did you hurt your nose?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Ye-yes.
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>Young man, Why do you have your eyes closed? I'm not gonna hurt you.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I know.
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>So open them. <i>[she walks to her left]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[resists, then opens them]</i> Oh! <i>[glad she's not as hideous as he thought. She's pretty]</i> Phew.
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>Now, what seems to be the problem?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Aw, I just hit my nose playing dodgeball.
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>Oh. Well, I'll get you an ice pack. <i>[she turns to face him, and a withered fetus comes into view. It is joined to her left temple and upper cheek.]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>AAGGGGGHHHH!!
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>OOOOOHHHHH MY GOD!!
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>Oh, I see you've noticed my disorder. I have a stillborn fetus growth attached to my head.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i><b>AAAARRRRGGGGGGHHHHH!!!</b></i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[After school, at Kyle's house. The boys are there to listen to Kyle's story]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>...And when she moved up and down, the little fetus jiggled.
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Eewwww!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Did it talk? The little fetus, did it talk?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>No. No-it looked dead.
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Eewwww!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wa-was it wearing clothes?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[oops]</i> Dude, where is she gonna get fetus clothes?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh, yeah. Eeww.
+</td></tr>
+<tr>
+<th>Boys:
+</th><td>Eewwww!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>And then she walked over to--
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Kyle! That is enough! I've been reading up on your poor nurse's condition, and it is <i>nothing</i> to be made fun of. It's called "conjoined twin myslexia".
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Who the hell cares what it's called, as long as she doesn't have to touch me.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Now, that's just the kind of unawareness that we need to fight against. Sit down, boys. <i>[they hop on the sofa. She sits in the middle and opens the book. Softly, she reads]</i> You see boys, sometimes, when babies are born, they're born as twins. But sometimes the twins get hooked together, and they're born as <i>Siamese</i> twins. <i>[a picture of two adults attached by the side of the head is shown]</i>
+</td></tr>
+<tr>
+<th>The Boys:
+</th><td>Gross!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>But sometimes, after the Siamese twins are joined together, one of the twins dies before birth. The living baby is born with the dead baby still attached. <i>[Stan is frightened]</i> Sometimes, this dead twin is inside the living person, so even <i>you</i> could have a dead twin inside you and not even know it! <i>[now, Cartman is frightened. He and Stan rush out of there]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>AGGGGGGHHHHHH!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>AGGHHH! Let me live! AGGGHHH!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>So now that you're educated about her disease, you won't need to make fun of her. Right, <i>bubbe</i>?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Uhhhh... Yeah. <i>[she leaves, and Kyle's eyes follow her. Then he looks forward, then at Kenny. Kenny cracks up]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The dining room. Sheila serves dinner to Gerald as he reads the newspaper.]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Can you imagine that poor, poor woman?
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Mm-hmm.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Feeling like an outcast, being ridiculed every day...
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Mm-hmm. <i>[the phone rings and Sheila answers]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Hello?
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Hello, Sheila? It's Sharon, Stan's mother. <i>[Stan is screaming and running around the house]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh, yes. Hello, Sharon.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Sheila, I was just wondering if you might know why my son is trying to split his head open with an ice pick?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[Randy chases him down]</i> No! I have to get it out!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Well, Sharon, I was just trying to educate them about conjoined twin myslexia.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>So this <i>is</i> your fault.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>ARRRGGGGGGGHHHHHH!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Damn it, stop. <i>[Stan slips from his grasp and he falls]</i> Oh! <i>[gets up and chases him]</i> Damm it!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Would you do me a favor? Next time you want to scare the hell out of my child, just go outside and sit in the road until a truck runs you over instead? <i>[click. Stan runs by again, still screaming and pursued by Randy. Sheila is left with a dial tone]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[undaunted]</i> That does it! I must educate the entire town about this awful disease!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Mm-hmm.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary Gym.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[to Cartman]</i> Dude, I don't get it. Why are we playing dodgeball again?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah. I thought we only played on Fridays.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[arriving with a letter]</i> Children! Great news! We've been asked to play in the State Finals for dodgeball!
+</td></tr>
+<tr>
+<th>All:
+</th><td>Awww...
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Aw, do we have to?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Can't we just play with that big parachute again or something?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>You-you don't understand, children. If we can win State, we can play in the Nationals in Washington, D.C.!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Heyh! They have a zoo there!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>That's right! Now, come on! We have a lot of practicing to do! <i>[the class separates into teams]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Aren't we supposed to have won something in order to go to State Finals?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, Pip. Do you wanna be on my team again?
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>I'd love to!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Now, let's try not to send anyone to that monster nurse this time, Frenchy.
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>Hey! I get quite disturbed when you call me that! You shouldn't make fun of foreigners. <i>[turns and walks away]</i> And besides, I <i>hate</i> French people. <i>[Chef blows the whistle to begin play. Fosse throws, and Bebe is beaned. The foursome look at her, then laugh while Pip observes.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[<b>Principal Victoria's office.</b> She's meeting with Mr. Mackey and Sheila]</i>
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Well, Mrs. Broflovski, it certainly is a thrill seeing your cheery face again. What seems to be pissing you off today?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Nothing is pissing me off! I just wanta start a movement.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>O-of course you do.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>I want to talk to you all about your school nurse. <i>[Victoria and Mackey are surprised]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uh, Nurse Gollum is absolutely qualified to be a--
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>No, no no. I'm not upset about her. I want to make the public aware of her. Her disease should be brought to light so that it can be understood rather than made fun of.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Oh, and uh, what disease is that?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Uh, Principal Victoria, Nurse Gollum has conjoined twin myslexia.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>What's that?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>She has a dead fetus attached to her head.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td><i>[gasp]</i> She does?
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Y-you never noticed that?
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>No-o, I never did.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Well, that's exactly what I'm talking about. This poor woman is forced to live in the shadows because she feels like an outcast. It is up to <i>us</i> to make her feel comfortable and welcome in our town!
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Did you say a fetus, sticking out from her head?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>I want to invite your nurse to a dinner party at my house this evening. I'd appreciate it if both you and Mr. Mackey would attend.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Do we have to eat kosher stuff?
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Well, I'll talk to Nurse Gollum, but I'm sure she'll be delighted. Let's say around 8?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Wonderful!
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Now, you did say she has a fetus on her head?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A mountain road. The class is on its way to the State Finals]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[rising]</i> Okay children. <i>[encouraging]</i> Now, who's gonna win the State Finals? <i>[the kids just look at him]</i>
+</td></tr>
+<tr>
+<th>Clyde:
+</th><td>Denver?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><div class="poem">
+<p><i>Here we go Ca-ows, here we go: Unh, unh!</i><br />
+<i>Here we go Ca-ows, here we go: Unh, unh!</i>
+</p>
+</div>
+<p><i>[the kids just look at him. He looks back, then turns to Ms. Crabtree]</i> I think we need to get off on this exit.
+</p>
+</td></tr>
+<tr>
+<th>Mrs. Crabtree:
+</th><td>SIT DOWN, KID!!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>But it's quicker to get to the Denver school <i>that</i> way!
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>DO YOU WANT AN OFFICE REFERRAL?!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>How many times do I have to explain this to you?! I'm not a student! You can't give me an office referral, and-!
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>I SAID SIT DOOWWN!!!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[sits down]</i> Yes, ma'am.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The kids arrive at Denver Elementary]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Whoa, dude, this is a school? <i>[the crowd is cheering. Cows fans are scattered among the crowd]</i>
+</td></tr>
+<tr>
+<th>Bob Thomas:
+</th><td>Hello, there. I'm Bob Thomas, the coach for the Denver Cougars. <i>[slaps Chef on the back]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>I'm Chef, coach of the South Park Cows.
+</td></tr>
+<tr>
+<th>Bob Thomas:
+</th><td>Well, I certainly want to thank you for bringing your team down. Apparently, nobody else would play us, because they knew we'd just beat 'em silly. So I told the school board to find me some hick school from the mountains, and here you are. <i>[Chef is pissed]</i> You're from South Park, yeah?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[in a low tone]</i> Yeah.
+</td></tr>
+<tr>
+<th>Bob Thomas:
+</th><td>My G-hod, amazing where people can live nowadays. Well, we might as well get this over with; we've gotta start thinking about D.C. Promise we won't make it too painful. <i>[slaps Chef on the back again and leaves. Chef wonders, then gets mad again as the whistle blows]</i>
+</td></tr>
+<tr>
+<th>Referee:
+</th><td>Play ball!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Dinner at the Broflovski house. Principal Victoria, Mr. Mackey, and Nurse Gollum are there, with her conjoined fetus out of view]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>So, uhh, where did you get your degree, Nurse Gollum?
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>Colorado State.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Ahhh.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Oh. <i>[they resume eating in silence]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Sheila, could you pass me the dead fetus? <i>[she looks at Nurse Gollum, then glares at him]</i> I mean, gravy. <i>[she kicks him on the shins]</i> Ow!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Denver Elementary. The Cougars are serving. Player 1 throws the ball]</i>
+</td></tr>
+<tr>
+<th>Black boy:
+</th><td><i>[hit]</i> Ow! <i>[goes down. The Cougar fans cheer]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Dammit, come on! <i>[Clyde and Swanson are already out, along with one other]</i> Somebody catch the ball! <i>[Pip and the foursome remain]</i>
+</td></tr>
+<tr>
+<th>Bob Thomas:
+</th><td>All right, boys, just five more of the little bastards to go! <i>[Player 1 serves again, and the ball lands in Cartman's belly]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I caught it, I caught it!
+</td></tr>
+<tr>
+<th>Player 1:
+</th><td>Oh, that's not fair! He's so fat, it stuck in his belly!
+</td></tr>
+<tr>
+<th>Referee 2:
+</th><td>South Park on offense!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Great job, children! Just stay focused now.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Go for it, Pip. <i>[tosses the ball to him]</i>
+</td></tr>
+<tr>
+<th>Pip:
+</th><td><i>[gets it]</i> Oh, bother.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Come on, you Frenchy little frog!
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>Gagghh! <i>[pitches the ball and knocks down players 1 and 13]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Whoa-ho-ho-ho! Great shot, Pip!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Back at dinner.]</i>
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Ehsooo, I hear that the South Park Cows are playing for the State Finals in dodgeball tonight.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Yeah, but you know, it-it doesn't matter though. The-the Denver team always wins, m'kay?
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Oh, I don't know. I think our boys might just have the dead fetus to win-- Heart!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Gerald! <i>[smacks him off his chair]</i> Keep your damn mouth shut!
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>I-it's okay, Ms. Broflovski. Really.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[exhales]</i> Please forgive us. I-I'm terribly sorry, Nurse Gollum.
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>No, I'm quite secure with it.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>I have felt so bad ever since I heard the boys making fun of you--
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>They're just young boys. Joking is a way for them to come to terms with what they don't understand.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Could I get some more pork?
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>So did you ever think of just, you know, having it cut off?
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>Yes, Principal Victoria, the thought had occurred to me. Unfortunately, it would mean my death.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Ooohh, so I suppose that's out. Uh-how about a hat, then?
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>No, really, I don't need a--
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Yes, we could get you a few hats and wear a different one every day. No big whoop.
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>I really appreciate what you're trying to do here, but it's not necessary. I'm a pretty happy person.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>I've got it! We could set aside a whole week to make the public aware of folks just like you.
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Ooohh, yeess, a Conjoined Twin Myslexia Awareness Week. You know, that has a nice ring.
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>But I really don't think--
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>Th-the school could put out pamphlets, m'kay? And we could have seminars to educate, m'kay?
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>Ooooh</i>, this is so exciting! I'm gonna get the mayor on the phone right now! <i>[leaves with Mackey and Victoria. Nurse Gollum and Gerald look at each other. Gerald winces.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Dodgeball State Finals.]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>You got just one more, Pip. You get this kid, and we are State Champions.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah, and if you don't, you're a big dumbass European hippie piece of crap. <i>[Pip gets pissed and winds up]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Get him, Frenchy!
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>Gaagghh! <i>[releases the ball, and it hits player 6 on the nose. The player goes down]</i>
+</td></tr>
+<tr>
+<th>Referee 2:
+</th><td>South Park wins! <i>[Coach Thomas looks like he's had a rug pulled out from under him while victory music plays]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>We did it, children, we did it! We're going to Washington, D.C.!
+</td></tr>
+<tr>
+<th>Player 6:
+</th><td>Uh-hu-hu-hu-howieee! <i>[a group of parents looks on]</i> Ihit hurhurts! Howieee! <i>[two clowns come out with a stretcher and place it next to him]</i> Mommy, it huurts! Ihit hurhurts! <i>[the clowns do a little jig, and the parents laugh. The clowns place him on the other side of the stretcher, then pick up the stretcher and walk away. The boy is left on the floor. The parents applaud]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Oh, sorry about whoopin' your ass there, Coach!
+<div class="poem">
+<p><i>Ooo, baby, come on</i><br />
+<i>Just whooped Denver's ass</i><br />
+<i>Gonna need some cream for your ass</i><br />
+<i>It's all swollen and red</i>
+</p>
+</div>
+<p><i>[he dances, and shows off his butt several times. He also turns to make sure Coach Thomas is watching]</i>
+</p>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Town Square.]</i>
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Ladies and gentlemen, this is indeed a great week for South Park. Ms. Hermans has opened the east wing of the library, and our own South Park Cows Elementary School Dodgeball Team is going to the national finals; <i>[the crowd cheers wildly]</i> where they will undoubtedly be beaten senseless by the Washington team. <i>[the Broflovskis are not amused. The crowd quiets down]</i> But most importantly, this week has brought to my attention a very serious and dreaded disease: conjoined twin myslexia. And so it is in honor of this that I declare this exciting week as <i>Conjoined Twin Myslexia Week! [The crowd cheer louder]</i> And now, let's kick off our weeklong festivities with the first annual Grand Conjoined Parade! <i>[more cheering. There are people on rooftops all over the square cheering as well]</i> Let's hear it for these brave souls! <i>[The band starts playing festive music. The crowd cheers up and down as Nurse Gollum walks down the street, alone. She looks around and waves]</i> What a glorious parade that was! Let's hear it for the parade coordinators! <i>[nine men are shown, and they cheer back]</i>
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td><i>[up on the podium next to the Mayor]</i> You know, Mayor, I really should be accompanying those kids to Washington in case they get hurt. That is my job.
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td><i>[the mike is still on]</i> Nonsense. This is your week. You aren't going anywhere.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Somewhere near Washington, D.C. The bus is going through a lovely meadow]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>How much further is Washington, D.C.?
+</td></tr>
+<tr>
+<th>Mrs. Crabtree:
+</th><td>SIT DOWN, KID!!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>I need to know how far it is, lady!
+</td></tr>
+<tr>
+<th>Mrs. Crabtree:
+</th><td>I SAID SIT DOWN!!!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[grumbling]</i> Yeah, whatever, you old, dried-up, fat hog.
+</td></tr>
+<tr>
+<th>Mrs. Crabtree:
+</th><td>WHAT DID YOU SAY?!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>I said, "I've always wanted to visit Prague."
+</td></tr>
+<tr>
+<th>Mrs. Crabtree:
+</th><td>Oh, me too. <i>[Clyde munches away]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[to Kyle]</i> Okay, what have you got?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Some hadka fish, some gafagga...
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[quickly]</i> I got a jelly roll! I got a jelly roll! <i>[Kenny pulls out a bone]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Sweet! A jelly roll is perfect! <i>[takes one end of a short bungee cord while Cartman holds the other end]</i> Places! <i>[gives his end to Kyle and takes the jelly roll. He places the jelly roll in the makshift sling, pulls back, and fires away. All three smile as the roll leaves the sling. It hits Mrs. Crabtree on the back of her head]</i>
+</td></tr>
+<tr>
+<th>Ms. Crabtree:
+</th><td>ARRRRRRGGGGHHHH!!! <i>[she loses control of the bus as it careens down the road.]</i>
+</td></tr>
+<tr>
+<th>Kids:
+</th><td>Whoa!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Sheesh!)
+</td></tr>
+<tr>
+<th>
+</th><td><i>[A tourist sees the bus coming his way and tries to get out of the way, but the bus crashes into the Vietnam Memorial's right wall, and the engine bursts into flames. He was thrown to one side. The right wall drops down three feet, taking the front end of the bus with it and raising the back of the bus off the ground five feet. Both front doors fall off.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[<b>Ulysses Grant Elementary.</b> Inside, the gym is filled with championship banners going back to 1987 hang from the rafters. Posters line the walls]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Damn, man. This is the big time, alright.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Chef, we're hungry.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>You can eat after the game. You children win this one, and you're National Champions! Then you can go on and play the Chinese.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>My mom says there's a lot of black people in China.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>What?
+</td></tr>
+<tr>
+<th>Referee:
+</th><td>Are you Chef?
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Yeah.
+</td></tr>
+<tr>
+<th>Referee:
+</th><td>The Washington team has forfeited the game. Congratulations, you're national champions.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>What? We did it! Children, we won!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Wow, that was easy.
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Ladies and gentlemen, let's hear a round of applause for the new national champions of dodgeball, the South Park Cows! <i>[everyone boos]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[rushing to the opposing team]</i> Hey, why did you guys forfeit?
+</td></tr>
+<tr>
+<th>Player:
+</th><td>You mean you don't know?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Know what?
+</td></tr>
+<tr>
+<th>Player:
+</th><td>Last year's national champions were the Austin Pirates. They played China for the world championship. Only four of them came back alive. Chinese dodgeball players aren't like us. <i>[A temple scene comes up. A squad of Chinese kids are exercising as their master gives orders. Some of them are being acrobatic, others throw solid spherical weights at each other]</i>
+</td></tr>
+<tr>
+<th>Master:
+</th><td>Bush langli. Woon taun. Waya ching gia!
+</td></tr>
+<tr>
+<th>Player:
+</th><td><i>[voice-over]</i> They do nothing but dodgeball, day in, and day out. They use steroids and advanced training equipment to make them, not kids, but animals. <i>[each kid is handed a bowling ball, which he or she throws against a brick wall. The wall crumbles further with every throw. The scene fades, and the foursome are standing there, awed]</i> Well, good luck. We've got our futures to think about. <i>[hops off and leaves]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[coming over]</i> Okay, children, back in the bus.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park City Hall. Many people are seated at table waiting for the evening's events to unfold]</i>
+</td></tr>
+<tr>
+<th>The Mayor:
+</th><td>And so, at this honorary dinner we take a look back at our beloved Nurse Gollum and the brave life she has lived. Roll the tape, please, Mr. Garrison. <i>[he starts up the player. He's in a nice tuxedo]</i>
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td><i>[quite embarrassed, seated with Sharon]</i> Oh, no..! <i>[the video begins]</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><div class="poem">
+<p><i>You've got the strength, you've got the courage</i><br />
+<i>Even with a dead fetus on your head</i><br />
+<i>You carry on</i><br />
+<i>You fight for tomorrow</i><br />
+<i>Dead fetus or no, you never let go</i><br />
+<i>You're my conjoined-twin-dead-thing-hanging-off-your-head woman</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>The Scenes:
+</th><td bgcolor="#709C22">
+<ul><li>She's painting her house orange, and annoyed that Garrison is filming it.
+</li><li>She looks out the window, and is annoyed that he is still there, filming.
+</li><li>She's in her office.
+</li><li>She's at the supermarket, annoyed, she's trying to cover the camera lens so Garrison would stop filming.
+</li><li>At the post office, she's trying to shoo him away, she's very angry that he's filming her.
+</li><li>She's on the toilet, and she clamps her legs shut, with hands before them for added security. She's outraged.
+</li></ul>
+</td></tr>
+<tr>
+<th>
+</th><td><i>[there are sobs here and there, a smattering of applause]</i>
+</td></tr>
+<tr>
+<th>Barbrady:
+</th><td>Oh, that was so touching.
+</td></tr>
+<tr>
+<th>The Mayor:
+</th><td><i>[with envelope in hand]</i> And now, friends, it's time to present the Lifetime Conjoined Twin Achievement Award. This award goes to outstanding conjoined twins who have made a mark on society. And the winner is... <i>[reaches into the envelope]</i>
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td><i>[derisively]</i> Nurse Gollum.
+</td></tr>
+<tr>
+<th>The Mayor:
+</th><td>Nurse Gollum!! <i>[the room applauds and the spotlight moves from the Mayor to the nurse]</i>
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>Oh, boy.
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td><i>[interrupting]</i> Excuse me, Mayor, but I just received some news that you might all be interested in. <i>[takes the microphone]</i> Our South Park Cows have just beaten the Washington dodgeball team, and are on their way to the world championship in China. <i>[the crowd erupts in applause]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Somewhere near China. The bus is going down a slope]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Okay, children, now, we're almost to China. I want you all to try and focus on your game.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>But Chef, we don't wanna play the Chinese!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Nonsense! If we win this one, we're world champions.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But we could get killed!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>And just what price would you pay for eternal glory? <i>[Stan and Kyle fall silent]</i> Just imagine: a big yellow "Dodgeball Champions" banner hanging in the cafeteria! Imagine it!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, Chef has lost it.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>You'll be in the news all over the world. South Park will finally have a sport that it's good at. Ohh, children, it'll be glorious!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>So, Captain Ahab has to get his whale, huh? <i>[Chef looks at him]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dude, what does that mean?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I dunno.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, isn't that kid Kevin Chinese? <i>[Kevin looks back]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah, you're from China.
+</td></tr>
+<tr>
+<th>Kevin:
+</th><td>No, I'm from America. My parents are Chinese.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Tell us how the Chinese play dodgeball!
+</td></tr>
+<tr>
+<th>Kevin:
+</th><td>I have no idea, dude.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Come on, rice picker!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Hey, hey <i>hey! [Cartman hides his hands]</i> Children, that's not cool! You don't make fun of somebody because of their ethnicity.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You don't?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>But Chef, you just ripped on Chinese people.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>No, no, no, no, no, that's different. I made fun of them because they are <i>from</i> China. You see, it's not okay to make fun of an American because they're black, brown, or whatever, but it <i>is</i> okay to make fun of foreigners because they are from another country.
+</td></tr>
+<tr>
+<th>Stan, Kyle:
+</th><td>Ohhh.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[at the same time]</i> Oooh, I get it.
+</td></tr>
+<tr>
+<th>Kevin:
+</th><td><i>[vindicated]</i> Yeah.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The bus has reached the temple. On the side is a banner that reads: Go Cows!]</i>
+</td></tr>
+<tr>
+<th>Mrs. Crabtree:
+</th><td><i>[slamming on the brakes]</i> AAAGGGGHHHH!
+</td></tr>
+<tr>
+<th>Chinese Commentator:
+</th><td>Hiit ita wita great pride, that huwe huwelcome ourn American friend. Now let the <i>[thumps the table, and his partner's mike falls]</i> champion of dodgeball be deshide! <i>[his partner resets the mike, a muscular man bangs away on a kodo drum, and musicians next to him start playing. The crowd cheers, and dancers come up and unfurl streamers]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Damn, dude. China's fucked up.
+</td></tr>
+<tr>
+<th>Referee:
+</th><td>Take places!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>All right, let's go, Cows! Let's show 'em what we've got!
+</td></tr>
+<tr>
+<th>Chinese Commentator:
+</th><td>Okay, Tom, rooks rike A-mericans are getting ready to play. I don't suppose they'll have any problems seeing the ball with their big American eyes! <i>[they laugh]</i>
+</td></tr>
+<tr>
+<th>Tom:
+</th><td>Yeah. Good thing they have those big eyes so that they don't have to rery on that amazing American interrect. <i>[laughs]</i>
+</td></tr>
+<tr>
+<th>Chinese Commentator:
+</th><td>Oh, you say such things.
+</td></tr>
+<tr>
+<th>Tom:
+</th><td>That's a zinger!
+</td></tr>
+<tr>
+<th>Referee:
+</th><td>Praaayyy braal! <i>[The Chinese serve. The first one out is Clyde, who tumbles all the way to the wall]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Holy crap..! <i>[Kyle is hit, twice, before he goes down]</i> God damn...
+</td></tr>
+<tr>
+<th>Chinese Commentator:
+</th><td>Hey, hey, what do you call white American person with PhD in a physics and-a math?
+</td></tr>
+<tr>
+<th>Tom:
+</th><td>Ah, I don't know. What?
+</td></tr>
+<tr>
+<th>Chinese Commentator:
+</th><td>Stupid American! <i>[laughs]</i>
+</td></tr>
+<tr>
+<th>Tom:
+</th><td>Aw, no way!! <i>[starts laughing]</i>
+</td></tr>
+<tr>
+<th>
+</th><td><i>[A Chinese player takes aim at Cartman, who turns and runs away squealing. The ball gets him anyway, and he tumbles away]</i>
+</td></tr>
+<tr>
+<th>Chinese Commentator:
+</th><td>Oooh, another American is down! It's numbuh-- uuhhh... Oh, I don't know. All American look alike! <i>[they laugh]</i>
+</td></tr>
+<tr>
+<th>
+</th><td><i>[A Chinese player serves and hits Kenny with such force that the ball picks him up and splatters him against the wall, then bounces up and away. Paint falls away and cracks are left in the wall. Blood pours out quickly. The crowd jumps up and cheers]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh my God, they killed Kenny!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[lying on his side and out of breath]</i> You... bastards...
+</td></tr>
+<tr>
+<th>Chinese Commentator:
+</th><td>Oooh, my, I haven't seen an American die like that since Abraham Lincoln! <i>[chuckles]</i>
+</td></tr>
+<tr>
+<th>Tom:
+</th><td>Dude, that is-a not cool! You're gonna get us into trouble again.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Town Square. The town is assembled yet again]</i>
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>Ladies and gentlemen, on this fourth day of Conjoined Twin Myslexia Week, all our prayers are with our little South Park Cows now playing their hearts out in China. <i>[the town cheers]</i> Now, join me in saluting our Cows and help make Nurse Gollum <i>not</i> feel like an outcast with our first official Conjoined Twin Myslexia hats! <i>[one of her aides passes out the hats as an organ plays. Nurse Gollum just watches]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[China, the Temple. Chef is tending to his injured players. Kyle is hooked up to an IV unit. The other players are bandaged up according to the severity of their injuries]</i>
+</td></tr>
+<tr>
+<th>Chinese Commentator:
+</th><td>And there is-a only a one South Park prayer left. <i>[Pip. Kenny is still plastered to the wall]</i> Still all Chinese prayer. This should be over veerry shortly.
+</td></tr>
+<tr>
+<th>Chinese kid:
+</th><td>Come on! Throw ball!
+</td></tr>
+<tr>
+<th>Tom:
+</th><td>Hey, you wanna hear my impersonation of American?
+</td></tr>
+<tr>
+<th>Chinese Commentator:
+</th><td>Yeah, yeah!
+</td></tr>
+<tr>
+<th>Tom:
+</th><td>Ah, okay. <i>[puts his hands to his eyelids and opens them wide to simulate American eyes, and talks in a deep voice]</i> Hey, I really, really want that. That looks good. <i>[they have a good laugh]</i>
+</td></tr>
+<tr>
+<th>Chinese Commentator:
+</th><td>Hey, hey. Let me try, let me try. <i>[sets up with a deep voice]</i> I'll use my credit card. <i>[they laugh harder, and he resumes]</i> Eh-eh-uh... Do you have any non-dairy creamer? <i>[they laugh]</i>
+</td></tr>
+<tr>
+<th>Tom:
+</th><td>Yes yes! <i>[laughs]</i> Y'all come a-back now, you hear? <i>[they laugh so hard they fall from their chairs]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[crestfallen]</i> Oh, what have I done? <i>[Cartman comes over and sits next to him]</i> You know, Eric, I just realized something. I have been obsessed, and obsession isn't good. <i>[Eric bites into a chocolate bar]</i> If we had won the world championship, what then? <i>[Kevin walks off]</i> It would only be a bigger letdown the next year if we <i>didn't</i> win! Our lives would have to revolve around dodgeball. Our lives were fine before. <i>[Cartman farts and tries to fan it away]</i> Oh, I'm sorry, children. I let it all go to my head. Can you ever forgive me? <i>[the kids are stunned at this sudden reversal of desire]</i> Come on, forget this stupid game. Let's go home.
+</td></tr>
+<tr>
+<th>Chinese kid:
+</th><td>Come on! Throw ball!
+</td></tr>
+<tr>
+<th>Kevin:
+</th><td><i>[walking over to player 70]</i> Hey, if you wanna make him throw the ball, say this. <i>[hands him a note to read]</i>
+</td></tr>
+<tr>
+<th>Player 70:
+</th><td>Thanks, you American dumb-ass! <i>[reads it]</i> "You French piece of crap! Throw ball! <i>[Pip gets angry]</i> What's the matter, Frenchy? You got crepes in your ears." <i>[the team laughs. Pip gets livid rather quickly]</i>
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>Arrggghhh! <i>[starts spinning. The Chinese team watches as Pip picks up speed, and the players gasp. Pip releases the ball and it shoots all over the temple stadium, knocking out players left and right, until all of them are down. Pip slows down, and finally stops]</i>
+</td></tr>
+<tr>
+<th>Chinese Commentator:
+</th><td>And the winner is South Park Cows! <i>[musicians play]</i>
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>Everyone! Everyone, look! I won the game! We're world champions! Mr. Chef, Mr. Chef. South Park is the world champion in dodgeball. Oh, glorious day! <i>[the South Park team is limping off the court, with Kyle taking his IV unit along]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>Shut up, Pip.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, shut up, Pip. <i>[to Chef]</i> Can we go home now?
+</td></tr>
+<tr>
+<th>Pip:
+</th><td>Did you all see? I can't believe I threw such a ball with my own arm. It was--
+</td></tr>
+<tr>
+<th>Kids, Chef:
+</th><td>Shut up, Pip!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[<b>South Park Town Square.</b> The Mayor is on stage]</i>
+</td></tr>
+<tr>
+<th>The Mayor
+</th><td>As this year's Conjoined Twin Myslexia Awareness Week draws to a close, I would like to personally thank all of you for your enthusiastic cooperation. <i>[the crowd cheers]</i> Now, let's hear it one more time for our world champion South Park Cows! <i>[the team is standing behind a low wall with a trophy at one end, next to Chef]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[now dressed normally, but still bandaged]</i> What the hell is everyone wearing on their heads?
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td>And now, let's hear from the woman of the week! The incredible, courageous Nurse Gollum!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Agghh!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, it's the freak nurse!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Holy crap!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Dammit, Kyle! We've been working all week against that kind of behavior!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Well sorry, dude, we weren't here.
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>Thank you, Mayor. I uhhh, wa-I... I don't know what to say; this has been quite a week.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td><i>[wiping away a tear]</i> She's really touched.
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>What I really wanna say is... well, -egh-- This may sound odd coming from a woman with a fetus sticking out of her head, but... you're all a bunch of freaks! <i>[the crowd is stunned]</i>
+</td></tr>
+<tr>
+<th>Mayor:
+</th><td><i>[taking the mike]</i> Uhhh, freaks with big hearts! And now--
+</td></tr>
+<tr>
+<th>Nurse Gollum:
+</th><td>Don't you realize that the last thing I ever wanted was to be singled out? <i>[Sheila and the priest look betrayed]</i> I just wanted to do my job and live my life like any normal person, but instead you've made everybody focus on my handicap all week long. <i>[the look is spreading]</i> Look, I don't want to be treated different. I don't want to be treated special orh-or treated gingerly. I just want to be ridiculed, shouted at, and made fun of like all the rest of you do to each other. <i>[people are listening]</i> And take those stupid things off your heads! <i>[she turns and walks off the stage]</i>
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Oh, my, what an ungrateful bitch.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Yeah, the nerve of some people.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Hey, you know, that nurse is actually pretty cool.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Yeah, maybe that dead fetus makes her smarter.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I love you guys. <i>[Stan and Kyle merely look at him and say nothing]</i> Ah, screw you guys(!)
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Conjoined Fetus Lady</b>.]</i>
+</td></tr></table>
+<p><br />
+<br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px; border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">205: "<a href="/wiki/Conjoined_Fetus_Lady" title="Conjoined Fetus Lady"><span style="color:white">Conjoined Fetus Lady</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:205&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Nurse_Gollum" title="Nurse Gollum">Nurse Gollum</a> • 
+"<a href="/wiki/Dodgeball_Song" title="Dodgeball Song">Dodgeball Song</a>" • 
+"<a href="/wiki/Conjoined_Twin_Song" title="Conjoined Twin Song">Conjoined Twin Song</a>"
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Conjoined_Fetus_Lady/Images" title="Conjoined Fetus Lady/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s02e05-conjoined-fetus-lady">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Second_Season" title="South Park: The Complete Second Season">South Park: The Complete Second Season</a>
+</p>
+</td></tr></table><div class="poem">
+</div></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 120/300000
+Post‐expand include size: 4883/2097152 bytes
+Template argument size: 93/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:25744-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Conjoined_Fetus_Lady/Script?oldid=243354">http://southpark.wikia.com/wiki/Conjoined_Fetus_Lady/Script?oldid=243354</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts from Season Two" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Two" title="Category:Scripts from Season Two">Scripts from Season Two</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":25744,"kv_wpage":"Conjoined_Fetus_Lady\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Conjoined_Fetus_Lady/Script","wgTitle":"Conjoined Fetus Lady/Script","wgCurRevisionId":243354,"wgArticleId":25744,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts from Season Two","Scripts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Conjoined_Fetus_Lady/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":243354,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Conjoined_Fetus_Lady/Script","fbReturnToTitle":"Conjoined_Fetus_Lady/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Conjoined_Fetus_Lady/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Conjoined_Fetus_Lady/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Conjoined Fetus Lady/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

@@ -1,0 +1,2034 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Mysterion Rises/Script,Mysterion Rises,Mysterion Rises/Trivia,Mysterion,Coon and Friends,Cthulhu,Cthulhu Cult Leader,Mysterion Rises/Images,South Park: The Complete Fourteenth Season,You and Cthulhu" />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Mysterion_Rises/Script" />
+<meta name="twitter:title" content="Mysterion Rises/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Mysterion_Rises/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Mysterion Rises/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images4.wikia.nocookie.net/__am/1454927565/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":22987,"pageIsArticle":true,"pageName":"Mysterion_Rises/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1454927565",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=22987,
+wgCategories=["Scripts","Scripts from Season Fourteen"],
+wgPageName="Mysterion_Rises/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1454927565",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/average","env":"prod","hostname":"ap-s15","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"average"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1454927565&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=22987&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1454927565&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=22987&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images1.wikia.nocookie.net/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1454927565/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Mysterion Rises/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Mysterion_Rises/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Mysterion_Rises_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic"itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FMysterion_Rises%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+	<nav class="global-navigation global-navigation-2016" id="globalNavigation">
+		<div class="global-navigation-container">
+			<div class="wikia-logo-container table-cell">
+				<a href="http://www.wikia.com/fandom"
+					class="wikia-logo final-url"
+					rel="nofollow"
+					data-id="wikia-logo">
+					<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+						height="24"
+						width="91"
+						alt="Wikia"
+						title="Wikia">
+											<span class="wikia-logo__subtitle">The Home of Fandom</span>
+									</a >
+			</div >
+							<div class="table-cell hubs-links" data-visibility="desktop">
+											<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+						   data-tracking-label="hub-games">
+							Games						</a>
+											<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+						   data-tracking-label="hub-movies">
+							Movies						</a>
+											<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+						   data-tracking-label="hub-tv">
+							TV						</a>
+									</div>
+						<div class="table-cell">
+				<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+					<a class="cell-link top-level final-url"
+						href="http://www.wikia.com/explore"
+						data-tracking-label="explore-wikia">
+						Explore Wikia						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+					</a>
+					<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																					<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://gameshub.wikia.com/wiki/Games_Hub"
+									   data-tracking-label="hub-games">
+										Games									</a>
+								</li>
+															<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+									   data-tracking-label="hub-movies">
+										Movies									</a>
+								</li>
+															<li>
+									<a class="cell-link"
+									   data-visibility="tablet"
+									   href="http://tvhub.wikia.com/wiki/TV_Hub"
+									   data-tracking-label="hub-tv">
+										TV									</a>
+								</li>
+																										<li>
+								<a class="cell-link"
+								   href="http://www.wikia.com/WAM"
+								   data-tracking-label="top-communities">
+									Trending Wikias								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   href="http://community.wikia.com"
+								   data-tracking-label="community-central">
+									Community Central								</a>
+							</li>
+												<li>
+							<a href="http://www.wikia.com/Special:CreateNewWiki"
+								class="start-wikia"
+								title="Start a wikia"
+								data-id="start-wikia">
+								<span>Start a wikia</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="search-container table-cell">
+				<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+			</div>
+			<div class="account-navigation-container table-cell">
+				<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Mysterion_Rises/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Mysterion_Rises/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+			</div>
+								</div>
+	</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Mysterion Rises/Script</h1>
+											<h2>&lt; <a href="/wiki/Mysterion_Rises" title="Mysterion Rises">Mysterion Rises</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Mysterion_Rises/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Mysterion_Rises/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Mysterion_Rises" title="Mysterion Rises">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Mysterion_Rises/Trivia" title="Mysterion Rises/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Mysterion_Rises/Images" title="Mysterion Rises/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s14e12-Mysterion-Rises">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Eric Cartman (The Coon)
+</li><li> Stan Marsh (Toolshed)
+</li><li> Token Black (TupperWear)
+</li><li> Butters Stotch (Professor Chaos)
+</li><li> Timmy Burch (Iron Maiden)
+</li><li> Bradley Biggle (Mint-Berry Crunch)
+</li><li> Clyde Donovan (Mosquito)
+</li><li> Kyle Broflovski (The Human Kite)
+</li><li> Kenny McCormick (Mysterion)
+</li><li> Jack Brolin (Captain Hindsight)
+</li><li> The Goth Kids
+</li><li> Tony Hayward
+</li><li> Betsy Donovan
+</li><li> Stuart McCormick
+</li><li> Mrs. McCormick
+</li><li> Clerk
+</li><li> Blonde Girl
+</li><li> Passengers
+</li><li> Field Reporter
+</li><li> Injured Man
+</li><li> Man 1
+</li><li> Woman 1
+</li><li> Man 2 / Cult Leader
+</li><li> Followers
+</li></ul>
+
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-in_content" class="monetization-module amazon-video hide-for-edit in-content amazon-video-full" data-mon-type="amazon_video" data-mon-slot="in_content"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-22987-B00NY4UD92-piv-fl-npr-ic-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-22987-B00NY4UD92-piv-fl-npr-ic-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-22987-B00NY4UD92-piv-fl-npr-ic-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-22987-B00NY4UD92-piv-fl-npr-ic-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-ic-pvn-20&ascsubtag=southpark-script-835-22987-B00NY4UD92-piv-fl-npr-ic-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-in_content" class="monetization-module adunit hide-for-edit in-content" data-mon-type="adunit" data-mon-slot="in_content"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive-ic" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_ic_fss_ffa mon_hub_tv mon_sl_ic" data-ad-type="text" data-font-size="small"data-font-face="arial" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script><h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[VCI Goes A Bg on it then A comic book appears from Komik Faktory Press. Mysterion. The cover has him dropping down from the sky ready for action. Mysterion's voice is heard]</i>
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>I am Mysterion. Though only nine years old, I dedicate my life to helping people - when I'm not in school. <i>[the book opens to a random page. On that page he is defeating Professor Chaos]</i> For months now I've been protecting my town from crime. But now, something has happened that even I cannot fight alone. <i>[a picture of the oil rig, updating every few seconds to show the spread of the oil slick]</i> The BP Oil Company has drilled and caused a spill in the Gulf like no other. The President of BP apologized.
+</td></tr>
+<tr>
+<th>Tony Hayward:
+</th><td><i>[on the rig]</i> We're sorry.
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>But they drilled again, and tore open a portal into another dimension.
+</td></tr>
+<tr>
+<th>Tony Hayward:
+</th><td><i>[in the field, reclining for the camera]</i> We're sorry. <i>[some pages flip over and various creatures are shown]</i>
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Creatures from that dimension are now wreaking havoc in the Gulf. BP tried to solve the problem by drilling on the moon, but instead they caused the dark lord Cthulhu to emerge.
+</td></tr>
+<tr>
+<th>Tony Hayward:
+</th><td><i>[on the bear rug by the fireplace, naked, on his belly]</i> Sorry. <i>[next page has the Coon and Friends as they burst forth from headquarters. Mosquito and Human Kite are shown flying.]</i>
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>I have joined forces with other superheroes in my neighborhood to help save the Gulf. But even the other heroes do not know that unlike them, I do have a power. A power they will now begin to understand. And all will know who and what I truly am! <i>[a swarm of&#160;?'s flies around the screen, and the name of the episode appears]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Food for Little, day. The little superheroes are at two tables selling lemon bars. Five for $3]</i>
+</td></tr>
+<tr>
+<th>Woman 1:
+</th><td>Just terrific what you boys are doing.
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Thank you, ma'am.
+</td></tr>
+<tr>
+<th>Man 1:
+</th><td><i>[holding some bars]</i> I'll take twenty lemon bars, you little rascals.
+</td></tr>
+<tr>
+<th>Field Reporter:
+</th><td>A terrific human interest story here, Tom. As America wonders what happened to Captain Hindsight, some Colorado kids are being a little "superhuman" themselves. They call themselves "Coon and Friends," and they've been baking and selling lemon bars to help aid those affected in the Gulf crisis.
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>We believe that every little bit helps.
+</td></tr>
+<tr>
+<th>Field Reporter:
+</th><td>Their little "super club" consists of seven young heroes. <i>[the boys each strike a pose as they announce themselves]</i>
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>Toolshed!
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>The Human Kite!
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Mysterion!
+</td></tr>
+<tr>
+<th>TupperWear:
+</th><td>TupperWear!
+</td></tr>
+<tr>
+<th>Mosquito:
+</th><td>Mosquito!
+</td></tr>
+<tr>
+<th>Iron Maiden:
+</th><td>Timmah!
+</td></tr>
+<tr>
+<th>Mint-Berry Crunch:
+</th><td>Mint Berry Crrrunch! <i>[twirls around]</i>
+</td></tr>
+<tr>
+<th>Field Reporter:
+</th><td>The boys stated that there used to also be a hero named The Coon actually in the group, but they let him go because he was being quote, <i>[reads from his cue card]</i> "a dick".
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>Mysterion, if Cartman's gone, why are we still calling ourselves Coon and Friends?
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Because it pisses Cartman off beyond belief, and I find that <i>[chuckles]</i> extremely funny.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[An airport lobby. Cartman awaits his flight with several other people. The group is waiting at Gate 34.]</i>
+</td></tr>
+<tr>
+<th>Clerk:
+</th><td>Passengers waiting for flight 73 to New Orleans, we thank you for your patience, but the conditions in the Gulf are still delaying our departure. Unfortunately, we've just been informed that the dark lord Cthulhu has shat on the runway at the New Orleans airport, and we'll be delayed at least another hour.
+</td></tr>
+<tr>
+<th>Passengers:
+</th><td>Awwww!
+</td></tr>
+<tr>
+<th>Coon:
+</th><td>Come on, people! Some of us need to get to New Orleans NOW! <i>[the other passengers look at him]</i> Yes yes, I am the Coon.
+</td></tr>
+<tr>
+<th>Blonde Girl:
+</th><td>The Coon? I've heard of that.
+</td></tr>
+<tr>
+<th>Coon:
+</th><td>Ya have?
+</td></tr>
+<tr>
+<th>Blonde Girl:
+</th><td>I saw on TV. That superhero group that's helping with the Gulf spill. Coon and Friends.
+</td></tr>
+<tr>
+<th>Coon:
+</th><td>Actually, I'm no longer with Coon and Friends. I work on my own now.
+</td></tr>
+<tr>
+<th>Blonde Girl:
+</th><td>Can I ask you a question?
+</td></tr>
+<tr>
+<th>Coon:
+</th><td>Yes, of course.
+</td></tr>
+<tr>
+<th>Blonde Girl:
+</th><td>Do you know Mint-Berry Crunch? What's he like? <i>[Coon glares at her and then punches her out of her seat. He then pounces on her and begins to beat her up. A man comes to pull Coon off the girl, and she gets to punch him back. In comic book form, the man says "That's it, Coon!" while others cheer, "GO COON!"]</i>
+</td></tr>
+<tr>
+<th>Coon:
+</th><td><i>[explains what's happening in the panels. He imagines her as bigger than him]</i> The evil girl villain fought with all her might, but the Coon was too much for her. As people looked on and cheered for the Coon, he clawed and punched the villain's stupid fat face! <i>["TAKE THAT YOU EVIL BITCH"]</i> This fight would not be the last the Coon fought. Next stop: New Orleans!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Food for Little, day. The little superheroes are at two tables selling lemon bars, but there are a few bars left.]</i>
+</td></tr>
+<tr>
+<th>Mosquito:
+</th><td>That's almost it, superheroes. We're about out of lemon bars.
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>Well then, perhaps we should return to our secret base and bake some more!
+</td></tr>
+<tr>
+<th>Iron Maiden:
+</th><td>Timmah! <i>[a man with a creepy fixed grin approaches them]</i>
+</td></tr>
+<tr>
+<th>Man 2:
+</th><td>I'll take ten lemon bars.
+</td></tr>
+<tr>
+<th>Mosquito:
+</th><td>Ten. Yes sir! <i>[takes the man's cash and gives him the remaining bars]</i>
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>That's definitely the last of them.
+</td></tr>
+<tr>
+<th>Man 2:
+</th><td>You'll never stop him, you know. <i>[Mosquito and Mint-Berry Crunch look at each other in foreboding music]</i>
+</td></tr>
+<tr>
+<th>Mosquito:
+</th><td>Stop who?
+</td></tr>
+<tr>
+<th>Man 2:
+</th><td>The Great One. <i>[his head sways back and forth as he speaks]</i> Cthulhu. He has risen, and soon all will be under his rule. It has all been foretold in the Necronomicon. <i>[takes his bars, turns around and walks away. He looks back briefly]</i> Hail Cthulhu! The darkness of the mythos is finally here. <i>[samples one of the bars]</i> Oh man, these are really good lemon bars. <i>[turns around and goes to his car]</i>
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>The Necronomicon?
+</td></tr>
+<tr>
+<th>TupperWear:
+</th><td>What's a mythos?
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>I don't know, but I think we'd better find out.
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>All right, superheroes. Back to our secret base!
+</td></tr>
+<tr>
+<th>Mint-Berry Crunch:
+</th><td>Mint-Berry Crrunch!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Coon and Friends secret base, former Coon headquarters, Cartman's basement. The superheroes rush in to find it in ruins]</i>
+</td></tr>
+<tr>
+<th>TupperWear:
+</th><td>What the hell?!
+</td></tr>
+<tr>
+<th>Mosquito:
+</th><td>I knew it! Cartman tore our base up!
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Not Cartman.
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>What do you mean "Not Cartman," dude?
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Whoever did this to our base was looking for something.
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td><i>[silhouette, holding a gun]</i> Don't anybody move! <i>[comes into the light, drunk]</i> So you're the superheroes trying to blackmail me!
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>Aw, dude, it's Captain Hindsight.
+</td></tr>
+<tr>
+<th>Narrator:
+</th><td>Captain Hindsight, <i>[the captain takes a sip of Macallan]</i> the hero of the modern age. Once a reporter for the National News, Jack Brolin always had a knack for hindsight. <i>["Perhaps they should have called the police sooner"]</i> Wanting to become the best-known reporter in the country, Jack tried an experiment to boost his hindsight levels. But then a freakish accident occurred when a retroactive spider got into the equipment. The reporter's hindsight was blasted to superhuman levels! <i>["It's too much!" He holds his head together. "I shouldn't have done that!"]</i> For months he was able to use his new powers for good, fighting for peace, and the American way. <i>[a panel shows him helping firefighters]</i> With his three trusty companions, Shoulda, Coulda, and Woulda. <i>[three creatures with only hind legs and lower lips thrust out]</i> But now, the Hindsight that has saved so many threatens to consume Jack's very soul. It's Captaiiin Hindsight!
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td>I shoulda never mixed vodka and Jack Daniels. I shoulda just gone to bed last night!
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>Um dude, are you okay?
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td><i>[cocks and aims his pistol at the boys]</i> Where are the pictures?! Give every copy of the pictures to me NOW!
+</td></tr>
+<tr>
+<th>Mint-Berry Crunch:
+</th><td>P-p-please sir, w-we don't know what you mean.
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td><i>[whips out the pictures mailed to him]</i> You got pictures of me having sex with Courtney Love!
+</td></tr>
+<tr>
+<th>Professor Chaos:
+</th><td>Uhhh ohhh...
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Chaos! Why did you take those pictures?!
+</td></tr>
+<tr>
+<th>Professor Chaos:
+</th><td>But uh, but, but the Coon said if I took the pictures he, he'd let me go home and, and I've missed four days of school now 'cause I've been-
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td>Alright enough! What's going on?!
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Hindsight, that isn't Courtney Love! Our former member, the Coon, tricked you!
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td>It's not Courtney Love?
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Please sir, put down the gun.
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td>No! What if I put down the gun and realize I shouldn't have?!
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>Look dude, we don't need to play Superhero anymore. We can just go home.
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td>NO! Because I could realize I shoulda killed you all!
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Then do it! <i>[walks right up to the pistol and places himself at the end of the barrel]</i> Pull the trigger, Hindsight! If you don't believe us then you don't have a choice! Pull the trigger, you pussy!
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>Dude, Kenny, ch-chill out.
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>You guys go! I'll deal with this prick!
+</td></tr>
+<tr>
+<th>Mint-Berry Crunch:
+</th><td><i>[the first up the stairs]</i> Wuh uh okay, if you insist. Uh see ya, Kenny.
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>My mom did tell me I had to be home by five, I-
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>I said it's fine! Just go! <i>[the other boys leave]</i>
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td><i>[stops]</i> Uh, text me later, Kenny, if you wanna, like, play basketball or somethin'. <i>[leaves]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Gulf. Cthulhu is tearing the piers apart. He takes a tilt-a-whirl and throws it at the fleeing crowd. The Coon climbs up the side of a roller coaster as burning pieces of it fall down past him. Soon the beach is clear of sunbathers and Coon reaches the top of the coaster. He runs along the tracks, jumping over any breaks. He runs to the end of the track, where the rest of it is missing, and looks at the dark lord]</i>
+</td></tr>
+<tr>
+<th>Coon:
+</th><td>Cthulhu! Cthulhu, dude! Over here! <i>[Cthulhu turns around and looks at Coon]</i> Hey Cthulhu. 'Sup? Yes, it is me, the Coon! But don't worry, I'm actually not here to fight you! We are not so different, Cthulhu. Though I am a superhero and you are a dark god from another dimension, perhaps, we can work together! <i>[Cthulhu looks around]</i> I know how it feels to want to take over and rule the earth and have everyone else be your slaves. I do, bro! But there's a group of superhumans who are going to stop at nothing to stop YOU! <i>[Cthulhu leans towards Coon at eye-level]</i> Good, I have your attention. The superhumans I speak of are right now working on plans to destroy you! They reside in Colorado and they are fucking assholes, and they all deserve to be sent into a dark oblivion! You can do that, right? Send people into a dark oblivion? 'Cause that's what those buttholes deserve! <i>[Cthulhu withdraws and walks away]</i> No-Dude! Dude, Colorado is that way! Where are you going?? <i>[runs back down the track]</i> Goddammit, why don't dark lords fuckin' listen?!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Coon and Friends secret base. Mysterion and Hindsight remain, Hindsight sways, intoxicated]</i>
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td>It doesn't matter. <i>[takes a swig of Macallan]</i> Even if the pictures are fake. I can't take it anymore. <i>[turns away]</i> Do you have any idea what a curse it is to have perfect 20/20 hindsight? <i>[takes another swig]</i> As soon as something bad happens, I immediately know how it could have been avoided. I can't take it anymore!
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>People need you, Hindsight! <i>[Hindsight takes a swig of Macallan]</i> Without you they feel helpless and stupid.
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td>Well I don't want the power anymore, alright?!
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>You think your power's a curse?! Let me tell you something about curses, buttlicker! <i>[turns around. Hindsight, curious, turns to face him]</i> Because there's some superpowers that make yours look like nothing! Trust me, I know.
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td>Wha-? What is your power?
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td><i>[turns around]</i> I can't die. <i>[pauses]</i> I've experienced death, countless times. Sometimes I see a bright light. Sometimes I see heaven. Or hell. But eventually, no matter what, I wake up in my bed, wearing my same old clothes. <i>[turns away]</i> And the worst part? Nobody even remembers me dying. I go to school the next day, and everyone is just like, "Oh hey Kenny." Even if they had seen me get decapitated with their own eyes. <i>[faces Hindsight]</i> You wanna whine about curses, Hindsight? You're talking to the wrong fucking cowboy.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Commercial]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>And now, a special announcement from the president of BP and DP.
+</td></tr>
+<tr>
+<th>Tony Hayward:
+</th><td>Hello, I'm Tony Hayward. The tragic spill in the Gulf is a disaster that should have never happened. And as head of the oil company responsible, I would like to say, what should I do? <i>[looks at the camera to his left]</i> Should I admit we've made mistakes? <i>[the spill is shown again]</i> Should I remind you we've done this before? What should I do? Should I find newer and better ways to say I'm sorry? <i>[Jumps out of a giant three-tiered BP cake with stars on his nipples: "We're sorry."]</i>
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td><i>[at a podium]</i> Should I really believe I ruined my legacy? <i>[behind him is a large banner that reads "Captain Hindsight"]</i> What should I do?
+</td></tr>
+<tr>
+<th>Tony Hayward:
+</th><td><i>[voice-over]</i> What should I do?
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td><i>[voice-over]</i> What should I do? <i>[shown getting a massage]</i> Should I forget about the past and not care about my powers?
+</td></tr>
+<tr>
+<th>Tony Hayward:
+</th><td>Or should I tell you, "I am not a role model." <i>[winks]</i>
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td><i>[on the steps in the alley side of a building drinking Macallan]</i> Seriously, what should I do?
+</td></tr>
+<tr>
+<th>Tony Hayward:
+</th><td><i>[in Western Outlaw getup]</i> Should I accept my role as the villain?
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td><i>[in a familiar alley]</i> Maybe I should just... disappear.
+</td></tr>
+<tr>
+<th>Tony Hayward:
+</th><td><i>[at the rig inspecting the blueprints]</i> Should I not have listened to my technicians who said a spill wouldn't happen? They're my technicians! <i>[blinks twice]</i>
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td><i>[on a darkened basketball court]</i> Hindsight's a bitch, isn't it?
+</td></tr>
+<tr>
+<th>Coon:
+</th><td><i>[thinking on the roller coaster track]</i> Should I just apologize to my friends and ask them to take me back? Tell then that I was being a selfish jerk? <i>[aloud]</i> What should I do?
+</td></tr>
+<tr>
+<th>Captain Hindsight:
+</th><td><i>[in the chair that gave him his superpower]</i> Should I get back in the chair? Remove my powers and just go back to being a simple reporter? <i>[activates the chair]</i>
+</td></tr>
+<tr>
+<th>Coon:
+</th><td><i>[thinking on the roller coaster track]</i> Should I admit I was wrong? Ask for everyone's forgiveness and go back to my original team? <i>[aloud]</i> Nah, screw that. I'm just gonna keep bein' a fuckin' dick! <i>[jumps off the track]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Clyde's bedroom. Coon and Friends are at a desk, with Human Kite typing away on a computer keyboard]</i>
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>All right, superheroes, we've got to find out more about this Necronomicon thing!
+</td></tr>
+<tr>
+<th>Mosquito:
+</th><td>Right, Toolshed!
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>Here we go: "The Necronomicon contains an account of the Old Ones, their history, and the means for summoning them."
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>"It is used by cults around the world, most notably the Cult of Cthulhu."
+</td></tr>
+<tr>
+<th>Mint-Berry Crunch:
+</th><td>Aha! That's the cult the creepy man talked about, heroes. Uh, you okay, Mysterion?
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td><i>[away from the group, in deep thought]</i> I'm fine.
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>Ten arrested in South Park for cultish activity. This is from like, ten years ago.
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>So these people have been waiting for Cthulhu a long time.
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>Hey wait a minute. Dude. Mysterion, it's your parents.
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Uhh, what? <i>[goes to see. He looks at the screen and his expression changes to one of dismay. His parents are pictured getting arrested along with the creepy man and Mr. Adler, shop teacher, among others. In his normal voice]</i> What the fuck?! I m-I mean, <i>[going into his superhero voice]</i> Uh, I mean, what the fuck?! <i>[takes over as Human Kite leaves the chair]</i>
+</td></tr>
+<tr>
+<th>Betsy:
+</th><td><i>[knocks on the door]</i> Clyde? Clyde, I told you this morning to take the garbage out. <i>[Betsy knocks some more. Mosquito, Human Kite, and Mint-Berry Crunch look at each other]</i> Clyde, do you hear me?
+</td></tr>
+<tr>
+<th>Mosquito:
+</th><td><i>[pulls his vuvuzela off his face]</i> Okay Mom, just give me two minutes. <i>[puts it back on]</i> Nag nag nag. <i>[buzzes a bit]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[More comic book pages appear, this time with Coon on them]</i>
+</td></tr>
+<tr>
+<th>Coon:
+</th><td>Convincing a giant creature from another dimension to do what you want is no easy task. After days of killing and conquering, Cthulhu is at rest. Now is my chance to make a move. Perhaps last time I was too forceful with the dark god. Too demanding. To get what it wants, sometimes a coon must be on the attack and vicious. <i>[a raccoon is shown aiming to grab a sandwich from someone's left hand]</i> But sometimes a coon must be cuddly and cute. <i>[the same raccoon is shown sitting on its hind legs begging for the sandwich]</i> Time for me to try and manipulate the most evil thing in all the universe. <i>[as Cthulhu sleeps, Coon gets on its belly and giggles, then pats its belly. Cthulhu makes some sounds, then goes back to sleep]</i> Who's the sleepy little man? <i>[pats its belly again. This time Cthulhu sneezes and blows Coon off. Cthulhu licks his lips and goes back to sleep. Coon, undaunted, climbs right back on its belly. Giggling, he scoots closer. Cthulhu opens its eyes. Cartman smiles broadly]</i> My name is the Little Coon. What is your name? <i>[Cthulhu moans a bit, then open its mouth wide and roars. Coon struggles to stay on this time. When Cthulhu closes its mouth, Coon mimics him]</i> Craaaaaaaaaaaaaaaaaaa! <i>[Cthulhu opens its eyes wide as Coon giggles. Cthulhu moans]</i> You're a sleepy man ne, Cthulhu? <i>[scratches Cthulhu's belly]</i> Who's a needs a tummy rub? <i>[Cthulhu makes moans happily]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The McCormicks' bedroom. Stuart smokes a joint while his wife looks on. He coughs]</i>
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>You're hoggin' it all, asshole! <i>[she reaches for it, but he keeps it away]</i>
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>'Cause I paid for it, you stupid bitch!
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td><i>[she keeps reaching for it]</i> You paid for it with the money I made washing dishes at the Olive Garden!
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td><i>[pushes her off]</i> I told you to shut up!
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td><i>[punches him]</i> Give to me, you prick! <i>[they fight over the joint, suddenly realizing Mysterion is at their window watching them]</i> AH! AAAAH! <i>[both of them fall off the bed and then peer up from the side]</i> Oh God he's back! It's that mystery kid again!
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Uh what the hell do you want this time? Hey look, w-we did what you told us! W-w-we treat our kids better and we don't beat each other up as much.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>And we gave our sons allowances and stopped gettin' high every night. <i>[Stuart realizes he's still holding the joint and chucks it away]</i>
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>I'm not here about that.
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Oh. Uhuh, sss-so now what?
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Ten years ago you were arrested for being in some kind of cult.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td><i>[looks at Stuart]</i> We were?
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>We've been arrested lots of times, Mysterio.
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Mysterion. What is the Cult of Cthulhu?! <i>[the parents look at each other]</i>
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Oh, that thing. Nooo, we weren't in that stupid group. They just used to offer free beer at their meetings, so we would go.
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>What happened at those meetings?
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Trust us, we don't remember. Uh uh, I know it sounds hard to believe, but we were actually really drunk the entire time.
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>I don't find that hard to believe at all.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>I swear, we haven't been back to their meetings ever since, even though we always still get invited.
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>These people still meet? Where?
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>Where they always did. Jim McElroy's house.
+</td></tr>
+<tr>
+<th>Mrs. McCormick:
+</th><td>They used to meet every Friday night. I think they still do. <i>[and with that, Mysterion vanishes. The window remains open, but no one is in it. Mrs. McCormick gets back on the bed. Stuart gets the joint back, sits next to her, and lights the joint]</i> Did that really just happen?
+</td></tr>
+<tr>
+<th>Stuart:
+</th><td>I don't think so. <i>[takes a drag]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[A news report]</i>
+</td></tr>
+<tr>
+<th>Field Reporter:
+</th><td>Breaking news here in the Gulf, Tom. The dark ancient god Cthulhu has called for a press conference, The Old One told reporters in a statement released this morning that it has extremely exciting news.
+</td></tr>
+<tr>
+<th>Coon:
+</th><td>Ladies and Gentlemen, today we are pleased to announce the successful merger of Cthulhu, and the Coon. Cthulhu's track record for complete dominance and interdimensionary rule is without question. And now, coupled with the legitimacy and instantly recognizable brand name of The Coon, we intend to bring change and fight injustice. As the all-new Coon and Friends. And anybody else using that name for their benefit is breaking the law! Oh, what's that? There is another group using our trademarked name? Well, I guess we have a right to banish them to a dark oblivion, don't we?!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Jim McElroy's house, night. In the basement a robed man leads a group of cult followers in prayer]</i>
+</td></tr>
+<tr>
+<th>Followers:
+</th><td><i>ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn</i>.
+</td></tr>
+<tr>
+<th>Cult Leader:
+</th><td>The Old One has awakened! <i>[draws back his hood; it's the creepy man, or Man 2, from earlier]</i> A lot of us have waited a long time for this day. Well for all our South Park Cthulhu members old and new, it is time to par-tay! <i>[lukewarm response. Outside, Coon and Friends watch from a low window]</i>
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>There must be clubs like this all over the world.
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>We know some of these people. There's Mr. Adler, from shop class. And those two geeky computer guys.
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>Oh my God, look! Back row. Aren't those the Goth kids?
+</td></tr>
+<tr>
+<th>Red Goth:
+</th><td>I'm so freaking stoked that Cthulhu is gonna squash all the happy-go-lucky conformists.
+</td></tr>
+<tr>
+<th>Tall Goth:
+</th><td>Yeah. I just hope he puts an end to the fucking Disney Channel.
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>Dude, why would the Goth kids worship Cthulhu?
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>Makes sense. Unrelenting despair and a thousand years of darkness sounds pretty goth.
+</td></tr>
+<tr>
+<th>Cult Leader:
+</th><td>Now let us read from the Necronomicon. "That is not dead which can eternal lie, and with strange aeons"
+</td></tr>
+<tr>
+<th>Followers:
+</th><td>"Even Death may die." <i>[the boys turn away from the window]</i>
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>"In strange aeons even Death may die?" What does that mean, Human Kite?
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>I'm not sure, Toolshed. Could it be a riddle, Mysterion? M-! Mysterion? <i>[Mysterion is gone]</i>
+</td></tr>
+<tr>
+<th>Mint-Berry Crunch:
+</th><td>Mysterion is sooo... mysterious.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[News report. Jack Brolin reporting. He looks familiar...]</i>
+</td></tr>
+<tr>
+<th>Jack Brolin:
+</th><td>A horrific scene of destruction, despair and terror here in New Orleans. And still there's no sign of Captain Hindsight. Rumor has it he got sick of it all, went back to his chair, and removed all his powers.
+</td></tr>
+<tr>
+<th>Injured Man:
+</th><td><i>[in the background, walking by with his left hand over his injured right upper arm]</i> Where are you Captain Hindsight? Aggh!
+</td></tr>
+<tr>
+<th>Jack Brolin:
+</th><td>Perhaps... he shouldn't have gotten back in that chair...
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[An alley in South Park. The Goth kids enter]</i>
+</td></tr>
+<tr>
+<th>Red Goth:
+</th><td><i>[kicks a can aside]</i> Do you think the dark lord Cthulhu is gonna make us go to school?
+</td></tr>
+<tr>
+<th>Tall Goth:
+</th><td>No, assmunch. Cthulhu just wants chaos, bedlam, and madness.
+</td></tr>
+<tr>
+<th>Red Goth:
+</th><td>Good, because if I have to go to PE class again, I was gonna kill myself. <i>[they notice Mysterion looking at them from the edge of a roof]</i> Who the F'n H is that?
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td><i>[jumps off the roof and lands on the alley floor, on one knee]</i> What does it mean? "That is not dead which can eternal lie"?
+</td></tr>
+<tr>
+<th>Tall Goth:
+</th><td><i>[takes a drag of his joint]</i> "And with strange aeons even Death may die."
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td>What does it mean?!
+</td></tr>
+<tr>
+<th>Red Goth:
+</th><td>It means Cthulhu is gonna get rid of all the posers and make everything cool and black and stuff. It's gonna be like, a Nine Inch Nails concert that goes on forever.
+</td></tr>
+<tr>
+<th>Tall Goth:
+</th><td>Yeah, so go home and put your underwear back inside your pants, poser.
+</td></tr>
+<tr>
+<th>Mysterion:
+</th><td><i>[rises and walks towards them]</i> You're going to tell me everything you know!
+</td></tr>
+<tr>
+<th>Kindergoth:
+</th><td><i>[pulls out a switch blade and opens it]</i> Nobody's stopping Cthulhu now! All will be sadness. Life will become death, and I will watch the crimson blood leak from your neck.
+</td></tr>
+<tr>
+<th>Tall Goth:
+</th><td>Dude, that little kid is hardcore goth.
+</td></tr>
+<tr>
+<th>Red Goth:
+</th><td>Hardcore goth.
+</td></tr>
+<tr>
+<th>Cult Leader:
+</th><td><i>[he and Nelson appear behind Mysterion, who turns around]</i> The child is right, you know. Cthulhu sees all, hears all. The dark lord wants us to dispense of this one, kids. Give us a hand.
+</td></tr>
+<tr>
+<th>Red Goth:
+</th><td>Whaaat? Dude, I don't wanna kill anybody.
+</td></tr>
+<tr>
+<th>Tall Goth:
+</th><td>We're dark lord minions now, wuss. What'd you think we'd be doing?
+</td></tr>
+<tr>
+<th>Red Goth:
+</th><td>Ugh, whatevs. <i>[Mysterion is stuck between the two advancing cult members and the Goth kids.]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The Gulf sky, dark and stormy. Coon rides on Cthulhu. Upbeat music plays]</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>Cthulhu Cthulhu, Cthulhu Cthulhu.</i>
+</td></tr>
+<tr>
+<th>Coon:
+</th><td>Yeeheah!
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>The evil hate-filled Cthulhu, from a dimension far away.</i><br /><i>Flying through gates of madness and into your heart</i>
+</td></tr>
+<tr>
+<th>Coon:
+</th><td>Yeah, fuck all o'you!
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>Turning dreams into nightmares</i>
+</td></tr>
+<tr>
+<th>Coon:
+</th><td>Lick my balls!
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>Destroying all he sees</i>
+</td></tr>
+<tr>
+<th>Coon:
+</th><td><i>Now begins a new adventure for... MEEEE!</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><div class="poem">
+<p><i>You and the dark one, Cthulhu</i><br />
+<i>Sharing adventures and smiles,</i><br />
+<i>It's a magical bond two pals can share.</i><br />
+<i>Soon the whole world will be made aware of</i><br />
+<i>You and the death lord, Cthulhu</i><br />
+<i>Makin' the world a better place.</i><br />
+<i>Together you will have so much fun</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Coon:
+</th><td><i>Sending all my stupid friends to oblivion!</i>
+</td></tr>
+<tr>
+<th>Singer:
+</th><td><i>You and the dark one, Cthulhu</i>
+</td></tr>
+<tr>
+<th>Coon:
+</th><td>Suck it, bitches!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The alley. There is no escape]</i>
+</td></tr>
+<tr>
+<th>Cult Leader:
+</th><td>Just hold still and it will all be over quickly. <i>[a buzzing sound is heard, and all look to see who it is]</i>
+</td></tr>
+<tr>
+<th>Mosquito:
+</th><td>Let him go! <i>[he's on the roof of a building]</i> Coon and Friends, ho! Mosquito!
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>Toolshed!
+</td></tr>
+<tr>
+<th>TupperWear:
+</th><td>TupperWear!
+</td></tr>
+<tr>
+<th>Iron Maiden:
+</th><td><i>[behind the Goth kids]</i> Timmeh!
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>Human Kite!
+</td></tr>
+<tr>
+<th>Mint-Berry Crunch:
+</th><td><i>[behind the cult members]</i> Mint-Berry Crrrunch!
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>Let him go, dude, or else we'll totally tell our parents on you!
+</td></tr>
+<tr>
+<th>Cult Leader:
+</th><td>Sorry kids. It's a little late for that. <i>[takes the switchblade from the Kindergoth and stabs Mysterion with it. The cult members and the Goth kids disperse as Mysterion coughs and stumbles. Mysterion stops and then falls flat on his back]</i>
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>Oh my God. Oh my God, they- they killed Kenny!
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td>You bastards! <i>[a pool of blood appears under Kenny when someone knocks on a door somewhere. All of a sudden, Kenny is back in his room, in bed, in his same old clothes. More knocking]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Kenny's room]</i>
+</td></tr>
+<tr>
+<th>Toolshed:
+</th><td>Dude, Kenny, what'd you run away for?! We've gotta fight these guys!
+</td></tr>
+<tr>
+<th>Mosquito:
+</th><td>Yeah, come on, get your costume on, lazy-ass!
+</td></tr>
+<tr>
+<th>Human Kite:
+</th><td><i>[jumps in the air]</i> Let's go. <i>[the boys move on]</i>
+</td></tr>
+<tr>
+<th>Mint-Berry Crunch:
+</th><td>Mint-Berry Crunch! <i>[Kenny sighs]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Mysterion Rises</b>.]</i>
+</td></tr></table>
+<p><br />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt;border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px;border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">1412: "<a href="/wiki/Mysterion_Rises" title="Mysterion Rises"><span style="color:white">Mysterion Rises</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:1412&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Mysterion" title="Mysterion">Mysterion</a> • 
+<a href="/wiki/Cthulhu" title="Cthulhu">Cthulhu</a> • 
+<a href="/wiki/Cthulhu_Cult_Leader" title="Cthulhu Cult Leader">Cthulhu Cult Leader</a> • 
+<a href="/wiki/Coon_and_Friends" title="Coon and Friends">Coon and Friends</a> • 
+"<a href="/wiki/You_and_Cthulhu" title="You and Cthulhu">You and Cthulhu</a>"
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Mysterion_Rises/Images" title="Mysterion Rises/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s14e12-mysterion-rises">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Fourteenth_Season" title="South Park: The Complete Fourteenth Season">South Park: The Complete Fourteenth Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 116/300000
+Post‐expand include size: 4718/2097152 bytes
+Template argument size: 73/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:22987-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Mysterion_Rises/Script?oldid=246650">http://southpark.wikia.com/wiki/Mysterion_Rises/Script?oldid=246650</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Fourteen" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Fourteen" title="Category:Scripts from Season Fourteen">Scripts from Season Fourteen</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+								<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1454927565/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":22987,"kv_wpage":"Mysterion_Rises\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Mysterion_Rises/Script","wgTitle":"Mysterion Rises/Script","wgCurRevisionId":246650,"wgArticleId":22987,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Fourteen"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Mysterion_Rises/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1454927565/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1454927565/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":246650,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Mysterion_Rises/Script","fbReturnToTitle":"Mysterion_Rises/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Mysterion_Rises/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Mysterion_Rises/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:PasswordReset","caption":"Reset password","href":"http://southpark.wikia.com/wiki/Special:PasswordReset","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Mysterion Rises/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1454927565/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1454927565/group/-/videos_module_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1454927565/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/visit_source_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1454927565.0.81516"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/monetization_module_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/global_navigation_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/global_navigation_2016_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/page_share_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1454927565/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1454927565%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1454927565/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationHubsMenu.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>

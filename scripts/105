@@ -1,0 +1,2322 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="generator" content="MediaWiki 1.19.24" />
+<meta name="keywords" content="South Park Archives,southpark,Red Man's Greed/Script,Red Man's Greed/Trivia,Chief Runs With Premise,Premise Running Thin,Three Feathers Indian Casino,Alex Glick,South Park: The Complete Seventh Season,Love Is a Battlefield,Red Man's Greed,Red Man's Greed/Images,S.A.R.S." />
+<meta name="description" content="General Trivia" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Wikia" />
+<meta name="twitter:url" content="http://southpark.wikia.com/wiki/Red_Man%27s_Greed/Script" />
+<meta name="twitter:title" content="Red Man's Greed/Script" />
+<meta name="twitter:description" content="General Trivia" />
+<link rel="canonical" href="http://southpark.wikia.com/wiki/Red_Man%27s_Greed/Script" />
+<link rel="apple-touch-icon" href="http://img2.wikia.nocookie.net/__cb47/southpark/images/b/bc/Wiki.png" />
+<link rel="shortcut icon" href="http://vignette3.wikia.nocookie.net/southpark/images/6/64/Favicon.ico/revision/latest?cb=20120512202039" />
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="South Park Archives (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://southpark.wikia.com/api.php?action=rsd" />
+<link rel="copyright" href="http://wikia.com/Licensing" />
+<link rel="alternate" type="application/atom+xml" title="South Park Archives Atom feed" href="/wiki/Special:RecentChanges?feed=atom" />
+<title>Red Man's Greed/Script - South Park Archives - Wikia</title>
+
+<!-- CSS injected by skin and extensions -->
+<link rel="stylesheet" href="http://slot1.images1.wikia.nocookie.net/__am/1455024144/sasses/background-dynamic%3D1%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb47%252Fsouthpark%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1980%26color-body%3D%2523eeefee%26color-body-middle%3D%2523eeefee%26color-buttons%3D%25230c7c0c%26color-header%3D%25230c7c0c%26color-links%3D%25232222cc%26color-page%3D%2523f4f4f4%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0/skins/oasis/css/oasis.scss,extensions/wikia/Forum/css/ForumTag.scss,extensions/wikia/AuthModal/css/AuthModal.scss,extensions/wikia/Recirculation/styles/recirculation.scss,extensions/wikia/PortableInfobox/styles/PortableInfobox.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsHelp.scss,extensions/wikia/GlobalShortcuts/styles/GlobalShortcutsSearch.scss,extensions/wikia/SpecialPromote/css/SpecialPromote.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationUserLoginDropdown.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationNotifications.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationInverse.scss,extensions/wikia/GlobalNavigation/styles/GoogleSearchAPI.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/PageShare/styles/PageShare.scss,extensions/wikia/GlobalFooter/styles/GlobalFooter.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" /><link rel="stylesheet" href="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" /><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: southpark:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<script>
+var Wikia={},
+wgWikiVertical="tv",
+wgWikiCategories=[],
+wgMessages={"categoryselect-button-save":"Save","categoryselect-category-add":"Add category...","categoryselect-category-edit":"Edit category","categoryselect-category-remove":"Remove category","categoryselect-error-category-name-length":"The maximum length for a category name has been reached.","categoryselect-error-duplicate-category-name":"Category \"$1\" already exists.","categoryselect-error-empty-category-name":"Please provide a category name.","categoryselect-modal-category-name":"Provide the name of the category:","categoryselect-modal-category-sortkey":"Optionally, you may alphabetize this page on the \"$1\" category page under the name:","categoryselect-tooltip-add":"Press the Enter or Return key when done.","wikiarelatedpages-heading":"Read more","chat-join-the-chat":"Join the Chat","chat-start-a-chat":"Start a Chat","chat-user-menu-message-wall":"Message Wall","chat-user-menu-talk-page":"Talk Page","chat-user-menu-contribs":"Contributions","chat-live2":"Live Chat!","chat-edit-count":"$1 edits","chat-member-since":"Member since $1"},
+JSSnippetsStack=[],
+ads={"context":{"opts":{"adsInContent":1,"enableAdsInMaps":true,"pageType":"all_ads","showAds":true,"sourcePointDetectionUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.detection","sourcePointRecoveryUrl":"http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.adengine.sp.recovery"},"targeting":{"enableKruxTargeting":true,"enablePageCategories":true,"mappedVerticalName":"ent","pageArticleId":14218,"pageIsArticle":true,"pageName":"Red_Man\'s_Greed/Script","pageType":"article","skin":"oasis","wikiCategory":"ent","wikiCustomKeyValues":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","wikiDbName":"southpark","wikiIsTop1000":true,"wikiLanguage":"en","wikiVertical":"tv","newWikiCategories":["ent"]},"providers":{"taboola":true,"evolve2":true},"slots":{"exitstitial":true,"invisibleHighImpact":true},"forcedProvider":null},"runtime":{"sp":[]}},
+adslots2=[],
+adDriverLastDARTCallNoAds=[],
+adDriver2ForcedStatus=[],
+wgGaHasAds=true,
+wgUsePostScribe=null,
+wgAfterContentAndJS=[],
+wgWikiFactoryTagIds=[6,13,15,20,21,22,24,129,142,100012,100024,100043,100044,100056,100057,100058,100059,100428,100455,100555,100567],
+wgWikiFactoryTagNames=["tv","teens_(14-17)","male","adults_(18-35)","adults_(35+)","female","comedy","entertainment","dvd/blu-ray","cartoon","test","top_75_entertainment","top_100_entertainment","wow","t9","skyscraper","skyscrapperwow","apertureenabled","krux","onhulu","cc"],
+wgCdnRootUrl="http://slot1.images.wikia.nocookie.net",
+wgCdnApiUrl="http://api.wikia.nocookie.net/__cb1455024144",
+wgDBname="southpark",
+wgCityId="835",
+wgContentLanguage="en",
+wgUserName=null,
+wgArticleId=14218,
+wgCategories=["Scripts","Scripts from Season Seven"],
+wgPageName="Red_Man\'s_Greed/Script",
+wikiaPageType="article",
+wikiaPageIsCorporate=false,
+wgArticleType="other",
+wgNamespaceNumber=0,
+skin="oasis",
+_gaq=[],
+wgIsGASpecialWiki=null,
+wgStyleVersion="1455024144",
+wgTransactionContext={"type":"page/main/view/oasis/no_parser/complex","env":"prod","hostname":"ap-s11","php_version":"5.6.4","wiki":"southpark","entry_point":"page","namespace":0,"logged_in":false,"action":"view","skin":"oasis","parser_cache_used":true,"size_category":"complex"},
+wgEnableOpenXSPC=true,
+wgEnableReviveSpotlights=null,
+wgSeoTestingBucket=3;
+</script><script>window.mw||(mw={fk:1,loader:{state:function(s){preMwLdrStA=window.preMwLdrStA||[];preMwLdrStA.push(s)}}});</script>
+<script>var wgNow = new Date();</script>
+<!-- Wikia Beacon Tracking -->
+<noscript><img src="http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=14218&amp;s=oasis&amp;n=0&amp;nojs=1" width="1" height="1" border="0" alt="" /></noscript>
+<script>
+(function() {
+	var result = RegExp("wikia_beacon_id=([A-Za-z0-9_-]{10})").exec(document.cookie);
+	if(result) {
+		window.beacon_id = result[1];
+	} else {
+		// something went terribly wrong
+		document.write('<img src="http://logs-01.loggly.com/inputs/88a88e56-77c6-49cc-af41-6f44f83fe7fe.gif?message=wikia_beacon_id%20is%20empty"/>');
+	}
+
+	var utma = RegExp("__utma=([0-9\.]+)").exec(document.cookie);
+	var utmb = RegExp("__utmb=([0-9\.]+)").exec(document.cookie);
+
+	var trackUrl = "http://a.wikia-beacon.com/__track/view?cb=1455024144&amp;c=835&amp;lc=en&amp;lid=75&amp;x=southpark&amp;y=c1&amp;u=0&amp;a=14218&amp;s=oasis&amp;n=0" + ((typeof document.referrer != "undefined") ? "&amp;r=" + escape(document.referrer) : "") + "&amp;rand=" + (new Date).valueOf() + (window.beacon_id ? "&amp;beacon=" + window.beacon_id : "") + (utma && utma[1] ? "&amp;utma=" + utma[1] : "") + (utmb && utmb[1] ? "&amp;utmb=" + utmb[1] : "");
+	document.write('<'+'script type="text/javascript" src="' + trackUrl + '"><'+'/script>');
+})();
+</script><script src="http://community.wikia.com/wikia.php?controller=Optimizely&method=getCode"></script><script src="http://slot1.images4.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/wikia.ext.instantGlobals,instantGlobalsOverride,abtesting"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/amd|wikia.tracker.stub,stub|wikia.abTest,cache,cookies,document,geo,instantGlobals,localStorage,location,log,querystring,window"></script>
+<script>/*<![CDATA[*/window.mw.fk&&delete mw;/*]]>*/</script>
+<script type="text/javascript" src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine2_tracking_js,adengine2_amazon_match_js,adengine2_ox_bidder_js,adengine2_rubicon_fastlane_js,optimizely_blocking_js,qualaroo_blocking_js,monetization_module_top_script_js"></script>
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+
+
+
+	<meta property="fb:app_id" content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="South Park Archives" />
+	<meta property="og:title" content="Red Man's Greed/Script" />
+	<meta property="og:description" content="General Trivia" />
+	<meta property="og:url" content="http://southpark.wikia.com/wiki/Red_Man%27s_Greed/Script" />
+<meta name="apple-itunes-app" content="app-id=623705389">
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Red_Man_s_Greed_Script  TOC_hide MiniEditor oasis-breakpoints wikinav2 skin-oasis  user-anon background-fixed background-not-tiled background-dynamic" itemscope itemtype="http://schema.org/WebPage">
+	<div class="background-image-gradient"></div>
+
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6177433",
+	options: {
+		url_append: "comscorekw=wikiacsid_entertainment"
+	}
+});
+
+(function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Fsouthpark.wikia.com%2Fwiki%2FRed_Man%2527s_Greed%2FScript%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<script type="text/javascript">
+var quantcastLabels = "";
+if (window.wgWikiVertical) {
+	quantcastLabels += wgWikiVertical;
+	if (window.wgDartCustomKeyValues) {
+		var keyValues = wgDartCustomKeyValues.split(';');
+		for (var i=0; i<keyValues.length; i++) {
+			var keyValue = keyValues[i].split('=');
+			if (keyValue.length >= 2) {
+				quantcastLabels += ',' + wgWikiVertical + '.' + keyValue[1];
+			}
+		}
+	}
+}
+_qevents.push( { qacct:"p-8bG6eLqkH6Avk", labels:quantcastLabels } );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+<!-- Start for AmazonMatch, page_view -->
+<script id="analytics-provider-amazon-match">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.amazonMatch"),
+	], function (geo, globals, amazon) {
+		var ac = globals["wgAmazonMatchCountries"];
+
+		if (geo.isProperGeo(ac)) {
+			amazon.call();
+		}
+	});
+</script>
+
+<!-- Start for OpenXBidder, page_view -->
+<script id="analytics-provider-openx-bidder">
+	require([
+		"wikia.geo",
+		"wikia.querystring",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.openXBidder")
+	], function (geo, Querystring, globals, oxBidder) {
+		var ac = globals["wgAdDriverOpenXBidderCountries"],
+			qs = new Querystring();
+
+		if (geo.isProperGeo(ac) || qs.getVal('oxbidder', '0') === '1') {
+			oxBidder.call();
+		};
+	});
+</script>
+
+<!-- Start for RubiconFastlane, page_view -->
+<script id="analytics-provider-rubicon-fastlane">
+	require([
+		"wikia.geo",
+		"wikia.instantGlobals",
+		require.optional("ext.wikia.adEngine.lookup.rubiconFastlane")
+	], function (geo, instantGlobals, rubiconFastlane) {
+		if (geo.isProperGeo(instantGlobals["wgAdDriverRubiconFastlaneCountries"])) {
+			rubiconFastlane.call();
+		};
+	});
+</script>
+<!-- Begin Krux Tag -->
+<script type="text/javascript">
+	require(['wikia.krux'], function (krux) {
+		krux.load('JU3_GW1b');
+	});
+</script>
+<!-- End Krux Tag -->
+<!-- Begin IVW3 Tag -->
+<script type="text/javascript">
+	var iamData = {
+		st: 'wikia',
+		cp: 'entertainment',
+		sv: 'ke'
+	};
+
+	if (window.Wikia &&
+		window.Wikia.InstantGlobals &&
+		!window.Wikia.InstantGlobals.wgSitewideDisableIVW3 &&
+		window.Wikia.geo.isProperGeo(["AT","CH","DE"])
+	) {
+		window.ivw3Initialized = true;
+		document.write('<script type="text/javascript" src="https://script.ioam.de/iam.js"><\/script>');
+		document.write('<script type="text/javascript">window.iom.c(iamData, 2);<\/script>');
+	}
+</script>
+<!-- End IVW3 Tag -->
+<!-- Unsupported language for AnalyticsProviderIVW2 --><div class="WikiaSiteWrapper">
+		<h2>Wikia</h2>
+<div class="skiplinkcontainer">
+<a class="skiplink" rel="nofollow" href="#WikiaArticle">Skip to Content</a>
+<a class="skiplink wikinav" rel="nofollow" href="#WikiHeader">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" rel="nofollow" href="#GlobalNavigation">Skip to Site Navigation</a>
+</div>
+<div id="fb-root"></div>
+<div id="ad-skin" class="wikia-ad noprint"></div>
+
+<nav class="global-navigation" id="globalNavigation">
+	<div class="global-navigation-container">
+		<div class="wikia-logo-container table-cell">
+			<a href="http://www.wikia.com/fandom"
+				class="wikia-logo final-url"
+				rel="nofollow"
+				data-id="wikia-logo">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"
+					height="24"
+					width="91"
+					alt="Wikia"
+					title="Wikia">
+									<span class="wikia-logo__subtitle">The Home of Fandom</span>
+							</a >
+		</div >
+					<div class="table-cell hubs-links" data-visibility="desktop">
+									<a class="cell-link top-level" href="http://gameshub.wikia.com/wiki/Games_Hub"
+					   data-tracking-label="hub-games">
+						Games					</a>
+									<a class="cell-link top-level" href="http://movieshub.wikia.com/wiki/Movies_Hub"
+					   data-tracking-label="hub-movies">
+						Movies					</a>
+									<a class="cell-link top-level" href="http://tvhub.wikia.com/wiki/TV_Hub"
+					   data-tracking-label="hub-tv">
+						TV					</a>
+							</div>
+				<div class="table-cell">
+			<div class="explore-wikia-entry-point" id="exploreWikiaEntryPoint">
+				<a class="cell-link top-level final-url"
+					href="http://www.wikia.com/explore"
+					data-tracking-label="explore-wikia">
+					Explore Wikia					<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+				</a>
+				<ul class="explore-wikia-dropdown" id="exploreWikiaDropdown">
+																		<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://gameshub.wikia.com/wiki/Games_Hub"
+								   data-tracking-label="hub-games">
+									Games								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://movieshub.wikia.com/wiki/Movies_Hub"
+								   data-tracking-label="hub-movies">
+									Movies								</a>
+							</li>
+													<li>
+								<a class="cell-link"
+								   data-visibility="tablet"
+								   href="http://tvhub.wikia.com/wiki/TV_Hub"
+								   data-tracking-label="hub-tv">
+									TV								</a>
+							</li>
+																						<li>
+							<a class="cell-link"
+							   href="http://www.wikia.com/WAM"
+							   data-tracking-label="top-communities">
+								Trending Wikias							</a>
+						</li>
+											<li>
+							<a class="cell-link"
+							   href="http://community.wikia.com"
+							   data-tracking-label="community-central">
+								Community Central							</a>
+						</li>
+										<li>
+						<a href="http://www.wikia.com/Special:CreateNewWiki"
+							class="start-wikia"
+							title="Start a wikia"
+							data-id="start-wikia">
+							<span>Start a wikia</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="search-container table-cell">
+			<div class="search-form-wrapper">
+	<form action="http://southpark.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+		<div class="global-nav-search-input-wrapper">
+			<div class="search-select-wrapper">
+				<div class="search-select-underlay">
+					<div class="search-icon"></div>
+												<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+							<select class="search-select" id="searchSelect">
+								<option value="local" selected="selected" data-placeholder="Search South Park Archives..." data-search-url="http://southpark.wikia.com/wiki/Special:Search">Search this wikia</option>
+								<option value="global" data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search">Search all of Wikia</option>
+							</select>
+									</div>
+			</div>
+			<input id="searchInput" accesskey="f" autocomplete="off" class="search-input" name="search" placeholder="Search South Park Archives..." type="text" value=""/>
+			<input type="submit" id="searchSubmit" class="search-button" value="" />
+			<input name="fulltext" type="hidden" value="Search"/>
+			<input disabled id="searchInputResultLang" type="hidden" name="resultsLang" value="en"/>
+		</div>
+	</form>
+</div>
+		</div>
+		<div class="account-navigation-container table-cell">
+			<ul id="AccountNavigation" class="AccountNavigation table-cell  ">
+	<li class="account-navigation-item">
+		<div class="links-container anon ">
+			<a data-id="login" href="/wiki/Special:UserLogin?returnto=Red_Man%27s_Greed/Script" rel="nofollow" title="Log in" class="ajaxLogin table-cell" accesskey="o">			<div class="avatar-container anon-avatar-placeholder">
+							</div>
+		</a>
+						<span class="auth-label auth-link sign-in">Sign In</span>
+						<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+			</div>
+	<div id="UserLoginDropdown" class="UserLoginDropdown global-nav-dropdown">
+	<div class="ajaxRegisterContainer"><a data-id="register" href="/wiki/Special:UserSignup" rel="nofollow" class="ajaxRegister">Register</a></div>
+	
+<form action="/wiki/Special:UserLogin" method="post" class="WikiaForm">
+	<fieldset>
+		
+					<div class="input-group error general-errors">
+				<div class="error-msg"></div>
+			</div>
+		
+		
+									
+									<input type="hidden" name="loginToken" value="">
+											
+									<input type="hidden" name="returnto" value="Red_Man&#039;s_Greed/Script">
+											
+									<input type="hidden" name="returntoquery" value="">
+											
+															<div class="input-group hide-label required">
+					
+													<label>Username</label>
+						
+						
+																												<input type="text" class="hide-label" id="usernameInput" name="username" tabindex="1" placeholder="Username">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group hide-label required">
+					
+													<label>Password</label>
+						
+						
+														<input type="password" class="hide-label" id="passwordInput" name="password" tabindex="2" placeholder="Password">
+							
+						
+						
+											</div>
+					
+											
+															<div class="input-group">
+					
+						
+						
+														<a href="#" class="forgot-password" tabindex="0">
+	Forgot your password?</a>							
+						
+						
+											</div>
+					
+											
+															<div class="input-group keep-logged-in">
+					
+						
+													<label>
+						
+														<input type="checkbox" class="keep-logged-in" name="keeploggedin" value="1" tabindex="3">
+								
+						
+													Stay logged in</label>
+						
+											</div>
+					
+											
+															<div class="input-group login-button">
+					
+						
+						
+														<input type="submit" class="login-button" value="Log in" tabindex="4">
+							
+						
+						
+											</div>
+					
+										</fieldset>
+
+	</form>
+	<div class="sso-login hidden">
+		<div class="sso-login-divider">
+			<span>Or</span>
+		</div>
+
+					<a href="#" class="wikia-button wikia-button-facebook sso-login-facebook"  data-id="facebook" tabindex="5" ><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15" /> Connect</a>
+	</div>
+</div>
+	</li>
+</ul>
+		</div>
+					</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+
+	<div class="WikiaTopAdsInner">
+
+
+		<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div id="TOP_LEADERBOARD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_LEADERBOARD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+
+		<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div id="TOP_BUTTON_WIDE" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_BUTTON_WIDE"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+
+	</div>
+
+	<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div id="INVISIBLE_SKIN" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["INVISIBLE_SKIN"]);
+	</script>
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+
+</div>
+
+
+<section id="WikiaPage" class="WikiaPage V2">
+	<div id="WikiaPageBackground" class="WikiaPageBackground"></div>
+	<div class="WikiaPageContentWrapper">
+				<header id="WikiHeader" class="WikiHeader">
+	<h2 class="wordmark medium graphic ">
+	<a accesskey="z" href="/wiki/South_Park_Archives">
+					<img src="http://img2.wikia.nocookie.net/__cb47/southpark/images/8/89/Wiki-wordmark.png" alt="South Park Archives"  width="250" height="65" >
+			</a>
+</h2>
+	<nav class="WikiNav">
+					<h2>South Park Archives Navigation</h2>
+				<ul class="nav">
+																				<li class="nav-item marked">
+						<a href="#">On the Wiki</a>
+
+													<ul class="subnav-2 accent firstChild">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:WikiActivity" data-canonical="wikiactivity">Wiki Activity</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Random" data-canonical="random">Random page</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Videos" data-canonical="videos">Videos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:NewFiles" data-canonical="newfiles">Photos</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Chat" data-canonical="chat">Chat</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum" data-canonical="forum">Forum</a>
+
+																			</li>
+																							</ul>
+											</li>
+																												<li class="nav-item">
+						<a href="/wiki/Portal:Characters">Characters</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#All Characters">All Characters</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters#Main Characters">Main Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Eric_Cartman">Eric Cartman</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Stan_Marsh">Stan Marsh</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kyle_Broflovski">Kyle Broflovski</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Kenny_McCormick">Kenny McCormick</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Major_Characters">Major Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Main_Characters">Main Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Major_Characters">Major Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Major_Characters#Significant_Characters">Significant Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Families">Families<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Main_Characters.27_Families">Main Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Other_Characters.27_Families">Other Characters' Families</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Families#Possible_Families">Possible Families</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Characters/Categorized_Characters">Other Characters<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#School_Characters">School Characters</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Creatures">Creatures</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Celebrities">Celebrities</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Alter_Egos">Alter Egos</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Groups">Groups</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Portal:Characters/Categorized_Characters#Unnamed_Characters">Unnamed Characters</a>
+													</li>
+																							</ul>
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/List_of_Episodes">Episodes</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_1:_1997-1998">Seasons 1-5<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_One">Season One</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Two">Season Two</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Three">Season Three</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Four">Season Four</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Five">Season Five</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_6:_2002">Seasons 6-10<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Six">Season Six</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seven">Season Seven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eight">Season Eight</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nine">Season Nine</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Ten">Season Ten</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_11:_2007">Seasons 11-15<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eleven">Season Eleven</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twelve">Season Twelve</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Thirteen">Season Thirteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fourteen">Season Fourteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Fifteen">Season Fifteen</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Episodes#Season_16:_2012">Seasons 16-20<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron"></a>
+
+																					<ul class="subnav-3 subnav">
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Sixteen">Season Sixteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Seventeen">Season Seventeen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Eighteen">Season Eighteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Nineteen">Season Nineteen</a>
+													</li>
+																																						<li class="subnav-3-item">
+														<a class="subnav-3a" href="/wiki/Season_Twenty">Season Twenty</a>
+													</li>
+																							</ul>
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Shorts">Shorts</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Media">Media</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Trivia">Trivia Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Images">Image Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Scripts">Script Portal</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Locations">Locations</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Songs">Songs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Portal:Merchandise">Merchandise</a>
+
+																			</li>
+																							</ul>
+											</li>
+																				<li class="nav-item">
+						<a href="/wiki/Community_Discussion">Community</a>
+
+													<ul class="subnav-2 accent">
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Special:Forum">Forum</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blogs</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/List_of_Top-10_Lists">Top Ten Lists</a>
+
+																			</li>
+																										<li class="subnav-2-item">
+										<a class="subnav-2a" href="/wiki/South_Park_Archives:Community_Portal">Community Portal</a>
+
+																			</li>
+																							</ul>
+											</li>
+										</ul>
+
+<div class="navbackground">
+	<div></div>
+	<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+</div>	</nav>
+			<div class="buttons">
+			<nav class="wikia-menu-button contribute secondary combined" >
+	<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22" /> Contribute
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Special:WikiaVideoAdd"  data-id="wikiavideoadd"  >Add a Video</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:Upload"  data-id="upload"  >Add a Photo</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:CreatePage"  data-id="createpage"   class="createpage">Add a Page</a>
+		</li>
+		<li>
+			<a href="/wiki/Special:WikiActivity"  accesskey="g" data-id="wikiactivity"  >Wiki Activity</a>
+		</li>
+	</ul>
+</nav>
+		</div>
+		<div class="hiddenLinks">
+		<a href="/wiki/Special:Watchlist" title="Special:Watchlist" accesskey="l">Watchlist</a>		<a href="/wiki/Special:Random" title="Special:Random" accesskey="x">Random page</a>		<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges" accesskey="r">Recent Changes</a>	</div>
+</header>
+		
+		
+		
+		
+		<article id="WikiaMainContent" class="WikiaMainContent">
+						<div id="WikiaMainContentContainer" class="WikiaMainContentContainer">
+					<!-- @TODO CONCF-189 everything inside this if should be removed when social buttons are live -->
+			<header id="WikiaPageHeader" class="WikiaPageHeader wikia-page-header">
+			<div class="header-container">
+				<div class="header-column header-title">
+					<h1>Red Man's Greed/Script</h1>
+											<h2>&lt; <a href="/wiki/Red_Man%27s_Greed" title="Red Man's Greed">Red Man's Greed</a></h2>
+									</div>
+				<div class="header-column header-tally">
+											<div id="PageShareContainer" class="page-share-container">
+													</div>
+																<div class="tally"><em>3,278</em><span>pages on<br /> this wiki</span></div>
+									</div>
+			</div>
+			<nav class="wikia-menu-button" >
+	<a   href="/wiki/Red_Man%27s_Greed/Script?action=edit" data-id="source" id="ca-viewsource">
+		<img alt="" class="sprite lock" height="12" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="9" /> View source	</a>
+
+	<span class="drop">
+		<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" class="chevron">
+	</span>
+	<ul class="WikiaMenuElement">
+		<li>
+			<a href="/wiki/Red_Man%27s_Greed/Script?action=history"  accesskey="h" data-id="history"   id="ca-history">History</a>
+		</li>
+	</ul>
+</nav>
+			<a accesskey="t" href="#WikiaArticleComments" class="wikia-button comments secondary" rel="nofollow" data-id="comment"> Comments<span class="commentsbubble">0</span></a>
+	</header>
+		
+
+				
+				<div id="WikiaArticle" class="WikiaArticle">
+					
+					<div class="home-top-right-ads">
+										</div>
+										
+					<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr mw-content-text"><div style="text-align:center">
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Red_Man%27s_Greed" title="Red Man's Greed">General</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Red_Man%27s_Greed/Trivia" title="Red Man's Greed/Trivia">Trivia</a></div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a href="/wiki/Red_Man%27s_Greed/Images" title="Red Man's Greed/Images">Images</a></div>
+<div style="float:left; width:19%; padding: .5em 0; font-weight:bold; color: black; background-color:#3C963C; border-radius:5px 5px 0px 0px; color:#FFF; text-shadow:#000 0.1em 0.1em 0.1em;">Script</div>
+<div style="float:left; width:19%; padding: .5em 0; text-shadow:#999 0.1em 0.1em 0.1em;"><a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s07e07-Red-Mans-Greed">Watch Episode</a></div>
+</div>
+<p><br />
+</p>
+<div style="clear:both; width:99%; padding:5px; border:1px solid #DDDDDD; background-color:#EEF5EE;border-radius:5px 5px 5px 5px;">
+<h2><span class="mw-headline" id="Cast">Cast</span></h2>
+<ul><li> Stan
+</li><li> Kyle
+</li><li> Cartman
+</li><li> Kenny
+</li><li> Butters
+</li><li> Alex Glick
+</li><li> Tweek
+</li><li> Randy and Sharon Marsh
+</li><li> Gerald and Sheila Broflovski
+</li><li> Chris Stotch
+</li><li> Mayor McDaniels
+</li><li> Principal Victoria
+</li><li> Mr. Garrison
+</li><li> Mr. Slave
+</li><li> Mr. Mackey
+</li><li> Jimbo
+</li><li> Chef
+</li><li> Chief Runs with Premise, wife, and Premise Running Thin
+</li><li> Blackjack and Roulette dealers
+</li><li> Native American Shaman
+</li><li> Announcers and Field Reporter
+</li><li> Johnny Manymoons
+</li><li> Native American Elders
+</li><li> Native American Audience
+</li><li> Wise Man in Trailer Park
+</li></ul>
+<h2><span class="mw-headline" id="Script">Script</span></h2>
+<table class="wikitable" border="1" style="width: 100%;">
+<tr>
+<th>
+</th><td style="background:#709C22;"><i>[Three Feathers Casino, night. People flock in. The building is massive, the front entrance is prefaced with a long pool with water jets shooting water into the air. The interior is shown, with its slot machines and milling crowds. The boys enter with the Marshes and the Broflovskis. Randy and Gerald carry cigars in their hands]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Wow, dude.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Man, Indians have it good, huh?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Now, Eric, they're called Native Americans, remember? Show some respect.
+</td></tr>
+<tr>
+<th>Native American Chief:
+</th><td>Welcome to the Three Feathers Casino. I'm your host, Chief Runs With Premise. Please try your luck at one of our many games.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[eagerly]</i> All right, let's go! <i>[moves forward]</i>
+</td></tr>
+<tr>
+<th>Runs With Premise:
+</th><td>Halt. <i>[spreads his arms out]</i> I am afraid minors cannot go onto the casino floor.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>I'm not a miner, dumbass! Do you see a shovel in my hand?!
+</td></tr>
+<tr>
+<th>Runs With Premise:
+</th><td>You kids can enjoy our Native American Comedy Club.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>All right, we're gonna hit the tables. Why don't you kids run along to the comedy club? <i>[Stan shrugs and the boys leave. The adults move forward]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>All right, time to win some money!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Oh yeah! blackjack table!
+</td></tr>
+<tr>
+<th>Blackjack Dealer:
+</th><td>Welcome to the blackjack table. May luck run through you, like the spirit of the buffalo.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Gerald, this is ten dollars a hand!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Relax, sweetie <i>[in hushed tones]</i> I know how to count cards.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Well I don't wanna play here!
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>Yeah. Come on, Sheila, let's go to the nickel slots.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oooo, the nickel slots! You might win the thirty-dollar jackpot! Ahh, women, huh? God I hate 'em. <i>[smokes]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>All right, time to show these people how to gamble!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[An entrance is shown - The Laughing Coyote Comedy Lodge, then the interior of the lodge itself. A Native American drummer sits on stage.]</i>
+</td></tr>
+<tr>
+<th>Announcer:
+</th><td>Welcome to the Three Feathers Comedy Club. Please put your hands together for Johnny Manymoons! <i>[Johnny approaches the mic]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What is Native American comedy, anyway?
+</td></tr>
+<tr>
+<th>Manymoons:
+</th><td><i>[takes the mic]</i> Thank you, thank you. Bear walked into a bar. Bear said to Deer, "May I please... have a drink?" And so Deer said to Bear, "Why the big paws?" <i>[the drums strikes three beats]</i>
+</td></tr>
+<tr>
+<th>Audience:
+</th><td>Ha ha ha ha! Ha ha ha ha! Ha ha ha ha! Ha ha ha ha! <i>[the boys are confused]</i>
+</td></tr>
+<tr>
+<th>Manymoons:
+</th><td>Many moons ago, Pony and Eagle walked up to Coyote. Pony said to Coyote, "I am very mad at Eagle. Will you yell at him for me?" Coyote said to Pony, "Why can you not yell yourself?" And Pony replied, "Because I am a little horse." <i>[the drums strikes three beats]</i>
+</td></tr>
+<tr>
+<th>Audience:
+</th><td>Ha ha ha ha! Ha ha ha ha!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The blackjack table. Gerald sits alone fiddling with some chips. Randy returns from somewhere with a cup of coins]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>How's it goin', Gerald?
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td><i>[nervous, fidgeting]</i> Ohh, not so good.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Yeah, I know what you mean. I'm down three hundred bucks.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Yeah. I'm down twenty-six thousand.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Yeah, well, maybe we should- ...wait. Twenty-six thousand dollars??
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>I forgot to tell you, ah I have a gambling problem.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Gerald, twenty-six thousand-!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Sshhhh! I have to win it back before Sheila finds out!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Where did you get that kind of money??
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>The casino gave me credit! I put the house up as collateral! But I still have this ten-dollar chip.
+</td></tr>
+<tr>
+<th>Blackjack Dealer:
+</th><td>Dealer, twenty one. <i>[takes the last chip]</i> Sorry.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td><i>[collapses on the table]</i> That's it. I'm destitute. <i>[leaps up and grabs Randy]</i> Loan me money! You've gotta have money in the cup! <i>[grabs the cup and tries to wrest it from Randy]</i> Wha- what's in the cup?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[keeps the cup]</i> Just six quarters!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td><i>[sits down and mopes]</i> Oh God. Oh Jesus.
+</td></tr>
+<tr>
+<th>Blackjack Dealer:
+</th><td>Thank you for playing at Three Feathers. May your life be filled with the song of the sparrow.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td><i>[bolts upright again]</i> Oh, shove the song of the sparrow up your ass!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Three Bears Casino, sometime later. Randy and Gerald sit on a bench next to some slot machines. Gerald's head hangs low]</i>
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>How am I going to tell my family? <i>[raises his head]</i> How do I tell them that tomorrow, we have to ...pack up our things and ...get out of the house? <i>[Sheila and Sharon show up in the background with the boys.]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>There's daddy!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td><i>[hangs his head]</i> Oh, Jesus. <i>[the boys and the women arrive.]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Where have you guys been? We've been looking all over.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Yeah. Come on, Dad, this place sucks. I wanna go.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td><i>[raises his head]</i> What, What did you say?
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>I said I wanna leave.
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td><i>[shifts gears and stands]</i> Oh, you wanna leave, huh?! Okay, fine, Kyle, when we get home, we'll just pack up our things, load them in the car, and we'll leave! <i>[Sheila and Kyle are baffled]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?? No, no, I mean, I-
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>No, no, no, if you wanna leave South Park, fine! Tomorrow we're leaving!
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Gerald, what are you talking about?
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Oh, you heard him, Sheila! Kyle wants to leave! Our nice old house doesn't interest Kyle anymore! Well I'm calling the moving company right now! <i>[leaves]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Well, you shouldn't be such a dick, dude. <i>[Kyle remains baffled, even as he looks at Cartman]</i>
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td><i>[walks up to Randy]</i> What's wrong with Gerald?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>He... he lost his house to the Native Americans.
+</td></tr>
+<tr>
+<th>Sharon:
+</th><td>What?? But don't the Native Americans know he has nowhere else to go?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>They don't care. <i>[the camera rises and focuses on a window behind them]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The casino office. Chief Runs with Premise looks out over the floor]</i>
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>Look at them! Small-minded idiots pouring their life-savings away!
+</td></tr>
+<tr>
+<th>Elder 1:
+</th><td>Their cash flows out of them like diarrhea from the buffalo.
+</td></tr>
+<tr>
+<th>Elder 2:
+</th><td><i>[wearing glasses]</i> Yes, but we have milked this simple mountain folk almost dry. If we really want to see cash flow, we need to bring in city people from Denver.
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td><i>[turns around]</i> Yeessss. It is time for us to implement our plan. <i>[walks over to an easel on which sits a map of Colorado, with a new highway drawn on it between the casino and Denver]</i> A superhighway, built from Denver right to our casino!
+</td></tr>
+<tr>
+<th>Aide 1:
+</th><td>And what do we do about the small town of South Park that lies in the highway's way?
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td><i>[holding up large stacks of bills]</i> Simple. We buy it, and we demolish it! Ha ha ha ha! Ha ha ha ha!
+</td></tr>
+<tr>
+<th>Elders:
+</th><td>Ha ha ha ha!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park Elementary, next day. A town meeting is being held in the gym. Mayor McDaniels sits at a table with four aides, two on either side of her.]</i>
+</td></tr>
+<tr>
+<th>Mayor McDaniels:
+</th><td>And that's really all I can tell you. The town of South Park is going to be leveled, in order to make way for a twelve-lane superhighway.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[rises]</i> But how can they do that?!
+</td></tr>
+<tr>
+<th>Mayor McDaniels:
+</th><td>The Native Americans have purchased the land from under us. Tomorrow, they're buying the last of what they need to have complete ownership.
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td><i>[rises]</i> Well can't we stop them? Let's call the bank.
+</td></tr>
+<tr>
+<th>Mayor McDaniels:
+</th><td>The Native Americans bought the bank.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Oh my God.
+</td></tr>
+<tr>
+<th>Mayor McDaniels:
+</th><td>Now, look, it isn't all horrible. The Native Americans are offering you retail values on your homes.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>No, screw that! We'll just pool our money together and buy the town ourselves! <i>[the town clamors in agreement]</i>
+</td></tr>
+<tr>
+<th>Chef:
+</th><td><i>[rises]</i> Yeah! Let the South Park people own South Park! <i>[the town clamors in agreement]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>How much do we have to raise, Mayor?
+</td></tr>
+<tr>
+<th>Mayor McDaniels:
+</th><td>Three hundred thousand dollars. <i>[the town thinks, then grumbles]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Ohhh, never mind. <i>[sits down]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The town library. Nine boys sit in front of it: Timmy, Jimmy, Tweek, Butters, Stan, Kyle, Cartman, Kenny, and Alex.]</i>
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>How can they do that, huh? How can they make us all move away?
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Because they're rich, greedy-ass Indians!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[correcting]</i> Native Americans. <i>[Stan rises and walks away from the building]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Our whole town, gone. We'd had such great times here. <i>[begins to reminisce]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The scenes are as follows:</i>
+<ul><li> Zombies destroy the town as the boys walk through in their Halloween costumes.
+</li><li> Trapper Keeper grabs a phone booth as it reaches mammoth dimensions.
+</li><li> The townsfolk fight the mutant turkeys.
+</li><li> Christopher Reeve throws a truck at some people, and they dive out of the way.
+</li><li> The giant fireworks snake demolishes the town.
+</li><li> The Geldon causes havoc on the Drew Carey Show as the Knights of Standards and Practices watch.
+</li><li> The pirate ghost ship fires off a cannon shot and the townsfolk dive out of the way. Some of them are killed on impact.
+</li><li> The pro-war and anti-war factions fight over the Iraq war.
+</li><li> The town reenacts the Civil War
+</li><li> Mr. Hankey summons up massive amounts of crap in order to get rid of the Hollywood gliterati
+</li><li> Mecha-Streisand fights off Ultura Marutin and Megara Poatia]
+</li></ul>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[stops reminiscing, turns around, and walks back to the boys]</i> We can't let them do it, you guys! We have to find a way to stop those Native Americans!
+</td></tr>
+<tr>
+<th>The boys:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Alex:
+</th><td>Yeah, this is our town!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We shouldn't have to make a bunch of new friends somewhere else. We're a team!
+</td></tr>
+<tr>
+<th>Kyle, Butters, Tweek:
+</th><td>Yeah!
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>That's right!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Yeah, ahh, that's right!
+</td></tr>
+<tr>
+<th>Alex:
+</th><td>Yeah, we're a team!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We just gotta figure out a way to raise three hundred thousand dollars! <i>[the boys start thinking]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td><i>[rises and moves to the sidewalk]</i> Wait a minute! I've got it, you guys! We can get Kyle infected with AIDS! And then start a charity organization that we steal money from! Come on, let's go! <i>[trots off excitedly. The other boys just watch him leave. Cartman returns a few seconds later]</i> No? We can't give Kyle AIDS?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We need something that'll get us money tomorrow!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Hey, I know! How about a dog parade? <i>[smiles]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Dog parade?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Yeah! We dress up all our dogs in little outfits, and parade them down the street. <i>[closes his eyes and beams]</i> It'll be so adorable!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>How do we make three hundred thousand dollars doing that?
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Oh... Uh well, we could sell tickets to our moms and dads.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Our moms and dads are the ones who need money, Butters!
+</td></tr>
+<tr>
+<th>Butters:
+</th><td>Oh... <i>[the boys go back to thinking]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Maybe give Kyle AIDS, huh? Lookin' a little better now.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, later on, day. The Broflovski house is shown, and a massive bulldozer rolls up to knock it down. A large chunk of it is torn off by the scoop.]</i>
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Oh, Gerald, I, I can't watch!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[walks up to the Chief]</i> How can you do this to people?
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>We're sorry. But if we do not build a superhighway, our casino might stop seeing profits.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>There's more to life than profits!
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>Well like what?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well like, you know, Slurpees and stuff. <i>[more of the house is torn down]</i>
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>Well, come on, honey, I guess we should start packing up our things as well.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Yeah. <i>[begins to wave]</i> So long, South Park.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Mom! Dad! We figured out a way we could raise three hundred thousand dollars!
+</td></tr>
+<tr>
+<th>Chris:
+</th><td>A dog parade? <i>[smiles in anticipation]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Stan, we've all tried to raise money, but we only raise ten thousand dollars, and the deadline is tomorrow.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>I know. So how about we take the ten thousand dollars back to the Indian casino? Tell them, Kyle!
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td><i>[opens a book he's carrying and reads]</i> The odds on a single number in roulette are thirty-five to one. <i>[looks up and closes the book]</i> That means, with a ten thousand dollar bet, you win three hundred and fifty thousand.
+</td></tr>
+<tr>
+<th>Sheila:
+</th><td>Boys, that's ridiculous.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Look, we- we've got nothing to lose.
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>What do you guys think?
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td>It's a long shot.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Yeah. <i>[turns around and makes fists with determination]</i> But it's the only shot we've got to save our town.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Three Feathers Casino, that night. The townsfolk are there once more]</i>
+</td></tr>
+<tr>
+<th>Runs With Premise:
+</th><td><i>[reading from a newspaper]</i> The residents of South Park had hoped to raise three hundred thousand dollars. but in the end managed to raise only ten. The loss of their town may be imminent for the poor people of South Park. <i>[fakes sadness]</i> Awww, I think I'm going to cuwhy.
+</td></tr>
+<tr>
+<th>Two Elders:
+</th><td>HA ha ha ha! HA ha ha ha!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The doors open and the townsfolk surge in. Randy carries a large amount of yellow chips]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>All right, boys. You're gonna have to wait here. <i>[the adults begin to move past the boys]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dad. <i>[Randy turns around]</i> Good luck.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>It's in God's hand now. <i>[turns around and moves forward]</i> Stand aside, everyone! <i>[the adults move towards the roulette table. The Chief notices a change in atmosphere and rises to see what's going on from his office.]</i>
+</td></tr>
+<tr>
+<th>Runs With Premise:
+</th><td>What are they doing?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>We're gonna try and beat you at your own game, Chief Runs With Premise! Ten thousand dollars! <i>[sets the yellow chips down]</i> On thirty one black! <i>[moves the chips towards the number. Everyone gasps. The dealer takes the chips and puts them away, substituting some blue chips for the yellow ones.]</i>
+</td></tr>
+<tr>
+<th>Runs With Premise:
+</th><td>Impossible!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[begins to wish hard]</i> Come on! Come on! <i>[the dealer starts the wheel and tosses the ball in the opposite direction. Everyone looks on in anticipation. The ball slows down and settles in on thirty one black.]</i>
+</td></tr>
+<tr>
+<th>Runs With Premise:
+</th><td>Thirty one. Black. <i>[the town erupts with joy]</i>
+</td></tr>
+<tr>
+<th>Townsfolk:
+</th><td>Yeah! All right! Woohoo! Oh we did it! We did it! Oh my God! Oh this is amazing!
+</td></tr>
+<tr>
+<th>Runs With Premise:
+</th><td>No... NOOO! <i>[The boys cheer. Cartman and Kenny hug]</i>
+</td></tr>
+<tr>
+<th>Alex:
+</th><td>South Park is saved. <i>[the dealer adds more blue chips to the amount bet]</i>
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>We have plenty enough to save our town now!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Yeah! But wait. <i>[the rush of winning gets to him]</i> Three hundred and fifty thousand dollars. That means if we won again, it will be twelve and a quarter million! <i>[the people gasp a bit at the possibility]</i>
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>We can save the town and be super-rich!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Oh hell yeah! Let it ride!
+</td></tr>
+<tr>
+<th>Gerald:
+</th><td>Let it ride!!
+</td></tr>
+<tr>
+<th>Townsfolk:
+</th><td>Woohoo! Yeah! <i>[they stay with thirty one black, and the dealer spins again]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What the hell are they doing??
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td>Let's go thirty one! Let's see it! <i>[the ball bounces around and settles in on two red.]</i>
+</td></tr>
+<tr>
+<th>Roulette Dealer:
+</th><td>Two, red. You lose.
+</td></tr>
+<tr>
+<th>Townsfolk:
+</th><td>AWWWWWWW!!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Dammit!
+</td></tr>
+<tr>
+<th>Runs With Premise:
+</th><td><i>[satisfied with this result]</i> Hmmm! <i>[walks off]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>They, they had it! They freakin' had it!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[The road. The Marshes drive home in their car. Randy drives, Sharon sits on the passenger side. Stan sits between Shelly and Grandpa in the back seat.]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You totally had it! You had enough to save the town and then some.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Stan? Okay? You just don't understand the fine points of gambling. You're never supposed to stop when you're on a winning streak.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>A winning streak??!! You played one game!!!!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Stan? Okay?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What???
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>All right? Stan? Okay?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You people just got greedy, like the Native Americans! <i>[Randy brakes the car angrily]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[menacingly]</i> Hey, mister!! We're not like them, all right?! <i>[turns and faces Stan]</i> Now, we may have pie in the sky dreams once in a while, but we aren't the ones kicking people out of their homes! So don't you compare us to those cold-hearted, money-grubbing, evil stinky Indians! <i>[turns back to the wheel]</i> I'm sorry, Native Americans.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, next day. A "SOLD" sign is placed above the town sign, indicating that the town, indeed, has been sold. At South Park Elementary, the residents stand in long lines waiting for the checks being offered for their homes]</i>
+</td></tr>
+<tr>
+<th>Elder 2:
+</th><td><i>[facing Mr. Garrison]</i> There you are, sir. There's the check for your home. Just sign here, and here.
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td><i>[signing]</i> Well, this is it, Mr. Slave. We're officially homeless.
+</td></tr>
+<tr>
+<th>Mr. Slave:
+</th><td><i>[sobbing]</i> Jesus! Jesus Christ!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[walks up to Randy, who is in line with the others]</i> Dad, what are you doing?! Don't take their dirty money!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Stanley, we don't have a choice. The Native Americans own South Park now. We have to take what they'll give us for our homes.
+</td></tr>
+<tr>
+<th>Elder 3:
+</th><td>There you go. Have a nice day. <i>[hands a check to Liane, who turns around and walks off with it]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[walks with his friends to a clearing where he could be heard]</i> Come on, you guys! This is our town!
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>It's over, Stanley. What else can we do?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>We can stay. And fight.
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>Yeah! When the Indians come to tear up our town, we kick 'em in the nuts!
+</td></tr>
+<tr>
+<th>Kenny:
+</th><td>(Yeah!)
+</td></tr>
+<tr>
+<th>Alex:
+</th><td>Yeah! They don't own our town! We do!
+</td></tr>
+<tr>
+<th>Chef:
+</th><td>I'm sorry, boys. You just don't understand economics.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>It'll be okay, boys, we'll just... move to the next town over.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Oh sure. Until the Native Americans decide they want that land, too! What if the Native Americans just keep building their casinos and their highways uh, until we have nowhere else to go?? We have to stand up to them now! <i>[the adults look back helplessly]</i> Rrrgh! Forget it! Come on, you guys! <i>[the boys leave. Cartman stays behind.]</i>
+</td></tr>
+<tr>
+<th>Cartman:
+</th><td>You're all a bunch of God-damned pussies! <i>[follows his friends them out. The adults just watch]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, day. Moments later, a train of bulldozers roll down into town. Runs with Premise, riding on the lead bulldozer, looks happy until he sees the boys standing abreast on the street, blocking the way]</i>
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>Get out of our way!
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No! We won't let you destroy our town!
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>Boys. It isn't your town anymore.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Just because you have a piece of paper saying you own it doesn't make it yours. We grew up here. Our parents grew up here. We shop at that Wal-Mart, and eat at that Chili's. We take fish from the streams and bread them and freeze them to make fish sticks. This is not just a town, it is our way of life.
+</td></tr>
+<tr>
+<th>Elder 1:
+</th><td>Well your way of life is about to change, little boys. Now move! <i>[points the way to the side of the street]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>You can't just roll into places and take people's lives away!
+</td></tr>
+<tr>
+<th>A Driver:
+</th><td>And what are four little boys going to do to stop us, huh? <i>[the boys stand unsure, but a sound rises up behind them. Townsfolk appear en masse and walk down the street.]</i>
+</td></tr>
+<tr>
+<th>Townsfolk:
+</th><td><div class="poem">
+<p><i>We are strong</i><br />
+<i>No one can tell us we're wrong</i><br />
+<i>[Stan looks behind him, smiles, then looks up to his left. People now appear on the roofs of the buildings as well as on the street.]</i><br />
+<i>Searching our hearts for so lohh-oo-ohh-oo-ong</i><br />
+<i>[Stan looks at the roofs on the other side of the street, smiling.]</i><br />
+<i>Both of us knowing...</i><br />
+<i>[The boys grin]</i><br />
+<i>Love Is A Battlefield</i>
+</p>
+</div>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>This land is not for sale.
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>Dammit! I thought you said they were dealt with!
+</td></tr>
+<tr>
+<th>Elder 1:
+</th><td>They were!
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Sorry, Charlies! You can just keep your filthy bastard Indian money!
+</td></tr>
+<tr>
+<th>Principal Victoria:
+</th><td>Filthy bastard Native American money!
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>Uh oh, right, huh. Sorry about that.
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>This isn't over! <i>[he and the others get into their bulldozers and pull out of town]</i>
+</td></tr>
+<tr>
+<th>Jimbo:
+</th><td>We'll never give up! You bastards!
+</td></tr>
+<tr>
+<th>Alex:
+</th><td>Yeah! South Park is ours.
+</td></tr>
+<tr>
+<th>Mr. Mackey:
+</th><td>But, what do we do now? I mean, we can't just stand here and block their way forever.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>We can stand here as long as it takes. <i>[no one moves. The scene stays for a few seconds, then...]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Three Feathers Casino, night. Chief Runs with Premise looks over the casino floor from his office]</i>
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>What is the state of our people?
+</td></tr>
+<tr>
+<th>Elder 2:
+</th><td>Last night I spoke with the spirit of the bear, and Bear said that if we do not build our highway soon, our investors may soon sell off their shares of the new casino.
+</td></tr>
+<tr>
+<th>Elder 1:
+</th><td>Yes, and Eagle says the cumulative shared market loss on the revenue of the new casino drops fifteen percent every day.
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>Then we must force the South Park people off their petty land.
+</td></tr>
+<tr>
+<th>Elder 1:
+</th><td>But they are determined and proud. And the spirit of the wind has stated that if we use force, it could be a publicity nightmare, further hurting our net assets.
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>I already have a plan how we can force them off our land... sneakily. <i>[begins to move off]</i> We're going to give them... <i>[stops in front of a wall]</i> blankets. <i>[three of them are shown]</i>
+</td></tr>
+<tr>
+<th>Elder 1:
+</th><td>Blankets?
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>Yes. We will present the blankets as a peace offering. But what the round-eyes will not know is that the blankets are infected with SARS. <i>[his fellow tribespeople look at each other]</i> They will all get SARS! And then SARS will run through their town like a buffalo. Now I need your help getting the SARS onto the blankets. <i>[everyone puts on their little white face masks]</i> Okay, bring them in! <i>[the office doors open and several naked Chinese men are brought in]</i> Let's see how South Park deals with this! <i>[he picks up one of the men and rubs him on a blanket. The Chinese man looks at him bewildered]</i> Everyone grab a Chinese person and rub them on a blanket. <i>[other elders pick up the other Chinese them and carry them over to other blankets hanging on the wall]</i> Make sure you rub them all over. Get the SARS nice and deep in there. <i>[the Chinese men grumble at their treatment]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, next day. The deadline has arrived]</i>
+</td></tr>
+<tr>
+<th>Field Reporter:
+</th><td>Tom, I'm standing in chilly South Park, Colorado, where the residents are entering the third day of their sit-in to try and stop Native Americans from building a superhighway through their town. The temperature is low, but spirits are pretty low, too. <i>[a Three Casinos Humvee rolls into town and four elders, including Runs with Premise, exit the vehicle]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td><i>[looking on suspiciously, huddled with his family]</i> What do they want?
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>We're not moving, assfaces!
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td><i>[walks up to Mr. Garrison with a blanket]</i> Free blanket? <i>[presents it to him]</i> Though I know we have differences, we believe a compromise can be reached. In the meantime, it hurts us to see you all on television sitting in the cold. Will you not take this offering as a gesture of goodwill?
+</td></tr>
+<tr>
+<th>Mr. Garrison:
+</th><td>You had me at "free blanket." <i>[Runs with Premise nods and Garrison takes the blanket and opens it. Runs with Premise moves on to other townsfolk and the other elders join in, passing out blankets to the townsfolk.]</i>
+</td></tr>
+<tr>
+<th>Elders:
+</th><td>Free blanket? Free blanket? Free blanket...
+</td></tr>
+<tr>
+<th>Field Reporter:
+</th><td>Tom, it now looks as if the Native Americans are handing out blankets as a sign of goodwill towards the South Park people. What an incredible display of compassion. I certainly hope there's nothing sinister behind it.
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td><i>[walks up to Randy]</i> Please. As a token of good faith.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>You... understand if I'm a little wary of trusting you.
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>It is only a blanket, Mister Marsh.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Well, thanks. <i>[takes the blanket and opens it up. The Chief walks away]</i>
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>Oh. You're welcome.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, day, later. People are anywhere from asleep to sick.]</i>
+</td></tr>
+<tr>
+<th>Field Reporter:
+</th><td><i>[leaning to his left]</i> Tom, it's Tuesday morning now, and the outbreak of SARS in South Park has reached epic proportions. <i>[coughs twice and sniffs]</i> The entire town has been quarantined by the federal government, nobody allowed in our out, which means, nobody can come to our aid. <i>[sniffs twice]</i> It appears this town, and this reporter, are done for. Coming up next, choosing the right hair conditioner. What you don't know about hair care products could be costing you a bundle.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Randy has taken ill and now lies under a lean-to. Sharon sits on one side of the lean-to, Shelly on the other. Stan walks up to his dad with a can of beer in his hand. Randy coughs]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>It's all right, dad.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>How's your... mother?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[looks over]</i> She's hanging in there. <i>[looks at Randy again]</i> Here, drink some beer. <i>[Randy turns his head aside a bit so he can take a sip, then resets his head]</i>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>It's cool on my tongue.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>You're gonna be all right.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Stanley, listen to me. I have SARS. There's only a ninety-eight percent chance that I will live.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>No, Dad, NO.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Listen, Stan. SARS is destroying our people. The Native Americans put it in the blankets they gave us. <i>[coughs and sniffs]</i> Soon there will be only ninety-eight percent of us left. <i>[runs out of air, then turns aside and breathes in. His voice turns raspy]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>What can I do?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>You... must find a cure for SARS, son. And save our people.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Cure SARS? Aw, Jesus!
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>The spirit of middle-class white people is strong in you, son. Seek out the wise man in Bellocreek. Now go. GO! <i>[Stan steps away, then runs. Randy relaxes and lays down]</i>
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Bellocreek Trailer Park. Stan approaches it and enters. He walks up to a trailer and knocks on the door.]</i>
+</td></tr>
+<tr>
+<th>Wise Man:
+</th><td><i>[answers the door]</i> What?
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Hey, my name's Stan, and I was-
+</td></tr>
+<tr>
+<th>Wise Man:
+</th><td>Your coming was foretold to me. You've come to save our people. Come in. <i>[steps aside and Stan enters]</i> Watch the cats.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Uh so, do you know how to cure SARS?
+</td></tr>
+<tr>
+<th>Wise Man:
+</th><td>Me?? Huh, no. I am just a guide. Sit down. <i>[Stan sits down on a bucket seat from a car. Beer bottles litter the trailer floor. The walls are dingy. An open doorway reveals the man's bedroom, which shows a cross hanging on the opposite wall. A poster of a swimsuit model posing on a car hangs on the living room wall. The man sits on the couch]</i> You must find the answer yourself, by taking an inward journey. <i>[picks up a can of paint thinner and pours it into a brown paper bag]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>An inward journey? That sounds kind of gay.
+</td></tr>
+<tr>
+<th>Wise Man:
+</th><td>Let the voices of our ancestors show you the way. <i>[offers the bag to Stan]</i> Breathe. Breathe from the bag of visions. <i>[Stan takes the bag, looks at it, then takes a deep breath from it]</i>
+</td></tr>
+<tr>
+<th>Stan:
+</th><td><i>[disgusted]</i> Ah! Oh, dude!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Three Feathers Casino, night. Chief Runs with Premise holds a meeting in his second-story office.]</i>
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>How much longer must we wait for our superhighway??
+</td></tr>
+<tr>
+<th>Elder 1:
+</th><td>SARS has spread through the entire town of South Park, Chief Runs with Premise. Their wills will break soon.
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>Then I suppose we must be patient.
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>Runs with Premise, come quickly!
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>What is the matter, wife?
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>It is our son, Premise Running Thin. He is very sick.
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Premise Running Thin's bedroom. He's in bed, wearing a headband with a feather attached to it. His parents approach]</i>
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>Premise Running Thin, what is the matter?
+</td></tr>
+<tr>
+<th>Woman:
+</th><td>He, he shared a cup with one of the people from China. He has SARS!
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>No! I told you not to touch them!
+</td></tr>
+<tr>
+<th>Premise Running Thin:
+</th><td>Papa. Papa...
+</td></tr>
+<tr>
+<th>Medicine Man:
+</th><td><i>[wearing a wolf skin over his head and back]</i> I have given him herbs from the desert plant and water from the cactus of life. But nothing seems to be working.
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>This would never have happened if those townspeople would have just moved away! No more waiting around! Tomorrow we begin the final stage of our plan! Shock and Awe!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[South Park, next day. The townspeople are still sick. Stan runs up to Randy.]</i>
+<p>Stan: Dad! Dad!
+</p>
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Stanley. Did you have an inward journey with the old man? Did you have a vision??
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Ah, I don't know if I did or not. I, I saw something, someone spoke to me and... told me the middle-class white way to cure SARS. <i>[reaches into the bag and pulls out each item as he names it]</i> Campbell's Chicken Noodle Soup, Dayquil, and Sprite.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>Yes. Yes, of course. Quickly, Stan, we must give it to everyone! <i>[a few hours later, everyone is standing around enjoying the soup, soda, and medicine prescribed, and chatting]</i>
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>Boy, that really did the trick, Stan. I thought we were kind of, sort of, not really done for.
+</td></tr>
+<tr>
+<th>Alex:
+</th><td>Thanks to you, we're all safe now, Stan. <i>[In the distance the bulldozers return and a yell is heard. As the bulldozers draw near, Chief Runs with Premise is seen standing on the running board of the lead bulldozer]</i>
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>Now, I will blow your weak, SARS-infested bodies off the Earth! <i>[the townsfolk look at the coming vehicles and slowly close ranks]</i> What the? <i>[thinks quickly]</i> Wait a minute. <i>[to his men]</i> Stop! Stop! <i>[hops off the bulldozer and walks up to the people]</i> Your, your SARS. Where did it go?
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>We have cured ourselves using the medicines of our culture.
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>My son... Premise Running Thin has the SARS as well. <i>[makes a truce sign with his hands]</i> You... you can cure him?
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[Three Feathers Casino, upstairs. Premise Running Thin sits in bed sipping his soup. A can of Sprite and some Dayquil are on his tray. Around his bed are the Three Feathers tribe on one side, the South Park residents on the other]</i>
+</td></tr>
+<tr>
+<th>Elder 1:
+</th><td>It is amazing. All our plants and herbs failed to heal him, but your people's remedy brings the spirit of the buffalo back into his heart. Perhaps there are many things we can learn from your way of life.
+</td></tr>
+<tr>
+<th>Randy:
+</th><td>We're a simple people. All we want is to be allowed to live our lives.
+</td></tr>
+<tr>
+<th>Runs with Premise:
+</th><td>You have cured Premise Running Thin. In return, I shall give you all five dollars credit at the casino. <i>[his wife nudges him with her elbow a few times and he gets irritated]</i> All right, all right, I will not build a superhighway through your town. And you can all have your homes back.
+</td></tr>
+<tr>
+<th>Townsfolk:
+</th><td>All right! Yeah! <i>[townspeople jump and cheer. Sheila and Gerald hug each other.]</i> Woohoo!
+</td></tr>
+<tr>
+<th>Alex:
+</th><td>Well, I guess we all learned that South Park is more than just a town. It's a community that nobody can split up.
+</td></tr>
+<tr>
+<th>Stan:
+</th><td>Dude, who the hell are you?
+</td></tr>
+<tr>
+<th>Alex:
+</th><td>Alex. Alex Glick. I got to come on and do the guest voice thingy.
+</td></tr>
+<tr>
+<th>Kyle:
+</th><td>What?! Get the hell out of here!
+</td></tr>
+<tr>
+<th>Alex:
+</th><td>Hi Mom! Hi Dad! Hi Joe!
+</td></tr>
+<tr>
+<th>
+</th><td bgcolor="#709C22"><i>[End of <b>Red Man's Greed</b>.]</i>
+</td></tr></table>
+<p><br />
+<br style="clear: both;" />
+</p>
+<table style="margin: 0 auto; width: 100%;">
+<tr>
+<th colspan="3" style="text-align: center; background-color:#0C7C0C; font-size: 12pt; border-radius:10px 10px 0 0;">
+<table style="width: 100%; background: #0C7C0C; border: 0px; padding: 0px; spacing:0px;border-radius:10px 10px 0 0;">
+
+<tr>
+<td style="width: 10%;"> &#160;
+</td><td style="width: 80%;">  <span style="color:white">707: "<a href="/wiki/Red_Man%27s_Greed" title="Red Man's Greed"><span style="color:white">Red Man's Greed</span></a>"</span>
+</td><td style="width: 10%; text-align:right"> <span class="plainlinks" style="font-size:10px"> <a  class="text" href="http://southpark.wikia.com/index.php?title=template:707&amp;action=edit">edit</a></span>
+</td></tr></table>
+</th></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Story Elements</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Chief_Runs_With_Premise" title="Chief Runs With Premise">Chief Runs With Premise</a> • 
+<a href="/wiki/Premise_Running_Thin" title="Premise Running Thin">Premise Running Thin</a> • 
+<a href="/wiki/S.A.R.S." title="S.A.R.S.">S.A.R.S.</a> • 
+<a href="/wiki/Three_Feathers_Indian_Casino" title="Three Feathers Indian Casino">Three Feathers Indian Casino</a> • 
+<a href="/wiki/Alex_Glick" title="Alex Glick">Alex Glick</a> • 
+"<a href="/wiki/Love_Is_a_Battlefield" title="Love Is a Battlefield">Love Is a Battlefield</a>"
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Media</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/Red_Man%27s_Greed/Images" title="Red Man's Greed/Images">Images</a> • 
+<strong class="selflink">Script</strong> • 
+<a rel="nofollow" class="external text exitstitial" href="http://www.southparkstudios.com/full-episodes/s07e07-red-mans-greed">Watch Episode</a>
+</p>
+</td></tr>
+<tr style="font-size:13px;">
+<td style="width: auto; background-color:#0C7C0C; text-align: center;">  <b><span style="color:white">Release</span></b>   </td><td style="background-color:#E5E4E2; text-align: left;">
+<p><a href="/wiki/South_Park:_The_Complete_Seventh_Season" title="South Park: The Complete Seventh Season">South Park: The Complete Seventh Season</a>
+</p>
+</td></tr></table></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 106/300000
+Post‐expand include size: 4908/2097152 bytes
+Template argument size: 72/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key southpark:pcache:idhash:14218-0!*!0!!*!*!* -->
+<noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /></noscript><noscript><link rel="stylesheet" href="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/TOCimprovements/TOCNoScript.css" /></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://southpark.wikia.com/wiki/Red_Man%27s_Greed/Script?oldid=246637">http://southpark.wikia.com/wiki/Red_Man%27s_Greed/Script?oldid=246637</a>"</div>
+
+				</div>
+
+															<nav class="article-categories CategorySelect articlePage" id="articleCategories">
+	<div class="container">
+		<div class="special-categories"><a href="/wiki/Special:Categories" title="Special:Categories" class="categoriesLink" rel="nofollow">Categories</a>:</div>
+		<ul class="categories">
+				<li class="category normal" data-name="Scripts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts" title="Category:Scripts">Scripts</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+	<li class="category normal" data-name="Scripts from Season Seven" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+	<span class="name"><a href="/wiki/Category:Scripts_from_Season_Seven" title="Category:Scripts from Season Seven">Scripts from Season Seven</a></span>
+	<ul class="toolbar">
+		<li class="tool editCategory sprite-small edit" title=""></li>
+		<li class="tool removeCategory sprite-small delete" title=""></li>
+	</ul>
+</li>
+					</ul>
+	</div>
+	</nav>									
+				
+				
+									<div id="WikiaArticleFooter" class="WikiaArticleFooter">
+							<!-- BEGIN CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<div id="NATIVE_TABOOLA_ARTICLE">
+		<script>
+			window.adslots2.push(["NATIVE_TABOOLA_ARTICLE"]);
+		</script>
+	</div>
+	<!-- END CONTAINER: NATIVE_TABOOLA_ARTICLE -->
+	<form id='RTEFakeForm'></form><section id="WikiaArticleComments" class="WikiaArticleComments noprint" data-page="1">
+	</section><div id="RelatedPagesModuleWrapper"></div>					</div>
+				
+				
+
+
+
+
+<script>
+    if (typeof(Wikia.geo) !== 'undefined' && ['US'].indexOf(Wikia.geo.getCountryCode()) >= 0) {
+        document.write('<aside id="monetization-amazon_video-above_footer" class="monetization-module amazon-video hide-for-edit above-footer amazon-video-full" data-mon-type="amazon_video" data-mon-slot="above_footer"><div class="affiliate" data-mon-pid="B00NY4UD92" data-mon-ptag="southpark-script-835-14218-B00NY4UD92-piv-fl-npr-af-f" data-mon-pname="South Park"><div class="affiliate-header"><a class="product-thumb" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-14218-B00NY4UD92-piv-fl-npr-af-f"><img  src="http://ecx.images-amazon.com/images/I/51jO4iekzbL._SX320_SY240_.jpg"></a></div><a class="product-name" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-14218-B00NY4UD92-piv-fl-npr-af-f"><span class="product-title">South Park</span><span class="product-detail">Season 18</span><span class="rating-bar"><span class="rating" style="width: 90.0%"></span></span></a><div class="product-button non-prime"><a class="amazon-logo" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-14218-B00NY4UD92-piv-fl-npr-af-f"></a><a class="product-btn" target="_blank" href="http://www.amazon.com/gp/product/B00NY4UD92/ref=atv_feed_catalog?tag=wikia-monsvc-af-pvn-20&ascsubtag=southpark-script-835-14218-B00NY4UD92-piv-fl-npr-af-f"></a></div></div></aside>');
+    } else 
+
+
+
+
+
+if (window.fromsearch && typeof(Wikia.geo) !== 'undefined' && ['GB','JP','UK','US'].indexOf(Wikia.geo.getCountryCode()) < 0) {
+    document.write('<div id="monetization-adunit-above_footer" class="monetization-module adunit hide-for-edit above-footer" data-mon-type="adunit" data-mon-slot="above_footer"><div class="ad-header">Advertisement</div><div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'+'ipt><ins class="adsbygoogle ad-responsive" style="display:inline-block;" data-ad-client="ca-pub-4086838842346968" data-ad-channel="mon_pl_af_fss_fft mon_hub_tv mon_sl_af" data-ad-type="text" data-font-size="small"data-font-face="times" data-color-bg="#f4f4f4" data-color-border="#f4f4f4" data-color-link="#2222cc" data-color-url="#2222cc" data-color-text="#3a3a3a" ></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt></div></div>');
+}
+</script>				<div id="WikiaArticleBottomAd" class="noprint">
+					<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div id="PREFOOTER_LEFT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_LEFT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+										<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div id="PREFOOTER_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			wgAfterContentAndJS.push(function () {
+			window.adslots2.push(["PREFOOTER_RIGHT_BOXAD"]);
+		});
+	</script>
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+				</div>
+			</div>
+		</article><!-- WikiaMainContent -->
+
+						<div id="WikiaRail" class="WikiaRail">
+
+		<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div id="TOP_RIGHT_BOXAD" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TOP_RIGHT_BOXAD"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+					<div class="loading"></div>
+		
+	</div>
+		
+		
+		<footer id="WikiaFooter" class="WikiaFooter notoolbar">
+	
+			<section>
+	<div class="header-container">
+		<h2>Around Wikia's network</h2>
+		<a id="WikiaRandomWiki" href="http://community.wikia.com/wiki/Special:RandomWiki/835" class="wikia-button">Random Wiki</a>
+	</div>
+	<script type='text/javascript'>
+		wgAfterContentAndJS.push(function() {
+			window.OpenXSPC = {};
+			window.OpenXSPC[ 'fillElem_SPOTLIGHT_FOOTER' ] = function() {
+				var output = window.OA_output || [];
+				( 14 in output ) && $( '#SPOTLIGHT_FOOTER_1' ).html( output[ 14 ] );
+				( 15 in output ) && $( '#SPOTLIGHT_FOOTER_2' ).html( output[ 15 ] );
+				( 16 in output ) && $( '#SPOTLIGHT_FOOTER_3' ).html( output[ 16 ] );
+			};
+		});
+	</script>
+	<ul id="SPOTLIGHT_FOOTER" class="LazyLoadAd SPOTLIGHT_FOOTER">
+		<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+		<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+		<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+	</ul>
+</section>
+	</footer>
+				<footer class="global-footer">
+	<nav>
+		<div class="branding vertical-tv black">
+			<a class="wikia-logo" href="http://tvhub.wikia.com/wiki/TV_Hub">
+				<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+									<span>TV</span>
+							</a>
+		</div>
+		<ul>
+							<li>
+											<a href="http://www.wikia.com/About"><span>About</span></a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com/wiki/Help:Contents">Help</a>
+									</li>
+							<li>
+											<a href="http://community.wikia.com"><span>Community Central</span></a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Careers">Careers</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Advertising">Advertise</a>
+									</li>
+							<li>
+											<a href="http://api.wikia.com/"><span>API</span></a>
+									</li>
+							<li>
+											<a href="/wiki/Special:Contact">Contact Wikia</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+									</li>
+							<li>
+											<a href="http://www.wikia.com/Sitemap">Global Sitemap</a>
+									</li>
+							<li>
+					Content is available under <a rel="nofollow" class="external" href="http://wikia.com/Licensing">CC-BY-SA</a>.				</li>
+					</ul>
+	</nav>
+</footer>
+	</div>
+</section><!--WikiaPage-->
+
+	<div id="WikiaBar">
+		<div id="WikiaBarWrapper" class="WikiaBarWrapper hidden">
+				<div class="wikia-bar wikia-bar-anon">
+			<a href="#" class="arrow" data-tooltip="Collapse" data-tooltipshow="Show"></a>
+			<div class="ad">
+		<div id="WIKIA_BAR_BOXAD_1" class="noprint" style="width: 300px; position: relative;"></div>
+</div>
+<div
+	class="message"
+	data-messagetooltip="Click here for more information!"
+	data-wikiabarcontent="[{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;},{&quot;text&quot;:&quot;Watch the Six Best Walking Dead Moments from Season 6&quot;,&quot;href&quot;:&quot;http:\/\/ow.ly\/Y1C0P&quot;}]"
+></div>
+	<a class="wikiabar-button" href="http://www.wikia.com/Entertainment" data-index="0">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Entertainment</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Video_Games" data-index="1">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Video Games</span>
+	</a>
+	<a class="wikiabar-button" href="http://www.wikia.com/Lifestyle" data-index="2">
+		<img src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png" class="icon cup" />
+		<span>Lifestyle</span>
+	</a>
+		</div>
+			</div>
+	<div class="WikiaBarCollapseWrapper">
+		<a href="#" class="wikia-bar-collapse" data-tooltip="Collapse"></a>
+	</div>
+</div>
+
+	<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div id="GPT_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["GPT_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: TURTLE_FLUSH -->
+<div id="TURTLE_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["TURTLE_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: TURTLE_FLUSH -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div id="SEVENONEMEDIA_FLUSH" class="wikia-ad noprint default-height">
+	<script>
+			window.adslots2.push(["SEVENONEMEDIA_FLUSH"]);
+	</script>
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+	<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1455024144/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+
+	<!-- Combined JS files and head scripts -->
+	
+<!-- Liftium options -->
+<script>LiftiumOptions = {"pubid":999,"baseUrl":"\/__varnish_liftium\/","kv_wgDBname":"southpark","kv_article_id":14218,"kv_wpage":"Red_Man%27s_Greed\/Script","kv_Hub":"Entertainment","kv_skin":"oasis","kv_user_lang":"en","kv_cont_lang":"en","kv_isMainPage":false,"kv_page_type":"article","geoUrl":"http:\/\/geoiplookup.wikia.com\/","kv_dart":"sex=m;age=under18;age=13-17;age=18-24;age=25-34;age=18-34;gnre=comedy;gnre=cartoon;media=movie;media=tv;tv=cc;tv=onhulu;tv=hulu","kv_domain":"southpark.wikia.com","hasMoreCalls":true,"isCalledAfterOnload":true,"maxLoadDelay":6000};
+</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26newve%3D1%26only%3Dscripts%26skin%3Doasis/startup"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgPageName":"Red_Man\'s_Greed/Script","wgTitle":"Red Man\'s Greed/Script","wgCurRevisionId":246637,"wgArticleId":14218,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Scripts","Scripts from Season Seven"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Red_Man\'s_Greed/Script","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgTimeAgoi18n":{"year":"a year ago","years":"%d years ago","month":"a month ago","months":"%d months ago","day":"a day ago","days":"%d days ago","hour":"an hour ago","hours":"%d hours ago","minute":"a minute ago","minutes":"%d minutes ago","seconds":"a minute ago","year-from-now":"\x26lt;timeago-year-from-now\x26gt;","years-from-now":"\x26lt;timeago-year-from-now\x26gt;","month-from-now":"a month from now","months-from-now":"%d months from now","day-from-now":"a day from now","days-from-now":"%d days from now","hour-from-now":"an hour from now","hours-from-now":"%d hours from now","minute-from-now":"a minute from now","minutes-from-now":"%d minutes from now","second-from-now":"a minute from now","seconds-from-now":"a minute from now"},"sassParams":{"background-dynamic":"1","background-image":"http://img4.wikia.nocookie.net/__cb47/southpark/images/5/50/Wiki-background","background-image-height":"720","background-image-width":"1980","color-body":"#eeefee","color-body-middle":"#eeefee","color-buttons":"#0c7c0c","color-header":"#0c7c0c","color-links":"#2222cc","color-page":"#f4f4f4","oasisTypography":1,"page-opacity":"100","widthType":0},"wgAssetsManagerQuery":"/__am/%4$d/%1$s/%3$s/%2$s","wgEnableOutboundScreenExt":true,"wgCatId":"3","wgBlankImgUrl":"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D","wgMainpage":"South Park Archives","wgIsContentNamespace":true,"wgExtensionsPath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common/extensions","wgResourceBasePath":"http://slot1.images.wikia.nocookie.net/__cb1455024144/common","wgSitename":"South Park Archives","wgMWrevId":false,"wgRevisionId":246637,"wgDisableAnonymousEditing":true,"wgCookieDomain":".wikia.com","wgCookiePath":"/","wgEnableNewAuthModal":null,"wgEnableWikiaPhotoGalleryExt":true,"wgOasisGrid":true,"wgEnableMediaGalleryExt":false,"wgWikiaMaxNameChars":50,"wgMinimalPasswordLength":1,"wgEnableLightboxExt":true,"wgShowAdModalInterstitialTimes":3,"wgEnableWebPThumbnails":true,"fbAppId":"112328095453510","fbScript":null,"fbLogo":false,"fbLogoutURL":"/wiki/Special:UserLogout?returnto=Red_Man%27s_Greed/Script","fbReturnToTitle":"Red_Man\'s_Greed/Script","fbScriptLangCode":"en_US","wgEnableFacebookClientExt":true,"wgEnableWikiaFollowedPages":true,"wgFollowedPagesPagerLimit":15,"wgFollowedPagesPagerLimitAjax":600,"wgWikiaChatUsers":"","wgWikiaChatWindowFeatures":"width=600,height=600,menubar=no,status=no,location=no,toolbar=no,scrollbars=no,resizable=yes","wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["en","de","es","fr"],"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"5":true,"7":true,"8":true,"9":true,"11":true,"13":true,"15":true,"0":true,"4":true,"6":true,"10":true,"12":true,"14":true,"110":true,"111":true,"1200":true,"500":true,"501":true,"502":true,"503":true,"700":true,"701":true,"828":true,"829":true}},"wgMaxUploadSize":10485760,"wgEnableVisualEditorUI":false,"wgEnableWikiaInteractiveMaps":false,"VignettePathPrefix":null,"reCaptchaPublicKey":"6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_","wgQualarooUrl":"//s3.amazonaws.com/ki.js/52510/bgJ.js","wgVisualEditorPreferred":true,"wgWeppyConfig":{"host":"//speed.wikia.net/__rum","sample":0.1,"aggregationInterval":1000},"wgOasisResponsive":false,"wgOasisBreakpoints":true,"verticalName":"Entertainment","wgArticleInterlangList":[],"WikiaEnableNewCreatepage":true,"ContentNamespacesText":[""],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgContentReviewExtEnabled":true,"wgContentReviewTestModeEnabled":false,"wgReviewedScriptsTimestamp":"1450194494","wgScriptsTimestamp":"1450194493","wgWikiaPageActions":[{"id":"page:History","caption":"History","href":"/wiki/Red_Man%27s_Greed/Script?action=history","category":"Current page"},{"id":"page:Whatlinkshere","caption":"What links here","href":"/wiki/Special:WhatLinksHere/Red_Man%27s_Greed/Script","category":"Current page"},{"id":"special:BrokenRedirects","caption":"Broken redirects","href":"http://southpark.wikia.com/wiki/Special:BrokenRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Deadendpages","caption":"Dead-end pages","href":"http://southpark.wikia.com/wiki/Special:DeadendPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:DoubleRedirects","caption":"Double redirects","href":"http://southpark.wikia.com/wiki/Special:DoubleRedirects","category":"Special pages \x3e Maintenance reports"},{"id":"special:Longpages","caption":"Long pages","href":"http://southpark.wikia.com/wiki/Special:LongPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Ancientpages","caption":"Oldest pages","href":"http://southpark.wikia.com/wiki/Special:AncientPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Lonelypages","caption":"Orphaned pages","href":"http://southpark.wikia.com/wiki/Special:LonelyPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Fewestrevisions","caption":"Pages with the fewest revisions","href":"http://southpark.wikia.com/wiki/Special:FewestRevisions","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutinterwiki","caption":"Pages without language links","href":"http://southpark.wikia.com/wiki/Special:WithoutInterwiki","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedpages","caption":"Protected pages","href":"http://southpark.wikia.com/wiki/Special:ProtectedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Protectedtitles","caption":"Protected titles","href":"http://southpark.wikia.com/wiki/Special:ProtectedTitles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Shortpages","caption":"Short pages","href":"http://southpark.wikia.com/wiki/Special:ShortPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedcategories","caption":"Uncategorized categories","href":"http://southpark.wikia.com/wiki/Special:UncategorizedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedimages","caption":"Uncategorized photos","href":"http://southpark.wikia.com/wiki/Special:UncategorizedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedpages","caption":"Uncategorized pages","href":"http://southpark.wikia.com/wiki/Special:UncategorizedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Uncategorizedtemplates","caption":"Uncategorized templates","href":"http://southpark.wikia.com/wiki/Special:UncategorizedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedcategories","caption":"Unused categories","href":"http://southpark.wikia.com/wiki/Special:UnusedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedimages","caption":"Unused photos","href":"http://southpark.wikia.com/wiki/Special:UnusedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Unusedtemplates","caption":"Unused templates","href":"http://southpark.wikia.com/wiki/Special:UnusedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedcategories","caption":"Wanted categories","href":"http://southpark.wikia.com/wiki/Special:WantedCategories","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedfiles","caption":"Wanted photos","href":"http://southpark.wikia.com/wiki/Special:WantedFiles","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedpages","caption":"Wanted pages","href":"http://southpark.wikia.com/wiki/Special:WantedPages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Wantedtemplates","caption":"Wanted templates","href":"http://southpark.wikia.com/wiki/Special:WantedTemplates","category":"Special pages \x3e Maintenance reports"},{"id":"special:UnusedVideos","caption":"Unused videos","href":"http://southpark.wikia.com/wiki/Special:UnusedVideos","category":"Special pages \x3e Maintenance reports"},{"id":"special:TagsReport","caption":"Tags report","href":"http://southpark.wikia.com/wiki/Special:TagsReport","category":"Special pages \x3e Maintenance reports"},{"id":"special:Withoutimages","caption":"Pages without images","href":"http://southpark.wikia.com/wiki/Special:Withoutimages","category":"Special pages \x3e Maintenance reports"},{"id":"special:Allpages","caption":"All pages","href":"http://southpark.wikia.com/wiki/Special:AllPages","category":"Special pages \x3e Lists of pages"},{"id":"special:Prefixindex","caption":"All pages with prefix","href":"http://southpark.wikia.com/wiki/Special:PrefixIndex","category":"Special pages \x3e Lists of pages"},{"id":"special:Categories","caption":"Categories list","href":"http://southpark.wikia.com/wiki/Special:Categories","category":"Special pages \x3e Lists of pages"},{"id":"special:Disambiguations","caption":"Pages linking to disambiguation pages","href":"http://southpark.wikia.com/wiki/Special:Disambiguations","category":"Special pages \x3e Lists of pages"},{"id":"special:Listredirects","caption":"Redirects list","href":"http://southpark.wikia.com/wiki/Special:ListRedirects","category":"Special pages \x3e Lists of pages"},{"id":"special:CategoryTree","caption":"Category tree","href":"http://southpark.wikia.com/wiki/Special:CategoryTree","category":"Special pages \x3e Lists of pages"},{"id":"special:BlockList","caption":"Blocked users","href":"http://southpark.wikia.com/wiki/Special:BlockList","category":"Special pages \x3e Users and rights"},{"id":"special:Preferences","caption":"Preferences","href":"http://southpark.wikia.com/wiki/Special:Preferences","category":"Special pages \x3e Users and rights"},{"id":"special:Contributions","caption":"Contributions","href":"http://southpark.wikia.com/wiki/Special:Contributions","category":"Special pages \x3e Users and rights"},{"id":"special:Listgrouprights","caption":"User group rights","href":"http://southpark.wikia.com/wiki/Special:ListGroupRights","category":"Special pages \x3e Users and rights"},{"id":"special:Listusers","caption":"Users list","href":"http://southpark.wikia.com/wiki/Special:ListUsers","category":"Special pages \x3e Users and rights"},{"id":"special:ChangeEmail","caption":"Change e-mail address","href":"http://southpark.wikia.com/wiki/Special:ChangeEmail","category":"Special pages \x3e Users and rights"},{"id":"special:Editcount","caption":"Edit count","href":"http://southpark.wikia.com/wiki/Special:Editcount","category":"Special pages \x3e Users and rights"},{"id":"special:Log","caption":"Logs","href":"http://southpark.wikia.com/wiki/Special:Log","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Watchlist","caption":"Watchlist","href":"http://southpark.wikia.com/wiki/Special:Watchlist","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Newpages","caption":"New pages","href":"http://southpark.wikia.com/wiki/Special:NewPages","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchanges","caption":"Recent Changes","href":"http://southpark.wikia.com/wiki/Special:RecentChanges","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Recentchangeslinked","caption":"Related changes","href":"http://southpark.wikia.com/wiki/Special:RecentChangesLinked","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Tags","caption":"Valid change tags","href":"http://southpark.wikia.com/wiki/Special:Tags","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Following","caption":"Followed pages","href":"http://southpark.wikia.com/wiki/Special:Following","category":"Special pages \x3e Recent changes and logs"},{"id":"special:Listfiles","caption":"File list","href":"http://southpark.wikia.com/wiki/Special:ListFiles","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Filepath","caption":"File path","href":"http://southpark.wikia.com/wiki/Special:FilePath","category":"Special pages \x3e Media reports and uploads"},{"id":"special:MIMEsearch","caption":"MIME search","href":"http://southpark.wikia.com/wiki/Special:MIMESearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:FileDuplicateSearch","caption":"Duplicate photos search","href":"http://southpark.wikia.com/wiki/Special:FileDuplicateSearch","category":"Special pages \x3e Media reports and uploads"},{"id":"special:Statistics","caption":"Statistics","href":"http://southpark.wikia.com/wiki/Special:Statistics","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Allmessages","caption":"System messages","href":"http://southpark.wikia.com/wiki/Special:AllMessages","category":"Special pages \x3e Wiki data and tools"},{"id":"special:Version","caption":"Version","href":"http://southpark.wikia.com/wiki/Special:Version","category":"Special pages \x3e Wiki data and tools"},{"id":"special:LinkSearch","caption":"External links search","href":"http://southpark.wikia.com/wiki/Special:LinkSearch","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randompage","caption":"Random page","href":"http://southpark.wikia.com/wiki/Special:Random","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Randomredirect","caption":"Random redirect","href":"http://southpark.wikia.com/wiki/Special:RandomRedirect","category":"Special pages \x3e Redirecting special pages"},{"id":"special:Mostlinkedcategories","caption":"Most linked-to categories","href":"http://southpark.wikia.com/wiki/Special:MostLinkedCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostimages","caption":"Most linked-to photos","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFiles","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinked","caption":"Most linked-to pages","href":"http://southpark.wikia.com/wiki/Special:MostLinkedPages","category":"Special pages \x3e High use pages"},{"id":"special:Mostlinkedtemplates","caption":"Most linked-to templates","href":"http://southpark.wikia.com/wiki/Special:MostLinkedTemplates","category":"Special pages \x3e High use pages"},{"id":"special:Mostcategories","caption":"Pages with the most categories","href":"http://southpark.wikia.com/wiki/Special:MostCategories","category":"Special pages \x3e High use pages"},{"id":"special:Mostrevisions","caption":"Pages with the most revisions","href":"http://southpark.wikia.com/wiki/Special:MostRevisions","category":"Special pages \x3e High use pages"},{"id":"special:Mostpopularcategories","caption":"Most popular categories","href":"http://southpark.wikia.com/wiki/Special:Mostpopularcategories","category":"Special pages \x3e High use pages"},{"id":"special:ComparePages","caption":"Compare pages","href":"http://southpark.wikia.com/wiki/Special:ComparePages","category":"Special pages \x3e Page tools"},{"id":"special:Export","caption":"Export pages","href":"http://southpark.wikia.com/wiki/Special:Export","category":"Special pages \x3e Page tools"},{"id":"special:Whatlinkshere","caption":"What links here","href":"http://southpark.wikia.com/wiki/Special:WhatLinksHere","category":"Special pages \x3e Page tools"},{"id":"special:CreatePage","caption":"Create a new page","href":"http://southpark.wikia.com/wiki/Special:CreatePage","category":"Special pages \x3e Page tools"},{"id":"special:Booksources","caption":"Book sources","href":"http://southpark.wikia.com/wiki/Special:BookSources","category":"Special pages \x3e Other special pages"},{"id":"special:MostimagesInContent","caption":"Most linked-to files in content namespaces","href":"http://southpark.wikia.com/wiki/Special:MostLinkedFilesInContent","category":"Special pages \x3e Other special pages"},{"id":"special:RandomInCategory","caption":"Random page in category","href":"http://southpark.wikia.com/wiki/Special:RandomInCategory","category":"Special pages \x3e Other special pages"},{"id":"special:Leaderboard","caption":"Achievements Leaderboard","href":"http://southpark.wikia.com/wiki/Special:Leaderboard","category":"Special pages \x3e Other special pages"},{"id":"special:ApiExplorer","caption":"API Explorer","href":"http://southpark.wikia.com/wiki/Special:ApiExplorer","category":"Special pages \x3e Other special pages"},{"id":"special:Promote","caption":"Promote","href":"http://southpark.wikia.com/wiki/Special:Promote","category":"Special pages \x3e Other special pages"},{"id":"special:Templates","caption":"Templates on wikia","href":"http://southpark.wikia.com/wiki/Special:Templates","category":"Special pages \x3e Other special pages"},{"id":"special:Contact","caption":"Contact Wikia","href":"http://southpark.wikia.com/wiki/Special:Contact","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogListingPage","caption":"Create blog listing","href":"http://southpark.wikia.com/wiki/Special:CreateBlogListingPage","category":"Special pages \x3e Wikia pages"},{"id":"special:CreateBlogPage","caption":"Create blog","href":"http://southpark.wikia.com/wiki/Special:CreateBlogPage","category":"Special pages \x3e Wikia pages"},{"id":"special:PartnerFeed","caption":"Partner feed","href":"http://southpark.wikia.com/wiki/Special:PartnerFeed","category":"Special pages \x3e Wikia pages"},{"id":"special:CloseMyAccount","caption":"Close My Account","href":"http://southpark.wikia.com/wiki/Special:CloseMyAccount","category":"Special pages \x3e Wikia pages"},{"id":"special:Insights","caption":"Insights","href":"http://southpark.wikia.com/wiki/Special:Insights","category":"Special pages \x3e Wikia pages"}],"wgWikiaShortcutKeys":{"page:History":["g h"],"special:Recentchanges":["g r"]},"wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category","defaultSeparator":":","defaultSortKey":"Red Man\'s Greed/Script"},"wgArticleCommentsLoadOnDemand":true,"wgEnableMiniEditorExt":true,"wgMiniEditorLoadOnDemand":true,"wgEnableMiniEditorLinkSuggest":true,"wgMiniEditorAssets":["/extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":1,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":1,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":1,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"oasis","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":1,"watchcreations":1,"watchdefault":1,"watchdeletion":1,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"htmlemails":1,"watchlistdigest":1,"editor":2,"enotifwallthread":2,"wallshowsource":false,"walldelete":false,"founderemails-joins-835":0,"founderemails-edits-835":0,"founderemails-views-digest-835":0,"founderemails-complete-digest-835":0,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"useeditwarning":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":true,"searchNs15":false,"searchNs110":false,"searchNs111":false,"searchNs500":false,"searchNs501"
+:false,"searchNs502":false,"searchNs503":false,"searchNs700":false,"searchNs701":false,"searchNs828":false,"searchNs829":false,"searchNs1200":false,"searchNs1201":false,"searchNs1202":false,"searchNs2000":false,"searchNs2001":false,"searchNs2002":false,"userlandingpage":1});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: southpark:resourceloader:filter:minify-js:7:d8b4d2f2a3e28a6e8689d28dc724f878 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","amd.shared","ext.visualEditor.wikia.viewPageTarget.init","mediawiki.user","mediawiki.page.ready","ext.bannerNotifications","ext.cookiePolicyMessages","ext.userLogin"]);
+}</script><script src="http://slot1.images.wikia.nocookie.net/__am/1455024144/groups/-/oasis_shared_core_js,oasis_shared_js,oasis_anon_js,adengine2_oasis_exitstitial_js,adengine2_desktop_js,liftium_ads_js,liftium_ads_extra_js,adengine2_gcs_js,adengine2_oasis_in_content_ads_js,adengine2_taboola_js,adengine2_interactive_maps_js,recirculation_js,toc_js,qualaroo_js,spotlights_js,relatedpages_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/videos_module_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/auth_modal_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/cookie_policy_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/wikia_in_your_lang_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/insights_globalshortcuts_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/portable_infobox_js"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/visit_source_js"></script>
+<script src="http://slot1.images4.wikia.nocookie.net/__am/1455024144/group/-/globalshortcuts_js"></script>
+<script src="/wikia.php?controller=JSMessages&amp;method=getMessages&amp;format=html&amp;packages=ConfirmModal%2CEditPageLayout%2CImagePlaceholder%2COasis-generic%2CVideosModule&amp;uselang=en&amp;cb=1455024144.0.81516"></script>
+<script src="http://slot1.images3.wikia.nocookie.net/__am/1455024144/group/-/monetization_module_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_navigation_js"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/page_share_js"></script>
+<script src="http://slot1.images1.wikia.nocookie.net/__am/1455024144/group/-/global_footer_js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/ Wikia.LazyQueue.makeQueue(wgAfterContentAndJS, function(fn) {fn();}); wgAfterContentAndJS.start(); /*]]>*/</script>
+<script type="text/javascript">/*<![CDATA[*/ if (typeof AdEngine_trackPageInteractive === 'function') {wgAfterContentAndJS.push(AdEngine_trackPageInteractive);} /*]]>*/</script>
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26skin%3Doasis/ext.siteWideMessages.anon"></script>
+
+<script src="http://southpark.wikia.com/__load/-/cb%3D1455024144%26debug%3Dfalse%26lang%3Den%26only%3Dscripts%26reviewed%3D1450194494%26skin%3Doasis/site"></script>
+<script src="http://slot1.images2.wikia.nocookie.net/__am/1455024144/group/-/facebook_client_fbtags_js"></script><script>var wgSassLoadedScss = ["skins\/oasis\/css\/oasis.scss","extensions\/wikia\/Forum\/css\/ForumTag.scss","extensions\/wikia\/AuthModal\/css\/AuthModal.scss","extensions\/wikia\/Recirculation\/styles\/recirculation.scss","extensions\/wikia\/PortableInfobox\/styles\/PortableInfobox.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsHelp.scss","extensions\/wikia\/GlobalShortcuts\/styles\/GlobalShortcutsSearch.scss","extensions\/wikia\/SpecialPromote\/css\/SpecialPromote.scss","extensions\/wikia\/MonetizationModule\/styles\/MonetizationModule.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationSearch.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationAccountNavigation.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationUserLoginDropdown.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationNotifications.scss","extensions\/wikia\/GlobalNavigation\/styles\/GlobalNavigationInverse.scss","extensions\/wikia\/GlobalNavigation\/styles\/GoogleSearchAPI.scss","skins\/shared\/styles\/transparent-out.scss","extensions\/wikia\/PageShare\/styles\/PageShare.scss","extensions\/wikia\/GlobalFooter\/styles\/GlobalFooter.scss","extensions\/wikia\/Qualaroo\/css\/Qualaroo.scss"];</script>
+<!-- Nielsen is disabled --></body>
+
+
+
+</html>
